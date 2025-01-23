@@ -21683,7 +21683,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "44359840-3e79-496b-a3b6-b3b8a55e778a",
         "title": "Software Engineer I - Cloud",
-        "active": false,
+        "active": true,
         "date_updated": 1730996349,
         "date_posted": 1730996349,
         "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=6381682",
@@ -23388,7 +23388,7 @@
         "company_name": "Meta",
         "id": "e0631fe8-09cf-4c09-8af9-01e0cfc6acab",
         "title": "Software Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1734042617,
         "date_posted": 1734042617,
         "url": "https://www.metacareers.com/jobs/1053055982811649",
@@ -24211,7 +24211,7 @@
         "company_name": "Medtronic",
         "id": "da5d3eee-cc33-438e-a6a8-bb113eeb17af",
         "title": "Software Engineer I - Neuro Science",
-        "active": true,
+        "active": false,
         "date_updated": 1737505734,
         "date_posted": 1737505734,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro-Science_R17073-1",
@@ -24235,6 +24235,38 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Acorns",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "83bc8321-7068-4e94-beb9-dba482000637",
+        "title": "Entry Level Software Engineer C/C++",
+        "active": true,
+        "date_updated": 1737591087,
+        "date_posted": 1737591087,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-C-C--_R0133510",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Remitly",
+        "id": "89fc004b-384b-438e-be7e-0f164f04f71e",
+        "title": "Software Development Engineer I - Global Network",
+        "active": true,
+        "date_updated": 1737591851,
+        "date_posted": 1737591851,
+        "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Global-Network_R_103328",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Remitly",
         "is_visible": true,
         "sponsorship": "Other"
     }
