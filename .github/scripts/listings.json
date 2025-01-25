@@ -23968,7 +23968,7 @@
         "company_name": "FOX",
         "id": "799dae0b-7ddd-4ae6-822c-d6cc6017fe37",
         "title": "Software Engineer I - Android",
-        "active": true,
+        "active": false,
         "date_updated": 1736827748,
         "date_posted": 1736827748,
         "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Blue-Ash-Ohio-USA/Software-Engineer-I--Android_R50027446",
@@ -24259,7 +24259,7 @@
         "company_name": "Remitly",
         "id": "89fc004b-384b-438e-be7e-0f164f04f71e",
         "title": "Software Development Engineer I - Global Network",
-        "active": true,
+        "active": false,
         "date_updated": 1737591851,
         "date_posted": 1737591851,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I--Global-Network_R_103328",
@@ -24291,7 +24291,7 @@
         "company_name": "Chewy",
         "id": "91c2e64d-9f98-4d27-8d76-ee22bdb1049e",
         "title": "Software Engineer I - Front End",
-        "active": true,
+        "active": false,
         "date_updated": 1737736973,
         "date_posted": 1737736973,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6437590",
@@ -24307,7 +24307,7 @@
         "company_name": "Chewy",
         "id": "4b51d647-0d31-4528-9568-a5ac78b6e06d",
         "title": "Software Engineer I - Front End",
-        "active": true,
+        "active": false,
         "date_updated": 1737736973,
         "date_posted": 1737736973,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6437667",
@@ -24323,7 +24323,7 @@
         "company_name": "Chewy",
         "id": "5e790424-dafa-45d6-a6a3-310cc0d38200",
         "title": "Software Engineer I - Front End",
-        "active": true,
+        "active": false,
         "date_updated": 1737736972,
         "date_posted": 1737736972,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6437637",
@@ -24331,6 +24331,55 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Expedia Group",
+        "id": "c17fa888-ec6a-43ee-ac94-927674f28b6d",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1737751503,
+        "date_posted": 1737751503,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/Software-Development-Engineer-I_R-93355-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "0147cd02-0888-4802-8dfa-aec8b56edc6f",
+        "title": "Software Engineer - Backend/Fullstack - Early in Career",
+        "active": true,
+        "date_updated": 1737751822,
+        "date_posted": 1737678296,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ozijvfwp?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mintel",
+        "id": "538c586d-0214-4c66-9202-29dacb76e7ec",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1737764081,
+        "date_posted": 1737764081,
+        "url": "https://www.mintel.com/job/6568674?gh_jid=6568674",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa",
         "is_visible": true,
         "sponsorship": "Other"
     }
