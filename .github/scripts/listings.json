@@ -16731,7 +16731,7 @@
         "company_name": "Grand Rounds",
         "id": "146ea259-126b-4e18-8753-a6d924f56f81",
         "title": "Software Engineer I - Orchestration Platform - Canada",
-        "active": true,
+        "active": false,
         "date_updated": 1721157673,
         "date_posted": 1721085152,
         "url": "https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply",
@@ -20793,7 +20793,7 @@
         "company_name": "DoorDash",
         "id": "5edec334-b85d-4c7f-98ed-2b4a890c45cc",
         "title": "Software Engineer I \u2013 Entry Level - Fall 2024-Summer 2025 - Toronto",
-        "active": false,
+        "active": true,
         "date_updated": 1729811488,
         "date_posted": 1729811488,
         "url": "https://boards.greenhouse.io/doordashcanada/jobs/6346397",
@@ -21683,7 +21683,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "44359840-3e79-496b-a3b6-b3b8a55e778a",
         "title": "Software Engineer I - Cloud",
-        "active": true,
+        "active": false,
         "date_updated": 1730996349,
         "date_posted": 1730996349,
         "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=6381682",
@@ -24398,5 +24398,21 @@
         "date_posted": 1737772194,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Apple",
+        "id": "62cac211-c4ac-488a-89ad-33c8cfe01ba4",
+        "title": "Software Engineer \u2013 Early Career - Enterprise Technology Services",
+        "active": true,
+        "date_updated": 1738024389,
+        "date_posted": 1738024389,
+        "url": "https://jobs.apple.com/en-us/details/200553403",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
