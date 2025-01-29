@@ -21007,7 +21007,7 @@
         "company_name": "Cambridge Mobile Telematics",
         "id": "49e870f6-eabc-4125-988c-da15e32fa82f",
         "title": "Software Engineer I - Android SDK",
-        "active": true,
+        "active": false,
         "date_updated": 1730258401,
         "date_posted": 1730258401,
         "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=5845723",
@@ -22504,7 +22504,7 @@
         "company_name": "Collaborative Robotics",
         "id": "17e5ea12-1a3a-407e-afe3-2431eedc6f20",
         "title": "Software Engineer \u2013 University Grad - Robotics",
-        "active": true,
+        "active": false,
         "date_updated": 1732076011,
         "date_posted": 1732076011,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585557007",
@@ -24146,7 +24146,7 @@
         "company_name": "Expedia Group",
         "id": "d57ae861-251c-4145-80c4-ad6886a52c9c",
         "title": "Mobile Engineer I - Android",
-        "active": true,
+        "active": false,
         "date_updated": 1737146924,
         "date_posted": 1737146924,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineer-I---Android_R-92695-1",
@@ -24179,7 +24179,7 @@
         "company_name": "Nike",
         "id": "c2bfbe80-00e6-4e57-a19e-cbb2f9e8b489",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1737160074,
         "date_posted": 1737160074,
         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I_R-45889",
@@ -24404,7 +24404,7 @@
         "company_name": "Apple",
         "id": "62cac211-c4ac-488a-89ad-33c8cfe01ba4",
         "title": "Software Engineer \u2013 Early Career - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1738024389,
         "date_posted": 1738024389,
         "url": "https://jobs.apple.com/en-us/details/200553403",
@@ -24412,6 +24412,38 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Global Payments",
+        "id": "c791530b-7967-4776-8cb4-d3509ae91a5f",
+        "title": "Software Engineer I or above",
+        "active": false,
+        "date_updated": 1738096018,
+        "date_posted": 1738096018,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Software-Engineer-II-or-Above_R0056383-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sensor Tower",
+        "id": "556aae38-8d7a-4c1f-9fed-a69d25cadf1d",
+        "title": "Back End Developer \u2013 Entry Level - Ruby",
+        "active": true,
+        "date_updated": 1738110692,
+        "date_posted": 1738110692,
+        "url": "https://jobs.lever.co/sensortower/1df46781-8f3a-4772-b686-a0d85932617d/apply",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sensor-Tower",
         "is_visible": true,
         "sponsorship": "Other"
     }
