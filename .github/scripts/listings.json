@@ -13669,7 +13669,7 @@
         "company_name": "NewsBreak",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1716340171,
         "date_posted": 1716193274,
         "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
@@ -20550,7 +20550,7 @@
         "company_name": "WeRide",
         "id": "89936ca8-3004-4613-9cbc-677a399096c9",
         "title": "New Grads 2025 - Software Engineer - Computer Vision/Deep Learning",
-        "active": false,
+        "active": true,
         "date_updated": 1729107845,
         "date_posted": 1729107845,
         "url": "https://jobs.lever.co/weride/871b07f9-b4e4-4a4e-a5ec-d6adf794fc5a/apply",
@@ -21955,7 +21955,7 @@
         "company_name": "Coalition",
         "id": "d612de15-3f08-4a18-a775-6ed244c4e51d",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1731435157,
         "date_posted": 1731435157,
         "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4494330005",
@@ -21971,7 +21971,7 @@
         "company_name": "Coalition",
         "id": "7e6d0171-0c5f-4c6e-90a1-51a6a22f2477",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1731435155,
         "date_posted": 1731435155,
         "url": "https://careers.coalitioninc.com/job-posting/?gh_jid=4494718005",
@@ -24000,7 +24000,7 @@
         "company_name": "Splunk",
         "id": "f1138aa2-833a-42e0-b5d3-6fb0ac863414",
         "title": "Software Engineer - Frontend - Early in Career",
-        "active": true,
+        "active": false,
         "date_updated": 1736900379,
         "date_posted": 1736900379,
         "url": "https://jobs.jobvite.com/splunk-careers/job/oXFfvfw6?nl=1&nl=1&fr=false",
@@ -24460,6 +24460,38 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Nexxen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "18572f99-19c2-4a9f-89e6-a69da24207af",
+        "title": "New College Grad - Software Development Engineering - Apps",
+        "active": true,
+        "date_updated": 1738282110,
+        "date_posted": 1738282110,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000039705922",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "d0a81d3e-1e7c-4166-91ce-88b6215aaecf",
+        "title": "AWS Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1738282919,
+        "date_posted": 1738282919,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/AWS-Software-Engineer---Entry-Level_R0106661",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
     }
