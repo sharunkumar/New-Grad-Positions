@@ -24546,5 +24546,85 @@
         "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Baxter International",
+        "id": "0852ddfb-6762-4195-877f-130d8535b913",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1738358031,
+        "date_posted": 1738358031,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Software-Engineer-I_JR-160855-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Baxter International",
+        "id": "3a87ed3d-5f22-433b-bc79-156a19e18448",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1738358032,
+        "date_posted": 1738358032,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Software-Engineer-I_JR-160854-2",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Baxter-International",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Echostar",
+        "id": "52e57407-0ec5-49a9-be77-fedea20a2c03",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1738356805,
+        "date_posted": 1738356805,
+        "url": "https://echostar.wd5.myworkdayjobs.com/echostar/job/CA-San-Diego/Entry-Level-Software-Engineer_R0004668",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Echostar",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "5b57e209-59d3-43e4-a95d-e1426e70d506",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1738368881,
+        "date_posted": 1738368881,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Bloomington-IN/Part-Time-Electrical-Engineer_JR1889",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "436c53d5-47c9-41e2-b061-9073f65f01a0",
+        "title": "Guidewire Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1738369154,
+        "date_posted": 1738369154,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Guidewire-Software-Engineer----Entry-Level_R0106662",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
