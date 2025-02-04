@@ -20975,7 +20975,7 @@
         "company_name": "ClearEdge",
         "id": "cd7acb67-1126-4c0f-8c06-7e96c236dc89",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1730215494,
         "date_posted": 1730215494,
         "url": "https://jobs.lever.co/clearedge/bf3aaaa5-0534-4f0c-93e5-7e071e257522/apply",
@@ -22518,7 +22518,7 @@
         "company_name": "Collaborative Robotics",
         "id": "3ebd406d-f301-4f9e-ba78-0b08cdd6ad54",
         "title": "Software Engineer \u2013 University Grad - Test",
-        "active": true,
+        "active": false,
         "date_updated": 1732075995,
         "date_posted": 1732075995,
         "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4585344007",
@@ -24436,7 +24436,7 @@
         "company_name": "Sensor Tower",
         "id": "556aae38-8d7a-4c1f-9fed-a69d25cadf1d",
         "title": "Back End Developer \u2013 Entry Level - Ruby",
-        "active": true,
+        "active": false,
         "date_updated": 1738110692,
         "date_posted": 1738110692,
         "url": "https://jobs.lever.co/sensortower/1df46781-8f3a-4772-b686-a0d85932617d/apply",
@@ -24624,6 +24624,23 @@
             "Plano, TX"
         ],
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "be1c9ec4-9c34-4dd1-a824-68d97c512961",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1738616371,
+        "date_posted": 1738616371,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fairmont-WV/Junior-Software-Developer_R-00152665",
+        "locations": [
+            "Fairmont, WV",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
