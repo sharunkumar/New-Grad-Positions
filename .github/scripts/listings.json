@@ -20274,7 +20274,7 @@
         "company_name": "Nuro",
         "id": "153be694-5eb6-4293-9218-0872ae77490a",
         "title": "Software Engineer \u2013 New Grad - Autonomy",
-        "active": false,
+        "active": true,
         "date_updated": 1728601751,
         "date_posted": 1728601751,
         "url": "https://nuro.ai/careersitem?gh_jid=6299078",
@@ -23075,7 +23075,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -23454,7 +23454,7 @@
         "company_name": "Expedia Group",
         "id": "6b7ea88e-ec3f-4ee6-b174-ca450671fc35",
         "title": "Software Development Engineer I - Marketplace Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1734668392,
         "date_posted": 1734668392,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineer-I---Marketplace-Technology_R-93087-1",
@@ -24500,7 +24500,7 @@
         "company_name": "Harris Computer",
         "id": "e298cd67-20a0-4638-9178-faf68ee35202",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1738340519,
         "date_posted": 1738340519,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Tennessee-United-States/Software-Engineer-I_R0028571-6",
@@ -24698,7 +24698,7 @@
         "company_name": "Scale AI",
         "id": "88cfdb71-aa4f-4441-8bc9-bac55c01a820",
         "title": "Software Engineer \u2013 New Grad - Security Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1738702523,
         "date_posted": 1738702523,
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4523725005",
@@ -24727,6 +24727,55 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Capital One",
+        "id": "da121c5e-38f4-4583-9aa8-3430d81e0490",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1738789946,
+        "date_posted": 1738789946,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R207372",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Softheon",
+        "id": "98c1864a-d986-4b5d-9a37-1276713092ab",
+        "title": "Software Engineer I - Membership",
+        "active": true,
+        "date_updated": 1738801080,
+        "date_posted": 1738801080,
+        "url": "https://apply.workable.com/softheon/j/7C007B52A6/apply",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Softheon",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sigma Computing",
+        "id": "d71158fd-1236-4451-ac4c-079e3d7f28b9",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1738800962,
+        "date_posted": 1738800962,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
     }
