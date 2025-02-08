@@ -24568,7 +24568,7 @@
         "company_name": "Baxter International",
         "id": "3a87ed3d-5f22-433b-bc79-156a19e18448",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1738358032,
         "date_posted": 1738358032,
         "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Raleigh-North-Carolina/Software-Engineer-I_JR-160854-2",
@@ -24714,7 +24714,7 @@
         "company_name": "Synchrony Financial",
         "id": "14d26259-d81a-4c14-aca4-8118f9181f67",
         "title": "Android Engineer I - Digital Servicing",
-        "active": true,
+        "active": false,
         "date_updated": 1738702541,
         "date_posted": 1738702541,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2500429",
@@ -24776,6 +24776,55 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Northrop Grumman",
+        "id": "7d65e23b-7acd-49d9-b035-7485dae2ea82",
+        "title": "Cyber Software Engineer \u2013 Early career",
+        "active": true,
+        "date_updated": 1738961711,
+        "date_posted": 1738961711,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Cyber-Software-Engineer--early-career-_R10185614",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/238c95d8-0d6e-4717-b28c-078b16d675d7",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Airtable",
+        "id": "966492e3-d987-40f9-ad4d-74634c20cb66",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1738961376,
+        "date_posted": 1738961376,
+        "url": "https://job-boards.greenhouse.io/airtable/jobs/7812761002",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Airtable",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "15a80b5f-07c1-43e6-a58f-13b94f7f74d8",
+        "title": "University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1738973403,
+        "date_posted": 1738973403,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-University-Graduate---Software-Engineer_R153489",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other"
     }
