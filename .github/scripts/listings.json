@@ -24714,7 +24714,7 @@
         "company_name": "Synchrony Financial",
         "id": "14d26259-d81a-4c14-aca4-8118f9181f67",
         "title": "Android Engineer I - Digital Servicing",
-        "active": false,
+        "active": true,
         "date_updated": 1738702541,
         "date_posted": 1738702541,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2500429",
@@ -24817,7 +24817,7 @@
         "company_name": "Adobe",
         "id": "15a80b5f-07c1-43e6-a58f-13b94f7f74d8",
         "title": "University Graduate - Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1738973403,
         "date_posted": 1738973403,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2025-University-Graduate---Software-Engineer_R153489",
@@ -24873,6 +24873,22 @@
             "Bentonville, AR"
         ],
         "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "ab98155b-32e8-4be8-9740-e3728c2b98b1",
+        "title": "Software Engineer / Data Scientist New College Grad-Bachelor's",
+        "active": true,
+        "date_updated": 1739306826,
+        "date_posted": 1739306826,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer---Data-Scientist-New-College-Grad--Bachelor-s--Gloucester--MA-_R2511212",
+        "locations": [
+            "Essex County, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
     }
