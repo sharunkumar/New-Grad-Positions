@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25139,7 +25139,7 @@
         "company_name": "The Trade Desk",
         "id": "50ec14ed-3ef8-4a27-af0e-3a8791befc1c",
         "title": "Software Engineer I - 2025 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1739923942,
         "date_posted": 1739923942,
         "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/4655435007",
@@ -25211,6 +25211,22 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Secoda",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "cd1e2acf-03bb-4fd7-b4fe-b5041860a5cb",
+        "title": "Software Engineer Entry Level",
+        "active": true,
+        "date_updated": 1740430781,
+        "date_posted": 1740430781,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level_R0107289",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
     }
