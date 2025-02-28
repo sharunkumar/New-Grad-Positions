@@ -24146,7 +24146,7 @@
         "company_name": "Expedia Group",
         "id": "d57ae861-251c-4145-80c4-ad6886a52c9c",
         "title": "Mobile Engineer I - Android",
-        "active": true,
+        "active": false,
         "date_updated": 1737146924,
         "date_posted": 1737146924,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Mobile-Engineer-I---Android_R-92695-1",
@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25251,7 +25251,7 @@
         "company_name": "Teledyne",
         "id": "12bdc17d-bacd-4355-a17e-5c08ae7a38bf",
         "title": "Junior Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1740515051,
         "date_posted": 1740515051,
         "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Durham-NC-TDY/Junior-Research-Engineer_REQ28389-1",
@@ -25371,6 +25371,54 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "eBay",
+        "id": "e7be3663-17a6-4893-88c2-343079ea6812",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1740703242,
+        "date_posted": 1740703242,
+        "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/New-York-City/Software-Engineer-1_R0066254",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Bay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "78e04359-a5f1-411c-a1b4-0d8d8d53208b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1740702898,
+        "date_posted": 1740702898,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202559167",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "b83c8e76-1e74-4dee-a98a-551d1e3bf2da",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1740703710,
+        "date_posted": 1740703710,
+        "url": "https://careers-americansystems.icims.com/jobs/2296/job",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
         "is_visible": true,
         "sponsorship": "Other"
     }
