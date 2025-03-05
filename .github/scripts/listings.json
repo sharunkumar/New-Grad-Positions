@@ -25347,7 +25347,7 @@
         "company_name": "Adobe",
         "id": "e6e76bc9-f0d3-4345-9a47-9133dc723ee6",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1740616284,
         "date_posted": 1740616284,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Software-Development-Engineer-1_R154031",
@@ -25513,6 +25513,86 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "e6aafbb4-b094-4486-bfbb-8ca683084c4e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741121045,
+        "date_posted": 1741121045,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---17330_R202559675",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "50608479-06e7-4bca-b6fc-5714eaca5a3e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741120622,
+        "date_posted": 1741120622,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026099",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "a110b0e2-7980-4b85-b7df-0c7da7f581e3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741121549,
+        "date_posted": 1741121549,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I---Onsite-_01747844",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AppLovin",
+        "id": "fd71fcd7-bd28-49aa-b892-51e01e20f4f7",
+        "title": "Software Engineer I - Backend",
+        "active": true,
+        "date_updated": 1741133237,
+        "date_posted": 1741133237,
+        "url": "https://boards.greenhouse.io/applovin/jobs/4451556006",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AppLovin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Creditgenie",
+        "id": "d7005c45-1475-4b7c-9454-a840125eb066",
+        "title": "New Grad \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1741134743,
+        "date_posted": 1741134743,
+        "url": "https://jobs.ashbyhq.com/creditgenie/016056e0-61cd-4a19-9d42-5f3cd88fed02/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/c3b8469f-97ee-485e-a48a-0bb2eaa55657",
         "is_visible": true,
         "sponsorship": "Other"
     }
