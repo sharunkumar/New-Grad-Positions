@@ -25235,7 +25235,7 @@
         "company_name": "Cox",
         "id": "a8f5b8eb-be6c-487f-9b83-84a4fb9fe28a",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1740500466,
         "date_posted": 1740500466,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558865",
@@ -25683,7 +25683,7 @@
         "company_name": "Latitude Inc",
         "id": "44dc2f91-63ac-44b6-ad05-b2227ad5d38d",
         "title": "Entry Level Software Developer/Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1741306814,
         "date_posted": 1741306814,
         "url": "https://jobs.lever.co/latitudeinc/cff13310-5952-4608-8066-eaa1e394fee6/apply",
@@ -25723,6 +25723,22 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Vapi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "6f343dc0-7888-4d35-a250-f72e39058105",
+        "title": "Junior Engineer - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1741364763,
+        "date_posted": 1741364763,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Junior-Engineer--Software-Development---Engineering_R407396",
+        "locations": [
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
