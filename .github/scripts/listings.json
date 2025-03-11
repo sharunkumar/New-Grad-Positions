@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25830,7 +25830,7 @@
         "company_name": "Aurora Innovation",
         "id": "27735beb-5ab1-4065-a41f-01d0c514b61c",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741634833,
         "date_posted": 1741634833,
         "url": "https://aurora.tech/jobs/7781378002?gh_jid=7781378002",
@@ -25920,6 +25920,22 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Whoop",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "6841ccde-82fa-45ee-83dd-7139b4e01265",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1741706552,
+        "date_posted": 1741706552,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Data-Engineer-I_R-243234-1",
+        "locations": [
+            "O'Fallon, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
         "is_visible": true,
         "sponsorship": "Other"
     }
