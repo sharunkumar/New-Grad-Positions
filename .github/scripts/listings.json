@@ -4788,7 +4788,7 @@
             "Chicago, IL, USA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "1b0eb1c1-2d61-4e8a-bef5-58ad7e362554",
         "date_posted": 1720558816,
@@ -25896,7 +25896,7 @@
         "company_name": "Cox",
         "id": "f905a2a5-5e35-42d8-bd8a-290b5659e316",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741648416,
         "date_posted": 1741648416,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202558565",
@@ -25936,6 +25936,54 @@
             "O'Fallon, MO"
         ],
         "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Onto Innovation",
+        "id": "2520d7b3-f9a0-48af-bafc-172eea94afa5",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1741734957,
+        "date_posted": 1741734957,
+        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Milpitas-CA/Software-Engineer-1_R-4447",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Onto-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Coalition",
+        "id": "9ea74609-457f-4c34-b3fd-dd541284ae1a",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1741736106,
+        "date_posted": 1741736106,
+        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4538767005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mintel",
+        "id": "157600ae-2405-41d5-b5c1-24db537c938f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1741735806,
+        "date_posted": 1741735806,
+        "url": "https://www.mintel.com/job/6697491?gh_jid=6697491",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/d12e128c-67fc-4f21-b1de-d239e884bafa",
         "is_visible": true,
         "sponsorship": "Other"
     }
