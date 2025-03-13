@@ -23325,7 +23325,7 @@
         "company_name": "Twitch",
         "id": "1198ad12-aa89-4c98-a540-1c061c867d9b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1734048968,
         "date_posted": 1734048968,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/7766033002",
@@ -25299,7 +25299,7 @@
         "company_name": "Wood Mackenzie",
         "id": "07475729-6892-4070-8a63-a553fcfa9a6c",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1740528598,
         "date_posted": 1740528598,
         "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1",
@@ -25976,7 +25976,7 @@
         "company_name": "Mintel",
         "id": "157600ae-2405-41d5-b5c1-24db537c938f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741735806,
         "date_posted": 1741735806,
         "url": "https://www.mintel.com/job/6697491?gh_jid=6697491",
@@ -26208,6 +26208,54 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/RippleMatch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Vanta",
+        "id": "7789d0e6-f80b-4702-a488-c0baabebb726",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1741821470,
+        "date_posted": 1741821470,
+        "url": "https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Scale AI",
+        "id": "a3d4b82c-cab5-453a-8309-27159f8ed204",
+        "title": "Software Engineer Public Sector \u2013 New Grad",
+        "active": true,
+        "date_updated": 1741821810,
+        "date_posted": 1741821810,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4537496005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "07ffc73d-aed6-4d82-9fc5-371e2650d332",
+        "title": "Fedramp Machine Learning Engineer - Early in Career",
+        "active": true,
+        "date_updated": 1741822135,
+        "date_posted": 1741822135,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/o6QAvfwL?nl=1&nl=1&fr=false",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
