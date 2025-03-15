@@ -23404,7 +23404,7 @@
         "company_name": "Dagster Labs",
         "id": "61711834-68a4-480f-afb6-8cc7c2acb5a9",
         "title": "Software Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1734382339,
         "date_posted": 1734382339,
         "url": "https://boards.greenhouse.io/dagsterlabs/jobs/6300588003",
@@ -24195,7 +24195,7 @@
         "company_name": "Gelber Group",
         "id": "cd379ab1-a784-4c69-9239-0512a5456022",
         "title": "Junior Software Engineer-Technical Operations Team",
-        "active": false,
+        "active": true,
         "date_updated": 1737159982,
         "date_posted": 1737159982,
         "url": "https://job-boards.greenhouse.io/gelbergroup/jobs/4436091006",
@@ -24211,7 +24211,7 @@
         "company_name": "Medtronic",
         "id": "da5d3eee-cc33-438e-a6a8-bb113eeb17af",
         "title": "Software Engineer I - Neuro Science",
-        "active": false,
+        "active": true,
         "date_updated": 1737505734,
         "date_posted": 1737505734,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro-Science_R17073-1",
@@ -24536,7 +24536,7 @@
         "company_name": "esri",
         "id": "ea0ab535-0b9f-4f18-93de-9f557b48b01d",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1738341365,
         "date_posted": 1738341365,
         "url": "https://www.esri.com/careers/4639229007?gh_jid=4639229007",
@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -25505,7 +25505,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "6044f53c-5272-4a36-9bcc-82dc326f75fd",
         "title": "Software Engineer I - Test",
-        "active": false,
+        "active": true,
         "date_updated": 1741061765,
         "date_posted": 1741061765,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900",
@@ -25667,7 +25667,7 @@
         "company_name": "Jerry",
         "id": "bdf8543c-a6e6-4f17-a2ea-55f292ced767",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741235122,
         "date_posted": 1741235122,
         "url": "https://jobs.ashbyhq.com/Jerry/1b1559f1-24fb-4f38-a509-cf03198656a2/application",
@@ -26384,6 +26384,86 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/d1f5dbd0-ca93-42bc-a680-4b4613524aae",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "d06e6ab5-48c8-4cf1-80bf-802a3acd6a7e",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1741978662,
+        "date_posted": 1741978662,
+        "url": "https://www.esri.com/careers/4678530007?gh_jid=4678530007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "5e8b008f-631b-470f-98a6-38a5705dc38b",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1741978664,
+        "date_posted": 1741978664,
+        "url": "https://www.esri.com/careers/4678529007?gh_jid=4678529007",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "c701232e-bf47-45bc-a196-931b1c1ce666",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1741995263,
+        "date_posted": 1741995263,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155575",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "4be0cb1d-b3a2-4b85-ac1c-53a0a0081b53",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1741995256,
+        "date_posted": 1741995256,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155576",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bcdb9db3-0bd0-4cc9-9eae-e45b6f4d24d0",
+        "title": "Software Engineer Junior",
+        "active": true,
+        "date_updated": 1741995254,
+        "date_posted": 1741995254,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00155572",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other"
     }
