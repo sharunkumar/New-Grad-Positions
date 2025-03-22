@@ -18389,7 +18389,7 @@
         "company_name": "Salesforce",
         "id": "47e3621f-6df0-4275-9601-99435d3759f6",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1725581502,
         "date_posted": 1725581502,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--New-Grad-_JR264567-1",
@@ -26689,6 +26689,71 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Mastercard",
+        "id": "f052183d-4f31-4032-8ed3-315c1ececc8a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742583351,
+        "date_posted": 1742583351,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Seattle-Washington/Software-Engineer-I_R-225610",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "55d4f4ae-99c0-4c87-8692-a0e0c6bfc302",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1742583719,
+        "date_posted": 1742583719,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1_R408602",
+        "locations": [
+            "Chicago, IL",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Booz Allen",
+        "id": "d094593d-fe82-460d-9875-a4080cc87b7c",
+        "title": "Software Developer - Junior",
+        "active": true,
+        "date_updated": 1742583596,
+        "date_posted": 1742583596,
+        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
+        "locations": [
+            "Charleston, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Applied Materials",
+        "id": "496e562c-3b43-43b3-843c-03dd86551e9a",
+        "title": "Data Scientist I New College Grad-Bachelor's",
+        "active": true,
+        "date_updated": 1742599175,
+        "date_posted": 1742599175,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-I-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2512539-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
         "is_visible": true,
         "sponsorship": "Other"
     }
