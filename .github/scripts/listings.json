@@ -23325,7 +23325,7 @@
         "company_name": "Twitch",
         "id": "1198ad12-aa89-4c98-a540-1c061c867d9b",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1734048968,
         "date_posted": 1734048968,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/7766033002",
@@ -24275,7 +24275,7 @@
         "company_name": "Leidos",
         "id": "d069a687-64cf-4c11-8073-aa916d09ea1d",
         "title": "Software Engineer Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1737678287,
         "date_posted": 1737678287,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Alexandria-VA/Software-Engineer-Junior_R-00151947",
@@ -26648,7 +26648,7 @@
         "company_name": "Leidos",
         "id": "744a8930-319e-4804-8ab3-6e9899483fb7",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1742497715,
         "date_posted": 1742497715,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Engineer_R-00155941",
@@ -26754,6 +26754,38 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
+        "title": "C++ Software Development Engineer I - Arcgis Enterprise",
+        "active": true,
+        "date_updated": 1742873875,
+        "date_posted": 1742873875,
+        "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "1964ed2b-0fd1-48f2-80c5-ba133e98625a",
+        "title": "Software Engineer I - Neuro",
+        "active": true,
+        "date_updated": 1742822480,
+        "date_posted": 1742822480,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R24313-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
