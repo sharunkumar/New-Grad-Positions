@@ -19885,7 +19885,7 @@
         "company_name": "Splunk",
         "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
         "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
-        "active": true,
+        "active": false,
         "date_updated": 1727824595,
         "date_posted": 1727824595,
         "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
@@ -25537,7 +25537,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "50608479-06e7-4bca-b6fc-5714eaca5a3e",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741120622,
         "date_posted": 1741120622,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026099",
@@ -25618,7 +25618,7 @@
         "company_name": "Iridium Communications",
         "id": "fbb247bf-1178-4e69-88ad-c83830c55f6d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741162497,
         "date_posted": 1741162497,
         "url": "https://careers-iridium.icims.com/jobs/4346/job",
@@ -26472,7 +26472,7 @@
         "company_name": "Jerry",
         "id": "a711364b-832c-4ada-af6d-b5dfc5682786",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1742009017,
         "date_posted": 1742009017,
         "url": "https://jobs.ashbyhq.com/Jerry/4e64a103-5ac4-4456-923e-a877e47ffdda/application",
@@ -26600,7 +26600,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "3689f8fd-fda7-4633-9550-ebbe9a908711",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1742254360,
         "date_posted": 1742254360,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0027045",
@@ -26762,7 +26762,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -26834,6 +26834,72 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "37354d24-4f7a-4a1e-9937-70a59c0a8752",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1742935966,
+        "date_posted": 1742935966,
+        "url": "https://jobs.ashbyhq.com/Jerry/b3ae5f20-9e99-48fb-bce9-2436b0ebe88e/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Western Digital",
+        "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
+        "title": "New College Grad - Software Development Engineering - Apps",
+        "active": true,
+        "date_updated": 1742936758,
+        "date_posted": 1742936758,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "870d7692-fbd8-4f17-828c-fb5b7618988d",
+        "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad - Enterprise Technology",
+        "active": true,
+        "date_updated": 1742947703,
+        "date_posted": 1742947703,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Enterprise-Technology---Early-Career-2025-University-Grad_R50585",
+        "locations": [
+            "Seattle, WA",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Splunk",
+        "id": "48b6fe61-fbcb-4e57-9576-4bf7c8b19a0a",
+        "title": "Fedramp Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1742934647,
+        "date_posted": 1742934647,
+        "url": "https://jobs.jobvite.com/splunk-careers/job/ozXHvfws?nl=1&nl=1&fr=false",
+        "locations": [
+            "Colorado",
+            "North Carolina"
+        ],
+        "company_url": "https://simplify.jobs/c/Splunk",
         "is_visible": true,
         "sponsorship": "Other"
     }
