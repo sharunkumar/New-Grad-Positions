@@ -26730,7 +26730,7 @@
         "company_name": "Booz Allen",
         "id": "d094593d-fe82-460d-9875-a4080cc87b7c",
         "title": "Software Developer - Junior",
-        "active": false,
+        "active": true,
         "date_updated": 1742583596,
         "date_posted": 1742583596,
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
@@ -26858,7 +26858,7 @@
         "company_name": "Western Digital",
         "id": "375e5b72-c155-4bce-9f71-2a92341e6773",
         "title": "New College Grad - Software Development Engineering - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1742936758,
         "date_posted": 1742936758,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000049871275",
@@ -26940,7 +26940,7 @@
         "company_name": "Western Digital",
         "id": "49f13974-486b-4e60-a8a3-03754947e5d9",
         "title": "New College Grad - Software Development Engineering - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1743104055,
         "date_posted": 1743104055,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000050379715",
@@ -26980,6 +26980,60 @@
             "Cedar Rapids, IA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "252e1c9c-a58b-4385-b400-0a7b19f51f63",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743186940,
+        "date_posted": 1743186940,
+        "url": "https://jobs.ashbyhq.com/Jerry/222b1802-9206-49cd-ae8f-fe8341683a5c/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wood Mackenzie",
+        "id": "93df262b-25e1-4990-bd08-6ef8ad48ae1f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743194672,
+        "date_posted": 1743194672,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1405",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Blue Origin",
+        "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
+        "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
+        "active": true,
+        "date_updated": 1743193831,
+        "date_posted": 1743193831,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+        "locations": [
+            "Seattle, WA",
+            "LA",
+            "Merritt Island, FL",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
         "sponsorship": "Other"
     }
