@@ -27058,7 +27058,7 @@
         "company_name": "Remitly",
         "id": "832ca7f0-45a2-4707-9ac2-4c0674aaedb1",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743357030,
         "date_posted": 1743357030,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_103823",
@@ -27082,6 +27082,72 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "6c108d64-9864-41f2-afb3-44c267d421f6",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1743498942,
+        "date_posted": 1743498942,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136996",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "22456e2c-0055-4522-9d35-8617b82b8b9e",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1743498949,
+        "date_posted": 1743498949,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136995",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "USAA",
+        "id": "8dd652f6-e9a0-4f33-ad7f-93c4497bff18",
+        "title": "Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1743499929,
+        "date_posted": 1743499929,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0108350",
+        "locations": [
+            "Plano, TX",
+            "San Antonio, TX",
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nexxen",
+        "id": "8f8cedaf-6a38-40c0-9550-913cd33d1aae",
+        "title": "Software Engineer I - SSP Backend",
+        "active": true,
+        "date_updated": 1743503207,
+        "date_posted": 1741649438,
+        "url": "https://job-boards.greenhouse.io/nexxen/jobs/7732428002",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexxen",
         "is_visible": true,
         "sponsorship": "Other"
     }
