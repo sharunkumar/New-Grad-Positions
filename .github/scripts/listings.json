@@ -24767,7 +24767,7 @@
         "company_name": "Sigma Computing",
         "id": "d71158fd-1236-4451-ac4c-079e3d7f28b9",
         "title": "Software Engineer \u2013 New Grad Program",
-        "active": true,
+        "active": false,
         "date_updated": 1738800962,
         "date_posted": 1738800962,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003",
@@ -26216,7 +26216,7 @@
         "company_name": "Vanta",
         "id": "7789d0e6-f80b-4702-a488-c0baabebb726",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1741821470,
         "date_posted": 1741821470,
         "url": "https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application",
@@ -26664,7 +26664,7 @@
         "company_name": "Comcast",
         "id": "9a1b82cf-42e5-4971-82eb-559f3a082296",
         "title": "Data Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1742513719,
         "date_posted": 1742513719,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Data-Engineer-1_R408599",
@@ -27122,7 +27122,7 @@
         "company_name": "USAA",
         "id": "8dd652f6-e9a0-4f33-ad7f-93c4497bff18",
         "title": "Software Engineer - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1743499929,
         "date_posted": 1743499929,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer---Early-Careers_R0108350",
@@ -27226,6 +27226,38 @@
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer---Entry-Level--Austin--TX-_R202560991",
         "locations": [
             "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Amentum",
+        "id": "96bf9737-b6bc-408e-879d-646f1c8faee5",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1743578094,
+        "date_posted": 1743578094,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0136999",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "ee65e3f2-cead-4b97-81a5-73b23d4dc6ee",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1743575177,
+        "date_posted": 1743575177,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-B/Software-Engineer---Entry-Level_R202560990",
+        "locations": [
+            "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
