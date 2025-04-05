@@ -26216,7 +26216,7 @@
         "company_name": "Vanta",
         "id": "7789d0e6-f80b-4702-a488-c0baabebb726",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1741821470,
         "date_posted": 1741821470,
         "url": "https://jobs.ashbyhq.com/vanta/e48bccb9-069c-4921-a5db-1385050e878b/application",
@@ -27389,6 +27389,86 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Sev1Tech",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "a0f6d030-3ca4-45fc-ae9d-6d0ab718cd72",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1743837820,
+        "date_posted": 1743837820,
+        "url": "https://www.esri.com/careers/4698791007?gh_jid=4698791007",
+        "locations": [
+            "Vienna, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Esri",
+        "id": "61b6c559-eb51-4632-89cc-b1e323f5a5e3",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1743839478,
+        "date_posted": 1743839478,
+        "url": "https://www.esri.com/careers/4697391007?gh_jid=4697391007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "08ebccf7-0b7e-4a0f-898a-02b37e2d45eb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743833009,
+        "date_posted": 1743833009,
+        "url": "https://jobs.ashbyhq.com/Jerry/f9dc3c74-047b-4881-aaf3-8b9fc06d54e6/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Gentex Corporation",
+        "id": "b02870c4-fad0-4313-81eb-6d9ec211f95b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1743848002,
+        "date_posted": 1743848002,
+        "url": "https://gentex.wd5.myworkdayjobs.com/talentacquisitionprivatepostings/job/Zeeland-MI/Software-Engineer-I--PLS-_REQ024877",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "89b24a3e-dede-4049-b55c-871e16099060",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1743849242,
+        "date_posted": 1743849242,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Software-Engineer-I--Onsite-_01728504",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
