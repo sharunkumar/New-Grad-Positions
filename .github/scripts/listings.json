@@ -25912,7 +25912,7 @@
         "company_name": "Whoop",
         "id": "5de1c3ac-3ffe-4fc2-bf0c-a547b5b4d15f",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1741655648,
         "date_posted": 1740529975,
         "url": "https://jobs.lever.co/whoop/f6a52874-4099-4768-b5bb-66b211c12140/apply",
@@ -27560,6 +27560,22 @@
             "Cincinnati, OH"
         ],
         "company_url": "https://simplify.jobs/c/Synchrony-Financial",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "3fea31a7-6a54-44b4-b800-f9ed0a3052dd",
+        "title": "2025 Fulltime - Raytheon RADAR Software Development Engineer I",
+        "active": true,
+        "date_updated": 1744132072,
+        "date_posted": 1744132072,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/NH201-50-Bush-Hill-Road-Pelham-50-Bush-Hill-Road-Pelham-Test-Facility-NH-Pelham-NH-03076-USA/XMLNAME-2025-Fulltime---Raytheon-RADAR-Software-Development-Engineer-I--Onsite-_01760890",
+        "locations": [
+            "Salem, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
