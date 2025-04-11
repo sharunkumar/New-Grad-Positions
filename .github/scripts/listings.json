@@ -23075,7 +23075,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -27765,6 +27765,22 @@
             "West Redlands, Redlands, CA"
         ],
         "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sony Interactive Entertainment",
+        "id": "e50cce0a-7085-4a37-89dc-0ed7cfc54a68",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744381546,
+        "date_posted": 1744381546,
+        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5496919004",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
         "is_visible": true,
         "sponsorship": "Other"
     }
