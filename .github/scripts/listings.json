@@ -23075,7 +23075,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -27664,7 +27664,7 @@
         "company_name": "Synchrony Financial",
         "id": "5784ef1c-fd89-4e19-a047-34812e227c8b",
         "title": "Android Engineer I - Digital Servicing",
-        "active": true,
+        "active": false,
         "date_updated": 1744243014,
         "date_posted": 1744243014,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501251-1",
@@ -27806,7 +27806,7 @@
         "company_name": "Jerry",
         "id": "22176359-6ef2-49cd-ac67-af6067f61ca9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744439093,
         "date_posted": 1744439093,
         "url": "https://jobs.ashbyhq.com/Jerry/c89f3ece-413b-4006-a73e-b04bbd4a54b0/application",
@@ -27863,6 +27863,38 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Higher Logic",
+        "id": "c20df765-03a0-44a7-9fa7-fb321467b655",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1744644738,
+        "date_posted": 1744644738,
+        "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6519591003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Higher-Logic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "1ee4aeeb-a41b-434d-8bce-1ff0cf152d53",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744642428,
+        "date_posted": 1744642428,
+        "url": "https://jobs.ashbyhq.com/Jerry/169c190d-6fb5-43bb-8acf-f4dbf600f6c9/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
