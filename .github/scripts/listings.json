@@ -25862,7 +25862,7 @@
         "company_name": "Amentum",
         "id": "623825f6-11b7-4f41-9cd5-38005ddc2ec1",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1741635346,
         "date_posted": 1741635346,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976",
@@ -27691,7 +27691,7 @@
         "company_name": "Amentum",
         "id": "554ac366-a90e-4c93-89b3-46ab00e61f8e",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1744242891,
         "date_posted": 1744242891,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0137459-1",
@@ -27895,6 +27895,55 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "North Atlantic Industries",
+        "id": "8d6114f3-edc1-4d57-888b-80d78a34fd40",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744699008,
+        "date_posted": 1744699008,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3197298",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "f821db4f-e624-479f-87b4-c4843bd9931f",
+        "title": "Software Engineer I - C/C++ - Linux",
+        "active": true,
+        "date_updated": 1744700785,
+        "date_posted": 1744700785,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C----Linux_01762220",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walrus",
+        "id": "8aab6726-23c3-406c-8e97-aa752902e09d",
+        "title": "Full Stack Developer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1744718628,
+        "date_posted": 1744718628,
+        "url": "https://jobs.ashbyhq.com/walrusfi/071c8ee6-c5c9-4e23-98d8-251a17204803/application",
+        "locations": [
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Walrus",
         "is_visible": true,
         "sponsorship": "Other"
     }
