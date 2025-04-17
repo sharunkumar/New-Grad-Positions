@@ -25553,7 +25553,7 @@
         "company_name": "RTX",
         "id": "a110b0e2-7980-4b85-b7df-0c7da7f581e3",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1741121549,
         "date_posted": 1741121549,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA803-Marlborough-MA-Building-3-1001-Boston-Post-Road-Building-3-Marlborough-MA-01752-USA/Software-Engineer-I---Onsite-_01747844",
@@ -25634,7 +25634,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -26956,7 +26956,7 @@
         "company_name": "Cox",
         "id": "07d80948-2695-4e50-abbf-68fc7a2d2e33",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1743107333,
         "date_posted": 1743107333,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560561",
@@ -27757,7 +27757,7 @@
         "company_name": "Esri",
         "id": "d6a226a8-f724-4077-b522-1d0088c5a431",
         "title": "Backend Java Engineer I - Data Pipelines",
-        "active": true,
+        "active": false,
         "date_updated": 1744357547,
         "date_posted": 1744357547,
         "url": "https://www.esri.com/careers/4700976007?gh_jid=4700976007",
@@ -28041,6 +28041,38 @@
             "Neenah, WI"
         ],
         "company_url": "https://simplify.jobs/c/Plexus",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "RTX",
+        "id": "156c72ee-dafa-45c7-b1bc-34bc6dfd02e3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1744822729,
+        "date_posted": 1744822729,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01715325-1",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "795587eb-f201-4d90-9310-1215625e2e56",
+        "title": "Software Engineer I - Backend",
+        "active": true,
+        "date_updated": 1744821019,
+        "date_posted": 1744821019,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I--BACKEND-_R202561426-1",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
