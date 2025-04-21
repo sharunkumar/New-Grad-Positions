@@ -24584,7 +24584,7 @@
         "company_name": "Echostar",
         "id": "52e57407-0ec5-49a9-be77-fedea20a2c03",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1738356805,
         "date_posted": 1738356805,
         "url": "https://echostar.wd5.myworkdayjobs.com/echostar/job/CA-San-Diego/Entry-Level-Software-Engineer_R0004668",
@@ -25363,7 +25363,7 @@
         "company_name": "Ciena",
         "id": "0c0f0d44-9cdd-477e-aa21-f4956dc2ebf0",
         "title": "Wavelogic Software Developer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1740617063,
         "date_posted": 1740617063,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R027194",
@@ -28065,7 +28065,7 @@
         "company_name": "Cox",
         "id": "795587eb-f201-4d90-9310-1215625e2e56",
         "title": "Software Engineer I - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1744821019,
         "date_posted": 1744821019,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I--BACKEND-_R202561426-1",
@@ -28129,7 +28129,7 @@
         "company_name": "Jerry",
         "id": "5f480b59-b446-4cd9-a0e1-cf86d9bcf010",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745045317,
         "date_posted": 1745045317,
         "url": "https://jobs.ashbyhq.com/Jerry/21b2fbcc-abd6-4b01-b78f-b196d884c32f/application",
@@ -28145,7 +28145,7 @@
         "company_name": "Jerry",
         "id": "26c41710-c1c7-4480-9700-c93b318fd2e0",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745045317,
         "date_posted": 1745045317,
         "url": "https://jobs.ashbyhq.com/Jerry/9458cca3-9c58-4aad-a579-7f5720c7ec87/application",
@@ -28169,6 +28169,38 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Flexport",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "072036b3-30a5-43fb-b411-ae517a3075d0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745249886,
+        "date_posted": 1745249886,
+        "url": "https://jobs.ashbyhq.com/Jerry/ebb57f00-5cc3-49e0-afe6-72ff9ed215ab/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "c99d750f-fd8a-4a3b-902a-cc3afe26f850",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745249880,
+        "date_posted": 1745249880,
+        "url": "https://jobs.ashbyhq.com/Jerry/86a0ecd6-e494-4736-a12d-2e88001d46c5/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
