@@ -26730,7 +26730,7 @@
         "company_name": "Booz Allen",
         "id": "d094593d-fe82-460d-9875-a4080cc87b7c",
         "title": "Software Developer - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1742583596,
         "date_posted": 1742583596,
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charleston-SC/Software-Developer--Junior_R0216902",
@@ -28161,7 +28161,7 @@
         "company_name": "Flexport",
         "id": "561dc074-7c02-4562-a2df-5ac406ce6a4d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745050346,
         "date_posted": 1745050346,
         "url": "https://boards.greenhouse.io/flexport/jobs/6795493",
@@ -28201,6 +28201,22 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Robert Half",
+        "id": "b0518de6-cf27-4979-9b3d-aaec252efca1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745263195,
+        "date_posted": 1745263195,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-256822-1",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robert-Half",
         "is_visible": true,
         "sponsorship": "Other"
     }
