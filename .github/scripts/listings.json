@@ -27664,7 +27664,7 @@
         "company_name": "Synchrony Financial",
         "id": "5784ef1c-fd89-4e19-a047-34812e227c8b",
         "title": "Android Engineer I - Digital Servicing",
-        "active": true,
+        "active": false,
         "date_updated": 1744243014,
         "date_posted": 1744243014,
         "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2501251-1",
@@ -28033,7 +28033,7 @@
         "company_name": "Plexus",
         "id": "0f7b9b50-89d2-4113-aa2b-381a6156069c",
         "title": "Embedded Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1744809183,
         "date_posted": 1744809183,
         "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Neenah-WI/Embedded-Software-Engineer-I_R032010",
@@ -28217,6 +28217,22 @@
             "San Ramon, CA"
         ],
         "company_url": "https://simplify.jobs/c/Robert-Half",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "8f57b86b-c885-40a7-bb5e-654d3f3a1083",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1745327308,
+        "date_posted": 1745327308,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410384",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
