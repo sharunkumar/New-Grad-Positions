@@ -16731,7 +16731,7 @@
         "company_name": "Grand Rounds",
         "id": "146ea259-126b-4e18-8753-a6d924f56f81",
         "title": "Software Engineer I - Orchestration Platform - Canada",
-        "active": true,
+        "active": false,
         "date_updated": 1721157673,
         "date_posted": 1721085152,
         "url": "https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply",
@@ -28209,7 +28209,7 @@
         "company_name": "Robert Half",
         "id": "b0518de6-cf27-4979-9b3d-aaec252efca1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745263195,
         "date_posted": 1745263195,
         "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-256822-1",
@@ -28233,6 +28233,70 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "8b64ee78-694a-4f6b-b938-b0bb881150a6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745361281,
+        "date_posted": 1745361281,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0027323",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "060a5063-59eb-4dac-b7c5-c1c01608dd71",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745361281,
+        "date_posted": 1745361281,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0027324",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Parity",
+        "id": "4f0f90f5-bcff-4b63-8994-acebb7188d2f",
+        "title": "Founding Engineer - Applied AI",
+        "active": true,
+        "date_updated": 1745365093,
+        "date_posted": 1745365092,
+        "url": "https://simplify.jobs/p/4f0f90f5-bcff-4b63-8994-acebb7188d2f",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parity",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "OpenEye",
+        "id": "eb4231b2-d082-40f1-89ae-e4587f3d7d2f",
+        "title": "Software Engineer I - Ows",
+        "active": true,
+        "date_updated": 1745370235,
+        "date_posted": 1745370235,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/7968065002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
         "is_visible": true,
         "sponsorship": "Other"
     }
