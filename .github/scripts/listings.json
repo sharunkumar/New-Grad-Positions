@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -28113,7 +28113,7 @@
         "company_name": "Pinterest",
         "id": "836b6c19-97e2-48ec-b0eb-a351d8e837d6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1744957437,
         "date_posted": 1744957437,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=6816337",
@@ -28225,7 +28225,7 @@
         "company_name": "Comcast",
         "id": "8f57b86b-c885-40a7-bb5e-654d3f3a1083",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1745327308,
         "date_posted": 1745327308,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410384",
@@ -28362,6 +28362,23 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Curtiss-Wright",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "07201944-dac6-4ace-ad76-2bd70cd0a08a",
+        "title": "Entry Level Software Engineer 1",
+        "active": true,
+        "date_updated": 1745424119,
+        "date_posted": 1745424119,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Entry-Level-Software-Engineer-1--Chicago--IL-or-Reston--VA--ONSITE--4-days-a-week-_R410831-1",
+        "locations": [
+            "Chicago, IL",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
