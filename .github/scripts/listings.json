@@ -25106,7 +25106,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -28370,7 +28370,7 @@
         "company_name": "Comcast",
         "id": "07201944-dac6-4ace-ad76-2bd70cd0a08a",
         "title": "Entry Level Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1745424119,
         "date_posted": 1745424119,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Entry-Level-Software-Engineer-1--Chicago--IL-or-Reston--VA--ONSITE--4-days-a-week-_R410831-1",
@@ -28379,6 +28379,54 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "bb9b3881-01d1-4fab-acc3-d9b00d0d5183",
+        "title": "Research Data Engineer \u2013 Entry Level - Health Research",
+        "active": true,
+        "date_updated": 1745449621,
+        "date_posted": 1745449621,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Research-Data-Engineer--Health-Research-_R-00158034",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CACI",
+        "id": "8f32dd67-120d-4650-9670-e86065ecbf08",
+        "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1745454925,
+        "date_posted": 1745454925,
+        "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_310885-1",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Aurora Innovation",
+        "id": "e62b6fa5-8e78-4b9b-9f39-9c1c3b065305",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745455534,
+        "date_posted": 1745455534,
+        "url": "https://aurora.tech/jobs/7940570002?gh_jid=7940570002",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other"
     }
