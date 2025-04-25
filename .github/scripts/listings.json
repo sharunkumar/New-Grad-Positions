@@ -24227,7 +24227,7 @@
         "company_name": "Acorns",
         "id": "20573663-a33b-497c-82d0-cf8091dc8725",
         "title": "Software Engineer I \u2013 Recent Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1737505581,
         "date_posted": 1737505581,
         "url": "https://jobs.ashbyhq.com/Acorns/5618f1de-cf18-4114-9408-11cd73153a9d/application",
@@ -26908,7 +26908,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "655c3fce-8de0-4783-b341-9b0565b8968d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1743017870,
         "date_posted": 1742872919,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Sofware-Engineer-I_R0027092",
@@ -28305,7 +28305,7 @@
         "company_name": "Comcast",
         "id": "82e76641-ab4c-4fbe-bdbd-8468caf4ed26",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1745376565,
         "date_posted": 1745376565,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410880",
@@ -28370,7 +28370,7 @@
         "company_name": "Comcast",
         "id": "07201944-dac6-4ace-ad76-2bd70cd0a08a",
         "title": "Entry Level Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1745424119,
         "date_posted": 1745424119,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Entry-Level-Software-Engineer-1--Chicago--IL-or-Reston--VA--ONSITE--4-days-a-week-_R410831-1",
@@ -28435,7 +28435,7 @@
         "company_name": "Blue Yonder",
         "id": "94a686e4-138a-430d-9d25-958cb6f437c8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1745513642,
         "date_posted": 1745513642,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-1_251750",
@@ -28443,6 +28443,87 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Comcast",
+        "id": "9658c843-6373-42a7-9055-d028d06f76d7",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1745522989,
+        "date_posted": 1745522989,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Engineer-1--Software-Development---Engineering_R409766",
+        "locations": [
+            "Philadelphia, PA",
+            "Cherry Hills Village, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TSC",
+        "id": "4ea7ca1c-d056-4b91-84c4-19a68e4be5b2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745522743,
+        "date_posted": 1745522743,
+        "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2024",
+        "locations": [
+            "Silver Spring, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/3d3125df-3bbc-48fc-993c-8e2d0db65649",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "d826bed1-eae3-48f5-ae2d-e529038c0886",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1745540752,
+        "date_posted": 1745540752,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6821292",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Chewy",
+        "id": "26fd1f94-bc62-46f4-a1e0-a3523e722709",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1745540409,
+        "date_posted": 1745540409,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6818854",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Medtronic",
+        "id": "0753ef9e-a89a-4dbb-9155-d4428a16bd31",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745541152,
+        "date_posted": 1745541152,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Los-Angeles-California-United-States-of-America/Software-Engineer-I_R28604-1",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
