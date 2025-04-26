@@ -20745,7 +20745,7 @@
         "company_name": "Sprocket Security",
         "id": "b0ecff71-3064-421c-9ee3-b663c1cc5f60",
         "title": "Software Engineer - Early Careers",
-        "active": false,
+        "active": true,
         "date_updated": 1727320504,
         "date_posted": 1727320504,
         "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008",
@@ -28177,7 +28177,7 @@
         "company_name": "Jerry",
         "id": "072036b3-30a5-43fb-b411-ae517a3075d0",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745249886,
         "date_posted": 1745249886,
         "url": "https://jobs.ashbyhq.com/Jerry/ebb57f00-5cc3-49e0-afe6-72ff9ed215ab/application",
@@ -28193,7 +28193,7 @@
         "company_name": "Jerry",
         "id": "c99d750f-fd8a-4a3b-902a-cc3afe26f850",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745249880,
         "date_posted": 1745249880,
         "url": "https://jobs.ashbyhq.com/Jerry/86a0ecd6-e494-4736-a12d-2e88001d46c5/application",
@@ -28419,7 +28419,7 @@
         "company_name": "Aurora Innovation",
         "id": "e62b6fa5-8e78-4b9b-9f39-9c1c3b065305",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745455534,
         "date_posted": 1745455534,
         "url": "https://aurora.tech/jobs/7940570002?gh_jid=7940570002",
@@ -28540,6 +28540,70 @@
             "Mt Laurel Township, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "FactSet",
+        "id": "48b6fb36-0b83-47e0-aea7-66f9589cf797",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745616441,
+        "date_posted": 1745616441,
+        "url": "https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/London-GBR/Software-Engineer-I_R27132",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/070f3806-d132-4f78-8320-b7048399142c",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Wex",
+        "id": "2a712d0e-4d75-4189-8244-055a60d8938d",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1745617758,
+        "date_posted": 1745617758,
+        "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Portland-ME/Software-Engineer_R17426",
+        "locations": [
+            "Portland, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/788246ec-e89c-499a-bb15-9a02acb178a9",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "345f364a-9a7d-4443-b493-c392bfcb6797",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745625098,
+        "date_posted": 1745625098,
+        "url": "https://jobs.ashbyhq.com/Jerry/a4e2c00b-820a-43f6-a474-cd3e2002aeef/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "caa019a6-9235-46d9-806b-ea9f7c3879d9",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745625098,
+        "date_posted": 1745625098,
+        "url": "https://jobs.ashbyhq.com/Jerry/f27c3eec-821e-42eb-9a30-17fc81c1dc2c/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
