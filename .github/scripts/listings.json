@@ -28241,7 +28241,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "8b64ee78-694a-4f6b-b938-b0bb881150a6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745361281,
         "date_posted": 1745361281,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0027323",
@@ -28580,7 +28580,7 @@
         "company_name": "Jerry",
         "id": "345f364a-9a7d-4443-b493-c392bfcb6797",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745625098,
         "date_posted": 1745625098,
         "url": "https://jobs.ashbyhq.com/Jerry/a4e2c00b-820a-43f6-a474-cd3e2002aeef/application",
@@ -28596,7 +28596,7 @@
         "company_name": "Jerry",
         "id": "caa019a6-9235-46d9-806b-ea9f7c3879d9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1745625098,
         "date_posted": 1745625098,
         "url": "https://jobs.ashbyhq.com/Jerry/f27c3eec-821e-42eb-9a30-17fc81c1dc2c/application",
@@ -28636,6 +28636,22 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "33dd1bfa-1712-41d4-a0f8-65b0ebe662c2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745908011,
+        "date_posted": 1745908011,
+        "url": "https://jobs.ashbyhq.com/Jerry/5b30d5ee-5fbf-45c5-adc9-1eb930fa2ddb/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
