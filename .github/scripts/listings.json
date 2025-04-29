@@ -24945,7 +24945,7 @@
         "company_name": "Bombora",
         "id": "b91602b6-14e5-4b3e-93de-44d1785d605c",
         "title": "Software Engineer I - Services Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1739392439,
         "date_posted": 1739392439,
         "url": "https://bombora.com/about/bombora-careers?gh_jid=7859996002",
@@ -28451,7 +28451,7 @@
         "company_name": "Comcast",
         "id": "9658c843-6373-42a7-9055-d028d06f76d7",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1745522989,
         "date_posted": 1745522989,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Engineer-1--Software-Development---Engineering_R409766",
@@ -28564,7 +28564,7 @@
         "company_name": "Wex",
         "id": "2a712d0e-4d75-4189-8244-055a60d8938d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1745617758,
         "date_posted": 1745617758,
         "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/Portland-ME/Software-Engineer_R17426",
@@ -28660,7 +28660,7 @@
         "company_name": "Booz Allen",
         "id": "6e04852d-28bf-4150-8448-d0f3f488e759",
         "title": "Data Scientist - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1745920492,
         "date_posted": 1745220604,
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Junior_R0218242",
@@ -28668,6 +28668,22 @@
             "McLean, VA"
         ],
         "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jerry",
+        "id": "a2714d03-7e18-4b7f-8271-d45527abd86b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745908025,
+        "date_posted": 1745908025,
+        "url": "https://jobs.ashbyhq.com/Jerry/905ad34f-1367-4ae8-b765-facf9a8d5aa5/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
