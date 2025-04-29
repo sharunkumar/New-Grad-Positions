@@ -26504,7 +26504,7 @@
         "company_name": "Cox",
         "id": "b805d6ce-d320-4841-b839-0c861039f2f7",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1742009075,
         "date_posted": 1742009075,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560208",
@@ -26697,7 +26697,7 @@
         "company_name": "Mastercard",
         "id": "f052183d-4f31-4032-8ed3-315c1ececc8a",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1742583351,
         "date_posted": 1742583351,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Seattle-Washington/Software-Engineer-I_R-225610",
@@ -27021,7 +27021,7 @@
         "company_name": "Blue Origin",
         "id": "83f20d07-1cda-4239-9412-e6955ba2aa50",
         "title": "Software Development Engineer I \u2013 Early Career 2025 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1743193831,
         "date_posted": 1743193831,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
@@ -28321,7 +28321,7 @@
         "company_name": "Leidos",
         "id": "a35410db-e313-43fe-a6f8-33a7f387a5ec",
         "title": "Software Developer \u2013 Entry level",
-        "active": true,
+        "active": false,
         "date_updated": 1745384154,
         "date_posted": 1745384154,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00157630",
@@ -28419,7 +28419,7 @@
         "company_name": "Aurora Innovation",
         "id": "e62b6fa5-8e78-4b9b-9f39-9c1c3b065305",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1745455534,
         "date_posted": 1745455534,
         "url": "https://aurora.tech/jobs/7940570002?gh_jid=7940570002",
@@ -28532,7 +28532,7 @@
         "company_name": "Comcast",
         "id": "4124b8f8-1a39-4e1f-95df-f337aa397d5b",
         "title": "Engineer 1 - Software Development & Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1745551371,
         "date_posted": 1745551371,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NJ---Mount-Laurel-1800-Bishops-Gate/Engineer-1--Software-Development---Engineering_R410972",
@@ -28604,6 +28604,38 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Adobe",
+        "id": "20b0f992-16b4-4518-9bf8-cfc3e9b78596",
+        "title": "University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1745866852,
+        "date_posted": 1745866852,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2025-University-Graduate---Software-Engineer_R148217",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Cox",
+        "id": "ca406a1e-a776-497c-b4d2-d4b825f24d8d",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1745880332,
+        "date_posted": 1745880332,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202561650",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
