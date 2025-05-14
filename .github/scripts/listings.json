@@ -23752,7 +23752,7 @@
         "company_name": "OpenEye",
         "id": "eb4231b2-d082-40f1-89ae-e4587f3d7d2f",
         "title": "Software Engineer I - Ows",
-        "active": true,
+        "active": false,
         "date_updated": 1745370235,
         "date_posted": 1745370235,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/7968065002",
@@ -24730,6 +24730,23 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "2f5d97bf-ac1c-46f1-bf43-1ce06e051c8e",
+        "title": "Engineer 1 - Software Development & Engineering",
+        "active": true,
+        "date_updated": 1747237592,
+        "date_posted": 1747237592,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Development---Engineering_R410445",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
