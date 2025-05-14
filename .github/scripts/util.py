@@ -9,6 +9,7 @@ SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
 SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/G5Bzlx3.png"
+INACTIVE_THRESHOLD_MONTHS = 4
 
 # Define categories with their correct anchor formats and emojis
 CATEGORIES = {
@@ -33,7 +34,7 @@ CATEGORIES = {
 def setOutput(key, value):
     with open(os.environ['GITHUB_OUTPUT'], 'a') as fh:
         print(f'{key}={value}', file=fh)
-
+        
 def fail(why):
     setOutput("error_message", why)
     exit(1)
@@ -66,7 +67,21 @@ def getLink(listing):
         return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a>'
     
     simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
-    return f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="49" alt="Apply"></a> <a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="26" alt="Simplify"></a>'
+    return (
+        f'<div align="center">'
+        f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> '
+        f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
+        f'</div>'
+    )
+    
+def mark_stale_listings(listings):
+    now = datetime.now()
+    for listing in listings:
+        if listing["source"] != "Simplify":
+            age_in_months = (now - datetime.fromtimestamp(listing["date_posted"])).days / 30
+            if age_in_months > INACTIVE_THRESHOLD_MONTHS:
+                listing["active"] = False
+    return listings    
 
 def filter_active(listings):
     return [listing for listing in listings if listing.get("active", False)]
@@ -106,6 +121,7 @@ def create_md_table(listings):
 
     return table
     
+
 def filterListings(listings, earliest_date):
     final_listings = []
     inclusion_terms = ["software eng", "software dev", "data scientist", "data engineer", "founding eng", "research eng", "product manage", "apm", "frontend", "front end", "front-end", "backend", "back end", "full-stack", "full stack", "full-stack", "devops", "android", "ios", "mobile dev", "sre", "site reliability eng", "quantitative trad", "quantitative research", "quantitative trad", "quantitative dev", "security eng", "compiler eng", "machine learning eng", "hardware eng", "firmware eng", "infrastructure eng"]
@@ -128,14 +144,36 @@ def create_category_table(listings, category_name):
     category_listings = [listing for listing in listings if listing["category"] == category_name]
     if not category_listings:
         return ""
-    
-    # Find the emoji for this category
+
     emoji = next((cat["emoji"] for cat in CATEGORIES.values() if cat["name"] == category_name), "")
-    
-    table = f"\n## {emoji} {category_name} New Grad Roles\n\n"
-    table += "[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)\n\n"
-    table += create_md_table(category_listings)
-    return table
+    header = f"\n\n## {emoji} {category_name} New Grad Roles\n\n"
+    header += "[Back to top](#2025-new-grad-positions-by-coder-quad-and-simplify)\n\n"
+
+    # Optional callout under Data Science section
+    if category_name == "Data Science, AI & Machine Learning":
+        header += (
+            "> 🎓 Here's the [resume template](https://docs.google.com/document/d/1azvJt51U2CbpvyO0ZkICqYFDhzdfGxU_lsPQTGhsn94/edit?usp=sharing) that Pitt CSC and Stanford CS share with software new grads.\n"
+            ">\n"
+            "> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n"
+        )
+
+    # Sort and split
+    active = sorted([l for l in category_listings if l["active"]], key=lambda l: l["date_posted"], reverse=True)
+    inactive = sorted([l for l in category_listings if not l["active"]], key=lambda l: l["date_posted"], reverse=True)
+
+    result = header
+    if active:
+        result += create_md_table(active) + "\n\n"
+
+    if inactive:
+        result += (
+            "<details>\n"
+            f"<summary>🗃️ Inactive roles ({len(inactive)})</summary>\n\n"
+            + create_md_table(inactive) +
+            "\n\n</details>\n\n"
+        )
+
+    return result
 
 def classifyJobCategory(job):
     # First check if there's an existing category
@@ -163,12 +201,13 @@ def classifyJobCategory(job):
 
 def ensureCategories(listings):
     for listing in listings:
-        if "category" not in listing:
-            listing["category"] = classifyJobCategory(listing)
+        listing["category"] = classifyJobCategory(listing)
     return listings
 
 def embedTable(listings):    
     listings = ensureCategories(listings)    
+    listings = mark_stale_listings(listings)
+
     active_listings = filter_active(listings)    
     category_counts = {}
     for category_info in CATEGORIES.values():
@@ -211,11 +250,6 @@ def embedTable(listings):
                 newText += "\n---\n\n"
                 # Add tables for each category
                 for category_info in CATEGORIES.values():
-                    if category_info["name"] == "Software Engineering":
-                        newText += create_category_table(listings, category_info["name"])
-                        # Add the blockquote after Software Engineering section
-                        newText += '\n> 🎓 Here\'s the [resume template](https://example.com) that Pitt CSC and Stanford CS share with software new grads.\n>\n> 🧠 Want to know what keywords your resume is missing for a job? Use the blue Simplify application link to instantly compare your resume to any job description.\n\n'
-                    else:
                         newText += create_category_table(listings, category_info["name"])
                 newText += "\n"
                 table_section_replaced = True

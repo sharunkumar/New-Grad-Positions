@@ -28,14 +28,24 @@ jobs:
         id: python_script
         run: python .github/scripts/update_readmes.py
 
+      - name: Set commit message (with fallback)
+        id: final_commit_message
+        run: |
+          msg="${{ steps.python_script.outputs.commit_message }}"
+          if [ -z "$msg" ]; then
+            msg="Auto commit: update README"
+          fi
+          echo "message=$msg" >> "$GITHUB_OUTPUT"
+
       - name: commit files
         if: success()
         run: |
           git config --local user.email action@github.com
           git config --local user.name 'Github Action'
           git add README.md
-          git diff-index --quiet HEAD || (git commit -a -m "${{ steps.python_script.outputs.commit_message }}" --allow-empty)
-
+          git diff-index --quiet HEAD || \
+            git commit -a -m "${{ steps.final_commit_message.outputs.message }}" --allow-empty
+      
       - name: push changes
         if: success()
         uses: ad-m/github-push-action@v0.6.0
