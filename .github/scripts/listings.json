@@ -11444,22 +11444,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Barbaricum",
-        "id": "52c2d124-4190-478c-8f42-c85b8c5d3eb8",
-        "title": "Systems Integrator",
-        "active": false,
-        "date_updated": 1716404866,
-        "date_posted": 1716220151,
-        "url": "https://jobs.lever.co/barbaricum/225a3f77-b55d-4ea3-8277-63ca4a4399ab/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Barbaricum",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alchemy",
         "id": "9480f6aa-0767-4cba-9c47-7bdcdf2a8033",
         "title": "Product Engineer - Account Abstraction",
@@ -22539,7 +22523,7 @@
         "company_name": "Nexxen",
         "id": "8f8cedaf-6a38-40c0-9550-913cd33d1aae",
         "title": "Software Engineer I - SSP Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1743503207,
         "date_posted": 1741649438,
         "url": "https://job-boards.greenhouse.io/nexxen/jobs/7732428002",
@@ -24518,7 +24502,7 @@
         "company_name": "Nutanix",
         "id": "919244a4-4961-4cab-9622-bfdb974e4a18",
         "title": "Software Engineer 1/Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1746778219,
         "date_posted": 1746778219,
         "url": "https://jobs.jobvite.com/nutanix/job/oPR2vfwX?nl=1&nl=1&fr=false",
@@ -24700,6 +24684,59 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Universal Electronics",
+        "id": "9aea7616-1342-4393-8505-eab33773b115",
+        "title": "Embedded Software Engineer I",
+        "active": true,
+        "date_updated": 1747318172,
+        "date_posted": 1719518848,
+        "url": "https://jobs.lever.co/uei/3585f383-53e5-45d5-b135-948775f5ed1d/apply",
+        "locations": [
+            "Orange, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "4573ee25-77c1-49ef-99cb-80acb1f18ebe",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1747325721,
+        "date_posted": 1747325721,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139275",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "ab8be857-c152-406b-aa20-db7b85c97468",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1747325720,
+        "date_posted": 1747325720,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139276",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
         "is_visible": true,
         "sponsorship": "Other"
     }
