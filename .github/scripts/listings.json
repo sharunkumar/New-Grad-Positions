@@ -996,22 +996,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Affirm",
-        "id": "a30e2597-8bf1-413b-8eb1-8dbae824762d",
-        "title": "Quantitative Analyst",
-        "active": false,
-        "date_updated": 1718682553,
-        "date_posted": 1716193919,
-        "url": "https://boards.greenhouse.io/affirm/jobs/5944659003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -11428,22 +11412,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "NewsBreak",
-        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
-        "title": "Software Engineer \u2013 Junior & New Grad",
-        "active": true,
-        "date_updated": 1716340171,
-        "date_posted": 1716193274,
-        "url": "https://boards.greenhouse.io/newsbreak/jobs/4054592006",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Kargo",
         "id": "2dd3b611-0018-4e8b-a2c0-375e7a3d4630",
         "title": "Data Engineer",
@@ -11545,22 +11513,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Etched.ai",
-        "id": "3d88eab2-215e-4c74-b7d6-47742e9ee49e",
-        "title": "Software Engineer - Infrastructure Performance",
-        "active": false,
-        "date_updated": 1716190689,
-        "date_posted": 1716190689,
-        "url": "https://boards.greenhouse.io/etchedai/jobs/4380624007",
-        "locations": [
-            "Cupertino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Etched.ai",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Colibri Group",
         "id": "9b72106b-1d13-451e-9074-306de3f33ba7",
         "title": "Data Analytics Engineer",
@@ -11636,22 +11588,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Rain",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Canonical",
-        "id": "1f27fb65-f2c8-46f5-9d9d-db8f2854f743",
-        "title": "Software Engineer - Ceph & Distributed Storage",
-        "active": false,
-        "date_updated": 1716189131,
-        "date_posted": 1716189131,
-        "url": "https://boards.greenhouse.io/canonical/jobs/1861978",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -13793,8 +13729,8 @@
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "source": "YifengW86",
-        "id": "0ffe4ef0-c8b0-461f-b78e-dbba767c4d4c",
+        "source": "Simplify",
+        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "date_posted": 1725514537,
         "company_url": "",
         "is_visible": true
@@ -22095,7 +22031,7 @@
         "company_name": "Rocket Software",
         "id": "0968d700-30c2-41ef-b699-573b2f4f1fff",
         "title": "Software Engineer I - Nextgen",
-        "active": false,
+        "active": true,
         "date_updated": 1742496520,
         "date_posted": 1742496520,
         "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer-I_R2024-5045",
@@ -22988,7 +22924,7 @@
         "company_name": "Amentum",
         "id": "504ec367-09e3-4ff1-9c4c-cb0ed4be9d55",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1744097722,
         "date_posted": 1744097722,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137355",
