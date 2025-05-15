@@ -22095,7 +22095,7 @@
         "company_name": "Rocket Software",
         "id": "0968d700-30c2-41ef-b699-573b2f4f1fff",
         "title": "Software Engineer I - Nextgen",
-        "active": true,
+        "active": false,
         "date_updated": 1742496520,
         "date_posted": 1742496520,
         "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Newbury-United-Kingdom/Software-Engineer-I_R2024-5045",
@@ -22988,7 +22988,7 @@
         "company_name": "Amentum",
         "id": "504ec367-09e3-4ff1-9c4c-cb0ed4be9d55",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1744097722,
         "date_posted": 1744097722,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137355",
@@ -24747,6 +24747,23 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Affirm",
+        "id": "004ee5c4-9eb4-4f8e-ac9f-649677226c18",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1747274690,
+        "date_posted": 1747274690,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/6570371003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
         "is_visible": true,
         "sponsorship": "Other"
     }
