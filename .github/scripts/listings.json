@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "fcecdf26-8977-4b85-8419-c627aa5863ed",
-        "title": "Software Engineer I - API Platform",
-        "active": false,
-        "date_updated": 1716304762,
-        "date_posted": 1716304762,
-        "url": "https://business.trustpilot.com/jobs/5941007?gh_jid=5941007",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Magna",
         "id": "236cd6ca-c9ce-48f6-8ee9-3ef4a015ac10",
         "title": "Software Engineer \u2013 New Grad",
@@ -24386,7 +24370,7 @@
         "company_name": "Amentum",
         "id": "81381128-7fa7-4edc-888e-63057efd025b",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1746731824,
         "date_posted": 1746731824,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0138996",
@@ -24716,7 +24700,7 @@
         "company_name": "Global Payments",
         "id": "be560e6d-beae-405e-b05e-5072d648cd47",
         "title": "Mainframe Software Engineer I or Above",
-        "active": true,
+        "active": false,
         "date_updated": 1747339511,
         "date_posted": 1747339511,
         "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0062116",
@@ -24759,6 +24743,23 @@
             "Reno, NV"
         ],
         "company_url": "https://simplify.jobs/c/Bombora",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Credit Genie",
+        "id": "e77949b5-9580-43ad-a54d-4049719357ac",
+        "title": "New Grad-Data Scientist - Cmu",
+        "active": true,
+        "date_updated": 1747418407,
+        "date_posted": 1747418407,
+        "url": "https://jobs.ashbyhq.com/creditgenie/256ab050-e0a8-4192-a9bd-0c635adb2a61/application",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Credit-Genie",
         "is_visible": true,
         "sponsorship": "Other"
     }
