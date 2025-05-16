@@ -11412,22 +11412,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Kargo",
-        "id": "2dd3b611-0018-4e8b-a2c0-375e7a3d4630",
-        "title": "Data Engineer",
-        "active": false,
-        "date_updated": 1719533182,
-        "date_posted": 1716247303,
-        "url": "https://www.kargo.com/careers?gh_jid=4366474007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Kargo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DigitalOcean",
         "id": "4fa9f81a-d5ae-41eb-af4d-a64c990db8be",
         "title": "Capacity Planner II - Data Collection",
@@ -11588,54 +11572,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "bd4742c8-e28e-4975-aba2-47e2466cdacd",
-        "title": "Machine Learning Performance Engineer",
-        "active": false,
-        "date_updated": 1718392056,
-        "date_posted": 1716247098,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7449252002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "c2dbc301-b47e-4463-9622-c87ac9c98494",
-        "title": "Machine Learning Performance Engineer",
-        "active": false,
-        "date_updated": 1718391933,
-        "date_posted": 1716247098,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7449190002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Coin Metrics",
-        "id": "bfe06c39-ad42-4238-a63c-83e02d27dd0b",
-        "title": "Protocol Specialist",
-        "active": false,
-        "date_updated": 1720639078,
-        "date_posted": 1716246571,
-        "url": "https://boards.greenhouse.io/coinmetrics/jobs/5184681004",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coin-Metrics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23384,7 +23320,7 @@
         "company_name": "Mastercard",
         "id": "848554b5-91a9-4df3-8fc6-035c8188f4b8",
         "title": "Software Engineer I - Sdet - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1744791474,
         "date_posted": 1744791474,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943",
@@ -23867,7 +23803,7 @@
         "company_name": "Chewy",
         "id": "d826bed1-eae3-48f5-ae2d-e529038c0886",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1745540752,
         "date_posted": 1745540752,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6821292",
@@ -23883,7 +23819,7 @@
         "company_name": "Chewy",
         "id": "26fd1f94-bc62-46f4-a1e0-a3523e722709",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1745540409,
         "date_posted": 1745540409,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6818854",
@@ -24365,7 +24301,7 @@
         "company_name": "Iridium Communications",
         "id": "9e8d8f00-a18c-4471-b416-da5304aa6c4f",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1746644336,
         "date_posted": 1746644336,
         "url": "https://careers-iridium.icims.com/jobs/4452/job",
@@ -24737,6 +24673,92 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics",
+        "id": "79fd1da3-151a-4655-8ce5-be37e1eae0fd",
+        "title": "Junior Front End Developer",
+        "active": true,
+        "date_updated": 1747337779,
+        "date_posted": 1747337779,
+        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "bf0a6f94-987a-42ed-947a-a95c4e54c907",
+        "title": "Software Development Engineer I - Customer Experience",
+        "active": true,
+        "date_updated": 1747339149,
+        "date_posted": 1747339149,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6886016?gh_jid=6886016",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "be560e6d-beae-405e-b05e-5072d648cd47",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1747339511,
+        "date_posted": 1747339511,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0062116",
+        "locations": [
+            "Alpharetta, GA",
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "cad39bbd-d18f-491a-b444-4b49c6c34165",
+        "title": "Firmware Engineer I",
+        "active": true,
+        "date_updated": 1747343837,
+        "date_posted": 1747343837,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Firmware-Engineer-I_R0027089",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bombora",
+        "id": "a55a74f9-f7c0-4d07-8520-e64a55f7e850",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1747349677,
+        "date_posted": 1747349677,
+        "url": "https://bombora.com/about/bombora-careers?gh_jid=7996747002",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Bombora",
         "is_visible": true,
         "sponsorship": "Other"
     }
