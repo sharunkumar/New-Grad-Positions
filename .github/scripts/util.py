@@ -41,10 +41,7 @@ def fail(why):
 
 def getLocations(listing):
     locations = "</br>".join(listing["locations"])
-    if len(listing["locations"]) <= 3:
-        return locations
-    num = str(len(listing["locations"])) + " locations"
-    return f'<details><summary>**{num}**</summary>{locations}</details>'
+    return locations
 
 def getSponsorship(listing):
     if listing["sponsorship"] == "Does Not Offer Sponsorship":
