@@ -268,7 +268,13 @@ def embedTable(listings):
         f.write(newText)
 
 def customFilter(listings):
-    return [listing for listing in listings if listing["active"] and listing["sponsorship"] not in ["Does Not Offer Sponsorship", "U.S. Citizenship is Required"]]
+    def is_canada_only(locations):
+        return all('canada' in loc.lower() for loc in locations)
+    
+    return [listing for listing in listings if 
+            listing["active"] and 
+            listing["sponsorship"] not in ["Does Not Offer Sponsorship", "U.S. Citizenship is Required"] and
+            not is_canada_only(listing["locations"])]
 
 def sortListings(listings):
     oldestListingFromCompany = {}
