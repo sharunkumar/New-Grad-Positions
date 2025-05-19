@@ -22696,7 +22696,7 @@
         "company_name": "Amentum",
         "id": "504ec367-09e3-4ff1-9c4c-cb0ed4be9d55",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1744097722,
         "date_posted": 1744097722,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0137355",
@@ -24170,7 +24170,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -24715,6 +24715,23 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
+        "title": "Software Engineer I - Foundation",
+        "active": true,
+        "date_updated": 1747677958,
+        "date_posted": 1747677958,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
