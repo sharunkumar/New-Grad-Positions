@@ -11331,23 +11331,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Alchemy",
-        "id": "9480f6aa-0767-4cba-9c47-7bdcdf2a8033",
-        "title": "Product Engineer - Account Abstraction",
-        "active": false,
-        "date_updated": 1716620937,
-        "date_posted": 1716620937,
-        "url": "https://boards.greenhouse.io/alchemy/jobs/4424520005",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Alchemy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -20937,7 +20920,7 @@
         "company_name": "Amentum",
         "id": "e3d2efc7-aaf1-4c79-ab76-9ace2b1ba94a",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1741635341,
         "date_posted": 1741635341,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135975",
@@ -24247,7 +24230,7 @@
         "company_name": "Daimler Truck",
         "id": "b874fc6e-6bfe-414c-8063-b014f2ac59e5",
         "title": "Embedded Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746831197,
         "date_posted": 1746831197,
         "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Embedded-Software-Engineer-I_DT-11839-2",
@@ -24730,7 +24713,7 @@
         "company_name": "Medtronic",
         "id": "ad6135de-d78b-42d7-8c7c-e1ae4e9ff086",
         "title": "Software Engineer I - Neuro",
-        "active": false,
+        "active": true,
         "date_updated": 1747702435,
         "date_posted": 1747702435,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R31645-1",
