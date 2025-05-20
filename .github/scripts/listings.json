@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Navan",
-        "id": "a0d5a6b0-d343-48ef-b485-3856cb2a9469",
-        "title": "Evergreen: New College Grad Software Engineer - Front-End",
-        "active": false,
-        "date_updated": 1716592037,
-        "date_posted": 1716592037,
-        "url": "https://tripactions.com/job-openings?gh_jid=5980878",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Navan",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Splunk",
         "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
         "title": "Software Engineer - Early in Career - Frontend",
@@ -11348,38 +11332,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Legion",
-        "id": "55d089f9-bcc5-485b-a62f-b6db05659ede",
-        "title": "Optimization Engineer",
-        "active": false,
-        "date_updated": 1719615715,
-        "date_posted": 1716593033,
-        "url": "https://boards.greenhouse.io/legion/jobs/5993099003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Legion",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DigitalOcean",
-        "id": "4fa9f81a-d5ae-41eb-af4d-a64c990db8be",
-        "title": "Capacity Planner II - Data Collection",
-        "active": false,
-        "date_updated": 1717204344,
-        "date_posted": 1716592720,
-        "url": "https://www.digitalocean.com/careers/position/apply/?gh_jid=5993354",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DigitalOcean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Alchemy",
         "id": "9480f6aa-0767-4cba-9c47-7bdcdf2a8033",
         "title": "Product Engineer - Account Abstraction",
@@ -11392,38 +11344,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Alchemy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Colibri Group",
-        "id": "9b72106b-1d13-451e-9074-306de3f33ba7",
-        "title": "Data Analytics Engineer",
-        "active": false,
-        "date_updated": 1717203932,
-        "date_posted": 1716593223,
-        "url": "https://jobs.lever.co/colibrigroup/a8142303-15d9-4fd4-a0c4-59c90ae4e230/apply",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/ColibriGroup",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DV Trading",
-        "id": "07e47165-bfa2-4a3e-af48-00953bb5df6a",
-        "title": "Quantitative Developer",
-        "active": false,
-        "date_updated": 1718737642,
-        "date_posted": 1716592707,
-        "url": "https://boards.greenhouse.io/dvtrading/jobs/4424334005",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -20277,7 +20197,7 @@
         "company_name": "PayScale",
         "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1739564226,
         "date_posted": 1739564226,
         "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
@@ -24170,7 +24090,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -24395,7 +24315,7 @@
         "company_name": "Jerry",
         "id": "903b61fb-449f-413d-b320-bc4b6366e91a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747090407,
         "date_posted": 1747090407,
         "url": "https://jobs.ashbyhq.com/Jerry/fd11ffbe-f3a9-4b9e-86c0-6ff73a078494/application",
@@ -24413,7 +24333,7 @@
         "company_name": "Jerry",
         "id": "27bb31bd-e66f-4fe2-b12b-121b5e623aab",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747090406,
         "date_posted": 1747090406,
         "url": "https://jobs.ashbyhq.com/Jerry/6cdeb247-37ee-4c1b-82d1-49d246adb15c/application",
@@ -24732,6 +24652,92 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "7e9050f6-f6bf-472b-92ab-403c2006db12",
+        "title": "Software Development Engineer I - Customer Experience",
+        "active": true,
+        "date_updated": 1747698840,
+        "date_posted": 1747698840,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6889008?gh_jid=6889008",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "3c5e6c73-b394-459f-88ac-3bd2d8b1ab69",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747699801,
+        "date_posted": 1747699801,
+        "url": "https://jobs.ashbyhq.com/Jerry/75040926-e7b5-464e-b837-60fbe77fa8a7/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordson",
+        "id": "a5e95be0-c6e3-41b1-ab2e-7e272394e79a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747699318,
+        "date_posted": 1747699318,
+        "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Software-Engineer-I_REQ46133",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "b7b42fdb-0cdf-423a-810c-aab27650fcd2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747701000,
+        "date_posted": 1747701000,
+        "url": "https://jobs.ashbyhq.com/Jerry/7c6f4247-f17f-4edf-9cd3-099d2263cb3a/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "ad6135de-d78b-42d7-8c7c-e1ae4e9ff086",
+        "title": "Software Engineer I - Neuro",
+        "active": true,
+        "date_updated": 1747702435,
+        "date_posted": 1747702435,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R31645-1",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
