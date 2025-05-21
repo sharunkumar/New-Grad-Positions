@@ -24747,7 +24747,7 @@
         "company_name": "TailorCare",
         "id": "647600b4-1ed3-4aa3-9bfb-d6e9d38f56f0",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747783393,
         "date_posted": 1747783393,
         "url": "https://job-boards.greenhouse.io/tailorcare2023/jobs/4557621006",
@@ -24773,6 +24773,40 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Marqeta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "b2d9c7cd-851d-4563-8385-2f7f328b68f3",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1747846875,
+        "date_posted": 1747846875,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Software-Engineer-Senior-or-Above_R0059814-1",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "565ee00e-b9fc-43bb-a494-b240d1f2f772",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747850798,
+        "date_posted": 1747850798,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202561161",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
         "sponsorship": "Other"
     }
