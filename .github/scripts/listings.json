@@ -20936,7 +20936,7 @@
         "company_name": "Amentum",
         "id": "623825f6-11b7-4f41-9cd5-38005ddc2ec1",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1741635346,
         "date_posted": 1741635346,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0135976",
@@ -23428,7 +23428,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "0ac44fa3-4d8a-4242-bacc-4690d61dfb7a",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1745412218,
         "date_posted": 1740429670,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/Canada-Ottawa/Software-Developer-Onsite-Position---Ottawa--ON_JR7616",
@@ -24210,7 +24210,7 @@
         "company_name": "Salesforce",
         "id": "74920028-4f5d-450e-88c3-4caccd6cc51e",
         "title": "Software Engineering AMTS \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1746821189,
         "date_posted": 1746821189,
         "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR295894-1",
@@ -24627,7 +24627,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -24679,7 +24679,7 @@
         "company_name": "Nordson",
         "id": "a5e95be0-c6e3-41b1-ab2e-7e272394e79a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747699318,
         "date_posted": 1747699318,
         "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Software-Engineer-I_REQ46133",
@@ -24738,6 +24738,41 @@
             "Horsham, PA"
         ],
         "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TailorCare",
+        "id": "647600b4-1ed3-4aa3-9bfb-d6e9d38f56f0",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1747783393,
+        "date_posted": 1747783393,
+        "url": "https://job-boards.greenhouse.io/tailorcare2023/jobs/4557621006",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/TailorCare",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Marqeta",
+        "id": "83c12cf2-ffaa-4798-9716-d2aa3442d694",
+        "title": "Software Engineer I - Cloud Database Engineering",
+        "active": true,
+        "date_updated": 1747784156,
+        "date_posted": 1747784156,
+        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6774477",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marqeta",
         "is_visible": true,
         "sponsorship": "Other"
     }
