@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "31bd40d2-03e5-4df7-bbcd-30c44e91ba9e",
-        "title": "Software Engineer - Early in Career - Frontend",
-        "active": false,
-        "date_updated": 1723583866,
-        "date_posted": 1716938695,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/on3Csfwe?nl=1&nl=1&fr=false",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Perpay",
         "id": "590f1ae6-ef3f-4bcb-a7a0-e6957768779d",
         "title": "Junior Data Engineer",
@@ -895,22 +879,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/DevTechGrp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Incode Technologies",
-        "id": "d47f9b6b-46f6-4dbc-bbab-5eafad2c96de",
-        "title": "Data Labeler - US",
-        "active": false,
-        "date_updated": 1716937685,
-        "date_posted": 1716937685,
-        "url": "https://boards.greenhouse.io/incode/jobs/5134955004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Incode-Technologies",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -11233,72 +11201,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "48b645d8-a1e2-4a81-8cad-4e195c153042",
-        "title": "Software Engineer Full Stack - Prevention - Quit For Life",
-        "active": false,
-        "date_updated": 1717096326,
-        "date_posted": 1716938403,
-        "url": "https://boards.greenhouse.io/rvohealth/jobs/4424827005",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "15d22e29-810b-44ec-aac3-9a32dad5c013",
-        "title": "Software Engineer Full Stack - Prevention - Quit For Life",
-        "active": false,
-        "date_updated": 1716938405,
-        "date_posted": 1716938405,
-        "url": "https://boards.greenhouse.io/rvohealth/jobs/4424821005",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "9ab24a10-209b-41a4-8dc8-77b3717e8927",
-        "title": "Software Engineer Full Stack - Prevention - Quit For Life",
-        "active": false,
-        "date_updated": 1717096188,
-        "date_posted": 1716938403,
-        "url": "https://boards.greenhouse.io/rvohealth/jobs/4424834005",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kensho",
-        "id": "8011450d-8e1e-4039-82c3-f4d88ae00484",
-        "title": "Machine Learning Engineer \u2013 2024 Grad",
-        "active": false,
-        "date_updated": 1721342185,
-        "date_posted": 1716937889,
-        "url": "https://jobs.lever.co/kensho/64f57a09-7f92-4c5b-883f-56eb92d62bf1/apply",
-        "locations": [
-            "Washington, DC",
-            "Lafayette, KS",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Kensho",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -14443,7 +14345,7 @@
         "company_name": "SingleStore",
         "id": "573cd0e4-9d92-4879-badd-b57ad4e7796b",
         "title": "Software Engineer \u2013 University Graduate - Database Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1726873933,
         "date_posted": 1726873933,
         "url": "https://boards.greenhouse.io/singlestore/jobs/6237482",
@@ -18592,7 +18494,7 @@
         "company_name": "Sierra Space",
         "id": "cd206ff9-ec4e-459f-b243-478124c8d160",
         "title": "Flight Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1734985286,
         "date_posted": 1734985286,
         "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Flight-Software-Engineer-I_R24489-1",
@@ -24024,7 +23926,7 @@
         "company_name": "Iridium Communications",
         "id": "9e8d8f00-a18c-4471-b416-da5304aa6c4f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746644336,
         "date_posted": 1746644336,
         "url": "https://careers-iridium.icims.com/jobs/4452/job",
@@ -24784,7 +24686,7 @@
         "company_name": "Leidos",
         "id": "850b915c-a584-44e6-a1e7-1e96dc61828d",
         "title": "Software Developer \u2013 Entry level",
-        "active": false,
+        "active": true,
         "date_updated": 1747871885,
         "date_posted": 1747871885,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158318",
@@ -24818,7 +24720,7 @@
         "company_name": "Fifth Third Bank",
         "id": "fc1c7b41-5706-427f-9329-264a6363cdb8",
         "title": "Data Engineer I - Finance IT",
-        "active": true,
+        "active": false,
         "date_updated": 1747866916,
         "date_posted": 1747866916,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Finance-IT_R58869",
@@ -24853,7 +24755,7 @@
         "company_name": "TD Bank",
         "id": "6b4a7d9f-7704-4b0f-8c2f-2a789ec66655",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747901772,
         "date_posted": 1747901772,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I_R_1421940",
@@ -24887,7 +24789,7 @@
         "company_name": "Chewy",
         "id": "0d2693bd-ae50-4bd9-9458-9495c19b8c9d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747960433,
         "date_posted": 1747960433,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6897739",
