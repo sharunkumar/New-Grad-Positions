@@ -11185,22 +11185,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Antithesis",
-        "id": "28089c09-15f7-471e-860d-2fef124f981e",
-        "title": "Frontend Engineer - Product/UX",
-        "active": false,
-        "date_updated": 1717053054,
-        "date_posted": 1717053054,
-        "url": "https://antithesis.breezy.hr/p/4eefa88283f5/apply",
-        "locations": [
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Antithesis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -13956,7 +13940,7 @@
         "company_name": "Tencent",
         "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
         "title": "Security Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1726111127,
         "date_posted": 1726111127,
         "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-Palo-Alto/Security-Engineer-I_R103856",
@@ -18478,7 +18462,7 @@
         "company_name": "Sierra Space",
         "id": "cd206ff9-ec4e-459f-b243-478124c8d160",
         "title": "Flight Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1734985286,
         "date_posted": 1734985286,
         "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Flight-Software-Engineer-I_R24489-1",
