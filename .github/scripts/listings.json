@@ -19532,7 +19532,7 @@
         "company_name": "Sigma Computing",
         "id": "d71158fd-1236-4451-ac4c-079e3d7f28b9",
         "title": "Software Engineer \u2013 New Grad Program",
-        "active": true,
+        "active": false,
         "date_updated": 1738800962,
         "date_posted": 1738800962,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003",
@@ -24724,6 +24724,24 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "73f2b4fb-df2f-43e9-86ca-a366f2ef271f",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1748334343,
+        "date_posted": 1748334343,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6589230003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
         "sponsorship": "Other"
     }
