@@ -24663,7 +24663,7 @@
         "company_name": "Medtronic",
         "id": "66637da9-5559-4d10-a826-072c2612f348",
         "title": "Software Engineer I - Neuro",
-        "active": true,
+        "active": false,
         "date_updated": 1748051373,
         "date_posted": 1748051373,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R29576-1",
@@ -24862,6 +24862,91 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "bfd63ca5-4bf3-434a-880d-dd0f4450f95e",
+        "title": "C/C++ and Java Software Development Engineer I",
+        "active": true,
+        "date_updated": 1748570188,
+        "date_posted": 1748570188,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/C-C---and-Java-Software-Development-Engineer-I--Onsite-_01770233",
+        "locations": [
+            "Bristol, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "5550e98f-f9ff-41ac-b243-92c980a1e204",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1748572616,
+        "date_posted": 1748572616,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8017370002",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "01d7e84d-bb34-47e2-8df0-f0763394468f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748573117,
+        "date_posted": 1748573117,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202563166",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IXL Learning",
+        "id": "4b858632-a5f2-4767-8088-55f190f02083",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1748574328,
+        "date_posted": 1748574328,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8017366002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nuro",
+        "id": "160daab9-0602-49e5-a7a5-c69a5ba5b88f",
+        "title": "Software Engineer \u2013 Autonomy-New Grad",
+        "active": true,
+        "date_updated": 1748584057,
+        "date_posted": 1748584057,
+        "url": "https://nuro.ai/careersitem?gh_jid=6932596",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
         "is_visible": true,
         "sponsorship": "Other"
     }
