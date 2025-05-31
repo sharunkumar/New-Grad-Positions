@@ -820,38 +820,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Gemini",
-        "id": "d062e142-8f84-4d97-90d1-d71e53a49c39",
-        "title": "Software Developer - Security",
-        "active": false,
-        "date_updated": 1717572332,
-        "date_posted": 1717572332,
-        "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=5905734&gh_jid=5905734",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gemini",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Dev Technology Group",
-        "id": "fff6a747-010f-422a-afcc-3f697797d3de",
-        "title": "Entry level New graduates - Computer Science/CIS",
-        "active": false,
-        "date_updated": 1717571444,
-        "date_posted": 1717571444,
-        "url": "https://boards.greenhouse.io/devfuturetalent/jobs/6926223002",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/DevTechGrp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10951,23 +10919,6 @@
             "Madison, WI"
         ],
         "company_url": "https://simplify.jobs/c/FetchRewards",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HeyGen",
-        "id": "ddef8625-d294-446b-98e4-6ec749f86ea5",
-        "title": "Frontend Software Engineer",
-        "active": false,
-        "date_updated": 1718737641,
-        "date_posted": 1717571216,
-        "url": "https://boards.greenhouse.io/heygen/jobs/4225179007",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/HeyGen",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24958,6 +24909,57 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Vertex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicell",
+        "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748658660,
+        "date_posted": 1748658660,
+        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4261",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748657041,
+        "date_posted": 1748657041,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "01a1e675-6cb4-4452-a930-98a18207e857",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748657163,
+        "date_posted": 1748657163,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10121473-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
         "is_visible": true,
         "sponsorship": "Other"
     }
