@@ -10715,22 +10715,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Mediabrands",
-        "id": "8250c475-1db8-4323-a8c6-8dbccd024f27",
-        "title": "Kinesso \u2013 Campaign Manager - Programmatic",
-        "active": false,
-        "date_updated": 1718059381,
-        "date_posted": 1717814434,
-        "url": "https://boards.greenhouse.io/mediabrands/jobs/4382486007",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mediabrands",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -24870,6 +24854,24 @@
             "Urbana, IL"
         ],
         "company_url": "https://simplify.jobs/c/Yahoo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Numeric",
+        "id": "c1940def-1b0f-4f57-8517-4b6abdb3b22a",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1748918686,
+        "date_posted": 1748918686,
+        "url": "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Numeric-IO",
         "is_visible": true,
         "sponsorship": "Other"
     }
