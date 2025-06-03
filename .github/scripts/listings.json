@@ -756,38 +756,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "c6cd12fe-2403-42c4-8c68-25d223ad9fdc",
-        "title": "Entry-Level AI Response Evaluator - Japanese - United States",
-        "active": false,
-        "date_updated": 1718045910,
-        "date_posted": 1717866586,
-        "url": "https://jobs.lever.co/welocalize/110953c3-74d5-494a-a598-1c1fa8034fbc/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
-        "title": "Associate Software Engineer in Test",
-        "active": false,
-        "date_updated": 1718150683,
-        "date_posted": 1717863833,
-        "url": "https://jobs.lever.co/veeva/8683a486-a11b-44be-8824-d3afdaa37b2d/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -10695,22 +10663,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Inari Agriculture",
-        "id": "b3178625-afcb-4ee6-a33c-208d21c3d61d",
-        "title": "Field Data Scientist",
-        "active": false,
-        "date_updated": 1717864581,
-        "date_posted": 1717864581,
-        "url": "https://boards.greenhouse.io/inariagriculture/jobs/7291700002",
-        "locations": [
-            "West Lafayette, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Inari-Agriculture",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -22411,7 +22363,7 @@
         "company_name": "Mastercard",
         "id": "848554b5-91a9-4df3-8fc6-035c8188f4b8",
         "title": "Software Engineer I - Sdet - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1744791474,
         "date_posted": 1744791474,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--SDET---Java-_R-245943",
@@ -24829,7 +24781,7 @@
         "company_name": "CACI",
         "id": "b93502c9-30b8-4122-adc8-57b52d142df9",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1748901307,
         "date_posted": 1748901307,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-VA-Sterling/Junior-Software-Developer--TS-SCI-with-Poly_308758-1",
