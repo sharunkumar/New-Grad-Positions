@@ -23880,7 +23880,7 @@
         "company_name": "Truist",
         "id": "a8bacb04-9bc6-4e63-814e-999777d2c423",
         "title": "Testing Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747439084,
         "date_posted": 1747439084,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0100249",
@@ -24663,7 +24663,7 @@
         "company_name": "Chewy",
         "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748657041,
         "date_posted": 1748657041,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
@@ -24798,7 +24798,7 @@
         "company_name": "Yahoo",
         "id": "66ecc266-39a4-49c3-9cea-bbabfb5a82cd",
         "title": "Software Dev Engineer I - Data Platforms",
-        "active": true,
+        "active": false,
         "date_updated": 1748911934,
         "date_posted": 1748911934,
         "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Software-Dev-Engineer-I--Data-Platforms_JR0025606",
@@ -24824,6 +24824,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Numeric-IO",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "41927ec0-6ad7-4e3b-9295-bac0476c0ad1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1748997800,
+        "date_posted": 1748997800,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Northridge-California-United-States-of-America/Software-Engineer-I_R33444-1",
+        "locations": [
+            "Northridge, LA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
