@@ -740,22 +740,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Catalist",
-        "id": "427c1094-38d3-48e7-b1ea-88163e62f315",
-        "title": "Absentee and Early Vote Specialist",
-        "active": false,
-        "date_updated": 1717952634,
-        "date_posted": 1717952634,
-        "url": "https://jobs.lever.co/catalist/48009878-a169-473a-89ce-9bf447c21d39/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Catalist",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -23828,7 +23812,7 @@
         "company_name": "Esri",
         "id": "4386ad33-6282-48ed-8f6c-e5cd45f12e04",
         "title": "C++ Software Engineer I - Maps Sdks",
-        "active": true,
+        "active": false,
         "date_updated": 1747433617,
         "date_posted": 1747433617,
         "url": "https://www.esri.com/careers/4735889007?gh_jid=4735889007",
