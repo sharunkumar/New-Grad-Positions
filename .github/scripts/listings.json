@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Autotrader.ca",
-        "id": "d7bde62b-4a19-4146-80b5-4acdf159c540",
-        "title": "Junior Android Engineer",
-        "active": false,
-        "date_updated": 1718039117,
-        "date_posted": 1718039117,
-        "url": "https://jobs.lever.co/trader/c73888ca-83f5-44b3-a01a-27eee2e2e572/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/AutoTrader-CA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
         "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
@@ -23345,7 +23329,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -24630,7 +24614,7 @@
         "company_name": "Omnicell",
         "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748658660,
         "date_posted": 1748658660,
         "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4261",
@@ -24947,6 +24931,40 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicell",
+        "id": "e55927c8-69f7-49bd-b1cd-7427d9c9187b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749159921,
+        "date_posted": 1749159921,
+        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4131",
+        "locations": [
+            "Cranberry Twp, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "ccaa4fb3-137f-4ce7-b7b5-a514e4564bde",
+        "title": "Software Engineer I - C++",
+        "active": true,
+        "date_updated": 1749162410,
+        "date_posted": 1749162410,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--C-------Onsite-_01740652",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
