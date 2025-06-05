@@ -23345,7 +23345,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -23899,7 +23899,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -24071,7 +24071,7 @@
         "company_name": "Cox",
         "id": "565ee00e-b9fc-43bb-a494-b240d1f2f772",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1747850798,
         "date_posted": 1747850798,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I_R202561161",
@@ -24681,7 +24681,7 @@
         "company_name": "Jerry",
         "id": "0ded481a-71ef-48cd-ac34-ea790e58826f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748890885,
         "date_posted": 1748890885,
         "url": "https://jobs.ashbyhq.com/Jerry/5ca08967-fa9e-48d2-89a3-cb1d0d191d25/application",
@@ -24699,7 +24699,7 @@
         "company_name": "Jerry",
         "id": "e9f8bb59-dad9-4b95-89cd-7734a5e13f56",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748894912,
         "date_posted": 1748894912,
         "url": "https://jobs.ashbyhq.com/Jerry/9b0f472a-e1a2-484b-af4b-53134df3e39d/application",
@@ -24826,6 +24826,75 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Half",
+        "id": "67d731ce-37eb-43b4-a4c3-2b18b95de638",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1749063361,
+        "date_posted": 1749063361,
+        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-257276-1",
+        "locations": [
+            "San Ramon, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Robert-Half",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magical",
+        "id": "c4525cfe-fce3-483f-ab1d-50ad350da242",
+        "title": "Software Engineer \u2013 New Grad - AI",
+        "active": true,
+        "date_updated": 1749065450,
+        "date_posted": 1748567513,
+        "url": "https://jobs.ashbyhq.com/magical/5d001754-2817-44d0-af08-a36525848a15/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/82f71d0b-1b62-419e-a151-644b20c06ecd",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "USAA",
+        "id": "0b713de4-99ed-4f04-9774-87d58d2fd092",
+        "title": "Data Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1749073264,
+        "date_posted": 1749073264,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer---Entry-Level_R0109984",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "0b9b6974-8f0d-4554-a8cf-0b1ef24954aa",
+        "title": "Software Engineer I - Foundation",
+        "active": true,
+        "date_updated": 1749082663,
+        "date_posted": 1749082663,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
+        "locations": [
+            "Seattle, WA",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
