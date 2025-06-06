@@ -23397,7 +23397,7 @@
         "company_name": "Amentum",
         "id": "81381128-7fa7-4edc-888e-63057efd025b",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1746731824,
         "date_posted": 1746731824,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0138996",
@@ -23883,7 +23883,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -24870,7 +24870,7 @@
         "company_name": "Qualtrics",
         "id": "0b9b6974-8f0d-4554-a8cf-0b1ef24954aa",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1749082663,
         "date_posted": 1749082663,
         "url": "https://www.qualtrics.com/careers/us/en/job/6808655?gh_jid=6808655",
@@ -24965,6 +24965,91 @@
             "Fulton, MD"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "376b97b2-4585-4174-8a8f-96c650222429",
+        "title": "Hardware Engineer I",
+        "active": true,
+        "date_updated": 1749164795,
+        "date_posted": 1749164795,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I--_R33867",
+        "locations": [
+            "Lafayette, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "8f892f39-ee4b-4b15-b635-682274f05a01",
+        "title": "Data Engineer I - Regulatory Reporting",
+        "active": true,
+        "date_updated": 1749165633,
+        "date_posted": 1749165633,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Regulatory-Reporting_R59266",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "9d9be120-9661-444e-a7ca-085385022fd3",
+        "title": "Software Engineer I - Java",
+        "active": true,
+        "date_updated": 1749166369,
+        "date_posted": 1749166369,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01732642",
+        "locations": [
+            "Fulton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "d28356e9-a49a-4ccf-bf5b-232d2e9daa56",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1749166278,
+        "date_posted": 1749166278,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-1_R202563453",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "ae667c1a-7742-4562-97ee-c695209e879f",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1749156687,
+        "date_posted": 1749156687,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
         "is_visible": true,
         "sponsorship": "Other"
     }
