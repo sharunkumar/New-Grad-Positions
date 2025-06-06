@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "61f56def-c822-4305-b5f3-b91e8a14d41a",
-        "title": "System Software Engineer \u2013 New College Grad 2024 - Graphics Developer Tool",
-        "active": false,
-        "date_updated": 1718098999,
-        "date_posted": 1718098999,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/System-Software-Engineer--Graphics-Developer-Tool---New-College-Grad-2024_JR1981743-1",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Search Discovery",
         "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
         "title": "Data Engineer I",
@@ -703,22 +686,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Collectors",
-        "id": "d4fd6201-30ef-4275-9ff9-2fd819148233",
-        "title": "Research Specialist - PM Shift - Temp-to-hire",
-        "active": false,
-        "date_updated": 1719342980,
-        "date_posted": 1718100679,
-        "url": "https://boards.greenhouse.io/collectorsuniverse/jobs/5200906004",
-        "locations": [
-            "Orange, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Collectors",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24555,7 +24522,7 @@
         "company_name": "The Walt Disney Company",
         "id": "985a1ce5-abec-447c-a212-73c296f3978b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748629806,
         "date_posted": 1748629806,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Software-Engineer-I_10122274",
@@ -25050,6 +25017,23 @@
             "Dahlgren, VA"
         ],
         "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "a4e7658a-a929-45c6-9253-9296e7897bcd",
+        "title": "Engineer 1 - Software Dev/Eng - Full Stack",
+        "active": true,
+        "date_updated": 1749191553,
+        "date_posted": 1749191553,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev-Eng-----Full-Stack_R413401",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
         "is_visible": true,
         "sponsorship": "Other"
     }
