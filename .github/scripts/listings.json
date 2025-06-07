@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Search Discovery",
-        "id": "78b06b8d-21a2-4ad0-896c-0a51dfb8318f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1718187003,
-        "date_posted": 1718187003,
-        "url": "https://boards.greenhouse.io/searchdiscovery/jobs/6034491",
-        "locations": [
-            "Cleveland, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/SearchDiscovery",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "UiPath",
-        "id": "5e9167d8-f42f-4865-adc7-5e6603ba4a87",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718186466,
-        "date_posted": 1718186466,
-        "url": "https://careers.uipath.com/jobs/9169?lang=en-us&icims=1",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Kalderos",
         "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
         "title": "Software Engineer I",
@@ -670,22 +638,6 @@
             "Orange, CA"
         ],
         "company_url": "https://simplify.jobs/c/Collectors",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "21048f42-2611-411d-b407-13af2c43dc82",
-        "title": "Part Time \u2013 Clinical Robot Associate - Chicago - IL",
-        "active": false,
-        "date_updated": 1718189535,
-        "date_posted": 1718189535,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6021249003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -10534,54 +10486,6 @@
             "Miami, FL"
         ],
         "company_url": "https://simplify.jobs/c/Analytic-Partners",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jane Street",
-        "id": "056851ba-b215-43e6-963e-a13802e20e6a",
-        "title": "Trading Desk Operations Engineer",
-        "active": false,
-        "date_updated": 1718188007,
-        "date_posted": 1718188007,
-        "url": "https://boards.greenhouse.io/janestreet/jobs/7486198002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "c564cfe1-469c-471a-8545-5e762290eaa7",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718185705,
-        "date_posted": 1718185705,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405275005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "a924361a-b8a7-467b-b019-02692cd4d389",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718176903,
-        "date_posted": 1718176903,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405272005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
         "is_visible": true,
         "sponsorship": "Other"
     },
