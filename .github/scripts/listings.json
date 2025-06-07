@@ -20561,7 +20561,7 @@
         "company_name": "Radiant",
         "id": "3430703f-ad5d-4462-ad0c-63f3bd7bea59",
         "title": "Software Engineer \u2013 New Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1741909038,
         "date_posted": 1741909038,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4540308005",
@@ -24804,7 +24804,7 @@
         "company_name": "USAA",
         "id": "0b713de4-99ed-4f04-9774-87d58d2fd092",
         "title": "Data Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1749073264,
         "date_posted": 1749073264,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer---Entry-Level_R0109984",
@@ -25053,6 +25053,23 @@
             "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Relativity Space",
+        "id": "18a63e15-0822-4fcf-965d-19765771fb6b",
+        "title": "Software Engineer I - Factory Platform",
+        "active": true,
+        "date_updated": 1749265082,
+        "date_posted": 1749265082,
+        "url": "https://boards.greenhouse.io/relativity/jobs/8029393002",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Relativity-Space",
         "is_visible": true,
         "sponsorship": "Other"
     }
