@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Kalderos",
-        "id": "e74ead1f-1d0b-438d-a594-37dc9b21096f",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718302393,
-        "date_posted": 1718302393,
-        "url": "https://www.kalderos.com/company/job-board/?gh_jid=6024016003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kalderos",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Aquatic Capital Management",
         "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
         "title": "Software Engineer \u2013 Data: Early Career - 2024",
@@ -10150,22 +10134,6 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/PitchBook",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DeepMind",
-        "id": "15a0fab8-36e5-4f37-815e-452bbfc01b09",
-        "title": "Research Engineer - Foundational Research - New York",
-        "active": false,
-        "date_updated": 1718300453,
-        "date_posted": 1718300453,
-        "url": "https://boards.greenhouse.io/deepmind/jobs/6038986",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DeepMind",
         "is_visible": true,
         "sponsorship": "Other"
     },
