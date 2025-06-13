@@ -258,70 +258,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Iterative Health",
-        "id": "2dd7617b-c54d-4b85-be29-5cc84821ee2d",
-        "title": "Software Engineer I - Backend - Future Openings",
-        "active": false,
-        "date_updated": 1718724485,
-        "date_posted": 1718724485,
-        "url": "https://boards.greenhouse.io/iterativehealth/jobs/4009474006",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Iterative-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Welocalize",
-        "id": "350cfdb9-8982-41e4-8e05-f3f740c15a6e",
-        "title": "Scout Search Quality Rater - English - UK",
-        "active": false,
-        "date_updated": 1718724477,
-        "date_posted": 1718724477,
-        "url": "https://jobs.lever.co/welocalize/70522b25-5543-4fa1-a511-158e27a64386/apply",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Athelas",
-        "id": "108c9c55-7901-4e73-b817-4d3d6a1a7aca",
-        "title": "Data Operator",
-        "active": false,
-        "date_updated": 1718935188,
-        "date_posted": 1718724082,
-        "url": "https://jobs.ashbyhq.com/Athelas/ecf25b57-433f-4918-ae71-9c317972003b/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Athelas",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Unit 410",
-        "id": "1e66673e-4924-4fd2-9ebc-d52391ce2c94",
-        "title": "Protocol Specialist - Remote USA",
-        "active": false,
-        "date_updated": 1718723619,
-        "date_posted": 1718723619,
-        "url": "https://boards.greenhouse.io/u410/jobs/4615762004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Unit410",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -8385,86 +8321,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "StackAdapt",
-        "id": "4a303fc6-b4a8-437b-95d0-0de1c51e3867",
-        "title": "Software Engineer - Creatives Library",
-        "active": false,
-        "date_updated": 1718724683,
-        "date_posted": 1718724683,
-        "url": "https://jobs.lever.co/stackadapt/d2d0b5a0-afc5-4683-ac21-86f8f012b3fa/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/StackAdapt",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Canonical",
-        "id": "9ed0b3c6-f19e-4bdb-a31f-12fc5341d0a6",
-        "title": "Python Software Engineer - Ubuntu Hardware Certification Team",
-        "active": false,
-        "date_updated": 1718724514,
-        "date_posted": 1718724514,
-        "url": "https://boards.greenhouse.io/canonical/jobs/3658005",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Canonical",
-        "id": "ed31b8e0-323c-479c-a917-6feeaf19b08a",
-        "title": "C \u2013 Golang Software Engineer working on dqlite - A Raft extension for Sqlite",
-        "active": false,
-        "date_updated": 1718724485,
-        "date_posted": 1718724485,
-        "url": "https://boards.greenhouse.io/canonical/jobs/4124053",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "5f818d9a-3550-4141-8365-f09d0934603d",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718723597,
-        "date_posted": 1718723597,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405257005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "minware",
-        "id": "3f72afe2-6ca4-49c5-9287-d887cf33cada",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718723598,
-        "date_posted": 1718723598,
-        "url": "https://boards.greenhouse.io/minware/jobs/4405261005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Minware",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -15219,7 +15075,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -23377,6 +23233,24 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ultra Intelligence and Communications",
+        "id": "cedf7e11-ae68-4da5-bc0b-3ad19e7e6400",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1749839034,
+        "date_posted": 1749839034,
+        "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Austin-TX-United-States/Software-Engineer-1_REQ-10426",
+        "locations": [
+            "Austin, TX",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
         "is_visible": true,
         "sponsorship": "Other"
     }
