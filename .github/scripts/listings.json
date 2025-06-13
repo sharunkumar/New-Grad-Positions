@@ -467,86 +467,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Flashpoint",
-        "id": "301eeae6-5b80-45a4-835f-bc98589abcda",
-        "title": "Analyst I \u2013 Ttm",
-        "active": false,
-        "date_updated": 1718690594,
-        "date_posted": 1718690594,
-        "url": "https://boards.greenhouse.io/flashpoint/jobs/7484820002",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Flashpoint",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Relativity Space",
-        "id": "1cc524d1-1445-4640-be84-25f75c639783",
-        "title": "Software Simulation Engineer I",
-        "active": false,
-        "date_updated": 1718686331,
-        "date_posted": 1718686331,
-        "url": "https://boards.greenhouse.io/relativity/jobs/7060327002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zynga",
-        "id": "66456b67-de24-458e-b54b-7400b7645657",
-        "title": "Software Engineer-1",
-        "active": false,
-        "date_updated": 1718684362,
-        "date_posted": 1718684362,
-        "url": "https://boards.greenhouse.io/zynga/jobs/4389760004",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zynga",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "1848Ventures",
-        "id": "0fccd011-c22c-44f7-8dfb-20abb46936b1",
-        "title": "Technologist",
-        "active": false,
-        "date_updated": 1718680216,
-        "date_posted": 1718680216,
-        "url": "https://boards.greenhouse.io/1848ventures/jobs/5188690004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/1848Ventures",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "812962c5-6789-41ec-bbe4-c125a05a17e7",
-        "title": "Software Engineer - NY Remote",
-        "active": false,
-        "date_updated": 1718678235,
-        "date_posted": 1718678235,
-        "url": "https://jobs.lever.co/prelim/0acefd90-0d1a-491f-a4b2-f4e037e223eb/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -9698,266 +9618,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/collectivei",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Neuralink",
-        "id": "3f8bbf3b-52b5-460d-a1ea-0e226ad54850",
-        "title": "Software Engineer - Lab Systems",
-        "active": false,
-        "date_updated": 1718690513,
-        "date_posted": 1718690513,
-        "url": "https://boards.greenhouse.io/neuralink/jobs/5996423003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuralink",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "adMarketplace",
-        "id": "f6ea6ba6-6d9c-4479-84c4-d79bd8416f2b",
-        "title": "Publisher Specialist",
-        "active": false,
-        "date_updated": 1719861840,
-        "date_posted": 1718690496,
-        "url": "https://job-boards.greenhouse.io/admarketplaceinc/jobs/4423779005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/adMarketplace",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "DoorDash",
-        "id": "98b5dbcd-11f2-4982-80b9-01a3d3aac014",
-        "title": "Software Engineer - IOS - All Teams",
-        "active": false,
-        "date_updated": 1718690311,
-        "date_posted": 1718690311,
-        "url": "https://boards.greenhouse.io/doordash/jobs/5630454",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/DoorDash",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "0936efbe-81ee-4310-a397-2f579dbc5f8b",
-        "title": "Full Stack Software Engineer - Android",
-        "active": false,
-        "date_updated": 1720638967,
-        "date_posted": 1718689987,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4159488007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Anduril",
-        "id": "835794ef-10d6-499f-9c57-e599f82db24f",
-        "title": "Software Engineer - Tracking & Estimation",
-        "active": false,
-        "date_updated": 1718687490,
-        "date_posted": 1718687490,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4385520007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Applied Intuition",
-        "id": "c3f410a8-8f78-454f-bcaa-44937fb9268b",
-        "title": "Software Engineer - Rendering",
-        "active": false,
-        "date_updated": 1718686920,
-        "date_posted": 1718686920,
-        "url": "https://boards.greenhouse.io/appliedintuition/jobs/4045255005",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rockstar Games",
-        "id": "6b229989-ce50-448f-ad7e-d8dfcfec521b",
-        "title": "LLVM Compiler Engineer",
-        "active": false,
-        "date_updated": 1718685625,
-        "date_posted": 1718685625,
-        "url": "https://boards.greenhouse.io/rockstargames/jobs/6025934003",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Rockstar-Games",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GitLab",
-        "id": "df2dad71-a30e-49dd-9d0f-9c337ea7be97",
-        "title": "Backend Engineer - Plan: Project Management",
-        "active": false,
-        "date_updated": 1718684885,
-        "date_posted": 1718684885,
-        "url": "https://boards.greenhouse.io/gitlab/jobs/7500534002",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GitLab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Plusgrade",
-        "id": "1e428061-1c92-4c20-9f03-a52fb1628ced",
-        "title": "API Specialist - Delivery Integrations/Sp\u00e9cialiste API Int\u00e9grations de Livraison",
-        "active": false,
-        "date_updated": 1718683371,
-        "date_posted": 1718683371,
-        "url": "https://jobs.lever.co/plusgrade/64ebfd9f-100a-4365-b99b-06a2118bdc57/apply",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Plusgrade",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "MongoDB",
-        "id": "fbbb8fdf-dc67-4a60-9b5d-0924ff410792",
-        "title": "Software Engineer - Data Platforms",
-        "active": false,
-        "date_updated": 1718682643,
-        "date_posted": 1718682643,
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=6032860",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MongoDB",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "1848Ventures",
-        "id": "8a4610c2-e756-4ec4-8ba4-e10b53002830",
-        "title": "Full Stack Software Engineer",
-        "active": false,
-        "date_updated": 1718680167,
-        "date_posted": 1718680167,
-        "url": "https://boards.greenhouse.io/1848ventures/jobs/5188687004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/1848Ventures",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Paperless Parts",
-        "id": "06f1b371-cd1b-4875-9468-19e200e642f2",
-        "title": "Services Engineer",
-        "active": false,
-        "date_updated": 1718679085,
-        "date_posted": 1718679085,
-        "url": "https://boards.greenhouse.io/paperlessparts/jobs/4433480005",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Paperless-Parts",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vistar Media",
-        "id": "f9981157-e2a3-4a4b-bcea-737710986724",
-        "title": "Frontend Web Designer",
-        "active": false,
-        "date_updated": 1718678421,
-        "date_posted": 1718678421,
-        "url": "https://jobs.lever.co/vistarmedia-2/c16e37c7-ff82-42a9-a3c6-140e59d57a27/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vistar-Media",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Prelim",
-        "id": "b397470e-94bc-43ab-b29c-40523d1b4131",
-        "title": "Software Engineer - SF Remote",
-        "active": false,
-        "date_updated": 1720485653,
-        "date_posted": 1718678234,
-        "url": "https://jobs.lever.co/prelim/8a0cfbf8-9613-40d9-8817-0967374678b5/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "EVgo",
-        "id": "edd00004-3d15-4b7e-b6fe-942ed744a9eb",
-        "title": "Firmware Developer - Linux System",
-        "active": false,
-        "date_updated": 1718677611,
-        "date_posted": 1718677611,
-        "url": "https://jobs.jobvite.com/evgo/job/ovtNtfwY?nl=1&nl=1&fr=false",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/EVgo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Niantic",
-        "id": "8e5b89ce-0971-457e-8d69-daf3a270bf94",
-        "title": "Software Engineer - Web/Fullstack",
-        "active": false,
-        "date_updated": 1718910660,
-        "date_posted": 1718676085,
-        "url": "https://boards.greenhouse.io/niantic/jobs/7500843002",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Niantic",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24625,7 +24285,7 @@
         "company_name": "RTX",
         "id": "c0d2de5a-494d-4e7c-942a-21081d454716",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749607045,
         "date_posted": 1749607045,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01773128",
@@ -24659,7 +24319,7 @@
         "company_name": "RTX",
         "id": "10af6c3d-717c-4f0c-a470-f52b5512a65d",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749631263,
         "date_posted": 1749631263,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01772591",
@@ -24840,6 +24500,40 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/TacoBell",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "b2aecd49-2ada-460b-9b3e-775b0c71003a",
+        "title": "Software Engineer I - Embedded Communications",
+        "active": true,
+        "date_updated": 1749783195,
+        "date_posted": 1749783195,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01773093",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist",
+        "id": "e8846f3e-12aa-49cf-ab4d-4da7f4c97fd6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749785404,
+        "date_posted": 1749785404,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103645",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
     }
