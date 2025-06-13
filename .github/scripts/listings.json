@@ -9962,22 +9962,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "TruckSmarter",
-        "id": "d05836a0-6e59-4fdd-9f63-9284fd6c3f66",
-        "title": "Product Engineer - Fintech",
-        "active": false,
-        "date_updated": 1718665582,
-        "date_posted": 1718665582,
-        "url": "https://jobs.ashbyhq.com/trucksmarter/343d6b44-b27b-4238-96d6-88c53223d49d/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/TruckSmarter",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -22656,7 +22640,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -24537,7 +24521,7 @@
         "company_name": "Esri",
         "id": "7bacd203-41b1-43fe-9233-014b3b7ae09d",
         "title": "3D Software Engineer I - Scene Layers",
-        "active": true,
+        "active": false,
         "date_updated": 1749541482,
         "date_posted": 1749541482,
         "url": "https://www.esri.com/careers/4756374007?gh_jid=4756374007",
@@ -24822,6 +24806,40 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
+        "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
+        "active": true,
+        "date_updated": 1749762513,
+        "date_posted": 1749762513,
+        "url": "https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Taco Bell",
+        "id": "8e36922e-f0b8-456e-973f-d5be216fc17f",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1749762927,
+        "date_posted": 1749762927,
+        "url": "https://job-boards.greenhouse.io/tacobell/jobs/6843093",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TacoBell",
         "is_visible": true,
         "sponsorship": "Other"
     }
