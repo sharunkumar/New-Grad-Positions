@@ -23131,7 +23131,7 @@
         "company_name": "Truist",
         "id": "ceb4bb2b-1182-4adb-aad0-7cde078e9465",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749853698,
         "date_posted": 1749853698,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103666-1",
@@ -23139,6 +23139,23 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Truist",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749876528,
+        "date_posted": 1749876528,
+        "url": "https://jobs.ashbyhq.com/Jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
