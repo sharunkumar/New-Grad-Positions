@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "fb85f521-0b44-4728-bb9f-3a936fdf0eae",
-        "title": "Software Engineer \u2013 Data: Early Career - 2024",
-        "active": false,
-        "date_updated": 1718752972,
-        "date_posted": 1718752972,
-        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7500291002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wayfair",
         "id": "c43c87c7-9e74-4bd1-b164-5b2dc4eb1276",
         "title": "Software Engineer I - IOS",
@@ -221,38 +204,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ZoomInfo",
-        "id": "821b71bf-cfc9-414c-b2a3-3b2951ff2786",
-        "title": "Research Specialist I",
-        "active": false,
-        "date_updated": 1718752390,
-        "date_posted": 1718752390,
-        "url": "https://www.zoominfo.com/about/careers?gh_jid=7493560002",
-        "locations": [
-            "Vancouver, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZoomInfo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ZoomInfo",
-        "id": "f4ce9800-558b-4263-b331-953cfaadea19",
-        "title": "Research Specialist I",
-        "active": false,
-        "date_updated": 1718752389,
-        "date_posted": 1718752389,
-        "url": "https://www.zoominfo.com/about/careers?gh_jid=7493615002",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZoomInfo",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -8237,86 +8188,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/VideoAmp",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Xylem",
-        "id": "b861d4aa-a6a8-47fb-8691-50b0b6d9a635",
-        "title": "Application Engineer II",
-        "active": false,
-        "date_updated": 1718753194,
-        "date_posted": 1718753194,
-        "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Holland-Michigan/Application-Engineer-II_R36273",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Xylem",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Datadog",
-        "id": "03469f3d-49da-4324-8d34-a2c003656dd4",
-        "title": "Manager I \u2013 Engineering - Data Streams Monitoring",
-        "active": false,
-        "date_updated": 1719516598,
-        "date_posted": 1718753167,
-        "url": "https://careers.datadoghq.com/detail/6050566/?gh_jid=6050566",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Datadog",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ReadMe",
-        "id": "42cc2b67-e0be-4f6e-9532-89b18b10795b",
-        "title": "Front End Engineer",
-        "active": false,
-        "date_updated": 1718962658,
-        "date_posted": 1718752114,
-        "url": "https://jobs.ashbyhq.com/readme/83dca29c-e9f5-4c2d-a251-37b9fab0b6e9/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ReadMe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Niantic",
-        "id": "8f783523-ce84-4295-9563-7d565f4ad122",
-        "title": "Software Engineer - Web/Fullstack",
-        "active": false,
-        "date_updated": 1718910716,
-        "date_posted": 1718751976,
-        "url": "https://boards.greenhouse.io/niantic/jobs/7500987002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Niantic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Fullscript",
-        "id": "474e5f13-28e2-483b-bffe-0209bdf0351c",
-        "title": "Fullstack Developer - Canada",
-        "active": false,
-        "date_updated": 1718751948,
-        "date_posted": 1718751948,
-        "url": "https://jobs.lever.co/fullscript/47b17fb0-7242-4b1a-a091-39e41c584b2b/apply",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/FullScript",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -22931,7 +22802,7 @@
         "company_name": "Jerry",
         "id": "8bd18807-d5ab-46a2-a54e-7dea706dd5c8",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749522423,
         "date_posted": 1749522423,
         "url": "https://jobs.ashbyhq.com/Jerry/0ec66e16-fad9-470c-be90-19a3e23c34f8/application",
@@ -22949,7 +22820,7 @@
         "company_name": "Jerry",
         "id": "ad5ce0cf-12b0-4661-adcf-824d965cdecb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749518786,
         "date_posted": 1749518786,
         "url": "https://jobs.ashbyhq.com/Jerry/38d57863-8edb-43fa-8f5e-ffc81e34aad6/application",
@@ -23225,7 +23096,7 @@
         "company_name": "Truist",
         "id": "e8846f3e-12aa-49cf-ab4d-4da7f4c97fd6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749785404,
         "date_posted": 1749785404,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103645",
@@ -23251,6 +23122,23 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/Ultra-Intelligence-And-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist",
+        "id": "ceb4bb2b-1182-4adb-aad0-7cde078e9465",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1749853698,
+        "date_posted": 1749853698,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103666-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
     }
