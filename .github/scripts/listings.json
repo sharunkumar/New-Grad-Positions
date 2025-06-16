@@ -1,37 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "SimpliSafe",
-        "id": "4623274c-aa5b-4987-abb6-0d44af521387",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718982721,
-        "date_posted": 1718982721,
-        "url": "https://boards.greenhouse.io/simplisafe/jobs/6019248",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/SimpliSafe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Advanced Technology Services (ATS)",
-        "id": "34a2109e-c491-4143-b156-39bfa8cf7b98",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1718983575,
-        "date_posted": 1718983575,
-        "url": "https://boards.greenhouse.io/advancedtechnologyservices/jobs/4378598006",
-        "locations": [
-            "Peoria, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Technology-Services",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719426621,
         "url": "https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us",
         "company_name": "Amazon",
@@ -7791,22 +7759,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "ElevenLabs",
-        "id": "e01a4b1d-a57d-467f-b331-cc2482db514d",
-        "title": "Fullstack Engineer - Frontend Leaning",
-        "active": false,
-        "date_updated": 1718982381,
-        "date_posted": 1718982381,
-        "url": "https://jobs.ashbyhq.com/elevenlabs/ef90b176-ca78-42bd-880a-bab3b0533629/application",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ElevenLabs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Arc'teryx Equipment",
         "id": "0e56e773-e292-45a7-ae76-0ad442cc6c88",
         "title": "Materials Coordinator",
@@ -7818,22 +7770,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Arcteryx-Equipment",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Snyk",
-        "id": "e31d84dd-04d2-4eb8-8955-0cf42ab0b33b",
-        "title": "Software Engineer - Appsec Admin Team",
-        "active": false,
-        "date_updated": 1718983356,
-        "date_posted": 1718983356,
-        "url": "https://boards.greenhouse.io/snyk/jobs/7053383002",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Snyk",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -22826,7 +22762,7 @@
         "company_name": "Jerry",
         "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749876528,
         "date_posted": 1749876528,
         "url": "https://jobs.ashbyhq.com/Jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e/application",
@@ -22843,7 +22779,7 @@
         "company_name": "Jerry",
         "id": "9c2e0bd7-2137-475b-a7db-80b592a9801b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1749867696,
         "date_posted": 1749867696,
         "url": "https://jobs.ashbyhq.com/Jerry/3be6e143-ee06-4a70-be7d-c329b06c39dc/application",
