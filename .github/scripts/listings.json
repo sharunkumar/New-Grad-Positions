@@ -19471,7 +19471,7 @@
         "id": "944e985f-b58f-4373-8d24-a453b692eb61",
         "title": "Software Developer \u2013 Entry Level",
         "active": true,
-        "date_updated": 1744912668,
+        "date_updated": 1750205446,
         "date_posted": 1744912668,
         "url": "https://careers-sev1tech.icims.com/jobs/8793/job",
         "locations": [
@@ -19479,7 +19479,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Sev1Tech",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -22188,7 +22188,7 @@
         "company_name": "N1",
         "title": "New Grad Software Engineer (Full Stack)",
         "locations": [
-            "New York"
+            "New York City"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -22204,7 +22204,7 @@
         "company_name": "N1",
         "title": "New Grad Software Engineer (Backend Rust)",
         "locations": [
-            "New York"
+            "New York City"
         ],
         "sponsorship": "Other",
         "active": true,
@@ -22581,7 +22581,7 @@
         "company_name": "RTX",
         "id": "b2aecd49-2ada-460b-9b3e-775b0c71003a",
         "title": "Software Engineer I - Embedded Communications",
-        "active": true,
+        "active": false,
         "date_updated": 1749783195,
         "date_posted": 1749783195,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01773093",
@@ -22597,9 +22597,9 @@
         "category": "Software",
         "company_name": "Truist",
         "id": "e8846f3e-12aa-49cf-ab4d-4da7f4c97fd6",
-        "title": "Software Engineer I",
+        "title": "Software Engineer I (broken link)",
         "active": false,
-        "date_updated": 1749785404,
+        "date_updated": 1750205162,
         "date_posted": 1749785404,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103645",
         "locations": [
@@ -22615,7 +22615,7 @@
         "company_name": "Ultra Intelligence and Communications",
         "id": "cedf7e11-ae68-4da5-bc0b-3ad19e7e6400",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1749839034,
         "date_posted": 1749839034,
         "url": "https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Austin-TX-United-States/Software-Engineer-1_REQ-10426",
@@ -22720,7 +22720,7 @@
         "company_name": "The Boeing Company",
         "id": "b3d80b7e-302f-434c-b82a-09ceaf1236ff",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1750124976,
         "date_posted": 1750124976,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Software-Engineer_JR2025460122",
@@ -22730,5 +22730,38 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "7shifts",
+        "id": "ee439f91-f222-4f4b-b52e-b24be8115ef9",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1750200688,
+        "date_posted": 1750200688,
+        "url": "https://job-boards.greenhouse.io/7shifts/jobs/5563827004",
+        "locations": [
+            "Saskatoon, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/7shifts",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1750205383,
+        "url": "https://tally.so/r/w27qjg",
+        "company_name": "Anant LLC",
+        "title": "SWE Internships",
+        "locations": [
+            "Remote"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "yugoyal",
+        "id": "4ef08c3e-00d3-440f-a824-752a576b198c",
+        "date_posted": 1750205383,
+        "company_url": "",
+        "is_visible": true
     }
 ]
