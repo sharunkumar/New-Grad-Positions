@@ -18431,7 +18431,7 @@
         "company_name": "Remitly",
         "id": "832ca7f0-45a2-4707-9ac2-4c0674aaedb1",
         "title": "Software Development Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1743357030,
         "date_posted": 1743357030,
         "url": "https://remitly.wd5.myworkdayjobs.com/en-US/Remitly_Careers/job/Seattle-Washington-United-States/Software-Development-Engineer-I_R_103823",
@@ -22462,7 +22462,7 @@
         "company_name": "Relativity Space",
         "id": "92b236e9-f2d6-4b02-a956-0ec292ed153f",
         "title": "Software Engineer I - Factory Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1749693098,
         "date_posted": 1749693098,
         "url": "https://boards.greenhouse.io/relativity/jobs/8031811002",
@@ -22812,6 +22812,57 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Persona",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mastercard",
+        "id": "43f86bfa-7d47-4228-9767-3c94d9ec1da3",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750268193,
+        "date_posted": 1750268193,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Software-Engineer-I_R-250678",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "19e0d219-85b8-4674-9848-3e389008dc36",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1750287746,
+        "date_posted": 1750287746,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Data-Engineer-I_R0397492-2",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Iridium Communications",
+        "id": "88d62a54-4381-44b9-8b96-9e584cc2e849",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750298243,
+        "date_posted": 1750298243,
+        "url": "https://careers-iridium.icims.com/jobs/4453/job",
+        "locations": [
+            "Tempe, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
         "is_visible": true,
         "sponsorship": "Other"
     }
