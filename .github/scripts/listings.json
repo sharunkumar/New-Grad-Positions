@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Future Publishing",
-        "id": "b96c02e2-b956-4e9e-abe1-0a11bc680517",
-        "title": "AI Writer \u2013 Techradar",
-        "active": false,
-        "date_updated": 1719329394,
-        "date_posted": 1719329394,
-        "url": "https://apply.workable.com/futureplc/j/A4ED85D19C/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Future-Publishing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Stoke Space",
-        "id": "2bf62290-baf6-4c1e-9842-086e8fad8d78",
-        "title": "Full Stack Software Development Engineer",
-        "active": false,
-        "date_updated": 1719328076,
-        "date_posted": 1719328076,
-        "url": "https://stokespace.com/careers/current-openings?gh_jid=5215279004",
-        "locations": [
-            "Kent, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stoke-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "DriveWealth",
         "id": "26da0bd0-a5c8-4b7a-bcf8-27f6089aae60",
         "title": "Software Development Engineer 1",
@@ -7466,22 +7434,6 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Shipt",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "ProcessUnity",
-        "id": "29d1ad73-a2db-456d-a077-5f3a0ef49f04",
-        "title": "Gainsight Administrator",
-        "active": false,
-        "date_updated": 1719328153,
-        "date_posted": 1719328153,
-        "url": "https://jobs.lever.co/processunity/254aa155-3c02-4145-a76c-fc84f7dc9325/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/ProcessUnity",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -22477,7 +22429,7 @@
         "company_name": "Jerry",
         "id": "16661010-6f98-42f0-a289-1249e8f0229a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750102159,
         "date_posted": 1750102159,
         "url": "https://jobs.ashbyhq.com/Jerry/64d4add5-42e3-4aa9-8c30-7ce523fc2a44/application",
@@ -22495,7 +22447,7 @@
         "company_name": "Jerry",
         "id": "ae4410d5-8cda-46a8-bf56-e0c379c0545a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750102159,
         "date_posted": 1750102159,
         "url": "https://jobs.ashbyhq.com/Jerry/266b0e9f-d33f-4eab-893c-f600c0b934d5/application",
@@ -22562,7 +22514,7 @@
         "company_name": "Twilio",
         "id": "6d485416-e467-4c79-8a6d-8b6d37a05876",
         "title": "Software Engineer \u2013 Early Career - Messaging API",
-        "active": true,
+        "active": false,
         "date_updated": 1750215193,
         "date_posted": 1750215193,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/6987416",
@@ -22706,6 +22658,41 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "e7129816-7d92-4580-bc0e-0da3dd1a62fb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750436128,
+        "date_posted": 1750436128,
+        "url": "https://jobs.ashbyhq.com/Jerry/1e185141-a0c5-46c6-bf7c-c42a0f1dac12/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1b9327e4-a4b6-4ed8-b0aa-2f8f9f2d82ce",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750436127,
+        "date_posted": 1750436127,
+        "url": "https://jobs.ashbyhq.com/Jerry/a15ab174-75f1-4fb9-aebc-1d150fe37c85/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
