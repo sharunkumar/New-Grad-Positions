@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1719426621,
-        "url": "https://www.amazon.jobs/en/jobs/2644301/software-development-engineer-2024-us",
-        "company_name": "Amazon",
-        "title": "Software Development Enginner - New Grad (2024)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "yan-michael",
-        "id": "4187daf4-4e7f-4787-87e7-354316c8750e",
-        "date_posted": 1719266198,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Future Publishing",
         "id": "b96c02e2-b956-4e9e-abe1-0a11bc680517",
@@ -44,22 +28,6 @@
             "Kent, WA"
         ],
         "company_url": "https://simplify.jobs/c/Stoke-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Forward",
-        "id": "69ee35be-0ef9-4b03-ab2b-941c9402d9db",
-        "title": "Software Engineer \u2013 Entry Level - Full Stack",
-        "active": false,
-        "date_updated": 1719271009,
-        "date_posted": 1719271009,
-        "url": "https://jobs.lever.co/goforward/073d1961-b3fd-4515-a7a4-a34a2eedb74a/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Forward",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -7598,54 +7566,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "LaunchDarkly",
-        "id": "6076f51a-bcb1-46d3-98b3-5a340bd0663a",
-        "title": "Software Engineer - SDK",
-        "active": false,
-        "date_updated": 1719271805,
-        "date_posted": 1719271805,
-        "url": "https://boards.greenhouse.io/launchdarkly/jobs/6035022003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/LaunchDarkly",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Rhombus Power",
-        "id": "adffc3cb-6a70-4656-855b-6f0087e1caf0",
-        "title": "Model & Data Development Analyst",
-        "active": false,
-        "date_updated": 1719271267,
-        "date_posted": 1719271267,
-        "url": "https://boards.greenhouse.io/rhombuspower/jobs/6035047003",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Rhombus-Power",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Shift5",
-        "id": "796c5929-f8a1-4acf-9803-cd4e1ee15924",
-        "title": "Field Data Analyst - Onsite in FL",
-        "active": false,
-        "date_updated": 1719270971,
-        "date_posted": 1719270971,
-        "url": "https://boards.greenhouse.io/shift5/jobs/5214610004",
-        "locations": [
-            "Hurlburt Field, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Shift5",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -14400,7 +14320,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -19728,7 +19648,7 @@
         "company_name": "CACI",
         "id": "8f32dd67-120d-4650-9670-e86065ecbf08",
         "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1745454925,
         "date_posted": 1745454925,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_310885-1",
@@ -20635,7 +20555,7 @@
         "company_name": "Universal Electronics",
         "id": "9aea7616-1342-4393-8505-eab33773b115",
         "title": "Embedded Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747318172,
         "date_posted": 1719518848,
         "url": "https://jobs.lever.co/uei/3585f383-53e5-45d5-b135-948775f5ed1d/apply",
@@ -21626,7 +21546,7 @@
         "company_name": "Chewy",
         "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1748657041,
         "date_posted": 1748657041,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
@@ -22790,7 +22710,7 @@
         "company_name": "Tyson Foods",
         "id": "19e0d219-85b8-4674-9848-3e389008dc36",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750287746,
         "date_posted": 1750287746,
         "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Data-Engineer-I_R0397492-2",
@@ -22815,6 +22735,57 @@
             "Tempe, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Meta",
+        "id": "c51a0642-8e06-4b1c-bb9e-1008d2918379",
+        "title": "Data Engineer \u2013 University Grad",
+        "active": true,
+        "date_updated": 1750373807,
+        "date_posted": 1750373807,
+        "url": "https://www.metacareers.com/jobs/1162951285163803",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "b301187a-2de6-4dca-8b2b-e668fd12e6be",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1750378248,
+        "date_posted": 1750378248,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Data-Engineer-I---Springdale--AR_R0400865-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockwell Automation",
+        "id": "c1a259b0-9363-4f65-b75b-179ab72993d2",
+        "title": "Early in Career Windows Software Engineer - C++ - C#",
+        "active": true,
+        "date_updated": 1750381836,
+        "date_posted": 1750381836,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Phoenix-Arizona-United-States/Early-in-Career-Windows-Software-Engineer--C----C--_R25-5268-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
         "sponsorship": "Other"
     }
