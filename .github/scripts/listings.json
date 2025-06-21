@@ -16,55 +16,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Venture Global LNG",
-        "id": "a457210c-8b99-4b37-8bc2-399b8bc07531",
-        "title": "Scheduler \u2013 Natural Gas",
-        "active": false,
-        "date_updated": 1719429658,
-        "date_posted": 1719358258,
-        "url": "https://boards.greenhouse.io/venturegloballng/jobs/7512263002",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Venture-Global-Lng",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "9489bce0-5fcd-45d3-8146-b479668b7153",
-        "title": "Quantitative Researcher \u2013 Early Career - 2025",
-        "active": true,
-        "date_updated": 1719357834,
-        "date_posted": 1719357834,
-        "url": "https://boards.greenhouse.io/aquaticcapitalmanagement/jobs/7468705002",
-        "locations": [
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SoundHound AI",
-        "id": "bfbca268-57bc-4cb8-bf33-47960b2ba82d",
-        "title": "UPCOMING: AI Service Analyst - Restaurants",
-        "active": false,
-        "date_updated": 1719356942,
-        "date_posted": 1719356942,
-        "url": "https://boards.greenhouse.io/soundhoundinc/jobs/7512306002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SoundHound-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1719444276,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
         "company_name": "Microsoft",
@@ -7351,89 +7302,6 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Epic Games",
-        "id": "c30e74ad-9891-430a-a338-2ebbf6292d1a",
-        "title": "Development Coordinator",
-        "active": false,
-        "date_updated": 1719357497,
-        "date_posted": 1719357497,
-        "url": "https://boards.greenhouse.io/epicgames/jobs/5193847004",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Epic-Games",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "c2b8ead6-aa66-47c3-98b5-860e6d42ea13",
-        "title": "Machine Learning Engineer - Agent Simulation",
-        "active": false,
-        "date_updated": 1719364371,
-        "date_posted": 1719357353,
-        "url": "https://jobs.lever.co/zoox/c62ac556-9c14-49c1-9332-067dd090abde/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "GitLab",
-        "id": "c920a92e-4c0b-4950-a514-969ab0a7cf67",
-        "title": "Backend Engineer - Core Platform: Geo - Ruby",
-        "active": false,
-        "date_updated": 1719357139,
-        "date_posted": 1719357139,
-        "url": "https://boards.greenhouse.io/gitlab/jobs/7512275002",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GitLab",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Insurify",
-        "id": "b616a1fa-2739-439b-9b95-3b6d2b54096d",
-        "title": "Business Data Analyst",
-        "active": false,
-        "date_updated": 1719357099,
-        "date_posted": 1719357099,
-        "url": "https://boards.greenhouse.io/insurify/jobs/5215822004",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insurify",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Shipt",
-        "id": "8c911e7e-99b1-43ad-a630-2bb3a1f61cd0",
-        "title": "Associate Engineer",
-        "active": false,
-        "date_updated": 1719356889,
-        "date_posted": 1719356889,
-        "url": "https://shipt.wd1.myworkdayjobs.com/en-US/Shipt_External/job/AL-Birmingham-Shipt-Tower/Associate-Engineer_R3399",
-        "locations": [
-            "SF",
-            "Birmingham, AL",
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Shipt",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16751,7 +16619,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -22633,7 +22501,7 @@
         "company_name": "Tyson Foods",
         "id": "b301187a-2de6-4dca-8b2b-e668fd12e6be",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750378248,
         "date_posted": 1750378248,
         "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate-412-West---Springdale-Arkansas/Data-Engineer-I---Springdale--AR_R0400865-1",
@@ -22693,6 +22561,74 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Yonder",
+        "id": "d21da63a-497c-4043-a9ad-decd79101ff2",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750458325,
+        "date_posted": 1750458325,
+        "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_252041-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/db6baf80-a321-4d20-ac07-6a38a44b5a05",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aledade",
+        "id": "326c6d03-726e-45a0-84b5-3e69605a5998",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750457840,
+        "date_posted": 1750457840,
+        "url": "https://jobs.lever.co/aledade/908df068-fde7-4547-abda-deccd3bc6c64/apply",
+        "locations": [
+            "Bethesda, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Aledade",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Collective Hub",
+        "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1750459321,
+        "date_posted": 1750459321,
+        "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CollectiveHub",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "dac33903-bd48-461f-b704-7b8b877634ce",
+        "title": "Software Engineer I - Research Methodologies",
+        "active": true,
+        "date_updated": 1750462937,
+        "date_posted": 1750462937,
+        "url": "https://www.qualtrics.com/careers/us/en/job/6963280?gh_jid=6963280",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
     }
