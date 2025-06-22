@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1719444276,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1730183/Software-Engineer",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "221a634f-b340-449b-bd5c-71bfce0130d2",
-        "date_posted": 1719444276,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "SMX",
         "id": "eae823b7-a26a-4e79-8340-fd52be6175c5",
@@ -14012,7 +13996,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -21972,7 +21956,7 @@
         "company_name": "Amentum",
         "id": "6a073c64-89e1-494c-9db4-780abd1df87b",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1749693233,
         "date_posted": 1749693233,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140459",
