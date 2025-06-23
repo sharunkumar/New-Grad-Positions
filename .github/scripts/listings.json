@@ -18384,5 +18384,57 @@
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capital Rx",
+        "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1750670041,
+        "date_posted": 1750670041,
+        "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
+        "locations": [
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-Rx",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry",
+        "id": "a15680e4-5ffc-4ada-a0dd-820582ff0967",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1750675326,
+        "date_posted": 1750675326,
+        "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry",
+        "id": "ea4d0b2c-a5b8-412a-a95f-1f894697505a",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1750675099,
+        "date_posted": 1750675099,
+        "url": "https://jobs.ashbyhq.com/sentry/06d7ba85-17aa-4c02-83b9-e278acd88f45/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
