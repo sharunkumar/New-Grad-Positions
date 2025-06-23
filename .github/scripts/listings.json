@@ -1,70 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Diligent Robotics",
-        "id": "1bff44b4-1291-4d0c-a67d-5d1770216034",
-        "title": "Part Time \u2013 Clinical Robot Associate - Dallas - TX",
-        "active": false,
-        "date_updated": 1719588339,
-        "date_posted": 1719588339,
-        "url": "https://boards.greenhouse.io/diligentrobotics/jobs/6040046003",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Diligent-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nium",
-        "id": "ba2a7f99-4dc4-487e-8c4f-8f6a9b61fce7",
-        "title": "Backend Engineer - Sde I",
-        "active": false,
-        "date_updated": 1719587733,
-        "date_posted": 1719587733,
-        "url": "https://jobs.lever.co/nium/bc54a3d5-489f-443c-9cc3-1575bf60ab85/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Nium",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Garner Health",
-        "id": "1e38ed5f-99b5-47fc-a77b-20a6e71c03f4",
-        "title": "Feed Integrations Specialist",
-        "active": false,
-        "date_updated": 1719587596,
-        "date_posted": 1719587596,
-        "url": "https://boards.greenhouse.io/garnerhealth/jobs/5219462004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Garner-Health",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "362e07b3-ade0-4a3d-9b1d-ba6823c22c07",
-        "title": "Software Engineer I - Toronto",
-        "active": false,
-        "date_updated": 1719587612,
-        "date_posted": 1719587612,
-        "url": "https://jobs.ashbyhq.com/Jerry/a9c7c0d9-4524-4b05-900e-e6d26ddf8e0d/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Welocalize",
         "id": "270bd3c1-c941-4f8a-af07-add23d4057ee",
         "title": "Search Satisfaction Grader - Spanish - US - Language",
@@ -3056,38 +2992,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/GOAT-Group",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tokai Rika Group",
-        "id": "ee8dbb53-00a9-4ecd-a618-0e0f1da555af",
-        "title": "Production Engineer",
-        "active": false,
-        "date_updated": 1720015882,
-        "date_posted": 1719587969,
-        "url": "https://jobs.lever.co/tramgroup/aec0e549-792e-4f4e-a3a0-a59136e0a43a/apply",
-        "locations": [
-            "Battle Creek, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/TRAMGROUP",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Kpler",
-        "id": "b92b7573-da74-4c12-abc0-72b64472eaf6",
-        "title": "Mobile Software Engineer",
-        "active": false,
-        "date_updated": 1720016040,
-        "date_posted": 1719587217,
-        "url": "https://jobs.lever.co/kpler/9e252ac0-f380-42e1-92de-c54fe609cc1b/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Kpler",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16394,7 +16298,7 @@
         "company_name": "RELX",
         "id": "0ec540d4-844b-4270-93fe-93f5cbe0cc18",
         "title": "Software Engineer I Hybrid",
-        "active": true,
+        "active": false,
         "date_updated": 1747709765,
         "date_posted": 1747709765,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Horsham-PA/Software-Engineer-I-----Hybrid-in-Horsham--PA_R95892-2",
@@ -17704,7 +17608,7 @@
         "company_name": "Hyperproof",
         "id": "d3b5b5b0-7f90-4c02-8e8d-2f2099ff0338",
         "title": "Entry Level Full Stack AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749594722,
         "date_posted": 1749594722,
         "url": "https://hyperproof.io/job-listings/?gh_jid=4573371005",
@@ -18323,7 +18227,7 @@
         "company_name": "Blue Yonder",
         "id": "d21da63a-497c-4043-a9ad-decd79101ff2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750458325,
         "date_posted": 1750458325,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_252041-1",
@@ -18357,7 +18261,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1750459321,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
