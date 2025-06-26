@@ -15251,7 +15251,7 @@
         "company_name": "Blue Yonder",
         "id": "5f565819-56ce-4ea6-8c0f-973c2568f7f0",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1748565666,
         "date_posted": 1748565666,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_251265",
@@ -17011,6 +17011,76 @@
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50666",
         "locations": [
             "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Dell Technologies",
+        "id": "e097616a-224c-4c1e-bf4d-fd77f732f834",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1750904375,
+        "date_posted": 1750904375,
+        "url": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Hardware-Engineer-1_R268814-1",
+        "locations": [
+            "Westborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "4c0d4dbd-c42e-4279-abb7-88e0835a51dd",
+        "title": "Software Engineer I - Authorization Platform",
+        "active": true,
+        "date_updated": 1750909208,
+        "date_posted": 1750909208,
+        "url": "https://www.uber.com/global/en/careers/list/145253/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "86ce04a9-7603-4349-9b12-07db7eff5c74",
+        "title": "C++ Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1750913214,
+        "date_posted": 1750913214,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50665-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cadence Design Systems",
+        "id": "33be3440-ff6f-49af-b2a0-82beedfc4f37",
+        "title": "C++ Software Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1750918314,
+        "date_posted": 1750918314,
+        "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/BOSTON-02/C---Software-Engineer---New-College-Graduate--Boston-_R50668",
+        "locations": [
+            "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
         "is_visible": true,
