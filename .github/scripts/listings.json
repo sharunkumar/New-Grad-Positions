@@ -1,150 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "ebf96118-757e-4330-8907-6871eeb1650f",
-        "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1719847228,
-        "date_posted": 1719847228,
-        "url": "https://jobs.lever.co/palantir/a771a3d8-a99f-4df1-b250-a9a30c6dd070/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "4be7508b-9fac-4d68-b61a-d0ea108bdbfb",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1719847227,
-        "date_posted": 1719847227,
-        "url": "https://jobs.lever.co/palantir/293d3ca4-0908-4ff7-87d6-c1adc066e527/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "e94f5b72-1ca3-4376-8098-a07eacf2d7e1",
-        "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1719847227,
-        "date_posted": 1719847227,
-        "url": "https://jobs.lever.co/palantir/19d5e5f8-37a6-4a6f-b2ca-423370b3a1c2/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "0a14e404-4828-4af4-bb63-2fb23a5a061f",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1719847226,
-        "date_posted": 1719847226,
-        "url": "https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "395bbd57-d183-4045-a5a9-d66137760142",
-        "title": "Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1719847226,
-        "date_posted": 1719847226,
-        "url": "https://jobs.lever.co/palantir/000b1a24-4b0f-436f-a6da-9a920e259925/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1719861792,
-        "date_posted": 1719847211,
-        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - US Government",
-        "active": false,
-        "date_updated": 1719847210,
-        "date_posted": 1719847210,
-        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "629d4b11-0984-442c-b615-51b48771615b",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1719847206,
-        "date_posted": 1719847206,
-        "url": "https://jobs.lever.co/palantir/8dcdb586-46ae-4f94-9d05-7f1989400049/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Akuna Capital",
-        "id": "8c2c422f-682a-4e33-98ee-3a969594ebe4",
-        "title": "Akuna Capital\u2019s 2024 Virtual Quant Trading Challenge",
-        "active": false,
-        "date_updated": 1719860685,
-        "date_posted": 1719846633,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=5652055",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Salesforce",
         "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
@@ -1462,22 +1318,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Matroid",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Larian Studios",
-        "id": "3ef61633-f9b9-43de-882b-7d1200e8feca",
-        "title": "Tools Programmer",
-        "active": false,
-        "date_updated": 1719846790,
-        "date_posted": 1719846790,
-        "url": "https://jobs.lever.co/larian/7d8ff5b6-a270-43c4-b969-f42facc72ed6/apply",
-        "locations": [
-            "Stillwater, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Larian-Studios",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16627,7 +16467,7 @@
         "company_name": "Meta",
         "id": "c51a0642-8e06-4b1c-bb9e-1008d2918379",
         "title": "Data Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1750373807,
         "date_posted": 1750373807,
         "url": "https://www.metacareers.com/jobs/1162951285163803",
@@ -17039,7 +16879,7 @@
         "company_name": "Uber",
         "id": "4c0d4dbd-c42e-4279-abb7-88e0835a51dd",
         "title": "Software Engineer I - Authorization Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1750909208,
         "date_posted": 1750909208,
         "url": "https://www.uber.com/global/en/careers/list/145253/",
@@ -17083,6 +16923,40 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "55977220-7e8c-4124-a334-f3c01386b5f4",
+        "title": "Eggp \u2013 Software Development Engineer I",
+        "active": true,
+        "date_updated": 1750951070,
+        "date_posted": 1750951070,
+        "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/EGGP---Software-Development-Engineer-I_R-96274",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "52bdcc8b-f877-4ece-ae91-486f1dc6885e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1750955104,
+        "date_posted": 1750955104,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=6995304",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
         "is_visible": true,
         "sponsorship": "Other"
     }
