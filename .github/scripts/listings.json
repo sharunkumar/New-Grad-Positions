@@ -1193,54 +1193,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Stripe",
-        "id": "f8c96584-e905-4ff0-be77-e19982c9a854",
-        "title": "Full Stack Engineer - Optimized Checkout & Link",
-        "active": false,
-        "date_updated": 1719905145,
-        "date_posted": 1719905145,
-        "url": "https://stripe.com/jobs/search?gh_jid=5685463",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Perplexity AI",
-        "id": "0c0aa012-172b-4aa8-9b36-dfd088ce82b8",
-        "title": "LLM Teacher - Contract - Remote",
-        "active": false,
-        "date_updated": 1719905144,
-        "date_posted": 1719905144,
-        "url": "https://boards.greenhouse.io/perplexityai/jobs/4421520007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Perplexity AI",
-        "id": "004a8c50-ebc5-49ad-8d8e-92397036d99f",
-        "title": "LLM Teacher - Technical - Contract - Remote",
-        "active": false,
-        "date_updated": 1719905144,
-        "date_posted": 1719905144,
-        "url": "https://boards.greenhouse.io/perplexityai/jobs/4421513007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -15958,7 +15910,7 @@
         "company_name": "Amentum",
         "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1749693231,
         "date_posted": 1749693231,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
@@ -16908,6 +16860,23 @@
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01776844",
         "locations": [
             "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3701a9cc-9df1-4e5f-b55e-40d72100cc07",
+        "title": "Software Engineer I - Embedded Communications",
+        "active": true,
+        "date_updated": 1751007764,
+        "date_posted": 1751007764,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01776613",
+        "locations": [
+            "Fort Wayne, IN"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
