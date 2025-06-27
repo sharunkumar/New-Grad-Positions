@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Salesforce",
-        "id": "0e3999fb-1a40-463c-858d-fc0903e62bc2",
-        "title": "Software Engineering AMTS/MTS \u2013 New Grad",
-        "active": false,
-        "date_updated": 1722119292,
-        "date_posted": 1719875851,
-        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS--New-Grad-_JR244479-1",
-        "locations": [
-            "Cambridge, MA Seattle, WA Indianapolis, IN SF Remote in USA McLean, VA Chicago, IL NYC Bellevue, WA Atlanta, GA Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Salesforce",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Triumvirate Environmental",
         "id": "fce85f94-cb7d-436e-bc2f-f89af295616e",
         "title": "Technical Services Associate",
@@ -1253,71 +1237,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Red Ventures",
-        "id": "2fb551a0-408c-4d86-bbfc-39e8510bcf4f",
-        "title": "Associate Software Engineer - Red Platform",
-        "active": false,
-        "date_updated": 1719947919,
-        "date_posted": 1719876308,
-        "url": "https://www.redventures.com/careers/overview?gh_jid=6060240",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Ventures",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Collaborative Robotics",
-        "id": "c8a66cc5-00cb-444c-9283-f23eaae733aa",
-        "title": "Software Engineer - Integration Platform",
-        "active": false,
-        "date_updated": 1719970107,
-        "date_posted": 1719875831,
-        "url": "https://boards.greenhouse.io/collaborativerobotics/jobs/4421799007",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Yodlee",
-        "id": "274d82ac-7a09-4f2c-9417-cb591ab3e8fc",
-        "title": "Data Quality Associate I",
-        "active": false,
-        "date_updated": 1719875827,
-        "date_posted": 1719875827,
-        "url": "https://jobs.jobvite.com/yodlee/job/oYM0tfwX?nl=1&nl=1&fr=false",
-        "locations": [
-            "Pennsylvania",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Yodlee",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Matroid",
-        "id": "225c58e1-f726-4297-9078-e859a3230fd2",
-        "title": "Full Stack Engineer for Computer Vision Products",
-        "active": false,
-        "date_updated": 1719875264,
-        "date_posted": 1719875264,
-        "url": "https://matroid.breezy.hr/p/9c111d0ab9d2/apply",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Matroid",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -13848,7 +13767,7 @@
         "company_name": "The Boeing Company",
         "id": "1409e15e-5df4-42f4-a4da-1be0e953ab2a",
         "title": "Entry Level Embedded Software Engineers",
-        "active": false,
+        "active": true,
         "date_updated": 1746227665,
         "date_posted": 1746227665,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Embedded-Software-Engineers_JR2025454206",
@@ -13899,7 +13818,7 @@
         "company_name": "Muon Space",
         "id": "99c62b8d-9ee6-42f6-9bba-8186eaf23720",
         "title": "Electrical Hardware Engineer \u2013 New Grad/Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1746488813,
         "date_posted": 1745999712,
         "url": "https://job-boards.greenhouse.io/muonspace/jobs/4701745007",
@@ -15269,7 +15188,7 @@
         "company_name": "Chewy",
         "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748657041,
         "date_posted": 1748657041,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
@@ -15629,7 +15548,7 @@
         "company_name": "Fifth Third Bank",
         "id": "8f892f39-ee4b-4b15-b635-682274f05a01",
         "title": "Data Engineer I - Regulatory Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1749165633,
         "date_posted": 1749165633,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Regulatory-Reporting_R59266",
@@ -16862,7 +16781,7 @@
         "company_name": "Dell Technologies",
         "id": "e097616a-224c-4c1e-bf4d-fd77f732f834",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1750904375,
         "date_posted": 1750904375,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Hardware-Engineer-1_R268814-1",
@@ -16949,7 +16868,7 @@
         "company_name": "Chewy",
         "id": "52bdcc8b-f877-4ece-ae91-486f1dc6885e",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750955104,
         "date_posted": 1750955104,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6995304",
@@ -16957,6 +16876,40 @@
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenEye",
+        "id": "799bd4d9-691b-46a8-a48f-192c6b67c921",
+        "title": "Software Engineer I - Ows",
+        "active": true,
+        "date_updated": 1750977440,
+        "date_posted": 1750977440,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/8028394002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "da728c26-5b91-4bd6-82d3-32ae451cf902",
+        "title": "Embedded Cybersecurity Software Engineer I",
+        "active": true,
+        "date_updated": 1750979727,
+        "date_posted": 1750979727,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01776844",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
