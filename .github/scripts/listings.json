@@ -1161,38 +1161,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "company_name": "Elastic",
-        "id": "500340b5-ea62-4ebf-8231-5eff16dc65b6",
-        "title": "Security \u2013 Backend Software Engineer - Threat Data Services",
-        "active": false,
-        "date_updated": 1719933713,
-        "date_posted": 1719933713,
-        "url": "https://jobs.elastic.co/jobs/?gh_jid=6085292",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Elastic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verisign",
-        "id": "e7f84024-90cc-42e3-bae8-cdffe0ef8c95",
-        "title": "Software Engineer Java",
-        "active": false,
-        "date_updated": 1719933121,
-        "date_posted": 1719933121,
-        "url": "https://boards.greenhouse.io/verisign/jobs/6036479003",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisign",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1724738319,
         "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
         "company_name": "ElectronX",
@@ -13548,7 +13516,7 @@
         "company_name": "Leidos",
         "id": "00a3d650-494e-4b27-9b55-85a291e5e75e",
         "title": "Software Developer \u2013 Entry level",
-        "active": false,
+        "active": true,
         "date_updated": 1745961507,
         "date_posted": 1745961507,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332",
@@ -16562,7 +16530,7 @@
         "company_name": "Uber",
         "id": "773d73cb-5dba-46e2-adcf-d86e8e5fc859",
         "title": "Graduate 2025 Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750722005,
         "date_posted": 1750722005,
         "url": "https://www.uber.com/global/en/careers/list/145358/",
@@ -16579,7 +16547,7 @@
         "company_name": "Uber",
         "id": "4ef2aa46-1ab5-4221-a055-52a9066653c9",
         "title": "Graduate 2025 Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750721850,
         "date_posted": 1750721850,
         "url": "https://university-uber.icims.com/jobs/145358/job",
@@ -16630,7 +16598,7 @@
         "company_name": "Jerry",
         "id": "22ae3e67-4d30-4233-a489-29adb54d6cb9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750730867,
         "date_posted": 1750730867,
         "url": "https://jobs.ashbyhq.com/Jerry/a4df2ab0-3a8a-4a4a-abf3-d4a4f43ff80e/application",
@@ -16648,7 +16616,7 @@
         "company_name": "Jerry",
         "id": "dbc72db5-84c3-440d-9740-c4254383c0c9",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750730868,
         "date_posted": 1750730868,
         "url": "https://jobs.ashbyhq.com/Jerry/59d16ded-982e-40bf-a917-a4afe99594af/application",
@@ -16877,6 +16845,40 @@
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01776613",
         "locations": [
             "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xapien",
+        "id": "e4f11117-380a-46f0-9b2f-d854686bc7a2",
+        "title": "Junior Applied Research Engineer \u2013 Graduate",
+        "active": true,
+        "date_updated": 1751038997,
+        "date_posted": 1751038997,
+        "url": "https://jobs.smartrecruiters.com/Xapien/744000067429395",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Xapien",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "6ebeb439-e6c1-4dc5-bc4d-ef54e28358ee",
+        "title": "Software Engineer I - Java",
+        "active": true,
+        "date_updated": 1751040791,
+        "date_posted": 1751040791,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01769315",
+        "locations": [
+            "Fulton, MD"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
