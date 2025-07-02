@@ -16754,7 +16754,7 @@
         "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
         "title": "Engineer I - Software Developer",
         "active": true,
-        "date_updated": 1751410924,
+        "date_updated": 1751467964,
         "date_posted": 1751410924,
         "url": "https://careers-iridium.icims.com/jobs/4605/job",
         "locations": [
@@ -16763,7 +16763,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -16800,6 +16800,41 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/Candid-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "b8e14c36-bba1-4830-b233-54949d054ae8",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1751479662,
+        "date_posted": 1751479662,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Aurora-CO/Entry-Level-Full-Stack-Software-Engineer_JR2025456200-1",
+        "locations": [
+            "Aurora, CO",
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gentex Corporation",
+        "id": "10e588e5-4833-4dd8-8990-e81c6c05a51a",
+        "title": "Software Engineer I - Plm",
+        "active": true,
+        "date_updated": 1751480986,
+        "date_posted": 1751480986,
+        "url": "https://gentex.wd5.myworkdayjobs.com/talentacquisitionprivatepostings/job/Zeeland-MI/Software-Engineer-I--PLM-_REQ024929-2",
+        "locations": [
+            "Holland, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentex-Corporation",
         "is_visible": true,
         "sponsorship": "Other"
     }
