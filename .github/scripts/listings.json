@@ -13344,7 +13344,7 @@
         "company_name": "Higher Logic",
         "id": "2f480a53-6f41-400f-bf17-bb93dc4b9d83",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1746650185,
         "date_posted": 1746650185,
         "url": "https://job-boards.greenhouse.io/higherlogic/jobs/6565676003",
@@ -13743,7 +13743,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "cad39bbd-d18f-491a-b444-4b49c6c34165",
         "title": "Firmware Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1747343837,
         "date_posted": 1747343837,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Firmware-Engineer-I_R0027089",
@@ -16360,7 +16360,7 @@
         "company_name": "RTX",
         "id": "3701a9cc-9df1-4e5f-b55e-40d72100cc07",
         "title": "Software Engineer I - Embedded Communications",
-        "active": true,
+        "active": false,
         "date_updated": 1751007764,
         "date_posted": 1751007764,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01776613",
@@ -16727,6 +16727,79 @@
             "Washington, DC"
         ],
         "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twilio",
+        "id": "1008eae9-cd4c-4945-9375-e98dd959edf7",
+        "title": "Software Engineer \u2013 Early Career - Messaging API",
+        "active": true,
+        "date_updated": 1751378765,
+        "date_posted": 1751378765,
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/7019464",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Twilio",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iridium Communications",
+        "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
+        "title": "Engineer I - Software Developer",
+        "active": true,
+        "date_updated": 1751410924,
+        "date_posted": 1751410924,
+        "url": "https://careers-iridium.icims.com/jobs/4605/job",
+        "locations": [
+            "Reston, VA",
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Candid Health",
+        "id": "8098037f-f4db-4feb-a7ea-2a17e108f871",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1751413471,
+        "date_posted": 1751413471,
+        "url": "https://jobs.ashbyhq.com/candidhealth/8d1922f8-e89d-433e-a21f-b724eabc003b/application",
+        "locations": [
+            "SF",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Candid-Health",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Candid Health",
+        "id": "0e1e4210-db26-4d8c-b905-6f99a8c98483",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1751413478,
+        "date_posted": 1751413478,
+        "url": "https://jobs.ashbyhq.com/candidhealth/f0e529c1-b8d8-4add-aaef-23b174053b8b/application",
+        "locations": [
+            "SF",
+            "NYC",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Candid-Health",
         "is_visible": true,
         "sponsorship": "Other"
     }
