@@ -11107,7 +11107,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -15947,7 +15947,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1750459321,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -16360,7 +16360,7 @@
         "company_name": "RTX",
         "id": "3701a9cc-9df1-4e5f-b55e-40d72100cc07",
         "title": "Software Engineer I - Embedded Communications",
-        "active": false,
+        "active": true,
         "date_updated": 1751007764,
         "date_posted": 1751007764,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01776613",
@@ -16480,7 +16480,7 @@
         "company_name": "Cox",
         "id": "7706e560-2350-4da4-826c-0cdd8440f8bc",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1751067595,
         "date_posted": 1751067595,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202563969",
@@ -16835,6 +16835,25 @@
             "Holland, MI"
         ],
         "company_url": "https://simplify.jobs/c/Gentex-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "cadfed96-51aa-405b-adb7-d9c88b068683",
+        "title": "Software Engineer I - Java Foundation",
+        "active": true,
+        "date_updated": 1751499755,
+        "date_posted": 1751499755,
+        "url": "https://www.uber.com/global/en/careers/list/138677/",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other"
     }
