@@ -1,37 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "Vermont Information Processing",
-        "id": "48b3be5d-b068-4357-a76c-66d211d998bd",
-        "title": "Item Catalog Data Specialist",
-        "active": false,
-        "date_updated": 1720538644,
-        "date_posted": 1720538644,
-        "url": "https://boards.greenhouse.io/vipvermontinformationprocessing/jobs/4020854007",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/Vermont-Information-Processing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "HealthJoy",
-        "id": "9ada8f5d-98c1-411b-9efd-e03f362882a6",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1720538413,
-        "date_posted": 1720538413,
-        "url": "https://boards.greenhouse.io/healthjoy/jobs/7487584002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/HealthJoy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1720558816,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6009326003",
         "company_name": "Old Mission Capital",
@@ -384,38 +352,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Square",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "MiQ",
-        "id": "23025a68-cd59-45c3-803e-94079b5dc36e",
-        "title": "Associate Programmatic Trader - Advertising",
-        "active": false,
-        "date_updated": 1720621199,
-        "date_posted": 1720537923,
-        "url": "https://www.wearemiq.com/careers/job?gh_jid=7526861002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/MiQ",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Arista Networks",
-        "id": "7bd626b5-da38-42cb-be98-4c766c3b5b71",
-        "title": "Software Engineer - Packet Forwarding Engines",
-        "active": false,
-        "date_updated": 1720534642,
-        "date_posted": 1720534642,
-        "url": "https://jobs.smartrecruiters.com/AristaNetworks/743999994988255",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Arista-Networks",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16269,7 +16205,7 @@
         "company_name": "Jerry",
         "id": "dd18f20a-903f-491f-ab34-b52216f67e8a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751326103,
         "date_posted": 1751326103,
         "url": "https://jobs.ashbyhq.com/Jerry/aafa3b07-5705-4128-b344-14f0389d0130/application",
@@ -16304,7 +16240,7 @@
         "company_name": "Jerry",
         "id": "1be7d2bd-653d-44c2-bd70-152f9e16cef2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751326105,
         "date_posted": 1751326105,
         "url": "https://jobs.ashbyhq.com/Jerry/2f351dfa-4c5c-437c-98ad-471c1444bd77/application",
@@ -16643,6 +16579,41 @@
             "Surrey, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "d917bfb2-84eb-4958-bdc2-7d0979453c59",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751648266,
+        "date_posted": 1751648266,
+        "url": "https://jobs.ashbyhq.com/Jerry/f1e9dc65-6977-42ec-a5aa-03f877c6824e/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "e9c4d599-d468-4bef-8726-acab5b9e47cf",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751648094,
+        "date_posted": 1751648094,
+        "url": "https://jobs.ashbyhq.com/Jerry/4e481c63-5a45-4981-8e4e-11f48a422748/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
