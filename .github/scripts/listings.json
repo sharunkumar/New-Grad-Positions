@@ -1,39 +1,5 @@
 [
     {
-        "date_updated": 1730944366,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/142022721218192070-user-experience-designer",
-        "company_name": "Google",
-        "title": "User Experience Designer",
-        "locations": [
-            "Mountain View, CA",
-            "San Francisco, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "seanlewertow",
-        "id": "28b36095-22fd-4c60-9022-e08b74fa67b2",
-        "date_posted": 1720489300,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1720489342,
-        "url": "https://optiver.com/working-at-optiver/career-opportunities/7498618002/",
-        "company_name": "Optiver",
-        "title": "Graduate Software Engineer",
-        "locations": [
-            "Austin, TX",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "angelz913",
-        "id": "e4c5fe5b-c340-436b-901a-4be8d2936111",
-        "date_posted": 1720489342,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Vermont Information Processing",
         "id": "48b3be5d-b068-4357-a76c-66d211d998bd",
@@ -62,41 +28,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/HealthJoy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Tower Research Capital",
-        "id": "94fb4e14-f70c-4a17-b8e0-d3fca91e7698",
-        "title": "Quantitative Trader - 2025",
-        "active": false,
-        "date_updated": 1720481014,
-        "date_posted": 1720481014,
-        "url": "https://www.tower-research.com/open-positions/?gh_jid=6072033",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Tower-Research-Capital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Regrello",
-        "id": "0fd5c74a-e2e7-4b03-a2e1-d8a0cc6545dd",
-        "title": "Software Engineer - Frontend - Forms Engine",
-        "active": false,
-        "date_updated": 1720484851,
-        "date_posted": 1720480055,
-        "url": "https://jobs.lever.co/regrello/5d0cccdc-c5a1-44e0-9ff6-b08d586462f1/apply",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "Austin, TX",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Regrello",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -485,103 +416,6 @@
             "Vancouver, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Arista-Networks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aptos Labs",
-        "id": "b77ac67c-6d29-4747-bddc-72928eab789e",
-        "title": "Software Engineer - Programming Languages",
-        "active": false,
-        "date_updated": 1720481010,
-        "date_posted": 1720481010,
-        "url": "https://boards.greenhouse.io/aptoslabs/jobs/4346121005",
-        "locations": [
-            "Palo Alto, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aptos-Labs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "BitGo",
-        "id": "f289520c-4155-4967-ad50-5f8e83d035c2",
-        "title": "Software Engineer - Toronto",
-        "active": false,
-        "date_updated": 1720480822,
-        "date_posted": 1720480822,
-        "url": "https://boards.greenhouse.io/bitgo/jobs/7521838002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BitGo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Zoox",
-        "id": "bb3b0558-0240-4730-a2ee-06d4b8d68193",
-        "title": "Software Engineer - Rider Support Tools",
-        "active": false,
-        "date_updated": 1720480348,
-        "date_posted": 1720480348,
-        "url": "https://jobs.lever.co/zoox/d7e5ea0d-4a32-496f-b48f-012443d75638/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Democratic National Committee (DNC)",
-        "id": "b3114e54-264a-4e07-83c6-17856eaf268b",
-        "title": "Analytics Engineer",
-        "active": false,
-        "date_updated": 1720480415,
-        "date_posted": 1720480415,
-        "url": "https://jobs.lever.co/dnc/935a5c18-ea84-4a1f-8985-8905f4858fa0/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/DNC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cboe",
-        "id": "c8a6dc84-6119-4c6b-8703-8615657d1923",
-        "title": "Python Software Engineer",
-        "active": false,
-        "date_updated": 1720479998,
-        "date_posted": 1720479998,
-        "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Amsterdam-NL/Software-Engineer--Data-Pipeline-Engineering_R-3500",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cboe",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Hotspex Media",
-        "id": "22303532-1c03-4439-9f12-23d202c5ea6d",
-        "title": "Programmatic Campaign Coordinator",
-        "active": false,
-        "date_updated": 1720480069,
-        "date_posted": 1720480069,
-        "url": "https://jobs.ashbyhq.com/hotspexmedia/8ed0095a-a45a-4043-9da0-506a012d2342/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hotspex-Media",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -16367,7 +16201,7 @@
         "company_name": "Expedia",
         "id": "868353a4-02b8-429c-b657-dfe34e440499",
         "title": "Eggp \u2013 Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751067814,
         "date_posted": 1751067814,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/EGGP---Software-Development-Engineer-I_R-96183",
@@ -16384,7 +16218,7 @@
         "company_name": "Cox",
         "id": "7706e560-2350-4da4-826c-0cdd8440f8bc",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1751067595,
         "date_posted": 1751067595,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202563969",
@@ -16640,7 +16474,7 @@
         "company_name": "Twilio",
         "id": "1008eae9-cd4c-4945-9375-e98dd959edf7",
         "title": "Software Engineer \u2013 Early Career - Messaging API",
-        "active": true,
+        "active": false,
         "date_updated": 1751378765,
         "date_posted": 1751378765,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/7019464",
@@ -16748,7 +16582,7 @@
         "company_name": "Uber",
         "id": "cadfed96-51aa-405b-adb7-d9c88b068683",
         "title": "Software Engineer I - Java Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1751499755,
         "date_posted": 1751499755,
         "url": "https://www.uber.com/global/en/careers/list/138677/",
@@ -16775,6 +16609,23 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "57dfb70d-1413-4a27-998b-28752edc1f53",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1751565604,
+        "date_posted": 1751565604,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Burlington-Massachusetts/Software-Engineer-I_R-774355-1",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/d1ef45b2-fd52-4e9d-9d7d-dc3d5386744f",
         "is_visible": true,
         "sponsorship": "Other"
     }
