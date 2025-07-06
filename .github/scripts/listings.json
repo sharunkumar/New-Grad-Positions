@@ -1,38 +1,5 @@
 [
     {
-        "date_updated": 1724738319,
-        "url": "https://jobs.ashbyhq.com/electronx/42123d2b-31b3-464c-a0cd-4c7a7e62d672",
-        "company_name": "ElectronX",
-        "title": "New Grad: Software Engineer",
-        "locations": [
-            "New York, NY",
-            "Chicago, IL"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "siddarthamuppalla",
-        "id": "61f32c53-94f7-4299-8f33-c767f5273b77",
-        "date_posted": 1720644826,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1721163658,
-        "url": "https://simplify.jobs/p/7a127c79-30d9-4b06-b17a-b05f4f90476c/Backend-Engineer",
-        "company_name": "Spotify",
-        "title": "Backend Engineer, Personalization",
-        "locations": [
-            "New York"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "angelz913",
-        "id": "0a77f9b6-05f2-488f-ab85-c80c98a2e7c9",
-        "date_posted": 1720658501,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1724783490,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer",
         "company_name": "Microsoft",
