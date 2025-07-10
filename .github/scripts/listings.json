@@ -13723,36 +13723,36 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1748897636,
+        "date_updated": 1752136140,
         "url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b",
         "company_name": "Mandolin",
         "title": "Software Engineer I",
         "locations": [
             "San Fransisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Mandolin-RoshanT",
         "id": "912501d1-5cc5-4ffb-8ea2-399004013cca",
         "date_posted": 1748897636,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1748897902,
+        "date_updated": 1752136056,
         "url": "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f",
         "company_name": "Mandolin",
         "title": "Forward Deployed Engineer",
         "locations": [
             "San Fransisco, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "Mandolin-RoshanT",
         "id": "2a0111f3-9e8b-45fb-adfc-aac790590dda",
         "date_posted": 1748897902,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -15041,7 +15041,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1750726332,
+        "date_updated": 1752136233,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/",
         "company_name": "Citadel Securities",
         "title": "Quantitative Research Analyst",
@@ -15050,13 +15050,13 @@
             "Miami, FL",
             "New York, NY"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "aad2962a-fde1-4333-b6a9-2ff459a897f3",
         "date_posted": 1750726332,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
