@@ -534,22 +534,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Grand Rounds",
-        "id": "146ea259-126b-4e18-8753-a6d924f56f81",
-        "title": "Software Engineer I - Orchestration Platform - Canada",
-        "active": false,
-        "date_updated": 1721157673,
-        "date_posted": 1721085152,
-        "url": "https://jobs.lever.co/includedhealth/71927e92-88ec-4481-8d12-00a2bcd9c41f/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Grand-Rounds",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Whoop",
         "id": "2f908612-47cf-4a3a-aa92-b6f5d22dc501",
         "title": "Software Engineer I - Backend - Personalization & Progress",
@@ -16169,7 +16153,7 @@
         "id": "7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5",
         "title": "Software Engineer I - Sqa",
         "active": true,
-        "date_updated": 1752078283,
+        "date_updated": 1752185606,
         "date_posted": 1752078283,
         "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
         "locations": [
@@ -16177,7 +16161,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Silvus-Tech",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -16211,6 +16195,150 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "72c508d4-e623-4eb8-bec5-752f6f35f948",
+        "title": "Software Engineer I - Hardware Test",
+        "active": true,
+        "date_updated": 1752185283,
+        "date_posted": 1752185283,
+        "url": "https://jobs.lever.co/shieldai/38178f1e-34c5-481d-9914-c18a2263776f/apply",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752191756,
+        "date_posted": 1752191756,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7062434",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "ffea2fb6-ddc8-421a-b36a-3cf10b681138",
+        "title": "Quantitative Trader \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196371,
+        "date_posted": 1752196371,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-trader-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
+        "title": "Quantitative Research Analyst \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196371,
+        "date_posted": 1752196371,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "9f39417b-65f8-44a7-a1f8-63cce9e90313",
+        "title": "Quantitative Research Analyst \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196370,
+        "date_posted": 1752196370,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel Securities",
+        "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
+        "title": "Quantitative Research Analyst \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196374,
+        "date_posted": 1752196374,
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+        "locations": [
+            "London, UK",
+            "Paris, France",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel Securities",
+        "id": "495929ef-4f6f-4cdb-9c26-6156e4966b6b",
+        "title": "Software Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196370,
+        "date_posted": 1752196370,
+        "url": "https://www.citadelsecurities.com/careers/details/software-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel-Securities",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citadel",
+        "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
+        "title": "Quantitative Research Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1752196364,
+        "date_posted": 1752196364,
+        "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
+        "locations": [
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
         "sponsorship": "Other"
     }
