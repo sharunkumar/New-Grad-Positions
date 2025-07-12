@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1724783490,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1736578/Software-Engineer",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "Redmond, Washington"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "ikatyal2110",
-        "id": "87834e42-b9d5-420b-bf4a-e5cf28790f94",
-        "date_posted": 1721163609,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1721346985,
-        "url": "https://jobs.intel.com/en/job/toronto/fpga-software-engineer/41147/67421896768",
-        "company_name": "Intel",
-        "title": "FPGA Software Engineer",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "angelz913",
-        "id": "4da7771c-6d4c-4f51-9a6d-5c1afc33f807",
-        "date_posted": 1721163640,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1730857095,
         "url": "https://boards.greenhouse.io/robinhood/jobs/6087178?gh_src=NaN&gh_jid=6087178",
         "company_name": "Robinhood Careers",
@@ -13416,7 +13384,7 @@
         "company_name": "Blue Yonder",
         "id": "5f565819-56ce-4ea6-8c0f-973c2568f7f0",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1748565666,
         "date_posted": 1748565666,
         "url": "https://jda.wd5.myworkdayjobs.com/en-US/JDA_Careers/job/Dallas/Software-Engineer-I_251265",
@@ -15257,7 +15225,7 @@
         "company_name": "Expedia Group",
         "id": "55977220-7e8c-4124-a334-f3c01386b5f4",
         "title": "Eggp \u2013 Software Development Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1750951070,
         "date_posted": 1750951070,
         "url": "https://expedia.wd5.myworkdayjobs.com/en-US/private/job/UK---London/EGGP---Software-Development-Engineer-I_R-96274",
@@ -16169,7 +16137,7 @@
         "company_name": "Cox",
         "id": "f935ee5a-c392-44e1-809b-f9d430745018",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1752080193,
         "date_posted": 1752080193,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564413",
@@ -16357,6 +16325,58 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "eba56ae9-5f60-4397-b126-d8f6cb306ca6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752279880,
+        "date_posted": 1752279880,
+        "url": "https://jobs.ashbyhq.com/Jerry/9bc019ed-e265-47be-9e6d-2d0c64c76cc5/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "31a2f9d5-7681-4ecb-a37b-38da6e3742cf",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752279356,
+        "date_posted": 1752279356,
+        "url": "https://jobs.ashbyhq.com/Jerry/ed0a663b-cad1-4c76-aec7-1e0ceeac9a58/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia",
+        "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1752282350,
+        "date_posted": 1752282350,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
         "is_visible": true,
         "sponsorship": "Other"
     }
