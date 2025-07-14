@@ -14298,7 +14298,7 @@
         "company_name": "Amentum",
         "id": "47ebe178-d299-43bf-95e4-e124d2404a24",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749693233,
         "date_posted": 1749693233,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140458",
@@ -16121,7 +16121,7 @@
         "company_name": "Cox",
         "id": "f935ee5a-c392-44e1-809b-f9d430745018",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752080193,
         "date_posted": 1752080193,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564413",
@@ -16139,7 +16139,7 @@
         "company_name": "Cox",
         "id": "6bdc6618-41d3-4c4e-bef1-c978b0efb97b",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752081665,
         "date_posted": 1752081665,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202564424-1",
@@ -16370,7 +16370,7 @@
         "company_name": "USAA",
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1752277777,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
@@ -16380,5 +16380,21 @@
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1752472944,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1845733/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Redmond, Washington"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "laharigandrapu11",
+        "id": "304a7ded-72d0-47e6-bfba-a9de25f58228",
+        "date_posted": 1752472944,
+        "company_url": "",
+        "is_visible": true
     }
 ]
