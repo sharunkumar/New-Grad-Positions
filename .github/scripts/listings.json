@@ -16483,5 +16483,73 @@
         "company_url": "https://simplify.jobs/c/Akuna-Capital",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "b09d07b6-2d11-469e-b3aa-b297ebd7f7a3",
+        "title": "College Graduates - Full-Time - Junior Quantitative Trader",
+        "active": true,
+        "date_updated": 1752520281,
+        "date_posted": 1752520281,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602928003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Akuna Capital",
+        "id": "495799cb-e3e0-4046-92c5-52eaeee8ecee",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1752518404,
+        "date_posted": 1752518404,
+        "url": "https://www.akunacapital.com/job-details?gh_jid=7053014",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Akuna-Capital",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Akamai Technologies",
+        "id": "09cabfc5-67b1-4553-87c6-0866a7d70657",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752550111,
+        "date_posted": 1752550111,
+        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/897",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Akamai",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Old Mission",
+        "id": "9e3271b2-bfd1-4924-80cc-6adf115fe3ac",
+        "title": "College Graduates - Full-Time - Junior Quantitative Trader",
+        "active": true,
+        "date_updated": 1752520276,
+        "date_posted": 1752520276,
+        "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Old-Mission",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
