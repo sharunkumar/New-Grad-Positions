@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1721676352,
-        "url": "https://www.ycombinator.com/companies/axle-health/jobs/ommmQqU-software-engineer-new-grad",
-        "company_name": "Axle Health",
-        "title": "Software Engineer (New Grad)",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "98c71ba3-17ad-4659-9369-9397b120590b",
-        "date_posted": 1721676352,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1722830792,
         "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873?src=JB-10088",
         "company_name": "Jackson",
@@ -6337,7 +6321,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -15761,7 +15745,7 @@
         "company_name": "Uber",
         "id": "cadfed96-51aa-405b-adb7-d9c88b068683",
         "title": "Software Engineer I - Java Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1751499755,
         "date_posted": 1751499755,
         "url": "https://www.uber.com/global/en/careers/list/138677/",
@@ -16353,7 +16337,7 @@
         "company_name": "Expedia",
         "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752282350,
         "date_posted": 1752282350,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
@@ -16438,7 +16422,7 @@
         "company_name": "Iridium Communications",
         "id": "a966de7e-4dd1-4625-ba76-ccb5522b2da1",
         "title": "Engineer I - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1752535558,
         "date_posted": 1752535558,
         "url": "https://careers-iridium.icims.com/jobs/4596/job",
@@ -16592,7 +16576,7 @@
         "company_name": "Iridium Communications",
         "id": "16835add-c9d7-462d-bf56-9e806489af23",
         "title": "Engineer I - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1752706987,
         "date_posted": 1752706987,
         "url": "https://careers-iridium.icims.com/jobs/4606/job",
@@ -16645,14 +16629,14 @@
         "id": "c1848bc7-91d0-4087-9fa1-5d4042acdc94",
         "title": "Mthree \u2013 Junior Software Developer - Template",
         "active": true,
-        "date_updated": 1752776918,
+        "date_updated": 1752791685,
         "date_posted": 1752776918,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374266006",
         "locations": [
             "United Kingdom"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16734,14 +16718,14 @@
         "id": "c1c207f2-19ca-4423-9641-e437b96d5b80",
         "title": "Junior Software Engineer",
         "active": true,
-        "date_updated": 1752776883,
+        "date_updated": 1752791731,
         "date_posted": 1752776883,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4383912006",
         "locations": [
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16751,7 +16735,7 @@
         "id": "c6221e18-360d-4969-9587-61b5f393cb69",
         "title": "Junior Software Engineer",
         "active": true,
-        "date_updated": 1752776883,
+        "date_updated": 1752791769,
         "date_posted": 1752776883,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006",
         "locations": [
@@ -16768,14 +16752,14 @@
         "id": "8e605126-d8c5-4084-8805-fc85144d1971",
         "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
         "active": true,
-        "date_updated": 1752776846,
+        "date_updated": 1752791791,
         "date_posted": 1752776846,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374534006",
         "locations": [
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16785,14 +16769,14 @@
         "id": "6931ddd0-e0c0-44b6-94a1-60f7f7e4eda9",
         "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer",
         "active": true,
-        "date_updated": 1752776845,
+        "date_updated": 1752791811,
         "date_posted": 1752776845,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374391006",
         "locations": [
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
