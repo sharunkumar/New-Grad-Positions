@@ -8880,7 +8880,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -10008,7 +10008,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -16387,7 +16387,7 @@
         "company_name": "Jerry",
         "id": "d963722c-740b-4f65-afc4-f60dac5be4a2",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752525303,
         "date_posted": 1752525303,
         "url": "https://jobs.ashbyhq.com/Jerry/e6bee2c6-9ea1-43aa-9681-7faccd793188/application",
@@ -16405,7 +16405,7 @@
         "company_name": "Jerry",
         "id": "57c4c0fb-278c-4884-8572-22eaf07c22de",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1752530067,
         "date_posted": 1752530067,
         "url": "https://jobs.ashbyhq.com/Jerry/f53d2639-f7ad-4aa5-b17a-08f4e5a00882/application",
@@ -16735,14 +16735,14 @@
         "id": "c6221e18-360d-4969-9587-61b5f393cb69",
         "title": "Junior Software Engineer",
         "active": true,
-        "date_updated": 1752791769,
+        "date_updated": 1752870670,
         "date_posted": 1752776883,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374540006",
         "locations": [
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16810,6 +16810,75 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f74c215f-f679-4382-ba30-752294713896",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752880857,
+        "date_posted": 1752880857,
+        "url": "https://jobs.ashbyhq.com/Jerry/eb8a6a97-8177-4c5b-a607-afe98c8d4cfb/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "3cfcb567-840d-47ed-ab5f-74a04168f3e9",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1752880856,
+        "date_posted": 1752880856,
+        "url": "https://jobs.ashbyhq.com/Jerry/b1126803-047b-4af5-97b1-70a2cc31d8f5/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Qualtrics",
+        "id": "be5e98af-2684-4b4b-8de3-e4607b69e672",
+        "title": "Software Engineer I - Foundation",
+        "active": true,
+        "date_updated": 1752882024,
+        "date_posted": 1752882024,
+        "url": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372",
+        "locations": [
+            "Provo, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualtrics",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truist",
+        "id": "63dfa35a-5132-4189-bc76-5a03a54fe417",
+        "title": "Testing Software Engineer I",
+        "active": true,
+        "date_updated": 1752881755,
+        "date_posted": 1752881755,
+        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0104761",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Truist",
         "is_visible": true,
         "sponsorship": "Other"
     }
