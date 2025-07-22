@@ -16860,14 +16860,14 @@
         "id": "b70c7334-2f4e-43c5-b676-e430713cbd61",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753113665,
+        "date_updated": 1753196102,
         "date_posted": 1753113665,
         "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005",
         "locations": [
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16877,14 +16877,14 @@
         "id": "b8410e88-84d1-4aea-9b97-aea36b0a5fdd",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753113312,
+        "date_updated": 1753196181,
         "date_posted": 1753113312,
         "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005",
         "locations": [
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16903,5 +16903,37 @@
         "company_url": "https://simplify.jobs/c/WebFX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753196375,
+        "url": "https://www.coalitioninc.com/job-posting/4560711005",
+        "company_name": "Coalition",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in USA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c9cb916-636c-461e-801d-614d77ddd2d0",
+        "date_posted": 1753196375,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753196474,
+        "url": "https://www.coalitioninc.com/job-posting/4560712005",
+        "company_name": "Coalition",
+        "title": "Software Engineer I",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a100b624-c8c2-41bc-8111-41cbf72a71b2",
+        "date_posted": 1753196474,
+        "company_url": "",
+        "is_visible": true
     }
 ]
