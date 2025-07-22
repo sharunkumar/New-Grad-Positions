@@ -810,22 +810,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "WebFX",
-        "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
-        "title": "Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1722065815,
-        "date_posted": 1722065815,
-        "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
-        "locations": [
-            "Harrisburg, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/WebFX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Palantir",
         "id": "7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
         "title": "Forward Deployed Software Engineer \u2013 New Grad - UK Government",
@@ -14218,7 +14202,7 @@
         "company_name": "Amentum",
         "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1749693231,
         "date_posted": 1749693231,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
@@ -14800,7 +14784,7 @@
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1750670041,
         "date_posted": 1750670041,
         "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
@@ -15077,7 +15061,7 @@
         "company_name": "Cadence Design Systems",
         "id": "86ce04a9-7603-4349-9b12-07db7eff5c74",
         "title": "C++ Software Engineer \u2013 New College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1750913214,
         "date_posted": 1750913214,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50665-1",
@@ -16284,20 +16268,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1752472944,
+        "date_updated": 1753177758,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1845733/Software-Engineer",
         "company_name": "Microsoft",
         "title": "Software Engineer",
         "locations": [
             "Redmond, Washington"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "laharigandrapu11",
         "id": "304a7ded-72d0-47e6-bfba-a9de25f58228",
         "date_posted": 1752472944,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -16900,6 +16884,23 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Coalition",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebFX",
+        "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1750781981,
+        "date_posted": 1750781981,
+        "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
+        "locations": [
+            "Harrisburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/WebFX",
         "is_visible": true,
         "sponsorship": "Other"
     }
