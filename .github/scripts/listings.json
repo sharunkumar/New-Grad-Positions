@@ -1,21 +1,5 @@
 [
     {
-        "date_updated": 1722830792,
-        "url": "https://jackson.wd1.myworkdayjobs.com/Jackson_Careers/job/Lansing-MI/Software-Developer-I_REQ-02873?src=JB-10088",
-        "company_name": "Jackson",
-        "title": "Software Developer I",
-        "locations": [
-            "Lansing, MI"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "Vandy02",
-        "id": "6c90943e-6c18-4116-b883-11cdbd5e6680",
-        "date_posted": 1722119314,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1722830775,
         "url": "https://www.mwam.com/technology-graduate-scheme/",
         "company_name": "Marshall Wace",
@@ -14202,7 +14186,7 @@
         "company_name": "Amentum",
         "id": "7f96b1fe-e630-4032-add1-8e2e4a11ac4d",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749693231,
         "date_posted": 1749693231,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140460",
@@ -14254,7 +14238,7 @@
         "company_name": "Affirm",
         "id": "c51f55af-91b8-4dbc-b0bd-93a96e0f3ec7",
         "title": "Software Engineer I - Backend - Identity Decisioning",
-        "active": true,
+        "active": false,
         "date_updated": 1749696761,
         "date_posted": 1749696761,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6605721003",
@@ -14784,7 +14768,7 @@
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1750670041,
         "date_posted": 1750670041,
         "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
@@ -16239,7 +16223,7 @@
         "company_name": "Expedia",
         "id": "921be1d3-f7c0-4490-90d3-89d0f6b90fe7",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1752282350,
         "date_posted": 1752282350,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Data-Engineer-I_R-96645",
@@ -16256,7 +16240,7 @@
         "company_name": "USAA",
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1752277777,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
@@ -16935,5 +16919,40 @@
         "date_posted": 1753196474,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "e3160033-b187-489b-9a2c-6ad90c7eb959",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753227701,
+        "date_posted": 1753227701,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7075000",
+        "locations": [
+            "Seattle, WA",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "4570d8ad-62e5-475b-a211-802e05fe95d3",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1753235271,
+        "date_posted": 1753235271,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
