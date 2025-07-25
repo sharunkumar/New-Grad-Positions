@@ -12668,7 +12668,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -15540,7 +15540,7 @@
         "company_name": "Iridium Communications",
         "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
         "title": "Engineer I - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1751467964,
         "date_posted": 1751410924,
         "url": "https://careers-iridium.icims.com/jobs/4605/job",
@@ -16970,5 +16970,22 @@
         "date_posted": 1753368039,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Franklin St",
+        "id": "c3f9ea9a-bc61-4ef2-9206-158a41f33374",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753410448,
+        "date_posted": 1753410448,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-St",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
