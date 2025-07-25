@@ -13708,7 +13708,7 @@
         "company_name": "Truist",
         "id": "e40eda45-74fb-49e3-bb44-1f0eeafc6957",
         "title": "Software Engineer I / Ncino Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1749090985,
         "date_posted": 1749090985,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I---nCino-Developer_R0102738",
@@ -15539,9 +15539,9 @@
         "category": "Software",
         "company_name": "Iridium Communications",
         "id": "47ab4e50-7048-47ed-b68c-f8b8ba8b6164",
-        "title": "Engineer I - Software Developer",
+        "title": "Engineer I - Software Developer \ud83c\uddfa\ud83c\uddf8",
         "active": false,
-        "date_updated": 1751467964,
+        "date_updated": 1753448689,
         "date_posted": 1751410924,
         "url": "https://careers-iridium.icims.com/jobs/4605/job",
         "locations": [
@@ -15549,8 +15549,8 @@
             "Chandler, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Iridium-Communications",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "is_visible": false,
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -15632,7 +15632,7 @@
         "id": "cadfed96-51aa-405b-adb7-d9c88b068683",
         "title": "Software Engineer I - Java Foundation",
         "active": true,
-        "date_updated": 1751499755,
+        "date_updated": 1753448456,
         "date_posted": 1751499755,
         "url": "https://www.uber.com/global/en/careers/list/138677/",
         "locations": [
@@ -15641,7 +15641,7 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16241,14 +16241,14 @@
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
         "active": true,
-        "date_updated": 1752277777,
+        "date_updated": 1753448156,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
         "locations": [
             "Plano, TX"
         ],
         "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -16825,7 +16825,7 @@
         "company_name": "Jerry",
         "id": "6425ba3a-ef45-4548-8563-d4735b6d3cd1",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753141551,
         "date_posted": 1753141551,
         "url": "https://jobs.ashbyhq.com/Jerry/2dd7d70d-7794-4662-b0a9-48900db8d26c/application",
@@ -16977,7 +16977,7 @@
         "company_name": "Franklin St",
         "id": "c3f9ea9a-bc61-4ef2-9206-158a41f33374",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753410448,
         "date_posted": 1753410448,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3439993",
