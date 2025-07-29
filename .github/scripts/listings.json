@@ -4043,7 +4043,7 @@
         "company_name": "Supernova Technology",
         "id": "96cc08fe-93f9-488b-850b-b496706d6853",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1730258399,
         "date_posted": 1730258399,
         "url": "https://jobs.lever.co/supernovacompanies/68e224c9-e125-4e3f-9acd-065c0fc94bba/apply",
@@ -14606,7 +14606,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1750459321,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -16112,7 +16112,7 @@
         "company_name": "USAA",
         "id": "ad3e467e-26e1-44d6-a4a4-dc6ce1cadc85",
         "title": "Data Engineer Cloud Solutions \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1753448156,
         "date_posted": 1752277777,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Data-Engineer-Cloud-Solutions---Entry-Level_R0109366",
@@ -17073,7 +17073,7 @@
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1753486335,
         "date_posted": 1753486335,
         "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
@@ -17116,6 +17116,58 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Machinify",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "04aa6721-47f4-4bf9-aca9-4ad464ca844a",
+        "title": "Software Development Engineer I - Frontend & Mobile",
+        "active": true,
+        "date_updated": 1753744354,
+        "date_posted": 1753744354,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8093301002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "bc6193ad-e142-4cc1-a047-fe6c9a467962",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753745290,
+        "date_posted": 1753745290,
+        "url": "https://jobs.ashbyhq.com/Jerry/441a20b6-31e5-4887-8bfd-cc16a1e5bcae/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "c3ba297a-637d-41bf-b9a3-860740ec02ce",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753745288,
+        "date_posted": 1753745288,
+        "url": "https://jobs.ashbyhq.com/Jerry/0589ade1-1749-4fe3-8e40-cea85ed7cb6b/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
         "sponsorship": "Other"
     }
