@@ -17177,7 +17177,7 @@
         "company_name": "EvenUp",
         "id": "881b6c4e-d51a-4d8a-9874-f9a3ddd93d54",
         "title": "Early Career Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1753756151,
         "date_posted": 1753756151,
         "url": "https://jobs.ashbyhq.com/evenup/95c51bcb-45d3-440d-b9b3-11985c565442/application",
@@ -17185,6 +17185,39 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753829826,
+        "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
+        "company_name": "Unify",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "94d94881-a076-4e38-8623-b0c0be8dea9f",
+        "date_posted": 1753829826,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "9b134eb7-0d7f-47a0-aa1d-78a7bb99af55",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753830545,
+        "date_posted": 1753830545,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX38-1717-E-Cityline-Drive-1717-E-Cityline-Drive-Building-C17-Richardson-TX-75082-USA/Software-Engineer-I--Onsite-_01782360",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
     }
