@@ -17220,5 +17220,57 @@
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753886045,
+        "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
+        "company_name": "M&T Bank",
+        "title": "Technology Development Program - Software Engineering",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f31bd653-cebf-409f-99e7-bdbb99e9fd0b",
+        "date_posted": 1753886045,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753897889,
+        "url": "https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813",
+        "company_name": "Spotify",
+        "title": "Associate Machine Learning Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "a511f7ae-4c18-4d15-84b8-373bebee7cf1",
+        "date_posted": 1753897889,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753898131,
+        "url": "https://job-boards.greenhouse.io/doordashusa/jobs/6330949",
+        "company_name": "DoorDash",
+        "title": "Software Engineer I, Entry-Level",
+        "locations": [
+            "New York, NY",
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "Seattle, WA",
+            "Sunnyvale, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "a93325b4-95dc-4822-b5b7-bab5a2905640",
+        "date_posted": 1753898131,
+        "company_url": "",
+        "is_visible": true
     }
 ]
