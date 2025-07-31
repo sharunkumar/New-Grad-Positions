@@ -12279,7 +12279,7 @@
         "company_name": "Amentum",
         "id": "4573ee25-77c1-49ef-99cb-80acb1f18ebe",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1747325721,
         "date_posted": 1747325721,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139275",
@@ -15881,14 +15881,14 @@
         "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1752191756,
+        "date_updated": 1753969838,
         "date_posted": 1752191756,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7062434",
         "locations": [
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -17292,7 +17292,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753902176,
+        "date_updated": 1753970048,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
         "company_name": "Northrop Grumman",
         "title": "Associate Software Engineer",
@@ -17300,12 +17300,12 @@
             "Woodland Hills, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "d1e43d3a-7644-4e37-8262-5a7101b66b2c",
         "date_posted": 1753902176,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753902372,
@@ -17397,14 +17397,14 @@
         "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753918469,
+        "date_updated": 1753970216,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
         "locations": [
             "Boston, MA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -17432,14 +17432,14 @@
         "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753919144,
+        "date_updated": 1753970281,
         "date_posted": 1753919144,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
         "locations": [
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -17475,5 +17475,24 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1753986441,
+        "url": "https://eversource.wd1.myworkdayjobs.com/en-US/ExternalSite/job/Westwood-MA/IT-Associate-Software-Engineer--Hybrid-_R-028085",
+        "company_name": "Eversource Energy",
+        "title": "IT Associate Software Engineer (Hybrid)",
+        "locations": [
+            "Westwood, MA",
+            "Manchester, NH",
+            "Berlin, CT",
+            "Windsor, CT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "d8a37546-8bde-4054-b447-9568f56ffdcd",
+        "date_posted": 1753986441,
+        "company_url": "",
+        "is_visible": true
     }
 ]
