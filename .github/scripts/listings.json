@@ -14040,7 +14040,7 @@
         "company_name": "Amentum",
         "id": "47ebe178-d299-43bf-95e4-e124d2404a24",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1749693233,
         "date_posted": 1749693233,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0140458",
@@ -17272,5 +17272,243 @@
         "date_posted": 1753898131,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1753901043,
+        "url": "https://careers-lmi.icims.com/jobs/12942/junior-data-analyst---ts-sci-required/job",
+        "company_name": "LMI",
+        "title": "Junior Data Analyst - TS/SCI Required",
+        "locations": [
+            "Washington DC"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "96761fd4-0cef-4998-a9b2-f26d93b789da",
+        "date_posted": 1753901043,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753901163,
+        "url": "https://townsquareignite.com/careers/?gh_jid=7093124#job-openings",
+        "company_name": "Townsquare Ignite",
+        "title": "Junior Data Analyst",
+        "locations": [
+            "Purchase, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1ede91e9-bf84-408f-9f8d-78a9a7cfddde",
+        "date_posted": 1753901163,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753902077,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career-2025-University-Grad_R50741",
+        "company_name": "Blue Origin",
+        "title": "Software Development Engineer I",
+        "locations": [
+            "Seattle, WA",
+            "Van Horn, TX",
+            "Huntsville, AL",
+            "Denver, CO",
+            "Space Coast, FL",
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "351eb7e6-4f6e-4a73-8d05-d8e223bd7452",
+        "date_posted": 1753902077,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753902176,
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Associate----Software-Engineer_R10201149-1",
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Woodland Hills, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d1e43d3a-7644-4e37-8262-5a7101b66b2c",
+        "date_posted": 1753902176,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753902372,
+        "url": "https://jobs.ashbyhq.com/fable/c4c61b04-6215-447f-b6ac-16af7efc87b6",
+        "company_name": "Fable Security",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b246e19f-64e7-4a53-8e30-d4b4990e8968",
+        "date_posted": 1753902372,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1753902654,
+        "url": "https://careers-daifuku-america.icims.com/jobs/20436/ilus-software-engineer-i/job",
+        "company_name": "Daifuku",
+        "title": "Software Engineer I",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "42c719ca-74de-4d52-90db-eef55d267193",
+        "date_posted": 1753902654,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "36e74f92-9b86-4fd3-ad81-cc172200ff92",
+        "title": ".NET/C# Software Development Engineer I - SDK",
+        "active": true,
+        "date_updated": 1753913543,
+        "date_posted": 1753913543,
+        "url": "https://www.esri.com/careers/4803095007?gh_jid=4803095007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Daifuku",
+        "id": "ac5ffdcf-21fe-4972-9d28-94e4e0872172",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753916149,
+        "date_posted": 1753916149,
+        "url": "https://careers-daifuku-america.icims.com/jobs/20436/job",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Daifuku",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "68821ceb-0090-4a87-8061-42789cb56646",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753918469,
+        "date_posted": 1753918469,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753918469,
+        "date_posted": 1753918469,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "f555971a-35b5-4db5-a78a-8ef74219acc1",
+        "title": "Software Engineer I - Platforms",
+        "active": true,
+        "date_updated": 1753919699,
+        "date_posted": 1753919699,
+        "url": "https://www.uber.com/global/en/careers/list/145880/",
+        "locations": [
+            "SF",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753919144,
+        "date_posted": 1753919144,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "2807c62b-1f19-4c36-ad32-40967e3edbd7",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1753920113,
+        "date_posted": 1753920113,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "0480e89b-c78b-4d7d-9ba3-f94a115f0330",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753924502,
+        "date_posted": 1753924502,
+        "url": "https://aurora.tech/jobs/8081673002?gh_jid=8081673002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
