@@ -16785,7 +16785,7 @@
         "company_name": "Esri",
         "id": "59669f06-ab37-4efd-9dcf-df3ce00de200",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753475440,
         "date_posted": 1753475440,
         "url": "https://www.esri.com/careers/4799605007?gh_jid=4799605007",
@@ -16837,7 +16837,7 @@
         "company_name": "Esri",
         "id": "c6a61c12-248b-47db-8533-c6478cef77b0",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753475431,
         "date_posted": 1753475431,
         "url": "https://www.esri.com/careers/4795713007?gh_jid=4795713007",
@@ -17542,6 +17542,58 @@
             "Davenport, IA"
         ],
         "company_url": "https://simplify.jobs/c/IMEG",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1754055703,
+        "date_posted": 1754055703,
+        "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Quantinuum",
+        "id": "6adb6a85-61dd-4b56-bd51-24db9fc84062",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754065188,
+        "date_posted": 1754065188,
+        "url": "https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantinuum",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Terex",
+        "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
+        "title": "Software Engineer I - 3rd Eye",
+        "active": true,
+        "date_updated": 1754068499,
+        "date_posted": 1754068499,
+        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
+        "locations": [
+            "Austin, TX",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Terex",
         "is_visible": true,
         "sponsorship": "Other"
     }
