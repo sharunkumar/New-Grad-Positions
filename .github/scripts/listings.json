@@ -12425,7 +12425,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -15800,7 +15800,7 @@
         "company_name": "Chewy",
         "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753969838,
         "date_posted": 1752191756,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7062434",
@@ -16701,7 +16701,7 @@
         "company_name": "mthree",
         "id": "4570d8ad-62e5-475b-a211-802e05fe95d3",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1753235271,
         "date_posted": 1753235271,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4586725006",
@@ -17299,7 +17299,7 @@
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753918469,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
@@ -17527,7 +17527,7 @@
         "company_name": "IMEG",
         "id": "c2d7fcdd-c8fe-4c43-9dc1-de65608846a9",
         "title": "Full Stack Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1754002555,
         "date_posted": 1754002555,
         "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Las-Vegas-NV/Full-Stack-Software-Engineer-1--Remote-_R-14878",
@@ -17594,6 +17594,194 @@
             "Chattanooga, TN"
         ],
         "company_url": "https://simplify.jobs/c/Terex",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry",
+        "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1754075670,
+        "date_posted": 1754075670,
+        "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sentry",
+        "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1754075667,
+        "date_posted": 1754075667,
+        "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Sentry",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "ffe18d04-0fee-4c22-92c7-ee69659dc2e0",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1754055562,
+        "date_posted": 1754055562,
+        "url": "https://www.esri.com/careers/4810345007?gh_jid=4810345007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1754055697,
+        "date_posted": 1754055697,
+        "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "09e4f8a6-10a8-498d-aed3-95b61b9e7fbc",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1754055565,
+        "date_posted": 1754055565,
+        "url": "https://www.esri.com/careers/4810344007?gh_jid=4810344007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PJM",
+        "id": "3d340e56-0a69-43ff-9367-8bdd7ddf6b05",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1754055576,
+        "date_posted": 1754055576,
+        "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/PJM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "active": true,
+        "date_updated": 1754055704,
+        "date_posted": 1754055704,
+        "url": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "c86a9cb2-fa64-4418-b4df-d55f61688156",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753715923,
+        "date_posted": 1753715923,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/7095831",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Global Payments",
+        "id": "ad85e523-b5ae-49c4-82cc-2e0893694bef",
+        "title": "Mainframe Software Engineer I or Above",
+        "active": true,
+        "date_updated": 1754002259,
+        "date_posted": 1754002259,
+        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0064692",
+        "locations": [
+            "Columbus, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Global-Payments",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perforce",
+        "id": "560f3e04-2328-4836-962f-e38062fc833f",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1753709334,
+        "date_posted": 1753709334,
+        "url": "https://jobs.lever.co/perforce/44b37b45-6756-489d-bd3a-668ba2352f9b/apply",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Perforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Unify",
+        "id": "423111af-a1fe-49bd-a8da-fed875b08bea",
+        "title": "New Grad Software Engineer",
+        "active": true,
+        "date_updated": 1753814038,
+        "date_posted": 1753814038,
+        "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unify-Gtm",
         "is_visible": true,
         "sponsorship": "Other"
     }
