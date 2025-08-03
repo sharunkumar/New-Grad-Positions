@@ -17505,7 +17505,7 @@
         "id": "6adb6a85-61dd-4b56-bd51-24db9fc84062",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1754065188,
+        "date_updated": 1754190235,
         "date_posted": 1754065188,
         "url": "https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570/apply",
         "locations": [
@@ -17513,7 +17513,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Quantinuum",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -17557,7 +17557,7 @@
         "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1754075667,
+        "date_updated": 1754189784,
         "date_posted": 1754075667,
         "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
         "locations": [
@@ -17565,7 +17565,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -17574,7 +17574,7 @@
         "id": "ffe18d04-0fee-4c22-92c7-ee69659dc2e0",
         "title": "Software Development Engineer I",
         "active": true,
-        "date_updated": 1754055562,
+        "date_updated": 1754189775,
         "date_posted": 1754055562,
         "url": "https://www.esri.com/careers/4810345007?gh_jid=4810345007",
         "locations": [
@@ -17582,7 +17582,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -17608,7 +17608,7 @@
         "id": "09e4f8a6-10a8-498d-aed3-95b61b9e7fbc",
         "title": "Software Development Engineer I",
         "active": true,
-        "date_updated": 1754055565,
+        "date_updated": 1754189750,
         "date_posted": 1754055565,
         "url": "https://www.esri.com/careers/4810344007?gh_jid=4810344007",
         "locations": [
@@ -17616,7 +17616,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -17720,5 +17720,105 @@
         "company_url": "https://simplify.jobs/c/Unify-Gtm",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754189960,
+        "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer (Ads ML Infrastructure)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "926cc59d-daca-4107-b018-09ce24fbf175",
+        "date_posted": 1754189960,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia",
+        "id": "b70a274e-bd49-4aa1-9783-b02a85cd35f1",
+        "title": "Security Engineer I",
+        "active": true,
+        "date_updated": 1753168828,
+        "date_posted": 1753168828,
+        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Clarity Innovations",
+        "id": "000ae1de-ef6c-4970-9032-96be016c3c60",
+        "title": "Junior Information System Security Engineer - Isse",
+        "active": true,
+        "date_updated": 1753119004,
+        "date_posted": 1753119004,
+        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4789602007",
+        "locations": [
+            "Reston, VA",
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754190061,
+        "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning/Research Engineer (Ads Core Global)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "5283fee7-7b86-4cbd-87bc-269618862471",
+        "date_posted": 1754190061,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754190110,
+        "url": "https://lifeattiktok.com/search/7531158608336242962",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Machine Learning Engineer (Commerce Ads)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "11bfc92a-90b8-4751-aade-9608d7027299",
+        "date_posted": 1754190110,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754190176,
+        "url": "https://lifeattiktok.com/search/7532436539684702471",
+        "company_name": "TikTok",
+        "title": "New Grad 2026: Software Engineer/Mobile Engineer Graduate (Monetization Technology - Ads Core Demonstration)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "5ddd398d-3a62-4e27-afd0-16d073e7300e",
+        "date_posted": 1754190176,
+        "company_url": "",
+        "is_visible": true
     }
 ]
