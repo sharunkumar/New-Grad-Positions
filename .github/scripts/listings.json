@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1723074737,
-        "url": "https://careers.roblox.com/jobs/6086753",
-        "company_name": "Roblox",
-        "title": "Software Engineer - New Graduate",
-        "locations": [
-            "San Mateo"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "javier30112000",
-        "id": "7a314c39-ba0c-41f2-afd3-8461c1388ca8",
-        "date_posted": 1723074737,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723074820,
-        "url": "https://www.konrad.com/careers/job/5893276003?gh_jid=5893276003",
-        "company_name": "Konrad Group",
-        "title": "Software Developer (Entry Level)",
-        "locations": [
-            "Vancouver, BC"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "reddoy",
-        "id": "8855647d-0d39-4566-a4dc-6da006be5052",
-        "date_posted": 1723074820,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1723583608,
         "url": "https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b",
         "company_name": "Codeium",
@@ -707,38 +675,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cockroach Labs",
-        "id": "366df603-5f51-4282-9ddc-612ea7d46da7",
-        "title": "Software Engineer \u2013 New Grad - Backend - Migrations - Toronto",
-        "active": false,
-        "date_updated": 1723072573,
-        "date_posted": 1723072573,
-        "url": "https://www.cockroachlabs.com/careers/job/?gh_jid=6145671",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Cockroach-Labs",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "RVO Health",
-        "id": "f4b018af-f2e8-4fc2-a187-4321c59b4345",
-        "title": "2025 Early Career Program: Software Engineering",
-        "active": false,
-        "date_updated": 1723072249,
-        "date_posted": 1723072249,
-        "url": "https://job-boards.greenhouse.io/rvohealth/jobs/4455898005",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/RVO-Health",
         "is_visible": true,
         "sponsorship": "Other"
     },
