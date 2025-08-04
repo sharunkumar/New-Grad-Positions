@@ -631,38 +631,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Chime",
-        "id": "d3bfcecb-4ec2-4008-8c7b-4c2073cbc2f6",
-        "title": "Software Engineer \u2013 New Grad - Identity & Access Management",
-        "active": false,
-        "date_updated": 1723231943,
-        "date_posted": 1723159630,
-        "url": "https://boards.greenhouse.io/chime/jobs/7578781002",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Codeium",
-        "id": "43aa261d-b768-4fcf-9369-c8cc2e542ce1",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1723160750,
-        "date_posted": 1723160750,
-        "url": "https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095/application",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/5db7086b-b6ff-42a7-8f16-5967451d29bf",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Figma",
         "id": "b94c2b4c-d3ba-4672-8310-8374cade8a24",
         "title": "Software Engineer \u2013 Early Career - 2025",
@@ -17305,7 +17273,7 @@
         "id": "2807c62b-1f19-4c36-ad32-40967e3edbd7",
         "title": "Junior Software Engineer",
         "active": true,
-        "date_updated": 1753920113,
+        "date_updated": 1754274312,
         "date_posted": 1753920113,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Junior-Software-Engineer_R-00163540",
         "locations": [
@@ -17313,7 +17281,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -17540,7 +17508,7 @@
         "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1754075670,
+        "date_updated": 1754274376,
         "date_posted": 1754075670,
         "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
         "locations": [
@@ -17548,7 +17516,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
