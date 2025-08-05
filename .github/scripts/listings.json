@@ -15414,36 +15414,36 @@
         "is_visible": false
     },
     {
-        "date_updated": 1751932303,
+        "date_updated": 1754416030,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835563/",
         "company_name": "Microsoft",
         "title": "Software Engineer - Security",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AshkanArabim",
         "id": "fffde5fe-9c59-4944-833e-1c28d393094a",
         "date_posted": 1751932303,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1751932331,
+        "date_updated": 1754416097,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835559/",
         "company_name": "Microsoft",
         "title": "Software Engineer - Fullstack",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AshkanArabim",
         "id": "8e88b373-b28e-4e6f-891b-ee3270feea4e",
         "date_posted": 1751932331,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -15464,20 +15464,20 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1751933435,
+        "date_updated": 1754416326,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1835564/",
         "company_name": "Microsoft",
         "title": "Software Engineer - Systems",
         "locations": [
             "Redmond, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AshkanArabim",
         "id": "bbec85ce-e198-4fb0-af7f-3b414645eae2",
         "date_posted": 1751933435,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -17015,7 +17015,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1753901163,
+        "date_updated": 1754415808,
         "url": "https://townsquareignite.com/careers/?gh_jid=7093124#job-openings",
         "company_name": "Townsquare Ignite",
         "title": "Junior Data Analyst",
@@ -17023,12 +17023,12 @@
             "Purchase, NY"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "1ede91e9-bf84-408f-9f8d-78a9a7cfddde",
         "date_posted": 1753901163,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1753902077,
@@ -17068,7 +17068,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1753902372,
+        "date_updated": 1754416575,
         "url": "https://jobs.ashbyhq.com/fable/c4c61b04-6215-447f-b6ac-16af7efc87b6",
         "company_name": "Fable Security",
         "title": "Software Engineer",
@@ -17076,15 +17076,15 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "b246e19f-64e7-4a53-8e30-d4b4990e8968",
         "date_posted": 1753902372,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1753902654,
+        "date_updated": 1754416691,
         "url": "https://careers-daifuku-america.icims.com/jobs/20436/ilus-software-engineer-i/job",
         "company_name": "Daifuku",
         "title": "Software Engineer I",
@@ -17092,12 +17092,12 @@
             "Clearwater, FL"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "42c719ca-74de-4d52-90db-eef55d267193",
         "date_posted": 1753902654,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -17123,14 +17123,14 @@
         "id": "ac5ffdcf-21fe-4972-9d28-94e4e0872172",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1753916149,
+        "date_updated": 1754416784,
         "date_posted": 1753916149,
         "url": "https://careers-daifuku-america.icims.com/jobs/20436/job",
         "locations": [
             "Clearwater, FL"
         ],
         "company_url": "https://simplify.jobs/c/Daifuku",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -17648,7 +17648,7 @@
         "id": "b70a274e-bd49-4aa1-9783-b02a85cd35f1",
         "title": "Security Engineer I",
         "active": true,
-        "date_updated": 1753168828,
+        "date_updated": 1754416461,
         "date_posted": 1753168828,
         "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894",
         "locations": [
@@ -17656,7 +17656,7 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
