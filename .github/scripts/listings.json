@@ -16337,7 +16337,7 @@
         "company_name": "Qualtrics",
         "id": "be5e98af-2684-4b4b-8de3-e4607b69e672",
         "title": "Software Engineer I - Foundation",
-        "active": true,
+        "active": false,
         "date_updated": 1752882024,
         "date_posted": 1752882024,
         "url": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372",
@@ -16712,7 +16712,7 @@
         "company_name": "Amentum",
         "id": "c1ce3e50-5855-4076-96b9-510aa65f7a03",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1753478832,
         "date_posted": 1753478832,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0142816",
@@ -17875,5 +17875,358 @@
         "date_posted": 1754359833,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1754361546,
+        "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
+        "company_name": "ServiceNow",
+        "title": "Associate Systems Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b59cf00f-e020-4e99-bb65-423b0ad83cf7",
+        "date_posted": 1754361546,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754361660,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS",
+        "company_name": "Qualtrics",
+        "title": "Software Engineer I - PAAS",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "e236b6dc-438e-4424-bb93-8929ba220fcf",
+        "date_posted": 1754361660,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754361784,
+        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
+        "company_name": "Qualtrics",
+        "title": "Machine Learning Engineer",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "e0a7cfe0-c4a9-42fa-bfd5-fdeb0163dbce",
+        "date_posted": 1754361784,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754362176,
+        "url": "https://lifeattiktok.com/search/7531158600791705874",
+        "company_name": "TikTok",
+        "title": "Software Engineer (Ads ML Infrastructure) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9e91427f-796f-4a64-b7fa-1e0631e2e17c",
+        "date_posted": 1754362075,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754362318,
+        "url": "https://lifeattiktok.com/search/7400808756194461961",
+        "company_name": "TikTok",
+        "title": "Product Manager (TikTok-Product-Social and Creation) - 2025 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5beccba6-3755-4e5a-8bf5-e5f0ecc8950f",
+        "date_posted": 1754362318,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754362635,
+        "url": "https://lifeattiktok.com/search/7532240517976721671",
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0e6e1ca2-9815-4766-b533-ab784c162cf3",
+        "date_posted": 1754362635,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754362715,
+        "url": "https://lifeattiktok.com/search/7530752375372466439",
+        "company_name": "TikTok",
+        "title": "Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c5168c8-5784-41a2-874c-faf45a76055b",
+        "date_posted": 1754362715,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754362929,
+        "url": "https://lifeattiktok.com/search/7532627066714753288",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Music - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6e7b4c5b-6577-4445-8882-b803b257ac08",
+        "date_posted": 1754362929,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754362997,
+        "url": "https://lifeattiktok.com/search/7532457296103295239",
+        "company_name": "TikTok",
+        "title": "Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cef570e0-a1b6-40ba-916f-32f8f0b8b3ad",
+        "date_posted": 1754362997,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363089,
+        "url": "https://lifeattiktok.com/search/7530765464767826184",
+        "company_name": "TikTok",
+        "title": "Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ec88212a-1a4b-4885-8b07-8590d0a0011b",
+        "date_posted": 1754363089,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363173,
+        "url": "https://lifeattiktok.com/search/7532627069594224903",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "03489853-512c-41b6-ba47-bd33f75f7ae8",
+        "date_posted": 1754363173,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363233,
+        "url": "https://lifeattiktok.com/search/7532631803707738376",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Live-Foundation-Ecosystem - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, Ca"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cabb3cb1-fec9-4ce4-8d23-3ce8476055ba",
+        "date_posted": 1754363233,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363304,
+        "url": "https://lifeattiktok.com/search/7530771170938865928",
+        "company_name": "TikTok",
+        "title": "Research Scientist - CV/NLP/Multimodal LLM, Trust and Safety - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c88995d2-2686-4cfa-b936-27bdf2fb7f42",
+        "date_posted": 1754363304,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363478,
+        "url": "https://lifeattiktok.com/search/7530759738491226386",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Risk and Response - 2026 Start (BS/ MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "85636c74-27dc-4833-a198-ae16dc4ffe12",
+        "date_posted": 1754363478,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363531,
+        "url": "https://lifeattiktok.com/search/7532626300897937682",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "257a2143-aadf-4c0b-97d3-b78b527e9a4a",
+        "date_posted": 1754363531,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363590,
+        "url": "https://lifeattiktok.com/search/7531161909615593735",
+        "company_name": "TikTok",
+        "title": "Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d72ed2a5-4f47-4e11-a3a8-5ad66c90506f",
+        "date_posted": 1754363590,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363658,
+        "url": "https://lifeattiktok.com/search/7532629935644002578",
+        "company_name": "TikTok",
+        "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d2334f75-6d4d-4fed-a333-2b28f4515603",
+        "date_posted": 1754363658,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363781,
+        "url": "https://jobs.bytedance.com/en/position/7532618536427391240/detail",
+        "company_name": "ByteDance",
+        "title": "3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9f431156-e34e-41bb-869a-6bcfb084ee44",
+        "date_posted": 1754363781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754363856,
+        "url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail",
+        "company_name": "ByteDance",
+        "title": "Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ade01c44-7b80-4f58-b6df-85d702159762",
+        "date_posted": 1754363856,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754364267,
+        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
+        "company_name": "Ramp",
+        "title": "Software Engineer - Frontend",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b512a3b2-034b-41fd-b8df-fb033998df9e",
+        "date_posted": 1754364267,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754364327,
+        "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
+        "company_name": "Ramp",
+        "title": "Software Engineer - Backend",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b754db34-4c23-450f-b881-2c897de087f8",
+        "date_posted": 1754364327,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e8df5761-a982-4af8-8501-5cc4b128d4b1",
+        "title": "Back End Processing Network Engineer I",
+        "active": true,
+        "date_updated": 1754364097,
+        "date_posted": 1754364097,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/Back-End-Processing-Network-Engineer-I-Portsmouth-RI-Onsite_01784264",
+        "locations": [
+            "Bristol, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
