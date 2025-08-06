@@ -3538,7 +3538,7 @@
         "company_name": "DoorDash",
         "id": "5edec334-b85d-4c7f-98ed-2b4a890c45cc",
         "title": "Software Engineer I \u2013 Entry Level - Fall 2024-Summer 2025 - Toronto",
-        "active": true,
+        "active": false,
         "date_updated": 1729811488,
         "date_posted": 1729811488,
         "url": "https://boards.greenhouse.io/doordashcanada/jobs/6346397",
@@ -3554,7 +3554,7 @@
         "company_name": "DoorDash",
         "id": "ac5b0ba5-ed4f-491a-9387-c354e4661e2f",
         "title": "Software Engineer I - Entry-Level - Graduation Date: Fall 2024-Summer 2025",
-        "active": true,
+        "active": false,
         "date_updated": 1729811575,
         "date_posted": 1729811575,
         "url": "https://boards.greenhouse.io/doordashusa/jobs/6330949",
@@ -12057,7 +12057,7 @@
         "company_name": "Amentum",
         "id": "ab8be857-c152-406b-aa20-db7b85c97468",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1747325720,
         "date_posted": 1747325720,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139276",
@@ -18259,6 +18259,74 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/BRM",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "fb96780d-b990-4c79-9972-b2c78120da32",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754432472,
+        "date_posted": 1754432472,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2025-Fulltime--Raytheon-Software-Engineer-I--Onsite-_01784333",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Bree",
+        "id": "9e901729-f24c-4d15-bb93-13dc12fd9a74",
+        "title": "Software Engineer \u2013 New Graduate",
+        "active": true,
+        "date_updated": 1754432242,
+        "date_posted": 1754432242,
+        "url": "http://jobs.ashbyhq.com/bree/a337beb6-37a1-45f8-b650-602937a9adab/application",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Bree",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Broadcom Limited",
+        "id": "078470df-4ce4-4ea5-942f-cff77cdefc9e",
+        "title": "Entry level Mainframe Software Development Engineer",
+        "active": true,
+        "date_updated": 1754436601,
+        "date_posted": 1754436601,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-IL-Lisle-Warrenville-Road/Entry-level-Mainframe-Software-Development-Engineer_R023490-1",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "9d10f271-23f6-45b7-b460-6bd613fda2c6",
+        "title": "Software Engineer I - CRM",
+        "active": true,
+        "date_updated": 1754441018,
+        "date_posted": 1754441018,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1",
+        "locations": [
+            "Blaine, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
         "is_visible": true,
         "sponsorship": "Other"
     }
