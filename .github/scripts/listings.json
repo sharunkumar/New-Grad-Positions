@@ -371,22 +371,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Whoop",
-        "id": "2f908612-47cf-4a3a-aa92-b6f5d22dc501",
-        "title": "Software Engineer I - Backend - Personalization & Progress",
-        "active": false,
-        "date_updated": 1723504465,
-        "date_posted": 1723504465,
-        "url": "https://jobs.lever.co/whoop/eda29f76-1da9-45bb-a822-f616011f3bb7/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Hudson River Trading",
         "id": "b1765552-e652-4f88-a20d-d926c26402ad",
         "title": "Software Engineer \u2013 2025 Grads - C++",
@@ -398,22 +382,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Radiant",
-        "id": "cbfa5543-1f6a-40a1-b323-9cbf8b20844a",
-        "title": "Software Engineer \u2013 New Graduates",
-        "active": false,
-        "date_updated": 1723505784,
-        "date_posted": 1723505784,
-        "url": "https://job-boards.greenhouse.io/radiant/jobs/4460385005",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Radiant",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1122,7 +1090,7 @@
             "Mountain View, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
         "date_posted": 1725514537,
@@ -14642,7 +14610,7 @@
         "company_name": "Cadence Design Systems",
         "id": "86ce04a9-7603-4349-9b12-07db7eff5c74",
         "title": "C++ Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1750913214,
         "date_posted": 1750913214,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50665-1",
@@ -15640,7 +15608,7 @@
         "company_name": "Chewy",
         "id": "de53c64f-d4d0-4bf2-afad-10432609d156",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1753969838,
         "date_posted": 1752191756,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7062434",
@@ -18364,17 +18332,16 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754540980,
+        "date_updated": 1754594605,
         "url": "https://app.ripplematch.com/v2/public/job/340fb9c1",
-        "company_name": "RippleMatch",
-        "title": "Software Engineer",
+        "company_name": "Reddit",
+        "title": "Software Engineer - New Grad",
         "locations": [
             "Chicago, IL",
             "San Francisco, CA",
-            "Los Angeles, CA",
-            "New York, NY"
+            "Los Angeles, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "10784ba8-c863-49da-a882-bebd394b86a9",
@@ -18502,7 +18469,7 @@
         "company_name": "Uber",
         "id": "979a8376-f452-4f5b-8465-3536217517a5",
         "title": "Software Engineer I - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1754547720,
         "date_posted": 1754547720,
         "url": "https://www.uber.com/global/en/careers/list/146900/",
@@ -18510,6 +18477,98 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Trexquant",
+        "id": "0c176474-32a7-45e5-84eb-b8e956800bf8",
+        "title": "Quantitative Researcher \u2013 Early Career",
+        "active": true,
+        "date_updated": 1754604410,
+        "date_posted": 1754604410,
+        "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blue Origin",
+        "id": "f37865a3-2377-4049-a582-75c3fc52d4b2",
+        "title": "Intern Conversion: \u2013 Early Career - Avionics Software Engineer I",
+        "active": true,
+        "date_updated": 1754610266,
+        "date_posted": 1754610266,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Intern-Conversion---Early-Career--Avionics-Software-Engineer-I_R54003",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA",
+            "Cape Canaveral, FL",
+            "Phoenix, AZ",
+            "Denver, CO",
+            "Huntsville, AL",
+            "Van Horn, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FourKites",
+        "id": "9283f61a-70cb-475a-94e8-1e2d58f3e387",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1754610831,
+        "date_posted": 1754610831,
+        "url": "https://job-boards.greenhouse.io/fourkites/jobs/6939520",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/FourKites",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "i3",
+        "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
+        "title": "Entry Level Full-Stack Software Engineer",
+        "active": true,
+        "date_updated": 1754610792,
+        "date_posted": 1754610792,
+        "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/I3",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "31258921-79ec-4c6b-a2d1-bd40aa5a0ff2",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1754616167,
+        "date_posted": 1754616167,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
         "is_visible": true,
         "sponsorship": "Other"
     }
