@@ -11389,7 +11389,7 @@
         "company_name": "Leidos",
         "id": "00a3d650-494e-4b27-9b55-85a291e5e75e",
         "title": "Software Developer \u2013 Entry level",
-        "active": false,
+        "active": true,
         "date_updated": 1745961507,
         "date_posted": 1745961507,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332",
@@ -13820,7 +13820,7 @@
         "company_name": "Affirm",
         "id": "148f33c0-78be-4f05-af96-c10e696ee96d",
         "title": "Software Engineer I - Backend - Identity Decisioning",
-        "active": true,
+        "active": false,
         "date_updated": 1749696764,
         "date_posted": 1749696764,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/6605722003",
@@ -18527,7 +18527,7 @@
         "company_name": "FourKites",
         "id": "9283f61a-70cb-475a-94e8-1e2d58f3e387",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754610831,
         "date_posted": 1754610831,
         "url": "https://job-boards.greenhouse.io/fourkites/jobs/6939520",
@@ -18565,6 +18565,40 @@
         "date_updated": 1754616167,
         "date_posted": 1754616167,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "15a3cb70-7e7e-4266-836d-d22d886b2d8c",
+        "title": "Software Developer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1754619648,
+        "date_posted": 1754619648,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00164213",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "848f9975-f362-46d1-bdf9-04b8b79018b5",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1754630569,
+        "date_posted": 1754630569,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803067424",
         "locations": [
             "Roseville, MN"
         ],
