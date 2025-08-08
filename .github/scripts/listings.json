@@ -11389,7 +11389,7 @@
         "company_name": "Leidos",
         "id": "00a3d650-494e-4b27-9b55-85a291e5e75e",
         "title": "Software Developer \u2013 Entry level",
-        "active": true,
+        "active": false,
         "date_updated": 1745961507,
         "date_posted": 1745961507,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00158332",
@@ -17699,7 +17699,7 @@
         "company_name": "Jerry",
         "id": "7d188c3f-6bb0-4d90-9d09-ff110ac0c85a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754326306,
         "date_posted": 1754326306,
         "url": "https://jobs.ashbyhq.com/Jerry/ea6198c6-18ff-4d6b-93b7-29daa4e3957f/application",
@@ -17716,7 +17716,7 @@
         "company_name": "Jerry",
         "id": "ac728ba9-6063-445f-9722-8eda369b2d95",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754327245,
         "date_posted": 1754327245,
         "url": "https://jobs.ashbyhq.com/Jerry/6cf756d3-779a-43c4-8258-61269e129316/application",
@@ -17845,20 +17845,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754361546,
+        "date_updated": 1754662623,
         "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
         "company_name": "ServiceNow",
         "title": "Associate Systems Engineer",
         "locations": [
             "San Diego, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "b59cf00f-e020-4e99-bb65-423b0ad83cf7",
         "date_posted": 1754361546,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754361660,
@@ -18366,36 +18366,36 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754542792,
+        "date_updated": 1754661563,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Tampa---USA--2026_25893646",
         "company_name": "Citi",
         "title": "Functions - Quantitative Risk Management, Full Time Analyst",
         "locations": [
             "Tampa, FL"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "f68afc31-c80c-4182-8152-99d8a2efe6c3",
         "date_posted": 1754542792,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1754542900,
+        "date_updated": 1754661674,
         "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Functions---Quantitative-Risk-Management--Full-Time-Analyst--Buffalo---USA--2026_25893592",
         "company_name": "Citi",
         "title": "Functions - Quantitative Risk Management, Full Time Analyst",
         "locations": [
             "Getzville, NY"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "9befb1bc-7880-493a-a3da-02e9a834bf84",
         "date_posted": 1754542900,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754542970,
@@ -18487,14 +18487,14 @@
         "id": "0c176474-32a7-45e5-84eb-b8e956800bf8",
         "title": "Quantitative Researcher \u2013 Early Career",
         "active": true,
-        "date_updated": 1754604410,
+        "date_updated": 1754661846,
         "date_posted": 1754604410,
         "url": "https://apply.workable.com/trexquant/j/A634E0E3F4/apply",
         "locations": [
             "Stamford, CT"
         ],
         "company_url": "https://simplify.jobs/c/Trexquant",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -18768,20 +18768,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754650158,
+        "date_updated": 1754662042,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Texas/Data-Analyst-I_R99153",
         "company_name": "LexisNexis",
         "title": "Data Analyst I",
         "locations": [
             "TX"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "dbfb9c5c-d22f-4e23-ba87-1f200060adb9",
         "date_posted": 1754650158,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754650227,
@@ -18812,6 +18812,70 @@
         "source": "AlmondCroffle",
         "id": "20e564c1-72f3-4cbb-af1c-91cd9e5e6ea9",
         "date_posted": 1754650390,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676244,
+        "url": "https://lifeattiktok.com/search/7533739605041645832?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "SDET, Software Development Engineer in Test",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "90c8a174-8ced-4a23-935a-761dbcc3fea0",
+        "date_posted": 1754676244,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676325,
+        "url": "https://lifeattiktok.com/search/7534641634584185095?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer - Search E-Commerce",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c7f00278-2abf-40e3-a84f-c6d8fdee9900",
+        "date_posted": 1754676325,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676669,
+        "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
+        "company_name": "TikTok.",
+        "title": "Product Security Engineer - Security Assurance",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c1fe3539-1d8e-4d12-a200-fb863a28c8e4",
+        "date_posted": 1754676669,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754676794,
+        "url": "https://lifeattiktok.com/search/7532626482364909842?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate Social - 2026 Start",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "35bd50e7-b4b1-465c-baf9-70af0a53e614",
+        "date_posted": 1754676794,
         "company_url": "",
         "is_visible": true
     }
