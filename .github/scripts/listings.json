@@ -1,69 +1,5 @@
 [
     {
-        "date_updated": 1723583608,
-        "url": "https://jobs.ashbyhq.com/codeium/558657be-5082-4e97-8509-d49f5c25bf5b",
-        "company_name": "Codeium",
-        "title": "AI Product Engineer (New Grad)",
-        "locations": [
-            "Mountain VIew, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "jwang1011",
-        "id": "d6364b2a-74b1-4a38-94a4-6580c2b2696a",
-        "date_posted": 1723583608,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723583639,
-        "url": "https://jobs.ashbyhq.com/ramp/12747eb1-e545-478d-b07c-f27f4a88cc12",
-        "company_name": "Ramp",
-        "title": "New Grad 2025: Software Engineer - Frontend",
-        "locations": [
-            "New York City, New York"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "rohanpurandare",
-        "id": "90246102-849b-49db-b60b-151a5d620c98",
-        "date_posted": 1723583639,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723583661,
-        "url": "https://jobs.ashbyhq.com/ramp/29663a4b-c457-4a38-bbdf-069f189b20eb",
-        "company_name": "Ramp",
-        "title": "New Grad 2025: Software Engineer - Backend",
-        "locations": [
-            "New York City, New York"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "rohanpurandare",
-        "id": "bbf5da12-dbb2-45da-bcb2-c50068d2aa17",
-        "date_posted": 1723583661,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1723583702,
-        "url": "https://jobs.ashbyhq.com/codeium/cb10c443-7e5b-44ac-8b21-0edd60b22095",
-        "company_name": "Codeium",
-        "title": "Software Engineer (New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "jwang1011",
-        "id": "9f1fb861-8544-4e5d-a9f7-ba45aea53da3",
-        "date_posted": 1723583702,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1724287549,
         "url": "https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1#open-positions",
         "company_name": "Gecko Robotics",
@@ -487,22 +423,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Pattern Data",
-        "id": "34858b56-8a32-4f10-b5d5-e76e1fad2229",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1723662584,
-        "date_posted": 1723592408,
-        "url": "https://job-boards.greenhouse.io/patterndata/jobs/4478536007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pattern-Data",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Stripe",
         "id": "aeb7718a-4a2d-4347-8c9b-4d206378b6f8",
         "title": "Software Engineer \u2013 New Grad",
@@ -563,22 +483,6 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Databricks",
-        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
-        "title": "Data Scientist \u2013 New Grad - 2025 Start",
-        "active": false,
-        "date_updated": 1725047809,
-        "date_posted": 1723591647,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -5772,7 +5676,7 @@
         "company_name": "Amentum",
         "id": "226019f0-bb4c-4e0f-9d7d-4b24a042c017",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1733429742,
         "date_posted": 1733429742,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0131117",
@@ -5841,7 +5745,7 @@
         "company_name": "Amazon",
         "id": "c86c9add-6977-442d-8e79-cb62705f1231",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1733862163,
         "date_posted": 1733862163,
         "url": "https://amazon.jobs/en/jobs/2850044/software-development-engineer-i-2025",
@@ -5860,7 +5764,7 @@
         "company_name": "Amazon",
         "id": "be83d3ad-b672-4c8d-b07b-498249b63823",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1733862169,
         "date_posted": 1733862169,
         "url": "https://amazon.jobs/en/jobs/2849985/software-development-engineer-i-2025",
@@ -9965,7 +9869,7 @@
         "company_name": "Sev1Tech",
         "id": "064c38df-95e2-4461-a241-32dda71e01c3",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1743662360,
         "date_posted": 1743662360,
         "url": "https://careers-sev1tech.icims.com/jobs/8763/job",
@@ -16442,7 +16346,7 @@
         "company_name": "WebFX",
         "id": "a7bff833-62a9-4727-8191-01b4949dc26f",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1750781981,
         "date_posted": 1750781981,
         "url": "https://jobs.lever.co/webfx/7c15f9e7-6ca5-4188-887e-3b147485c58f/apply",
@@ -18878,5 +18782,22 @@
         "date_posted": 1754676794,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
+        "title": "Software Developer Engineer I",
+        "active": true,
+        "date_updated": 1754702367,
+        "date_posted": 1754702367,
+        "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
