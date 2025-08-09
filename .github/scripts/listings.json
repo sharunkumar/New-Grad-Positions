@@ -18511,7 +18511,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754642042,
+        "date_updated": 1754753470,
         "url": "https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/US---California---Thousand-Oaks/Junior-Software-Engineer_R-222252",
         "company_name": "Amgen",
         "title": "Junior Software Engineer",
@@ -18519,13 +18519,13 @@
             "Thousand Oaks, CA",
             "Tampa, FL"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "669bff20-bc17-4752-acc8-b2297819b6ae",
         "date_posted": 1754642042,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642138,
@@ -18640,20 +18640,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754649712,
+        "date_updated": 1754753697,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3477495",
         "company_name": "Detroit Defense",
         "title": "Software Test Engineer",
         "locations": [
             "Troy, MI"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "c970b2d3-4e10-414c-8ef1-849d778e5262",
         "date_posted": 1754649712,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754649789,
@@ -18903,5 +18903,151 @@
         "company_url": "https://simplify.jobs/c/Global-Relay",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1754747431,
+        "url": "https://www.tesla.com/careers/search/job/247659",
+        "company_name": "Tesla",
+        "title": "Machine Learning Engineer, Model Optimization & Deployment, Optimus",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f10df930-2707-43a7-8c03-f5fe269294f5",
+        "date_posted": 1754747431,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747598,
+        "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
+        "company_name": "BMO",
+        "title": "Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ad525d17-d6ca-4379-b4b2-b8382f101832",
+        "date_posted": 1754747598,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747781,
+        "url": "https://directv.wd1.myworkdayjobs.com/en-US/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
+        "company_name": "DIRECTV",
+        "title": "IT Software Engineer 1",
+        "locations": [
+            "locations El Segundo, CA",
+            "Remote in USA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6995c809-24ab-4413-98db-2a6e1c27e11d",
+        "date_posted": 1754747781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754747940,
+        "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
+        "company_name": "Moog",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "locations Torrance, CA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
+        "date_posted": 1754747940,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748271,
+        "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff31da1e-4ae5-46da-8714-dd3695505784",
+        "date_posted": 1754748271,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748405,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
+        "company_name": "GlobalFoundries",
+        "title": "Digital Manufacturing Data Science Analyst",
+        "locations": [
+            "Malta, NY"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
+        "date_posted": 1754748405,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748517,
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6616403003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ff7b6269-b3e1-4e8c-bcb1-6d796c23b551",
+        "date_posted": 1754748517,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754748680,
+        "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
+        "company_name": "U.S. Venture",
+        "title": "Data Analyst I (Breakthrough)",
+        "locations": [
+            "Green Bay, WI"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "bb95c23d-065b-4ae3-ab08-1db8a7deba5a",
+        "date_posted": 1754748680,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1754755775,
+        "url": "https://jobs.lever.co/lumafield/0bdaed8e-3234-4073-afa6-410d1362fe25",
+        "company_name": "Lumafield",
+        "title": "Embedded Systems Engineer",
+        "locations": [
+            "Boston, MA",
+            "Everett, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2494635c-0be1-4065-b0d6-fd28c52d0841",
+        "date_posted": 1754755775,
+        "company_url": "",
+        "is_visible": true
     }
 ]
