@@ -11929,7 +11929,7 @@
         "company_name": "Amentum",
         "id": "ab8be857-c152-406b-aa20-db7b85c97468",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1747325720,
         "date_posted": 1747325720,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139276",
@@ -18841,7 +18841,7 @@
         "company_name": "Jerry",
         "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754711609,
         "date_posted": 1754711609,
         "url": "https://jobs.ashbyhq.com/Jerry/4dcfcfa6-7d55-40a9-9b9d-d7195ae88fd3/application",
@@ -18858,7 +18858,7 @@
         "company_name": "Jerry",
         "id": "bf169a76-72de-42e1-ae62-e464af8b92ea",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754711084,
         "date_posted": 1754711084,
         "url": "https://jobs.ashbyhq.com/Jerry/19d84e98-6a93-4e5b-937d-170f6f36ea46/application",
@@ -19081,6 +19081,24 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripAdvisor",
+        "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
+        "title": "Software Engineer I - Backend Focus - Viator",
+        "active": true,
+        "date_updated": 1754924707,
+        "date_posted": 1753203617,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
         "is_visible": true,
         "sponsorship": "Other"
     }
