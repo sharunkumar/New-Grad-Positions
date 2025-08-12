@@ -18124,11 +18124,11 @@
         "id": "59f2623e-1e7c-4a2c-b675-38ba8bdba66f",
         "title": "Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1754389831,
+        "date_updated": 1754964235,
         "date_posted": 1754389831,
         "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189/application",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/BRM",
         "is_visible": true,
@@ -18191,7 +18191,7 @@
         "company_name": "Medtronic",
         "id": "9d10f271-23f6-45b7-b460-6bd613fda2c6",
         "title": "Software Engineer I - CRM",
-        "active": true,
+        "active": false,
         "date_updated": 1754441018,
         "date_posted": 1754441018,
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R38781-1",
@@ -18576,12 +18576,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754642427,
+        "date_updated": 1754964141,
         "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
         "company_name": "Radiance Technologies",
         "title": "Junior Full Stack Software Engineer",
         "locations": [
-            "locations Beavercreek, OH"
+            "Beavercreek, OH"
         ],
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -19099,6 +19099,25 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HNTB",
+        "id": "0de26396-5f65-44e7-9dd4-da7b069f7eca",
+        "title": "Returning New Grad Software Engineer I",
+        "active": true,
+        "date_updated": 1754978782,
+        "date_posted": 1754978782,
+        "url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Kansas-City-MO/Returning-New-Grad-Software-Engineer-I--Great-Lakes-Division--For-Current-Former-HNTB-Interns-Only_R-26770-1",
+        "locations": [
+            "Chicago, IL",
+            "Kansas City, MO",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
         "is_visible": true,
         "sponsorship": "Other"
     }
