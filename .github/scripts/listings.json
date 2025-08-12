@@ -355,24 +355,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "NVIDIA",
-        "id": "85821890-c265-4a65-8187-1194af902478",
-        "title": "Deep Learning Compiler Engineer \u2013 New College Grad 2024 - Autonomous Vehicles",
-        "active": false,
-        "date_updated": 1723909861,
-        "date_posted": 1723909861,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Deep-Learning-Compiler-Engineer--Autonomous-Vehicles---New-College-Grad-2024_JR1986018",
-        "locations": [
-            "Austin, TX",
-            "Redmond, WA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Glean",
         "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
         "title": "Software Engineer \u2013 University Grad",
@@ -17655,7 +17637,7 @@
         "company_name": "Zoro",
         "id": "e825cd57-2482-4e89-b28a-901424d7269b",
         "title": "Software Engineer I - Release Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1754351086,
         "date_posted": 1754351086,
         "url": "https://zoro.com/careers/jobs?gh_jid=4589860006",
@@ -19198,6 +19180,137 @@
         "source": "AlmondCroffle",
         "id": "39827fea-c12e-438f-a718-8b6d2c41df51",
         "date_posted": 1754991338,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755006927,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
+        "company_name": "SS&C",
+        "title": "Junior AI-Assisted Software Engineer",
+        "locations": [
+            "Union, NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0a1235f1-ce89-40a8-a94d-f053e58c9904",
+        "date_posted": 1755006927,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007024,
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
+        "company_name": "Solar Turbines",
+        "title": "Entry Level Controls & Software Test Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c770eb9-1372-4a9c-acbd-8585aa18053a",
+        "date_posted": 1755007024,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007633,
+        "url": "https://www.databricks.com/company/careers/university-recruiting/data-scientist---new-grad-2026-start-6866554002?gh_jid=6866554002",
+        "company_name": "Databricks",
+        "title": "Data Scientist",
+        "locations": [
+            "Mountain View, CA",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2a99602b-1ec5-4b99-9050-41fc36613ffb",
+        "date_posted": 1755007633,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755007781,
+        "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
+        "company_name": "Barclays",
+        "title": "Quantitative Analytics Associate Graduate Program",
+        "locations": [
+            "Manhattan, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b669da89-d679-4fa2-a593-4eca3f5ac63e",
+        "date_posted": 1755007781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755008007,
+        "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
+        "company_name": "The Home Depot",
+        "title": "Associate Data Scientist - MET",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c43d97a6-1158-467e-b694-79c6de8b35f1",
+        "date_posted": 1755008007,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755008070,
+        "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
+        "company_name": "SciTec",
+        "title": "Associate / Staff Mission Data Analyst",
+        "locations": [
+            "Boulder, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1541d447-9fbe-4d31-97e2-1cd93adb98d4",
+        "date_posted": 1755008070,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Prosidian Consulting",
+        "id": "847cf082-1f75-43bb-9b76-0943ab77d698",
+        "title": "ITSM IT Security Engineer I",
+        "active": true,
+        "date_updated": 1755007381,
+        "date_posted": 1755007381,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755008257,
+        "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
+        "company_name": "Analytical Mechanics Associates",
+        "title": "AI/ML Research Associate",
+        "locations": [
+            "Hampton, VA",
+            "Remote"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
+        "date_posted": 1755008257,
         "company_url": "",
         "is_visible": true
     }
