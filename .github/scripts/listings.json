@@ -18448,14 +18448,14 @@
         "id": "31258921-79ec-4c6b-a2d1-bd40aa5a0ff2",
         "title": "Software Engineer I - Engineering - Development",
         "active": true,
-        "date_updated": 1754616167,
+        "date_updated": 1755082091,
         "date_posted": 1754616167,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602803047194",
         "locations": [
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -18734,14 +18734,14 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754676669,
+        "date_updated": 1755082139,
         "url": "https://lifeattiktok.com/search/7533712518582503687?spread=5MWH5CQ",
-        "company_name": "TikTok.",
+        "company_name": "TikTok",
         "title": "Product Security Engineer - Security Assurance",
         "locations": [
             "Seattle, WA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "c1fe3539-1d8e-4d12-a200-fb863a28c8e4",
@@ -18968,20 +18968,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754748405,
+        "date_updated": 1755081429,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/Digital-Manufacturing-Data-Science-Analyst--2025-New-College-Graduate-_JR-2502012",
         "company_name": "GlobalFoundries",
         "title": "Digital Manufacturing Data Science Analyst",
         "locations": [
             "Malta, NY"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "AlmondCroffle",
         "id": "2ad991f6-5161-43b8-af8f-3be0ac68b1a8",
         "date_posted": 1754748405,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754748517,
