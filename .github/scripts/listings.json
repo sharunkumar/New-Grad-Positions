@@ -11395,7 +11395,7 @@
         "company_name": "The Boeing Company",
         "id": "109c269f-cd68-40a9-9177-c7f4aa0ba9f3",
         "title": "Entry Level Flight Simulation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1746151076,
         "date_posted": 1746151076,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
@@ -11756,7 +11756,7 @@
         "company_name": "Ciena",
         "id": "7fb9cfc6-2b8c-4a41-9b3c-ea60476f4436",
         "title": "Electro-Optics Hardware Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1746838619,
         "date_posted": 1746838619,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Electro-Optics-Hardware-Engineer-New-Grad_R027951",
@@ -12119,7 +12119,7 @@
         "company_name": "Qualtrics",
         "id": "5e532cb7-48b0-4834-96a7-d87b3fdeced1",
         "title": "Software Engineer I - Foundation",
-        "active": false,
+        "active": true,
         "date_updated": 1747677958,
         "date_posted": 1747677958,
         "url": "https://www.qualtrics.com/careers/us/en/job/6897875?gh_jid=6897875",
@@ -16635,7 +16635,7 @@
         "company_name": "Broadcom Limited",
         "id": "323bd7d7-77ed-4cde-83a7-1a5badca5950",
         "title": "Junior R & D Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1753313866,
         "date_posted": 1753313866,
         "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-CA---Promontory-E/Junior-R---D-Software-Engineer_R023410",
@@ -17079,7 +17079,7 @@
         "company_name": "Aurora Innovation",
         "id": "0480e89b-c78b-4d7d-9ba3-f94a115f0330",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753924502,
         "date_posted": 1753924502,
         "url": "https://aurora.tech/jobs/8081673002?gh_jid=8081673002",
@@ -18218,7 +18218,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754594605,
+        "date_updated": 1755041580,
         "url": "https://app.ripplematch.com/v2/public/job/340fb9c1",
         "company_name": "Reddit",
         "title": "Software Engineer - New Grad",
@@ -18233,7 +18233,7 @@
         "id": "10784ba8-c863-49da-a882-bebd394b86a9",
         "date_posted": 1754540980,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754541480,
@@ -18558,36 +18558,36 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754964141,
+        "date_updated": 1755036485,
         "url": "https://radiancetech.wd12.myworkdayjobs.com/en-US/radiance_external/job/Beavercreek-OH/Junior-Full-Stack-Software-Engineer_HR101733",
         "company_name": "Radiance Technologies",
         "title": "Junior Full Stack Software Engineer",
         "locations": [
             "Beavercreek, OH"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "1ea4b748-fd4a-4ddb-a767-f544ed2bbd5b",
         "date_posted": 1754642427,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1754642817,
+        "date_updated": 1755045240,
         "url": "https://jobs.royalcaribbeangroup.com/job/Miramar-Associate-Engineer%2C-Software-FL-33132/1314694500",
         "company_name": "Royal Carribean Group",
         "title": "Associate Engineer, Software",
         "locations": [
             "Miramar, FL"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "6e1f2c33-4a57-4f51-a2bb-2cd3de84d5b5",
         "date_posted": 1754642817,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642937,
@@ -18606,20 +18606,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754649625,
+        "date_updated": 1755041520,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25024266",
         "company_name": "Emerson",
         "title": "Embedded Software Engineer",
         "locations": [
             "Shakopee, MN"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "736ff7fd-9859-482b-b73b-e3b5ffd38452",
         "date_posted": 1754649625,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754753697,
@@ -18771,7 +18771,7 @@
         "company_name": "Esri",
         "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
         "title": "Software Developer Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754702367,
         "date_posted": 1754702367,
         "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
@@ -19311,6 +19311,174 @@
         "source": "AlmondCroffle",
         "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
         "date_posted": 1755008257,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "00402230-0088-405d-aa27-d1360064a72c",
+        "title": "Software Engineering AMTS \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755030902,
+        "date_posted": 1755030902,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--New-Grad-_JR307625-1",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755033256,
+        "date_posted": 1755033256,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "f44cb268-5b1f-4b8d-ada3-b7bb30dfaec2",
+        "title": "Early Career Software Engineer",
+        "active": true,
+        "date_updated": 1755033254,
+        "date_posted": 1755033254,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Broadcom Limited",
+        "id": "45d26c7a-c9d3-4ac2-a788-03830aab0c0c",
+        "title": "Entry level Mainframe Software Development Engineer",
+        "active": true,
+        "date_updated": 1755033597,
+        "date_posted": 1755033597,
+        "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Entry-level-Mainframe-Software-Development-Engineer_R023538",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Broadcom-Limited",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045285,
+        "url": "https://university-uber.icims.com/jobs/147250/job",
+        "company_name": "Uber",
+        "title": "Graduate 2025 Software Engineer I, US",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "7147fcb0-68ba-4a67-949f-44ce269b1ac4",
+        "date_posted": 1755035602,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1755035689,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005",
+        "company_name": "Applied Intuition",
+        "title": "Embedded Software Engineer - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "3827b11f-faee-43e0-b92d-1fd2d3a75784",
+        "date_posted": 1755035689,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755035710,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "6a32d638-3914-427f-affa-a38322e94088",
+        "date_posted": 1755035710,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755035727,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005",
+        "company_name": "Applied Intuition",
+        "title": "Software Engineer - New Grad",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "polinavishnev",
+        "id": "e40e216e-8125-49f7-9366-c7bb719bb4a1",
+        "date_posted": 1755035727,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "e31c7e60-47e7-40ec-86e9-f01ebc4caefb",
+        "title": "Graduate 2025 Software Engineer I",
+        "active": true,
+        "date_updated": 1755036609,
+        "date_posted": 1755036609,
+        "url": "https://www.uber.com/global/en/careers/list/147250/",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755045229,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1858310/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Elisha-Edme",
+        "id": "f81de977-11f6-4e8f-8c28-558e716f56c7",
+        "date_posted": 1755045229,
         "company_url": "",
         "is_visible": true
     }
