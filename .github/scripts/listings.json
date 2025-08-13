@@ -9345,7 +9345,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -19481,5 +19481,119 @@
         "date_posted": 1755045229,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755051956,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-2",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9f9d4908-0ce6-435e-8455-57401d9d963c",
+        "date_posted": 1755051837,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052023,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_subsidiary/job/USA---Long-Beach-CA/Software-and-Electrical-Systems-Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2025463055-1",
+        "company_name": "Boeing",
+        "title": "Software and Electrical Systems Simulation Integration Engineer",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "985c4208-ceeb-4718-a570-fecef1c7f303",
+        "date_posted": 1755052023,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052838,
+        "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
+        "company_name": "Gannett Fleming",
+        "title": "Entry Level Software Developer",
+        "locations": [
+            "San Diego, CA",
+            "Chicago, IL"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "f8afaa29-d90b-499f-bcd6-bdb1709071e9",
+        "date_posted": 1755052838,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052904,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592027005?gh_jid=4592027005",
+        "company_name": "Applied Intuition",
+        "title": "Embedded Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "30855501-03e4-44ce-98c1-cc68924ce170",
+        "date_posted": 1755052904,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755052966,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4489211005?gh_jid=4489211005",
+        "company_name": "Applied Intuition",
+        "title": "Research Scientist",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "37534fef-92db-4930-aa0c-6c9a5cbd86ba",
+        "date_posted": 1755052966,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755053017,
+        "url": "https://job-boards.greenhouse.io/appliedintuition/jobs/4592025005?gh_jid=4592025005",
+        "company_name": "Applied Intuition",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0c3584aa-5224-43ae-960d-faa5dd6e5ae2",
+        "date_posted": 1755053017,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "50db7037-287c-460f-a7d6-ce1abcb89b9c",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1755062669,
+        "date_posted": 1755062669,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
