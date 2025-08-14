@@ -15526,11 +15526,11 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Citadel",
+        "company_name": "Citadel Securities",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Quantitative Research Analyst \u2013 University Graduate",
         "active": true,
-        "date_updated": 1752196371,
+        "date_updated": 1755169794,
         "date_posted": 1752196371,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
         "locations": [
@@ -15600,16 +15600,16 @@
     {
         "source": "Simplify",
         "category": "Quant",
-        "company_name": "Citadel",
+        "company_name": "Citadel Securities",
         "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
         "title": "Quantitative Research Engineer \u2013 University Graduate",
         "active": true,
-        "date_updated": 1752196364,
+        "date_updated": 1755169871,
         "date_posted": 1752196364,
         "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
         "locations": [
             "Miami, FL",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Citadel",
         "is_visible": true,
@@ -18300,20 +18300,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754543197,
+        "date_updated": 1755165964,
         "url": "https://utaustin.wd1.myworkdayjobs.com/en-US/UTstaff/job/AUSTIN-TX/Data-Analyst--College-of-Pharmacy--PhARM-and-TXCORE_R_00041200",
         "company_name": "The University of Texas at Austin",
         "title": "Data Analyst, College of Pharmacy, PhARM and TXCORE",
         "locations": [
             "Austin, TX"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "fe81670b-36fc-4ad0-bf87-9b67f0b44b06",
         "date_posted": 1754543197,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -19515,7 +19515,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755052838,
+        "date_updated": 1755155700,
         "url": "https://careers-gannettfleming.icims.com/jobs/12404/entry-level-software-developer/job",
         "company_name": "Gannett Fleming",
         "title": "Entry Level Software Developer",
@@ -19523,13 +19523,13 @@
             "San Diego, CA",
             "Chicago, IL"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "f8afaa29-d90b-499f-bcd6-bdb1709071e9",
         "date_posted": 1755052838,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755052904,
@@ -19612,5 +19612,366 @@
         "company_url": "https://simplify.jobs/c/ed242389-4231-41e2-bc85-a1f97fd15e44",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Becton, Dickinson and Company",
+        "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755154524,
+        "date_posted": 1755154524,
+        "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-523411-1",
+        "locations": [
+            "Sparks, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Becton-Dickinson-And-Company",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755168445,
+        "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
+        "company_name": "Suno",
+        "title": "Software Engineer",
+        "locations": [
+            "Boston, NY"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9c31b7f7-76b2-42fd-a321-eea8171cff28",
+        "date_posted": 1755168445,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755168795,
+        "url": "https://ats.rippling.com/en-CA/rippling/jobs/393b2982-14b0-4715-b6ea-a83353e95e12",
+        "company_name": "Rippling",
+        "title": "Software Engineer - Spend Growth",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "2199e28d-668b-4f20-bc5a-695ed9f27647",
+        "date_posted": 1755168795,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755168924,
+        "url": "https://www.metacareers.com/jobs/8187200048015588",
+        "company_name": "Meta",
+        "title": "Software Engineer (University Grad)",
+        "locations": [
+            "Sunnyvale, CA",
+            "Bellevue, WA",
+            "Menlo Park, CA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "Boston, MA",
+            "New York, NY",
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4057dcc2-fc6b-4dd5-b8f4-d667a603a058",
+        "date_posted": 1755168924,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169079,
+        "url": "https://www.jumptrading.com/careers/7141658/?gh_jid=7141658",
+        "company_name": "Jump Trading",
+        "title": "Campus AI Researcher (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9db01451-6509-4ceb-876c-362f00d3e76b",
+        "date_posted": 1755169079,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169257,
+        "url": "https://www.jumptrading.com/careers/7141620/?gh_jid=7141620",
+        "company_name": "Jump Trading",
+        "title": "Campus ML Engineer (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "12281588-c2dc-4544-afc8-baf9da2cd462",
+        "date_posted": 1755169257,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169441,
+        "url": "https://www.jumptrading.com/careers/7125354/?gh_jid=7125354",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Researcher (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b4168486-2b58-4db3-857e-ccdedac2cc56",
+        "date_posted": 1755169441,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169558,
+        "url": "https://www.jumptrading.com/careers/7140611/?gh_jid=7140611",
+        "company_name": "Jump Trading",
+        "title": "Campus Quantitative Trader (Full-Time)",
+        "locations": [
+            "Chicago, IL",
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "ef9a89c5-ed19-417d-81c3-285db2f4bf8e",
+        "date_posted": 1755169558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755169946,
+        "url": "https://www.citadelsecurities.com/careers/details/c-software-engineer-4/",
+        "company_name": "Citadel Securities",
+        "title": "C++ Software Engineer",
+        "locations": [
+            "Miami, FL",
+            "London, UK"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "95b5ae68-c637-4f57-af6e-2240cdf8587d",
+        "date_posted": 1755169946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170018,
+        "url": "https://jobs.ashbyhq.com/brm.ai/05cad7f7-2194-480d-8e70-7338cfd2a189",
+        "company_name": "BRM",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "067a2ce0-ad8d-4bb8-9b8d-b0bfb7b187f2",
+        "date_posted": 1755170018,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170203,
+        "url": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
+        "company_name": "Amazon",
+        "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cf3bff1b-96d9-42c8-aa16-d665aa659cda",
+        "date_posted": 1755170203,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170484,
+        "url": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
+        "company_name": "TekSynap",
+        "title": "Junior Software Developer",
+        "locations": [
+            "VA",
+            "AZ",
+            "AR",
+            "CT",
+            "DE",
+            "FL",
+            "GA",
+            "ID",
+            "IN",
+            "IA",
+            "KS",
+            "Various States"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "12b2a32d-8b3c-4a31-b114-273a8640fe2c",
+        "date_posted": 1755170484,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170612,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Melbourne-FL/Software-Engineer_R0276710-1",
+        "company_name": "Thales",
+        "title": "Software Engineer | Graduate",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "48a1df77-0b5c-4ea5-ab76-fb647a6883c6",
+        "date_posted": 1755170612,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170758,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/en-US/vuhl/job/Remote-MO/Associate-Software-Engineer_R5288",
+        "company_name": "Veterans United Home Loans",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote, MO"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5a4aa298-6cc3-4d8a-99f3-b3d2820657d9",
+        "date_posted": 1755170758,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170921,
+        "url": "https://careers-sev1tech.icims.com/jobs/9092/software-developer---entry-level/job",
+        "company_name": "Sev1Tech",
+        "title": "Software Developer - Entry Level",
+        "locations": [
+            "Fort Sill, OK"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c4fb508a-96f2-497a-a116-33572aa2d59f",
+        "date_posted": 1755170921,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755170963,
+        "url": "https://job-boards.greenhouse.io/foliahealth/jobs/4013590009",
+        "company_name": "Folia Health",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "cb5df03b-06f2-4f6c-8486-1df25a8269e2",
+        "date_posted": 1755170963,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171076,
+        "url": "https://peak6group.wd1.myworkdayjobs.com/en-US/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103414-1",
+        "company_name": "Apex",
+        "title": "Software Engineer I (ALDP)",
+        "locations": [
+            "Austin, TX"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4929aa5d-6718-4db5-ad67-943ed00e9fa8",
+        "date_posted": 1755171076,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171153,
+        "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-33876-1",
+        "company_name": "KeyBank",
+        "title": "Analytics and Quantitative Modeling Rotational Analyst Program",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c461ce0a-a2d3-4e57-9e11-d44f17791af0",
+        "date_posted": 1755171153,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171219,
+        "url": "https://matic.com/careers/?gh_jid=5585225004",
+        "company_name": "Matic",
+        "title": "Data Analyst (entry-level)",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c78dabe2-7976-4f40-8688-02419728c90d",
+        "date_posted": 1755171219,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171502,
+        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002",
+        "company_name": "Samsung",
+        "title": "Health AI Scholar, Digital Health (PhD)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1efa1a96-858a-40e1-893d-3a3a9591226b",
+        "date_posted": 1755171502,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755171568,
+        "url": "https://triafed.com/jobs/?gh_jid=4881899008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst-Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "71e57d3c-74eb-4697-9e82-980a070f445a",
+        "date_posted": 1755171568,
+        "company_url": "",
+        "is_visible": true
     }
 ]
