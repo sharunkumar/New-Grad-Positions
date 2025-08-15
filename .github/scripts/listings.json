@@ -18989,7 +18989,7 @@
         "company_name": "DIRECTV",
         "id": "700bbf44-6c06-4816-a5a4-061de72bcb00",
         "title": "IT Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1754781479,
         "date_posted": 1754781479,
         "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/IT-Software-Engineer-1_R250209",
@@ -19038,14 +19038,14 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754990599,
+        "date_updated": 1755246971,
         "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
         "company_name": "Anduril Industries",
         "title": "Early Career Software Engineer",
         "locations": [
             "Costa Mesa, CA"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "source": "Elisha-Edme",
         "id": "e6fe73f7-dde0-4fb0-bfaa-04894ee449f2",
@@ -19271,11 +19271,11 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Anduril",
+        "company_name": "Anduril Industries",
         "id": "41ff9380-1d22-490e-a190-d2eb855c621f",
         "title": "Early Career Software Engineer",
         "active": true,
-        "date_updated": 1755033256,
+        "date_updated": 1755247381,
         "date_posted": 1755033256,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824364007",
         "locations": [
@@ -19283,16 +19283,16 @@
         ],
         "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Anduril",
+        "company_name": "Anduril Industries",
         "id": "f44cb268-5b1f-4b8d-ada3-b7bb30dfaec2",
         "title": "Early Career Software Engineer",
         "active": true,
-        "date_updated": 1755033254,
+        "date_updated": 1755247462,
         "date_posted": 1755033254,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/4824378007",
         "locations": [
@@ -19300,7 +19300,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Anduril",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -19968,7 +19968,7 @@
         "company_name": "BlueCross BlueShield of Tennessee",
         "id": "833d9a34-ab07-4ae2-83cc-7a6c49a138f6",
         "title": "Associate Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755205120,
         "date_posted": 1755205120,
         "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776",
@@ -19995,5 +19995,330 @@
         "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755241946,
+        "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
+        "company_name": "Amazon",
+        "title": "Robotics Systems Engineer, Amazon Robotics Deployment Engineering",
+        "locations": [
+            "Austin, TX",
+            "Seattle, WA",
+            "North Reading, MA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5dbf87bc-ac63-4ea4-9cd1-d9b81f90f3c5",
+        "date_posted": 1755241946,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242238,
+        "url": "https://joinbytedance.com/search/7535233571066349842",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Applied Machine Learning - MLDev) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "895c4dcf-4f15-400a-8327-9ae5c23a91e2",
+        "date_posted": 1755242238,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242347,
+        "url": "https://joinbytedance.com/search/7532538236133902599",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "191488b6-a77d-431c-b7a0-790049adb518",
+        "date_posted": 1755242347,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242403,
+        "url": "https://joinbytedance.com/search/7536272435440716040",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1ae34a66-204c-4be8-81c7-a39ed6cc1286",
+        "date_posted": 1755242403,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242512,
+        "url": "https://joinbytedance.com/search/7537121677185534216",
+        "company_name": "ByteDance",
+        "title": "Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "29b38790-e96f-4510-af54-2972c8062987",
+        "date_posted": 1755242512,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242727,
+        "url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-developer-quant-researcher-2026-grads/",
+        "company_name": "Hudson River Trading",
+        "title": "Algorithm Developer (Quant Researcher) \u2013 2026 Grads",
+        "locations": [
+            "New York, NY"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "30500b30-ad9e-469e-b4d9-91de127188ba",
+        "date_posted": 1755242727,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242840,
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
+        "company_name": "Microsoft",
+        "title": "Software Engineer: Microsoft AI Development Acceleration Program",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9773d3c0-af8a-4ee6-b4c4-4ea407081d71",
+        "date_posted": 1755242840,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755242941,
+        "url": "https://lifeattiktok.com/search/7535606471191824647",
+        "company_name": "TikTok",
+        "title": "Machine Learning Engineer Graduate (Monetization Technology - TikTok Ads Creative & Ecosystem) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "9e96271f-5e98-40b3-acd7-1682cae88bc2",
+        "date_posted": 1755242941,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755243068,
+        "url": "https://lifeattiktok.com/search/7536356589390301458",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Recommendation Platform) - 2026 Start (BS/MS)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "0c4dfc3f-b521-448c-bb0b-70202dcf34da",
+        "date_posted": 1755243068,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755243207,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
+        "company_name": "Zoll",
+        "title": "Software Engineer I - Embedded Devices",
+        "locations": [
+            "Chelmsford, MA",
+            "Parsippany, NJ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d21570f2-ec82-4986-bb44-c38b632207f1",
+        "date_posted": 1755243207,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755243482,
+        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2110482",
+        "company_name": "KBR",
+        "title": "Software Engineer I",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "aeacaa6e-d32d-4a0f-8918-d9d29578ce3c",
+        "date_posted": 1755243482,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755243638,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA",
+            ""
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c4689c3d-5ba8-43ad-8f6f-2eea33310ebf",
+        "date_posted": 1755243638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755243725,
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
+        "company_name": "Boeing",
+        "title": "Entry Level Flight Simulation Software Engineer",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "da762d87-8320-42ad-bf8d-a634b03b70ad",
+        "date_posted": 1755243725,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755246367,
+        "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Round-Lake-Illinois/Software-Engineer-I_JR-181377-1",
+        "company_name": "Baxter",
+        "title": "Software Engineer I",
+        "locations": [
+            "Round Lake, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "381cbc2d-84a9-429e-bdb3-766052024f56",
+        "date_posted": 1755246367,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755246653,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824362007?gh_jid=4824362007",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Boston, MA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "826be62a-8eee-45dc-816f-986e9c4bc7bd",
+        "date_posted": 1755246471,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755246784,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824369007?gh_jid=4824369007",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Washington, DC"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c54c42b1-9017-469d-87db-dc5e53e2d3cb",
+        "date_posted": 1755246784,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755246824,
+        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4824378007?gh_jid=4824378007",
+        "company_name": "Anduril Industries",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "5d44da7e-2d82-486a-9745-c25640724161",
+        "date_posted": 1755246824,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755247607,
+        "url": "https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Entry Level Software Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "c86c919c-c248-4add-93e7-34228f8199d9",
+        "date_posted": 1755247607,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755247729,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10125661",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "8110ef4b-04c7-45a7-bb84-950c66cc1cdb",
+        "date_posted": 1755247729,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755248003,
+        "url": "https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
+        "company_name": "Choice Hotels",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "3f0f5467-e6ba-4022-827d-b00079622b4e",
+        "date_posted": 1755248003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
