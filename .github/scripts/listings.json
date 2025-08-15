@@ -307,22 +307,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Hudson River Trading",
-        "id": "b1765552-e652-4f88-a20d-d926c26402ad",
-        "title": "Software Engineer \u2013 2025 Grads - C++",
-        "active": false,
-        "date_updated": 1724109993,
-        "date_posted": 1724109993,
-        "url": "https://boards.greenhouse.io/wehrtyou/jobs/6139130",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Qloo",
         "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
         "title": "Junior Data Engineer",
@@ -366,23 +350,6 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Glean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Figma",
-        "id": "2b580f47-60f5-4756-b1d9-7c8f2eac977d",
-        "title": "Data Scientist \u2013 Early Career - 2025",
-        "active": false,
-        "date_updated": 1724103281,
-        "date_posted": 1724103281,
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5227981004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -432,23 +399,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Figma",
-        "id": "b94c2b4c-d3ba-4672-8310-8374cade8a24",
-        "title": "Software Engineer \u2013 Early Career - 2025",
-        "active": false,
-        "date_updated": 1724103339,
-        "date_posted": 1724103339,
-        "url": "https://job-boards.greenhouse.io/figma/jobs/5227935004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1508,22 +1458,6 @@
         "company_url": "https://simplify.jobs/c/Alto",
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "7505f584-d1ff-4447-872b-bcfa742bf044",
-        "title": "Embedded Software Engineer \u2013 University Graduate 2025",
-        "active": false,
-        "date_updated": 1724102452,
-        "date_posted": 1724102452,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471668007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -11412,7 +11346,7 @@
         "company_name": "Yahoo",
         "id": "7016a5af-0041-49f1-92fe-5b86052df035",
         "title": "Big Data Tools Engineer - Software Dev Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1746154749,
         "date_posted": 1746154749,
         "url": "https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/United-States-of-America/Big-Data-Tools-Engineer---Software-Dev-Engineer-I_JR0025664",
@@ -17519,7 +17453,7 @@
         "company_name": "Clarity Innovations",
         "id": "000ae1de-ef6c-4970-9032-96be016c3c60",
         "title": "Junior Information System Security Engineer - Isse",
-        "active": true,
+        "active": false,
         "date_updated": 1753119004,
         "date_posted": 1753119004,
         "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4789602007",
@@ -18072,7 +18006,7 @@
         "company_name": "RTX",
         "id": "e8df5761-a982-4af8-8501-5cc4b128d4b1",
         "title": "Back End Processing Network Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754364097,
         "date_posted": 1754364097,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/Back-End-Processing-Network-Engineer-I-Portsmouth-RI-Onsite_01784264",
@@ -18510,20 +18444,20 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754642138,
+        "date_updated": 1755223410,
         "url": "http://isu.wd1.myworkdayjobs.com/en-US/IowaStateJobs/job/Remote---Iowa/Software-Developer-I---AI-Developer_R17481",
         "company_name": "Iowa State University",
         "title": "Software Developer I - AI Developer",
         "locations": [
             "Remote, IA"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "b2c3b509-3077-4e43-8818-395c67f30753",
         "date_posted": 1754642138,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754642261,
@@ -18903,20 +18837,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754747598,
+        "date_updated": 1755223398,
         "url": "https://bmo.wd3.myworkdayjobs.com/en-US/External/job/Chicago-IL-USA/Software-Engineer--New-or-Recent-Graduate-_R250019232",
         "company_name": "BMO",
         "title": "Software Engineer",
         "locations": [
             "Chicago, IL"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "ad525d17-d6ca-4379-b4b2-b8382f101832",
         "date_posted": 1754747598,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1754951019,
@@ -19184,20 +19118,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755006927,
+        "date_updated": 1755223347,
         "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
         "company_name": "SS&C",
         "title": "Junior AI-Assisted Software Engineer",
         "locations": [
             "Union, NJ"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "0a1235f1-ce89-40a8-a94d-f053e58c9904",
         "date_posted": 1755006927,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755007024,
@@ -19233,20 +19167,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755007781,
+        "date_updated": 1755223448,
         "url": "https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Quantitative-Analytics-Associate-Graduate-Program-2026-New-York_JR-0000060403",
         "company_name": "Barclays",
         "title": "Quantitative Analytics Associate Graduate Program",
         "locations": [
             "Manhattan, NY"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "b669da89-d679-4fa2-a593-4eca3f5ac63e",
         "date_posted": 1755007781,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755008007,
@@ -19455,7 +19389,7 @@
         "company_name": "Uber",
         "id": "e31c7e60-47e7-40ec-86e9-f01ebc4caefb",
         "title": "Graduate 2025 Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755192208,
         "date_posted": 1755036609,
         "url": "https://www.uber.com/global/en/careers/list/147250/",
@@ -19631,12 +19565,13 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755168445,
+        "date_updated": 1755223131,
         "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752",
         "company_name": "Suno",
         "title": "Software Engineer",
         "locations": [
-            "Boston, NY"
+            "Boston, MA",
+            "New York, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -20024,6 +19959,40 @@
             "Kent, WA"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlueCross BlueShield of Tennessee",
+        "id": "833d9a34-ab07-4ae2-83cc-7a6c49a138f6",
+        "title": "Associate Software Engineer I",
+        "active": true,
+        "date_updated": 1755205120,
+        "date_posted": 1755205120,
+        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776",
+        "locations": [
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "14de31b0-7cfe-4974-b496-09085c6b6b80",
+        "title": "Entry Level Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1755220981,
+        "date_posted": 1755220981,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025462883",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
         "is_visible": true,
         "sponsorship": "Other"
     }
