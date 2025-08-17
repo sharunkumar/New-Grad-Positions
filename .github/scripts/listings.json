@@ -1,53 +1,5 @@
 [
     {
-        "date_updated": 1724287549,
-        "url": "https://www.geckorobotics.com/careers?ashby_jid=34464bf6-1c55-4aed-8d08-ac43c7c965d1#open-positions",
-        "company_name": "Gecko Robotics",
-        "title": "Software Engineer - New Graduate",
-        "locations": [
-            "Boston, MA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "jkahn33",
-        "id": "806f89c9-d6f9-491d-a742-e95d2829692b",
-        "date_posted": 1724287549,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1724287564,
-        "url": "https://www.geckorobotics.com/careers?ashby_jid=c161948f-001d-45e4-a340-776cfccc1ff2#open-positions",
-        "company_name": "Gecko Robotics",
-        "title": "Embedded Software Engineer - New Graduate",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "jkahn33",
-        "id": "e6739fd1-ba21-43a2-85a1-9d3c43cc20b2",
-        "date_posted": 1724287564,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1724287582,
-        "url": "https://www.geckorobotics.com/careers?ashby_jid=37a18535-7fd9-4491-a8a0-d567adc30e03#open-positions",
-        "company_name": "Gecko Robotics",
-        "title": "Forward Deployed Engineer - New Graduate",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "jkahn33",
-        "id": "798cdd74-db47-479a-8592-92b9a76046fc",
-        "date_posted": 1724287582,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1724738358,
         "url": "https://jobs.careers.microsoft.com/us/en/job/1750679/Software-Engineer",
         "company_name": "Microsoft",
@@ -307,22 +259,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Qloo",
-        "id": "68b3d370-8179-438e-ad4c-8b067ee6607b",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1724283287,
-        "date_posted": 1724283287,
-        "url": "https://jobs.lever.co/qloo/56d875f9-671c-447b-868e-5da9af79ffce/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Qloo",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Flashpoint",
         "id": "766d0bee-e451-4b4d-9ee9-53b175d32a4c",
         "title": "Data Engineer I",
@@ -399,22 +335,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Intuition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Verkada",
-        "id": "fc6f06da-06c1-42c1-a421-a038eb9081fe",
-        "title": "Security Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1724440781,
-        "date_posted": 1724284038,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4488331007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -1504,23 +1424,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Gecko-Robotics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Vectra",
-        "id": "9a63bd39-e642-47f1-b2af-0665cb194cac",
-        "title": "Software Engineer \u2013 New College Graduate",
-        "active": false,
-        "date_updated": 1724283294,
-        "date_posted": 1724283294,
-        "url": "https://boards.greenhouse.io/vectranetworks/jobs/6142089",
-        "locations": [
-            "Austin, TX",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vectra",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -19616,8 +19519,8 @@
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
-        "source": "AlmondCroffle",
-        "id": "4057dcc2-fc6b-4dd5-b8f4-d667a603a058",
+        "source": "Simplify",
+        "id": "2076cb1b-b272-44d3-9643-cf08334eece0",
         "date_posted": 1755168924,
         "company_url": "",
         "is_visible": true
@@ -20795,6 +20698,23 @@
             "Helena, MT"
         ],
         "company_url": "https://simplify.jobs/c/SoFi",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "60821365-1160-46c1-a9a7-fa80b8c6d832",
+        "title": "Systems/Software Engineer I",
+        "active": true,
+        "date_updated": 1755302622,
+        "date_posted": 1755302622,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Systems-Software-Engineer-I_1192770",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other"
     }
