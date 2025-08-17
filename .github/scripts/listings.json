@@ -19037,20 +19037,20 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755007024,
+        "date_updated": 1755418026,
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/solarturbines/job/San-Diego-California/Entry-Level-Controls---Software-Test-Engineer_R0000318546",
         "company_name": "Solar Turbines",
         "title": "Entry Level Controls & Software Test Engineer",
         "locations": [
             "San Diego, CA"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "9c770eb9-1372-4a9c-acbd-8585aa18053a",
         "date_posted": 1755007024,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755007633,
@@ -19102,20 +19102,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755008070,
+        "date_updated": 1755417977,
         "url": "https://apply.workable.com/scitec/j/45B1B9BA15/",
         "company_name": "SciTec",
         "title": "Associate / Staff Mission Data Analyst",
         "locations": [
             "Boulder, CO"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "1541d447-9fbe-4d31-97e2-1cd93adb98d4",
         "date_posted": 1755008070,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -19643,7 +19643,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755170484,
+        "date_updated": 1755417997,
         "url": "https://careers-teksynap.icims.com/jobs/8306/junior-software-developer/job",
         "company_name": "TekSynap",
         "title": "Junior Software Developer",
@@ -19661,13 +19661,13 @@
             "KS",
             "Various States"
         ],
-        "sponsorship": "U.S. Citizenship is Required",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "12b2a32d-8b3c-4a31-b114-273a8640fe2c",
         "date_posted": 1755170484,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755270459,
@@ -20535,7 +20535,7 @@
         "id": "0d1d96cd-b44f-4f2b-b169-410992b6f31b",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1755298810,
+        "date_updated": 1755418053,
         "date_posted": 1755298810,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Exton-PA/Software-Engineer-I_R202564663-1",
         "locations": [
@@ -20544,7 +20544,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Cox",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -20690,7 +20690,7 @@
         "id": "b9d94e6c-1a9a-4a79-a413-dfefe90329d3",
         "title": "New Grad \u2013 Fullstack Software Engineer - Home Loans",
         "active": true,
-        "date_updated": 1755292464,
+        "date_updated": 1755417958,
         "date_posted": 1755292464,
         "url": "https://www.sofi.com/careers/sofi-university/6678813003?gh_jid=6678813003",
         "locations": [
@@ -20699,7 +20699,7 @@
         ],
         "company_url": "https://simplify.jobs/c/SoFi",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -20717,5 +20717,110 @@
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1755418299,
+        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
+        "company_name": "Harris",
+        "title": "Junior Computational Linguist",
+        "locations": [
+            "VA",
+            "WI",
+            "AZ",
+            "TN",
+            "MI",
+            "MA",
+            "MO",
+            "CO",
+            "NM",
+            "Remote, London, UK"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "228b40ec-8006-4f43-9de2-653954ed72fa",
+        "date_posted": 1755418299,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755418371,
+        "url": "https://l2tmediallc.applytojob.com/apply/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst",
+        "company_name": "L2TMedia",
+        "title": "Junior Digital Media Data Analyst",
+        "locations": [
+            "Evanston, IL"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b13d57c3-c943-4cc3-af4a-6a8a7f2152f1",
+        "date_posted": 1755418371,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755418438,
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10128347",
+        "company_name": "Disney",
+        "title": "Associate Data Analyst",
+        "locations": [
+            "Burbank, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4d0534a6-6d5b-46eb-b84d-35cb4a1559d2",
+        "date_posted": 1755418438,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755418638,
+        "url": "https://apply.workable.com/qodeworld/j/5718A36818/",
+        "company_name": "qode.world",
+        "title": "Junior Software Developer",
+        "locations": [
+            "NJ"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a0e98c0f-757e-4b61-8f0a-a48adafcaceb",
+        "date_posted": 1755418638,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755418718,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
+        "company_name": "GlobalFoundries",
+        "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
+        "locations": [
+            "Essex Junction, VT"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "4271b0fc-3586-43e3-8ed5-6cb096c013ca",
+        "date_posted": 1755418718,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755418805,
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
+        "company_name": "BAE Systems",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "36561c35-450e-4662-a8c2-84cd99283ea8",
+        "date_posted": 1755418805,
+        "company_url": "",
+        "is_visible": true
     }
 ]
