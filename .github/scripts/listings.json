@@ -259,22 +259,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Palantir",
-        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1724456004,
-        "date_posted": 1724456004,
-        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "esri",
         "id": "2096e16b-e911-4b5d-ae4a-d6a517d6e5c4",
         "title": "C++ Software Development Engineer I",
@@ -2701,22 +2685,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Pax8",
-        "id": "0475d339-069e-46be-aed1-8b2f9f000ead",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1727897502,
-        "date_posted": 1724455309,
-        "url": "https://www.pax8.com/en-us/careers/job-openings?gh_jid=4694725004",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Pax8",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -17371,7 +17339,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1754344367,
+        "date_updated": 1755568123,
         "url": "https://www.metacareers.com/jobs/609052015548260",
         "company_name": "Meta",
         "title": "Product Security Engineer (University Grad)",
@@ -17379,13 +17347,13 @@
             "Bellevue, WA",
             "Menlo Park, CA"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "polinavishnev",
         "id": "0f71614a-cdc8-4185-9f86-9b731f4410f0",
         "date_posted": 1754344367,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -19437,7 +19405,7 @@
             "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "Simplify",
         "id": "2076cb1b-b272-44d3-9643-cf08334eece0",
         "date_posted": 1755168924,
@@ -19546,20 +19514,20 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755170203,
+        "date_updated": 1755568175,
         "url": "https://www.amazon.jobs/en/jobs/3057120/systems-development-engineer-i-ops-tech-solution-ots",
         "company_name": "Amazon",
         "title": "Systems Development Engineer I, Ops Tech Solution (OTS)",
         "locations": [
             "Austin, TX"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "cf3bff1b-96d9-42c8-aa16-d665aa659cda",
         "date_posted": 1755170203,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755417997,
@@ -19589,7 +19557,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755270459,
+        "date_updated": 1755568212,
         "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Melbourne-FL/Software-Engineer_R0276710-1",
         "company_name": "Thales",
         "title": "Software Engineer - Graduate",
@@ -19602,7 +19570,7 @@
         "id": "48a1df77-0b5c-4ea5-ab76-fb647a6883c6",
         "date_posted": 1755170612,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755170758,
@@ -19669,36 +19637,36 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755171153,
+        "date_updated": 1755567973,
         "url": "https://keybank.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Cleveland-OH/XMLNAME-2026-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program---Cleveland_R-33876-1",
         "company_name": "KeyBank",
         "title": "Analytics and Quantitative Modeling Rotational Analyst Program",
         "locations": [
             "Cleveland, OH"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "c461ce0a-a2d3-4e57-9e11-d44f17791af0",
         "date_posted": 1755171153,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1755171219,
+        "date_updated": 1755568018,
         "url": "https://matic.com/careers/?gh_jid=5585225004",
         "company_name": "Matic",
         "title": "Data Analyst (entry-level)",
         "locations": [
             "Columbus, OH"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "c78dabe2-7976-4f40-8688-02419728c90d",
         "date_posted": 1755171219,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755171502,
@@ -19999,7 +19967,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755243638,
+        "date_updated": 1755568251,
         "url": "https://jobs.ashbyhq.com/jerry.ai/a08b2b5b-5bed-4b71-b925-800670b21fd5",
         "company_name": "Jerry",
         "title": "Software Engineer I",
@@ -20008,29 +19976,29 @@
             "Palo Alto, CA",
             ""
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "c4689c3d-5ba8-43ad-8f6f-2eea33310ebf",
         "date_posted": 1755243638,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1755243725,
+        "date_updated": 1755568306,
         "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2025454088",
         "company_name": "Boeing",
         "title": "Entry Level Flight Simulation Software Engineer",
         "locations": [
             "Berkeley, MO"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "AlmondCroffle",
         "id": "da762d87-8320-42ad-bf8d-a634b03b70ad",
         "date_posted": 1755243725,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755246367,
@@ -20505,7 +20473,7 @@
         "company_name": "Mastercard",
         "id": "1e3ed3ad-963e-4860-adfd-b24288e46eaf",
         "title": "Software Engineer I - Backend - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1755298469,
         "date_posted": 1755298469,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Backend---Java-_R-258140",
@@ -20741,5 +20709,93 @@
         "date_posted": 1755418805,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "af0793a3-f50e-4836-85d5-d59475e5051e",
+        "title": "Cyber/EW Research Engineer I",
+        "active": true,
+        "date_updated": 1755568331,
+        "date_posted": 1755540692,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Cyber-EW-Research-Engineer-I_01787171",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f0bfc241-81bc-4e41-9302-f5eca6339fdf",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1753960073,
+        "date_posted": 1751385394,
+        "url": "https://jobs.lever.co/palantir/dea9d3d5-75b2-4588-b7bd-585a47b79c8c/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Notion",
+        "id": "75fb48a4-fff4-42d7-a3fd-fb29d7e57b96",
+        "title": "Software Engineer \u2013 Early Career - Infrastructure",
+        "active": true,
+        "date_updated": 1755548838,
+        "date_posted": 1755548838,
+        "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Notion",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chord Energy",
+        "id": "141524f2-adf7-4b47-afb9-4115336e9871",
+        "title": "Junior Data Engineer Azure",
+        "active": true,
+        "date_updated": 1755566527,
+        "date_posted": 1755566527,
+        "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/6318f491-c84d-4570-aca1-0d51c5e85b84",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pinterest",
+        "id": "d7feac2c-dad6-41c7-96f9-25652bbadef6",
+        "title": "Machine Learning Engineer I - Monetization Engineering",
+        "active": true,
+        "date_updated": 1755566145,
+        "date_posted": 1755566145,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
     }
 ]
