@@ -21050,5 +21050,101 @@
         "date_posted": 1755594236,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755615074,
+        "url": "https://joinbytedance.com/search/7535903852755814674",
+        "company_name": "ByteDance",
+        "title": "Site Reliability Engineer Graduate (Data Infrastructure)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "b9542ef2-fc42-4b23-bada-26ef13996680",
+        "date_posted": 1755615074,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755615135,
+        "url": "https://joinbytedance.com/search/7538120693880834322",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (Edge Platform)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "a8be4912-f9d1-4720-b580-067cb39dd751",
+        "date_posted": 1755615135,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755615165,
+        "url": "https://joinbytedance.com/search/7538433821165259015",
+        "company_name": "ByteDance",
+        "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "d5268909-0683-45c1-846f-75693dab80f5",
+        "date_posted": 1755615165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755615194,
+        "url": "https://joinbytedance.com/search/7538106304578963730",
+        "company_name": "ByteDance",
+        "title": "Network Engineer Graduate (Physical Network Infra)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "1ced7c54-67ff-4ee3-a8be-6ef2e619bec2",
+        "date_posted": 1755615194,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755615218,
+        "url": "https://joinbytedance.com/search/7538109046751463688",
+        "company_name": "ByteDance",
+        "title": "Network Engineer Graduate (Physical Network Infra)",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "6a78cd19-8c35-45f3-bf12-1ece75258473",
+        "date_posted": 1755615218,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755615250,
+        "url": "https://joinbytedance.com/search/7538114876280817927",
+        "company_name": "ByteDance",
+        "title": "Cloud Network Engineer Graduate(Physical Network Infra)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "AlmondCroffle",
+        "id": "34f8b2b0-5d90-4fa3-92e0-30f9bcc2186c",
+        "date_posted": 1755615250,
+        "company_url": "",
+        "is_visible": true
     }
 ]
