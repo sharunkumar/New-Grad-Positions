@@ -10468,7 +10468,7 @@
         "company_name": "Flexport",
         "id": "561dc074-7c02-4562-a2df-5ac406ce6a4d",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1745050346,
         "date_posted": 1745050346,
         "url": "https://boards.greenhouse.io/flexport/jobs/6795493",
@@ -20795,6 +20795,94 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "f0c28371-b210-4c4e-bbc2-48c6aa38ea82",
+        "title": "Software Engineer I - Enterprise AI for Operations - Aws - Python",
+        "active": true,
+        "date_updated": 1755570176,
+        "date_posted": 1755570176,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZOLL Medical Corporation",
+        "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
+        "title": "Software Engineer I - Applications",
+        "active": true,
+        "date_updated": 1755532104,
+        "date_posted": 1755532104,
+        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
+        "locations": [
+            "Lowell, MA",
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoll",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citadel",
+        "id": "bd3b350e-b453-4e9e-b406-0b8c7cef670a",
+        "title": "Software Engineer \u2013 University Graduate",
+        "active": true,
+        "date_updated": 1755532132,
+        "date_posted": 1755532132,
+        "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8b5ef3a3-06f5-4f4e-a5f6-f77c6bb99742",
+        "title": "2025 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
+        "active": true,
+        "date_updated": 1755533588,
+        "date_posted": 1755533588,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2025-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01786891",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "37d641e3-9418-41e4-b20d-0cc2e8e29feb",
+        "title": "Software Engineer I - Workday Programmer - Report Writer - Eib",
+        "active": true,
+        "date_updated": 1755532290,
+        "date_posted": 1755532290,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
         "sponsorship": "Other"
     }
