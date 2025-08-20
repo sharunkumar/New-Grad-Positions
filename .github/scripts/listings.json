@@ -21849,5 +21849,269 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1755678204,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://joinbytedance.com/search/7265752342699837757",
+        "company_name": "ByteDance",
+        "title": "Software Engineer in ML Systems Graduate",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5126455e-2afb-4721-93a6-5a581944cad8",
+        "date_posted": 1755678204,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f6850684-a28a-4529-9beb-dae520fc4db7",
+        "title": "Software Engineer \u2013 New Grad - Infrastructure",
+        "active": true,
+        "date_updated": 1755620301,
+        "date_posted": 1755620301,
+        "url": "https://jobs.lever.co/palantir/7d75bed5-45d8-4876-840a-2d92ea79c98d/apply",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1755679391,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538571931517159698",
+        "company_name": "TikTok",
+        "title": "Special Project Strategist Graduate (TikTok Shop - Operations)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "965f400a-651f-4dac-afd9-b62bb7db814d",
+        "date_posted": 1755679391,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755679462,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538896306908252434",
+        "company_name": "TikTok",
+        "title": "Product Manager Ads Attribution and Measurement Graduate (Measurement Signal and Privacy Product)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "574bd94c-c165-4457-8859-30736a707d18",
+        "date_posted": 1755679462,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "2da60465-c35e-418c-ba70-4bdf052f70b7",
+        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
+        "active": true,
+        "date_updated": 1755620298,
+        "date_posted": 1755620298,
+        "url": "https://jobs.lever.co/palantir/15844944-fb69-4b57-9531-e988650b20c6/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1755679539,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538903496654407943",
+        "company_name": "San Jose, CA",
+        "title": "Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "a4954f1f-3ea8-42fb-b6fb-29e04e9cc872",
+        "date_posted": 1755679539,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755679604,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7535871317771634952",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Data Arch - E-commerce)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "90398c2a-fcf6-451a-bdf4-26457fa5e700",
+        "date_posted": 1755679604,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755679741,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7538319953965287698",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Video-on-Demand Algorithm)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "75920be8-ade4-4f0c-a176-9c4fd6f78005",
+        "date_posted": 1755679741,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755679825,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.citadelsecurities.com/careers/details/machine-learning-researcher-phd-graduate-us/",
+        "company_name": "Citadel Securities",
+        "title": "Machine Learning Researcher",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "277edf04-e837-4d57-b6ed-3fa007c0df0e",
+        "date_posted": 1755679825,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755679928,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-us/",
+        "company_name": "Citadel Securities",
+        "title": "Quantitative Researcher \u2013 PhD Graduate",
+        "locations": [
+            "Miami, FL",
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "1c38f8d2-ca61-48f8-b39c-4025c97bf276",
+        "date_posted": 1755679928,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755680085,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086",
+        "company_name": "NVIDIA",
+        "title": "Deep Learning Software Engineer, FlashInfer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0ccd0f50-ffdd-45c8-a77f-ca8b053da9bc",
+        "date_posted": 1755680085,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755680196,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/whatnot/8ca77652-1248-41f4-9af1-07fc84d7f9f8",
+        "company_name": "Whatnot",
+        "title": "Software Engineer, Notifications Platform",
+        "locations": [
+            "San Francisco, CA",
+            "Los Angeles, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3585fc63-d976-444f-8ea5-5469be8650b8",
+        "date_posted": 1755680196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755680335,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/5ce23dea-de2e-4c6d-9556-3c5314d721f7",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9c0294b2-2563-4038-a8ed-7d1825f843c9",
+        "date_posted": 1755680335,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755680476,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.blizzard.com/global/en/job/BLENGLOBALR025871EXTERNALENGLOBAL/Graphics-Engineering-Intern",
+        "company_name": "Blizzard",
+        "title": "Graphics Engineering Intern",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "25a9827d-9b37-4e21-a7e0-177d04c1eb8c",
+        "date_posted": 1755680476,
+        "company_url": "",
+        "is_visible": true
     }
 ]
