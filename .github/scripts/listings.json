@@ -15150,15 +15150,16 @@
         "id": "7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5",
         "title": "Software Engineer I - Sqa",
         "active": true,
-        "date_updated": 1755588175,
+        "date_updated": 1755700443,
         "date_posted": 1752078283,
         "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
         "locations": [
             "Los Angeles, CA"
         ],
         "company_url": "https://simplify.jobs/c/Silvus-Tech",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "is_visible": false,
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -17472,7 +17473,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754361660,
+        "date_updated": 1755700487,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS",
         "company_name": "Qualtrics",
         "title": "Software Engineer I - PAAS",
@@ -17485,7 +17486,8 @@
         "id": "e236b6dc-438e-4424-bb93-8929ba220fcf",
         "date_posted": 1754361660,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754361784,
@@ -17916,15 +17918,16 @@
         "id": "d52df6c0-4d3c-42d3-8437-e5f8609667b5",
         "title": "Software Engineer \u2013 Entry Level or Associate",
         "active": true,
-        "date_updated": 1754453558,
+        "date_updated": 1755700516,
         "date_posted": 1754453558,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
         "locations": [
             "Albuquerque, NM"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "date_updated": 1754528498,
@@ -18046,7 +18049,7 @@
         "company_name": "The Travelers Companies",
         "id": "181fef0d-cef2-4ea1-ac5d-6b490862aef8",
         "title": "Software Engineer I - Aws",
-        "active": true,
+        "active": false,
         "date_updated": 1754547187,
         "date_posted": 1754547187,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MD---Baltimore/Software-Engineer-I---AWS_R-46038",
@@ -19018,7 +19021,7 @@
         "id": "847cf082-1f75-43bb-9b76-0943ab77d698",
         "title": "ITSM IT Security Engineer I",
         "active": true,
-        "date_updated": 1755007381,
+        "date_updated": 1755714200,
         "date_posted": 1755007381,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999691677974",
         "locations": [
@@ -19026,7 +19029,8 @@
         ],
         "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "date_updated": 1755008257,
@@ -19676,7 +19680,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755171502,
+        "date_updated": 1755700329,
         "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8112737002",
         "company_name": "Samsung",
         "title": "Health AI Scholar, Digital Health (PhD)",
@@ -19689,7 +19693,8 @@
         "id": "1efa1a96-858a-40e1-893d-3a3a9591226b",
         "date_posted": 1755171502,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755651811,
@@ -19894,7 +19899,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755242840,
+        "date_updated": 1755700598,
         "url": "https://jobs.careers.microsoft.com/global/en/job/1860403/Software-Engineer%3A-Microsoft-AI-Development-Acceleration-Program%2C-Redmond",
         "company_name": "Microsoft",
         "title": "Software Engineer: Microsoft AI Development Acceleration Program",
@@ -19907,7 +19912,8 @@
         "id": "9773d3c0-af8a-4ee6-b4c4-4ea407081d71",
         "date_posted": 1755242840,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755242941,
@@ -19942,7 +19948,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755243207,
+        "date_updated": 1755700368,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/zollmedicalcorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
         "company_name": "Zoll",
         "title": "Software Engineer I - Embedded Devices",
@@ -19956,7 +19962,8 @@
         "id": "d21570f2-ec82-4986-bb44-c38b632207f1",
         "date_posted": 1755243207,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755243482,
@@ -20105,7 +20112,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755248003,
+        "date_updated": 1755700545,
         "url": "https://choicehotels.wd5.myworkdayjobs.com/en-US/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20319",
         "company_name": "Choice Hotels",
         "title": "Software Engineer 1",
@@ -20118,7 +20125,8 @@
         "id": "3f0f5467-e6ba-4022-827d-b00079622b4e",
         "date_posted": 1755248003,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20127,7 +20135,7 @@
         "id": "8d43e1ff-67b2-4301-ab41-0b33be8ae0b3",
         "title": "Software Engineer I - Engineering - Development",
         "active": true,
-        "date_updated": 1755286058,
+        "date_updated": 1755700632,
         "date_posted": 1755286058,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602803142943",
         "locations": [
@@ -20135,8 +20143,9 @@
             "Roseville, MN"
         ],
         "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20532,8 +20541,8 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
         "title": "Software Engineer I - Embedded Devices",
-        "active": true,
-        "date_updated": 1755287553,
+        "active": false,
+        "date_updated": 1755700391,
         "date_posted": 1755287553,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
         "locations": [
@@ -20541,8 +20550,9 @@
             "Parsippany-Troy Hills, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Zoll",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20641,7 +20651,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755418371,
+        "date_updated": 1755700410,
         "url": "https://l2tmediallc.applytojob.com/apply/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst",
         "company_name": "L2TMedia",
         "title": "Junior Digital Media Data Analyst",
@@ -20654,10 +20664,11 @@
         "id": "b13d57c3-c943-4cc3-af4a-6a8a7f2152f1",
         "date_posted": 1755418371,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
-        "date_updated": 1755418438,
+        "date_updated": 1755700504,
         "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10128347",
         "company_name": "Disney",
         "title": "Associate Data Analyst",
@@ -20670,7 +20681,8 @@
         "id": "4d0534a6-6d5b-46eb-b84d-35cb4a1559d2",
         "date_posted": 1755418438,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755418638,
@@ -21945,12 +21957,12 @@
         ]
     },
     {
-        "date_updated": 1755679539,
+        "date_updated": 1755699598,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
         "url": "https://lifeattiktok.com/search/7538903496654407943",
-        "company_name": "San Jose, CA",
+        "company_name": "TikTok",
         "title": "Product Manager Ads Measurement Graduate (Measurement Signal and Privacy Product)",
         "locations": [
             "San Jose, CA"
@@ -22111,6 +22123,24 @@
         "source": "AlmondCroffle",
         "id": "25a9827d-9b37-4e21-a7e0-177d04c1eb8c",
         "date_posted": 1755680476,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755695312,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.oracle.com/en/sites/jobsearch/job/305127",
+        "company_name": "Oracle",
+        "title": "Undergrad Cloud Engineer - Full-time Intern Conversion",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c9208f8f-dc58-4fe4-9de6-094f902912c3",
+        "date_posted": 1755695312,
         "company_url": "",
         "is_visible": true
     }
