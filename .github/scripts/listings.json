@@ -3586,7 +3586,7 @@
         "company_name": "Genmo",
         "id": "2785d820-e76e-4f39-a52a-94f4a7932f95",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1730754290,
         "date_posted": 1730754290,
         "url": "https://jobs.ashbyhq.com/genmo/9b5477f4-97af-4aaa-b855-910c982ce191/application",
@@ -15149,7 +15149,7 @@
         "company_name": "Silvus Technologies",
         "id": "7c0aac85-3ba5-4b5a-9b5c-f61d49a8a8d5",
         "title": "Software Engineer I - Sqa",
-        "active": true,
+        "active": false,
         "date_updated": 1755700443,
         "date_posted": 1752078283,
         "url": "https://job-boards.greenhouse.io/silvus/jobs/4772754008",
@@ -17917,7 +17917,7 @@
         "company_name": "The Boeing Company",
         "id": "d52df6c0-4d3c-42d3-8437-e5f8609667b5",
         "title": "Software Engineer \u2013 Entry Level or Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1755700516,
         "date_posted": 1754453558,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Kirtland-AFB-NM/Software-Engineer--Entry-Level-or-Associate-_JR2025466020-1",
@@ -19719,7 +19719,7 @@
         "company_name": "Esri",
         "id": "b81c7913-3326-4606-90b3-aa7695117167",
         "title": "C++ Software Engineer I - Maps Sdks",
-        "active": true,
+        "active": false,
         "date_updated": 1755588870,
         "date_posted": 1755191938,
         "url": "https://www.esri.com/careers/4826980007?gh_jid=4826980007",
@@ -20456,7 +20456,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "dd980988-3959-443f-a2d9-a3d8f994b77d",
         "title": "Systems/Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755298787,
         "date_posted": 1755298787,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Systems-Software-Engineer-I_1192771-1",
@@ -20541,7 +20541,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "3b2fc4f8-6b55-4895-9585-c325ced78ac1",
         "title": "Software Engineer I - Embedded Devices",
-        "active": false,
+        "active": true,
         "date_updated": 1755700391,
         "date_posted": 1755287553,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Chelmsford-MA/Software-Engineer-I---Embedded-Devices_R16418",
@@ -20738,7 +20738,7 @@
         "company_name": "RTX",
         "id": "af0793a3-f50e-4836-85d5-d59475e5051e",
         "title": "Cyber/EW Research Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755588065,
         "date_posted": 1755540692,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Cyber-EW-Research-Engineer-I_01787171",
@@ -20826,7 +20826,7 @@
         "company_name": "The Travelers Companies",
         "id": "f0c28371-b210-4c4e-bbc2-48c6aa38ea82",
         "title": "Software Engineer I - Enterprise AI for Operations - Aws - Python",
-        "active": true,
+        "active": false,
         "date_updated": 1755570176,
         "date_posted": 1755570176,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---Enterprise-AI-for-Operations--AWS--Python-_R-45303-1",
@@ -21824,7 +21824,7 @@
         ]
     },
     {
-        "date_updated": 1755651877,
+        "date_updated": 1755716125,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -21839,7 +21839,7 @@
         "id": "21b4895b-7a0f-43ac-87a8-c7e691ff3bf1",
         "date_posted": 1755651877,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -22109,7 +22109,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755680476,
+        "date_updated": 1755735180,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22124,7 +22124,7 @@
         "id": "25a9827d-9b37-4e21-a7e0-177d04c1eb8c",
         "date_posted": 1755680476,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755695312,
@@ -22143,5 +22143,165 @@
         "date_posted": 1755695312,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755715550,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215",
+        "company_name": "Nominal",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY",
+            "Los Angeles, CA",
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "varun-nominal",
+        "id": "1a9de330-304d-45c9-b32c-dc227a9f493a",
+        "date_posted": 1755715550,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755715697,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.metacareers.com/jobs/812938290909042/",
+        "company_name": "Meta",
+        "title": "Software Engineer, Language - Wearables",
+        "locations": [
+            "Menlo Park, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "eed6971f-9231-4362-8879-2d953878f409",
+        "date_posted": 1755715697,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755716153,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
+        "company_name": "Cisco",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "Simplify",
+        "id": "a733c840-9192-460f-84ae-5a3fa7b2d3b3",
+        "date_posted": 1755715864,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "6dbc0e6d-49c8-40fd-a45d-f89656de5adf",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1755704896,
+        "date_posted": 1755704896,
+        "url": "https://careers-peraton.icims.com/jobs/159132/job",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Adobe",
+        "id": "843e7e1f-edb9-4bdb-92a1-a9c83114942d",
+        "title": "2026 University Graduate - Product Manager",
+        "active": true,
+        "date_updated": 1755705643,
+        "date_posted": 1755705643,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Product-Manager_R158631",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "94a234e9-ad5c-4931-a158-3ba864a6c141",
+        "title": "Systems/Software Engineer I",
+        "active": true,
+        "date_updated": 1755728442,
+        "date_posted": 1755728442,
+        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Systems-Software-Engineer-I_1192923-1",
+        "locations": [
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nominal",
+        "id": "ab01cb12-3c73-4251-98e8-07fd49659315",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1755729478,
+        "date_posted": 1755729478,
+        "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Nominal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "6a910024-4135-4b97-b253-c9e1226c9bd1",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755737473,
+        "date_posted": 1755737473,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000077270091",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
