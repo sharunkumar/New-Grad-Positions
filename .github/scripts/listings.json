@@ -15298,7 +15298,7 @@
         "company_name": "EvenUp",
         "id": "bf85e278-1c60-40dd-a026-a10c6789b9ff",
         "title": "Early Career Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755269381,
         "date_posted": 1750750206,
         "url": "https://jobs.ashbyhq.com/evenup/fe3d36b4-696b-4c47-be72-2186b266035b/application",
@@ -19376,7 +19376,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755169079,
+        "date_updated": 1755783458,
         "url": "https://www.jumptrading.com/careers/7141658/?gh_jid=7141658",
         "company_name": "Jump Trading",
         "title": "Campus AI Researcher (Full-Time)",
@@ -19390,7 +19390,9 @@
         "id": "9db01451-6509-4ceb-876c-362f00d3e76b",
         "date_posted": 1755169079,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": []
     },
     {
         "date_updated": 1755169257,
@@ -20796,7 +20798,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -20973,7 +20975,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755594048,
+        "date_updated": 1755783490,
         "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5620132004",
         "company_name": "Housecall Pro",
         "title": "Graduate AI Solutions Specialist",
@@ -20986,7 +20988,9 @@
         "id": "045c2077-c022-468c-a58d-57473b79b1e6",
         "date_posted": 1755594048,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "category": "Data Science, AI & Machine Learning",
+        "degrees": []
     },
     {
         "date_updated": 1755651928,
@@ -22159,7 +22163,7 @@
         "company_name": "Peraton",
         "id": "6dbc0e6d-49c8-40fd-a45d-f89656de5adf",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755704896,
         "date_posted": 1755704896,
         "url": "https://careers-peraton.icims.com/jobs/159132/job",
@@ -22179,8 +22183,8 @@
         "company_name": "Adobe",
         "id": "843e7e1f-edb9-4bdb-92a1-a9c83114942d",
         "title": "2026 University Graduate - Product Manager",
-        "active": true,
-        "date_updated": 1755705643,
+        "active": false,
+        "date_updated": 1755794271,
         "date_posted": 1755705643,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Product-Manager_R158631",
         "locations": [
@@ -22188,12 +22192,9 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22357,5 +22358,95 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1755783594,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://pru.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ-USA/PGIM-Quantitative-Solutions--Portfolio-Management-Investment-Associate--Hybrid-_R-121848-1",
+        "company_name": "Prudential Financial",
+        "title": "PGIM Quantitative Solutions, Portfolio Management Investment Associate",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "72a458a9-48e5-4faf-aeea-312610b06e62",
+        "date_posted": 1755783594,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755783671,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/blackrock_professional/job/New-York-NY/Associate--Quantitative-Modeler_R250300",
+        "company_name": "BlackRock",
+        "title": "Associate, Quantitative Modeler",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "e94289eb-46b2-411b-8766-7c206124d5fd",
+        "date_posted": 1755783671,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755783764,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/vailsys/aac4a828-c88d-4bc1-bf94-324e7ba4ddc9",
+        "company_name": "Vail",
+        "title": "Software Engineer, Test & Infrastructure I",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "dc62d753-3f12-42e1-898a-feeefb4a9a3d",
+        "date_posted": 1755783764,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755784137,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://walmart.wd5.myworkdayjobs.com/en-US/WalmartExternal/job/Sunnyvale-CA/XMLNAME-2025-Intern-Conversion--2026-FT-Data-Scientist-III---Sunnyvale--CA_R-2251073",
+        "company_name": "Walmart",
+        "title": "Data Scientist III",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "71a5aff3-fcb0-4f8d-9139-b4876ad9d52b",
+        "date_posted": 1755784137,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755784282,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-cellularsales.icims.com/jobs/19001/junior-data-engineer/job",
+        "company_name": "Cellular Sales",
+        "title": "Junior Data Engineer",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "2c441054-4f95-44a3-a992-4671d6a665ba",
+        "date_posted": 1755784282,
+        "company_url": "",
+        "is_visible": true
     }
 ]
