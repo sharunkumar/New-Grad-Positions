@@ -1,53 +1,5 @@
 [
     {
-        "date_updated": 1724708535,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471860007",
-        "company_name": "Verkada",
-        "title": "iOS Software Engineer - University Graduate 2025",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "b1c78599-162c-4ee7-ac8e-246b2ebba793",
-        "date_posted": 1724708535,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1724708566,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4471635007",
-        "company_name": "Verkada",
-        "title": "Frontend Software Engineer - University Graduate 2025",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "b586b669-0153-4e51-aa35-59a7bbbe9d44",
-        "date_posted": 1724708566,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1724708596,
-        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/6025906",
-        "company_name": "Stripe",
-        "title": "Software Engineer, New Grad",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "ClamEater14",
-        "id": "757c31a9-2be7-4ca1-a2f0-936fedc9b853",
-        "date_posted": 1724708596,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "1c92034a-a821-47ab-a19f-8bf7b82f27d8",
@@ -190,38 +142,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Vultr",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Glean",
-        "id": "0da72647-f3bd-4a07-9f55-235f98d6c874",
-        "title": "Software Engineer \u2013 University Grad",
-        "active": false,
-        "date_updated": 1724714289,
-        "date_posted": 1724714289,
-        "url": "https://boards.greenhouse.io/gleanwork/jobs/4449298005",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Glean",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "esri",
-        "id": "2096e16b-e911-4b5d-ae4a-d6a517d6e5c4",
-        "title": "C++ Software Development Engineer I",
-        "active": false,
-        "date_updated": 1724717559,
-        "date_posted": 1724717559,
-        "url": "https://www.esri.com/careers/4470985007?gh_jid=4470985007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/3bc7a09e-e5f1-45e8-b26b-1d3c77588a00",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -13399,7 +13319,7 @@
         "company_name": "Tower Research Capital",
         "id": "3fbe5f4e-e83b-4dd0-8d66-6873e67b8be4",
         "title": "Software Engineer \u2013 New Grad - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1755269709,
         "date_posted": 1749696611,
         "url": "https://www.tower-research.com/open-positions/?gh_jid=6763894",
@@ -15696,8 +15616,8 @@
         "company_name": "mthree",
         "id": "be06c7f9-8d6c-4516-8f37-cb90fa6016b7",
         "title": "Mthree \u2013 Junior Software Engineer",
-        "active": true,
-        "date_updated": 1752776886,
+        "active": false,
+        "date_updated": 1755816050,
         "date_posted": 1752776886,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4401897006",
         "locations": [
@@ -15705,8 +15625,9 @@
             "Liverpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -15714,16 +15635,17 @@
         "company_name": "mthree",
         "id": "95c11534-435e-4340-91ba-12b9cac4c753",
         "title": "Junior Software Engineer",
-        "active": true,
-        "date_updated": 1755270177,
+        "active": false,
+        "date_updated": 1755816068,
         "date_posted": 1752776886,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4374347006",
         "locations": [
             "Multiple Locations, US"
         ],
         "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other"
+        "is_visible": false,
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20107,7 +20029,7 @@
         "company_name": "Worldpay",
         "id": "32c43aff-1817-4ef4-b468-87be33744449",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755589902,
         "date_posted": 1755287341,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Software-Engineer-I_JR0606637",
@@ -22448,5 +22370,145 @@
         "date_posted": 1755784282,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1755817792,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.tesla.com/careers/search/job/247062",
+        "company_name": "Tesla",
+        "title": "Software Engineer, Communications Platform",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "6705097a-a8ec-4610-906e-063d10520f69",
+        "date_posted": 1755817792,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Comcast",
+        "id": "45c67361-dcb2-443d-a69c-24a9bd11095b",
+        "title": "Front End Software Engineer 1",
+        "active": true,
+        "date_updated": 1755817076,
+        "date_posted": 1755817076,
+        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Front-End-Software-Engineer-1---Chicago-OR-Reston--VA---Onsite_R418260",
+        "locations": [
+            "Chicago, IL",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Comcast",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "cb124379-04a6-406e-bef5-a9aaf7d455d7",
+        "title": "Software Engineer 1 - Linux/Python/Bash/HTML/Cypress/Pytest/Gitlab",
+        "active": true,
+        "date_updated": 1755821939,
+        "date_posted": 1755821939,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/4892702008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Themis Insight",
+        "id": "59da117f-00da-4136-be5e-69cab4aceaac",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1755821890,
+        "date_posted": 1755821890,
+        "url": "https://themis-insight.breezy.hr/p/cb6be35e6c7f/apply",
+        "locations": [
+            "Odenton, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Themis-Insight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KBR",
+        "id": "c32e5723-85c6-46f4-910a-6da9dab0d35c",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1755823676,
+        "date_posted": 1755823676,
+        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2111112",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/KBR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cellular Sales",
+        "id": "92e74f26-5002-4900-bc4c-1b8275e33447",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1755823620,
+        "date_posted": 1755823620,
+        "url": "https://careers-cellularsales.icims.com/jobs/19001/job",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cellular-Sales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "A Thinking Ape",
+        "id": "9b182656-b3aa-4fab-bee5-d7c03a3b473b",
+        "title": "Junior Software Development Engineer - Client",
+        "active": true,
+        "date_updated": 1755825605,
+        "date_posted": 1755825605,
+        "url": "https://job-boards.greenhouse.io/athinkingape/jobs/7183646",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
