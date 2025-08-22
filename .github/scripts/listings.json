@@ -17049,7 +17049,7 @@
         "company_name": "Perforce",
         "id": "560f3e04-2328-4836-962f-e38062fc833f",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753709334,
         "date_posted": 1753709334,
         "url": "https://jobs.lever.co/perforce/44b37b45-6756-489d-bd3a-668ba2352f9b/apply",
@@ -18608,7 +18608,7 @@
         ]
     },
     {
-        "date_updated": 1754748680,
+        "date_updated": 1755872440,
         "url": "https://usventure.wd1.myworkdayjobs.com/en-US/usvexternal/job/WI---Green-Bay/Data-Analyst-I--Breakthrough-_R3745",
         "company_name": "U.S. Venture",
         "title": "Data Analyst I (Breakthrough)",
@@ -18621,7 +18621,8 @@
         "id": "bb95c23d-065b-4ae3-ab08-1db8a7deba5a",
         "date_posted": 1754748680,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754755775,
@@ -18760,7 +18761,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754991209,
+        "date_updated": 1755872498,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090",
         "company_name": "CVS Health",
         "title": "Associate Cloud Architect",
@@ -18773,7 +18774,8 @@
         "id": "9f79d21a-4429-44cd-a2fc-d4b4721f0e65",
         "date_posted": 1754991209,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754991338,
@@ -22594,5 +22596,113 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1755867604,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Data Science Graduate",
+        "locations": [
+            "Spring, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "b1ec662b-d28d-4923-9b4b-1d1e62a35143",
+        "date_posted": 1755867604,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755867683,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Data-Scientist-I_R0059612",
+        "company_name": "GEICO",
+        "title": "Data Scientist I",
+        "locations": [
+            "Chevy Chase, MD"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "e43d6f34-7f3a-4b4c-a889-322180ddccb6",
+        "date_posted": 1755867683,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755867770,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Seattle-WA/Autonomy-Systems-Engineer-I---Early-Career_R54558-1",
+        "company_name": "Blue Origin",
+        "title": "Autonomy Systems Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "09d4250d-367c-413c-8906-32d823880b0e",
+        "date_posted": 1755867770,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755867884,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/interfaceai/jobs/4571115006",
+        "company_name": "interface.ai",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fc3c1e14-c33b-4bab-ae8c-dab036a482b4",
+        "date_posted": 1755867884,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755867976,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.ixl.com/company/careers?gh_jid=8128533002",
+        "company_name": "IXL Learning",
+        "title": "Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "00e49bc2-fd9a-43db-8487-b87bddfe6cdb",
+        "date_posted": 1755867976,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1755868044,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Graduate_1192968-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Cloud Engineer Graduate",
+        "locations": [
+            "Spring, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b3da678d-f9c5-42d9-9e10-7dace527926e",
+        "date_posted": 1755868044,
+        "company_url": "",
+        "is_visible": true
     }
 ]
