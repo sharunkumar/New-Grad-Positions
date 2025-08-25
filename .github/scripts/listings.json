@@ -35,22 +35,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "Wyetech LLC",
-        "id": "13e21d71-7cf9-406c-9746-2bbde9ae8c74",
-        "title": "Software Engineer 1/Jr. Java Developer",
-        "active": false,
-        "date_updated": 1725002665,
-        "date_posted": 1725002665,
-        "url": "https://jobs.lever.co/wyetechllc/fb36d3fc-dfc9-4cae-89ef-7cd3632b2ba8/apply",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wiley Edge",
         "id": "4e2587db-6361-4149-9d21-78c486d240f2",
         "title": "Junior Software Engineer",
@@ -14688,16 +14672,17 @@
         "id": "9f6380b7-4668-49fb-9b83-4e51e0815a76",
         "title": "Software Engineer \u2013 New Grad Program",
         "active": true,
-        "date_updated": 1751696380,
+        "date_updated": 1756120706,
         "date_posted": 1751696380,
         "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Sigma-Computing",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -16271,12 +16256,12 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753829826,
+        "date_updated": 1756120670,
         "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
         "company_name": "Unify",
         "title": "Software Engineer",
         "locations": [
-            "San Francisco, NY"
+            "San Francisco, CA"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -16284,7 +16269,8 @@
         "id": "94d94881-a076-4e38-8623-b0c0be8dea9f",
         "date_posted": 1753829826,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20039,16 +20025,17 @@
         "id": "f74fd95d-537a-4714-8fe7-05c9c3d10072",
         "title": "Software Engineer \u2013 Early Career",
         "active": true,
-        "date_updated": 1755291852,
+        "date_updated": 1756120450,
         "date_posted": 1755291852,
         "url": "https://jobs.ashbyhq.com/suno/991c9785-9bd5-499a-98aa-146e8c947752/application",
         "locations": [
             "Boston, MA",
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Suno",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20468,12 +20455,12 @@
         "degrees": []
     },
     {
-        "date_updated": 1755418638,
+        "date_updated": 1756120405,
         "url": "https://apply.workable.com/qodeworld/j/5718A36818/",
         "company_name": "qode.world",
         "title": "Junior Software Developer",
         "locations": [
-            "NJ"
+            "New Jersey, NJ"
         ],
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -20481,7 +20468,8 @@
         "id": "a0e98c0f-757e-4b61-8f0a-a48adafcaceb",
         "date_posted": 1755418638,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755418718,
@@ -20556,16 +20544,17 @@
         "id": "75fb48a4-fff4-42d7-a3fd-fb29d7e57b96",
         "title": "Software Engineer \u2013 Early Career - Infrastructure",
         "active": true,
-        "date_updated": 1755548838,
+        "date_updated": 1756120352,
         "date_posted": 1755548838,
         "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80/application",
         "locations": [
-            "SF",
-            "NYC"
+            "San Francisco, CA",
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Notion",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20591,17 +20580,18 @@
         "id": "d7feac2c-dad6-41c7-96f9-25652bbadef6",
         "title": "Machine Learning Engineer I - Monetization Engineering",
         "active": true,
-        "date_updated": 1755566145,
+        "date_updated": 1756120836,
         "date_posted": 1755566145,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
         "locations": [
             "Palo Alto, CA",
             "Seattle, WA",
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21005,18 +20995,16 @@
         "id": "93eeb5a3-95d7-4ca2-8ec3-2d83ff5aa480",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1755194745,
+        "date_updated": 1756120469,
         "date_posted": 1755194745,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113484514",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21265,21 +21253,18 @@
         "id": "ca23bb6b-38c7-49e5-8890-cce71a429db4",
         "title": "Associate Product Manager \u2013 New Grad - 2026 Start",
         "active": true,
-        "date_updated": 1755622962,
+        "date_updated": 1756120740,
         "date_posted": 1755008671,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7586263002",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Bellevue, WA",
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Databricks",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21328,18 +21313,16 @@
         "id": "6417dd50-8d0b-4c21-bd91-73d7d5ec2d1c",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1754987679,
+        "date_updated": 1756120574,
         "date_posted": 1754987679,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/116232946",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21348,18 +21331,16 @@
         "id": "315c30ed-2818-4ab5-a99f-5d3bfd0db58c",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1754987740,
+        "date_updated": 1756120553,
         "date_posted": 1754987740,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21408,18 +21389,16 @@
         "id": "7193bf93-cde3-42f5-b817-c679f55b1076",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1754971909,
+        "date_updated": 1756120595,
         "date_posted": 1754971909,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655720227",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21510,20 +21489,17 @@
         "id": "47b59370-d74f-4114-888c-5d630133aee1",
         "title": "Machine Learning Engineer I",
         "active": true,
-        "date_updated": 1751499351,
+        "date_updated": 1756120872,
         "date_posted": 1751499351,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=6864992",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21969,7 +21945,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755716153,
+        "date_updated": 1756120142,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -21984,7 +21960,7 @@
         "id": "a733c840-9192-460f-84ae-5a3fa7b2d3b3",
         "date_posted": 1755715864,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -22053,18 +22029,16 @@
         "id": "ab01cb12-3c73-4251-98e8-07fd49659315",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1755729478,
+        "date_updated": 1756120311,
         "date_posted": 1755729478,
         "url": "https://jobs.lever.co/nominal/cc79d7f9-93b9-4410-8435-d92d2f427215/apply",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Nominal",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22243,7 +22217,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755784137,
+        "date_updated": 1756120231,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22258,7 +22232,7 @@
         "id": "71a5aff3-fcb0-4f8d-9139-b4876ad9d52b",
         "date_posted": 1755784137,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755784282,
@@ -22425,18 +22399,16 @@
         "id": "12ad8a7e-d4bc-4d4a-ac2f-f53b894f7027",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1755845772,
+        "date_updated": 1756120286,
         "date_posted": 1755845772,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835292007",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Together-AI",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22556,7 +22528,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755867884,
+        "date_updated": 1756120246,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22571,7 +22543,7 @@
         "id": "fc3c1e14-c33b-4bab-ae8c-dab036a482b4",
         "date_posted": 1755867884,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755900380,
@@ -22654,20 +22626,17 @@
         "id": "91d06938-3be8-427a-bb3b-7586cc4d0dcf",
         "title": "2026 University Graduate - Machine Learning Engineer",
         "active": true,
-        "date_updated": 1755906812,
+        "date_updated": 1756120767,
         "date_posted": 1755906812,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158632",
         "locations": [
-            "SF",
+            "San Francisco, CA",
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22676,18 +22645,16 @@
         "id": "ce0000af-49cf-4e07-ba5d-fcde698721b7",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1755906591,
+        "date_updated": 1756120268,
         "date_posted": 1755906591,
         "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Harvey",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22762,6 +22729,63 @@
         "source": "unvibingcode",
         "id": "43c0929e-32b2-4d37-ad4e-8c0c6fec385b",
         "date_posted": 1755912117,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756110970,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
+        "company_name": "NVIDIA",
+        "title": "AI System Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Redmond, WA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "414c6571-d06d-44e7-948c-4c5de3852a0d",
+        "date_posted": 1756110970,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756111175,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5628852004",
+        "company_name": "Lucid Software",
+        "title": "Junior Frontend Engineer, airfocus",
+        "locations": [
+            "Hamburg, DE"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1c05e666-373c-4781-beed-494338a2489e",
+        "date_posted": 1756111175,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756111332,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf",
+        "company_name": "YouVersion",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Edmond, OK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4d488c7c-f9ed-4332-9ead-14752708070d",
+        "date_posted": 1756111332,
         "company_url": "",
         "is_visible": true
     }
