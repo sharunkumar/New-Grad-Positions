@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Replicant",
-        "id": "a1536054-5b46-4e0d-beea-b05111264f37",
-        "title": "Software Engineer I - Machine Learning",
-        "active": false,
-        "date_updated": 1725118795,
-        "date_posted": 1725118795,
-        "url": "https://jobs.lever.co/replicant/714624fe-123b-452c-bd63-ea707e2c0ba6/apply",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Replicant",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "WhatNot",
         "id": "6478a001-380e-4ea7-aa85-48cec88bfafc",
         "title": "Software Engineer \u2013 2025 New Grad",
@@ -23098,6 +23082,55 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Verisk",
+        "id": "2206f5f3-7b68-47bd-8600-21f06f9a91b6",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1756202297,
+        "date_posted": 1755192345,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/2091",
+        "locations": [
+            "Holmdel, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "bfb08a93-2f42-4862-9976-1e856142142e",
+        "title": "Software Engineer \u2013 Early Career - PhD - AI/Machine Learning",
+        "active": true,
+        "date_updated": 1756217343,
+        "date_posted": 1756217343,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990",
+        "locations": [
+            "Madison, WI",
+            "Seattle, WA",
+            "Raleigh, NC",
+            "San Bruno, CA",
+            "Durham, NC",
+            "Kirkland, WA",
+            "NYC",
+            "Sunnyvale, CA",
+            "Mountain View, CA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
