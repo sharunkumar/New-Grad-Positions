@@ -15963,15 +15963,16 @@
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1753486335,
+        "date_updated": 1756202093,
         "date_posted": 1753486335,
         "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/Maybern",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -18252,7 +18253,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754963955,
+        "date_updated": 1756201378,
         "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Torrance-CA/Eng--Assc_R-25-13250",
         "company_name": "Moog",
         "title": "Associate Software Engineer",
@@ -18265,7 +18266,8 @@
         "id": "c6b8a184-a9cc-4100-9774-4ef13b0c7570",
         "date_posted": 1754747940,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754748271,
@@ -20294,7 +20296,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755418718,
+        "date_updated": 1756201343,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
         "company_name": "GlobalFoundries",
         "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
@@ -20307,7 +20309,8 @@
         "id": "4271b0fc-3586-43e3-8ed5-6cb096c013ca",
         "date_posted": 1755418718,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755418805,
@@ -20875,18 +20878,16 @@
         "id": "2d58138f-f75f-4dc2-9546-ac3309fe2907",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1755194648,
+        "date_updated": 1756202161,
         "date_posted": 1755194648,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655204204",
         "locations": [
-            "NYC"
+            "New York, NY"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -20995,18 +20996,16 @@
         "id": "b436d340-b5eb-4419-a709-6af74ee13256",
         "title": "Hiring Entry Level Software Engineer",
         "active": true,
-        "date_updated": 1755063903,
+        "date_updated": 1756202139,
         "date_posted": 1755063903,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21636,7 +21635,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755680085,
+        "date_updated": 1756201433,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -21651,7 +21650,7 @@
         "id": "0ccd0f50-ffdd-45c8-a77f-ca8b053da9bc",
         "date_posted": 1755680085,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755680196,
@@ -22314,7 +22313,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755867683,
+        "date_updated": 1756201405,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22329,7 +22328,7 @@
         "id": "e43d6f34-7f3a-4b4c-a889-322180ddccb6",
         "date_posted": 1755867683,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755867770,
@@ -22659,19 +22658,16 @@
         "id": "dfa5649f-b93b-4899-9937-bcb6eb20f1b9",
         "title": "Software Engineer \u2013 New Grad - 2026 Start",
         "active": true,
-        "date_updated": 1756141964,
+        "date_updated": 1756202208,
         "date_posted": 1756141964,
         "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3/application",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Zip",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22791,7 +22787,7 @@
         "company_name": "Adobe",
         "id": "774345f9-14bd-4a7b-8b70-617dd2f96ec7",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756175120,
         "date_posted": 1756175120,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158682",
@@ -22818,13 +22814,286 @@
         "id": "3906bc49-1cb1-49de-873e-82ab4784de64",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1756174818,
+        "date_updated": 1756202226,
         "date_posted": 1756174818,
         "url": "https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff/application",
         "locations": [
-            "SF"
+            "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Harvey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Scientific",
+        "id": "c56b7a83-c21a-400b-9522-d7e0d32c1778",
+        "title": "Software Engineer I - Engineering - Development",
+        "active": true,
+        "date_updated": 1756191234,
+        "date_posted": 1756191234,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803706893",
+        "locations": [
+            "Roseville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "3424ee82-76b1-4d00-8274-4ebca84ba369",
+        "title": "Software Engineer 1 - Corporate Applications",
+        "active": true,
+        "date_updated": 1756196797,
+        "date_posted": 1751621106,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10002320",
+        "locations": [
+            "Salt Lake City, UT",
+            "Las Vegas, NV",
+            "Des Moines, IA",
+            "Reno, NV",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1756202713,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764",
+        "company_name": "Citizen Health",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "San Mateo, CA",
+            "Remote"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cac7d4ea-65a4-4499-a21f-1b4576a68e5a",
+        "date_posted": 1756202713,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756202798,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.publicisgroupe.com/jobs/119914",
+        "company_name": "Epsilon",
+        "title": "Associate, Software Engineer",
+        "locations": [
+            "Irving, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1f96e57a-dff2-49fa-b626-718c937fe144",
+        "date_posted": 1756202798,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756202896,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835315007",
+        "company_name": "Together AI",
+        "title": "Machine Learning / Research Engineer",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "3787c248-81c5-45c8-84bc-1b89bbfd6ea8",
+        "date_posted": 1756202896,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756203415,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/perrknight/b47e39ce-e26f-48aa-b53a-f93c87544101",
+        "company_name": "Perr & Knight",
+        "title": "Associate AI Developer",
+        "locations": [
+            "Charlotte, NC",
+            "Boca Raton, FL",
+            "Santa Monica, CA",
+            "Newark, NJ"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "cb6b8e2d-38b3-42b7-bc2c-0ca44650f7c8",
+        "date_posted": 1756203415,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756203509,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6690522003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (AI for Supply Chain)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "7c30bd9c-3f47-41c1-966c-8080f9538215",
+        "date_posted": 1756203509,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756203595,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6691703003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (Management Consulting for AI Implementation)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "be6b7f52-e0de-4f3b-a55f-fb12c1634640",
+        "date_posted": 1756203595,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756203670,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/celonis/jobs/6691702003",
+        "company_name": "Celonis",
+        "title": "Associate Value Engineer (Industrial Engineering & AI Applications)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "ec5f452f-cba6-4d1b-8b45-3da8cfbc6a1d",
+        "date_posted": 1756203670,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756203764,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-sig.icims.com/jobs/9716/software-developer---sprc---new-grad/job",
+        "company_name": "Susquehanna",
+        "title": "Software Developer",
+        "locations": [
+            "Lower Merion Township, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e306a460-ee33-4e53-b936-2d65fc66d581",
+        "date_posted": 1756203764,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756203887,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer---Recent-Graduate_R0129978",
+        "company_name": "PayPal",
+        "title": "Software Engineer - Recent Graduate",
+        "locations": [
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "Omaha, NE",
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e667fc6c-75f2-4913-8088-4d57ffe3215a",
+        "date_posted": 1756203887,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756204024,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/empirical-security/16bd6ff1-2bd2-4f43-9108-b1ef22ad40e3",
+        "company_name": "Empirical Security",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8eb6a0f3-409e-429c-8174-c87800de82dc",
+        "date_posted": 1756204024,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "74f26036-33d9-4200-8dc2-ca925be3aa34",
+        "title": "Software Engineer 1/2/3/Sr",
+        "active": true,
+        "date_updated": 1756207205,
+        "date_posted": 1752271606,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003152",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "77d06abd-87ab-4f69-b03c-11fca5383d54",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1756206884,
+        "date_posted": 1751383894,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1749",
+        "locations": [
+            "London, UK",
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
