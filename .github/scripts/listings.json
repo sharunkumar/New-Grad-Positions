@@ -15120,7 +15120,7 @@
         "company_name": "Akuna Capital",
         "id": "495799cb-e3e0-4046-92c5-52eaeee8ecee",
         "title": "Junior Quantitative Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1752518404,
         "date_posted": 1752518404,
         "url": "https://www.akunacapital.com/job-details?gh_jid=7053014",
@@ -18379,7 +18379,7 @@
         "company_name": "TripAdvisor",
         "id": "b1e25a04-c0cf-4584-9b3c-cb00a33139c3",
         "title": "Software Engineer I - Backend Focus - Viator",
-        "active": true,
+        "active": false,
         "date_updated": 1754924707,
         "date_posted": 1753203617,
         "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/6903058",
@@ -18557,7 +18557,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755008007,
+        "date_updated": 1756303781,
         "url": "https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---MET_Req153698-1",
         "company_name": "The Home Depot",
         "title": "Associate Data Scientist - MET",
@@ -18570,7 +18570,8 @@
         "id": "c43d97a6-1158-467e-b694-79c6de8b35f1",
         "date_posted": 1755008007,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755417977,
@@ -19730,7 +19731,7 @@
         "company_name": "Worldpay",
         "id": "32c43aff-1817-4ef4-b468-87be33744449",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755589902,
         "date_posted": 1755287341,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Software-Engineer-I_JR0606637",
@@ -22143,7 +22144,7 @@
         "company_name": "KBR",
         "id": "c32e5723-85c6-46f4-910a-6da9dab0d35c",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755823676,
         "date_posted": 1755823676,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2111112",
@@ -22538,12 +22539,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756110970,
+        "date_updated": 1756303771,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
         "company_name": "NVIDIA",
         "title": "AI System Engineer",
@@ -22556,7 +22555,7 @@
         "id": "414c6571-d06d-44e7-948c-4c5de3852a0d",
         "date_posted": 1756110970,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756111175,
@@ -22750,7 +22749,7 @@
         "company_name": "Adobe",
         "id": "62995f3c-ea5e-4415-92f5-455a31273213",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756165636,
         "date_posted": 1756165636,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157576",
@@ -22875,7 +22874,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756202798,
+        "date_updated": 1756303451,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22890,7 +22889,7 @@
         "id": "1f96e57a-dff2-49fa-b626-718c937fe144",
         "date_posted": 1756202798,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756202896,
@@ -23139,7 +23138,7 @@
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756246846,
         "date_posted": 1756246846,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
@@ -23378,5 +23377,116 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756303925,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/allencontrolsystems/jobs/4685229008",
+        "company_name": "Allen Control Systems",
+        "title": "Computer Vision & Machine Learning, Junior",
+        "locations": [
+            "Austin, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "23144399-8ed7-416d-be8b-00a825a7b492",
+        "date_posted": 1756303925,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756304006,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://fmr.wd1.myworkdayjobs.com/en-US/fidelitycareers/job/Westlake-TX/XMLNAME-2026-Undergraduate---LEAP--Software-Engineer_2116586-1",
+        "company_name": "Fidelity",
+        "title": "Software Engineer",
+        "locations": [
+            "Westlake, TX",
+            "Merrimack, NH"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e0d7e0bd-4b19-425f-973c-e1b9c5c25e3c",
+        "date_posted": 1756304006,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756304091,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3bb80177-b737-419c-8133-dd5f60a8a270",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "San Francisco, CA",
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "072216f4-a069-4ed2-a11f-cfbb558eca08",
+        "date_posted": 1756304091,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756304248,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8",
+        "company_name": "Cape",
+        "title": "Software Engineer",
+        "locations": [
+            "New York, NY",
+            "Washington, DC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c2099f9e-2ac8-4654-9075-6daf9ed6fdb1",
+        "date_posted": 1756304248,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756304265,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/abridge/55958eb5-109f-4e88-9793-ed2327fc753a",
+        "company_name": "Abridge",
+        "title": "Full Stack Engineering",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7c0c1cf0-b771-40f5-81fc-ceff706e651f",
+        "date_posted": 1756304265,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756319204,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8",
+        "company_name": "Commure",
+        "title": "Software Engineer (Summer 2026 New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "kchurro",
+        "id": "5e1806a5-85f7-4b5e-afdc-07f96205a142",
+        "date_posted": 1756319204,
+        "company_url": "",
+        "is_visible": true
     }
 ]
