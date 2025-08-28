@@ -13475,7 +13475,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755269760,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -18072,7 +18072,7 @@
         "company_name": "Esri",
         "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
         "title": "Software Developer Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1754702367,
         "date_posted": 1754702367,
         "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
@@ -21872,7 +21872,7 @@
         "company_name": "Worldpay",
         "id": "d3b79bce-647d-420c-be72-6825ccd65256",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755741811,
         "date_posted": 1755741811,
         "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Data-Engineer-I_JR0607009-1",
@@ -23488,5 +23488,85 @@
         "date_posted": 1756319204,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1756320123,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.commure.com/careers-detail?ashby_jid=0f13b112-8d8c-4fb1-ae3d-449cc36cd89e",
+        "company_name": "Commure",
+        "title": "Software Engineer, Ambient AI (Summer 2026 New Grad)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "kchurro",
+        "id": "09bcbc97-f4d9-4465-932e-e8f50ef7e336",
+        "date_posted": 1756320123,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "325a787b-0d7a-48d5-a230-7df1ab6dccd6",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1756300456,
+        "date_posted": 1753138978,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/535",
+        "locations": [
+            "Arlington, TX",
+            "Fort Worth, TX",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAA",
+        "id": "b79c746f-439f-4b10-b5e0-68073bbfae22",
+        "title": "Software Engineer Entry Level",
+        "active": true,
+        "date_updated": 1756337857,
+        "date_posted": 1756337857,
+        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Plano-Legacy/Software-Engineer-Entry-Level_R0111721",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Samsara",
+        "id": "73b7d550-bdcb-4c17-ba8f-6ef455b882bb",
+        "title": "New Grad \u2013 Software Engineering",
+        "active": true,
+        "date_updated": 1756315303,
+        "date_posted": 1756315303,
+        "url": "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Samsara",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
