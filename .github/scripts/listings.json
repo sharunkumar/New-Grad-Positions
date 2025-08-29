@@ -14319,7 +14319,7 @@
         "company_name": "The Boeing Company",
         "id": "b8e14c36-bba1-4830-b233-54949d054ae8",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1751479662,
         "date_posted": 1751479662,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Aurora-CO/Entry-Level-Full-Stack-Software-Engineer_JR2025456200-1",
@@ -15928,7 +15928,7 @@
         "company_name": "Maybern",
         "id": "1dbd172a-5bd7-46cc-bdeb-651eb76a9d90",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756202093,
         "date_posted": 1753486335,
         "url": "https://jobs.ashbyhq.com/maybern/d1f5828f-fba9-4e0e-bb03-e03a3f0f54e4/application",
@@ -16271,7 +16271,7 @@
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1753918469,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
@@ -16305,7 +16305,7 @@
         "company_name": "Uber",
         "id": "f555971a-35b5-4db5-a78a-8ef74219acc1",
         "title": "Software Engineer I - Platforms",
-        "active": false,
+        "active": true,
         "date_updated": 1753919699,
         "date_posted": 1753919699,
         "url": "https://www.uber.com/global/en/careers/list/145880/",
@@ -18236,7 +18236,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754748271,
+        "date_updated": 1756413224,
         "url": "https://careers-peraton.icims.com/jobs/158789/software-engineering%2c-associate/job",
         "company_name": "Peraton",
         "title": "Software Engineering, Associate",
@@ -18249,7 +18249,8 @@
         "id": "ff31da1e-4ae5-46da-8714-dd3695505784",
         "date_posted": 1754748271,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755081429,
@@ -18981,7 +18982,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755783458,
+        "date_updated": 1756413283,
         "url": "https://www.jumptrading.com/careers/7141658/?gh_jid=7141658",
         "company_name": "Jump Trading",
         "title": "Campus AI Researcher (Full-Time)",
@@ -18995,12 +18996,12 @@
         "id": "9db01451-6509-4ceb-876c-362f00d3e76b",
         "date_posted": 1755169079,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "category": "Data Science, AI & Machine Learning",
         "degrees": []
     },
     {
-        "date_updated": 1755169257,
+        "date_updated": 1756413270,
         "url": "https://www.jumptrading.com/careers/7141620/?gh_jid=7141620",
         "company_name": "Jump Trading",
         "title": "Campus ML Engineer (Full-Time)",
@@ -19014,10 +19015,11 @@
         "id": "12281588-c2dc-4544-afc8-baf9da2cd462",
         "date_posted": 1755169257,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
-        "date_updated": 1755169441,
+        "date_updated": 1756426294,
         "url": "https://www.jumptrading.com/careers/7125354/?gh_jid=7125354",
         "company_name": "Jump Trading",
         "title": "Campus Quantitative Researcher (Full-Time)",
@@ -19031,10 +19033,11 @@
         "id": "b4168486-2b58-4db3-857e-ccdedac2cc56",
         "date_posted": 1755169441,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
-        "date_updated": 1755169558,
+        "date_updated": 1756413303,
         "url": "https://www.jumptrading.com/careers/7140611/?gh_jid=7140611",
         "company_name": "Jump Trading",
         "title": "Campus Quantitative Trader (Full-Time)",
@@ -19048,7 +19051,8 @@
         "id": "ef9a89c5-ed19-417d-81c3-285db2f4bf8e",
         "date_posted": 1755169558,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755169946,
@@ -19639,7 +19643,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755247607,
+        "date_updated": 1756413324,
         "url": "https://careers-gdms.icims.com/jobs/67621/entry-level-software-engineer/job",
         "company_name": "General Dynamics Mission Systems",
         "title": "Entry Level Software Engineer",
@@ -19652,7 +19656,8 @@
         "id": "c86c919c-c248-4add-93e7-34228f8199d9",
         "date_posted": 1755247607,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1755864963,
@@ -22262,7 +22267,7 @@
         ]
     },
     {
-        "date_updated": 1755867604,
+        "date_updated": 1756413244,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22277,7 +22282,7 @@
         "id": "b1ec662b-d28d-4923-9b4b-1d1e62a35143",
         "date_posted": 1755867604,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756201405,
@@ -22352,7 +22357,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755868044,
+        "date_updated": 1756413204,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22367,7 +22372,7 @@
         "id": "b3da678d-f9c5-42d9-9e10-7dace527926e",
         "date_posted": 1755868044,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755890178,
@@ -23533,12 +23538,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
+        "category": "Software Engineering",
         "company_name": "Samsara",
         "id": "73b7d550-bdcb-4c17-ba8f-6ef455b882bb",
         "title": "New Grad \u2013 Software Engineering",
         "active": true,
-        "date_updated": 1756315303,
+        "date_updated": 1756413542,
         "date_posted": 1756315303,
         "url": "https://www.samsara.com/company/careers/roles/7172579?gh_jid=7172579",
         "locations": [
@@ -23547,9 +23552,7 @@
         "company_url": "https://simplify.jobs/c/Samsara",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -23642,6 +23645,230 @@
             "Waukesha, WI"
         ],
         "company_url": "https://simplify.jobs/c/Generac",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1756413103,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1843258/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Remote"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "2e96d4bd-b1d9-43e6-8b6e-cb82a90cdf34",
+        "date_posted": 1756413103,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413457,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://joinbytedance.com/search/7540808448918079752",
+        "company_name": "ByteDance",
+        "title": "Software Engineer Graduate (AI Applications)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "2204117c-3f5d-42c8-bad2-7610e811841b",
+        "date_posted": 1756413457,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413496,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://joinbytedance.com/search/7542657938525538578",
+        "company_name": "ByteDance",
+        "title": "Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "73a7fbdb-bbd6-436b-ade3-cdae82ba2136",
+        "date_posted": 1756413496,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413621,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.tesla.com/careers/search/job/248966",
+        "company_name": "Tesla",
+        "title": "Kernel Software Engineer",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "e9050b21-a365-4bf0-9312-fcbffabda0fa",
+        "date_posted": 1756413621,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413786,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.tesla.com/careers/search/job/software-integration-engineer-factory-firmware-249467",
+        "company_name": "Tesla",
+        "title": "Software Integration Engineer, Factory Firmware",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "4d00db2f-58d8-4e22-9936-02ffbbe2813b",
+        "date_posted": 1756413786,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413835,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7541178634444589319",
+        "company_name": "TikTok",
+        "title": "AI/ML Software Engineer Graduate (Data Platform TikTok BP)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "75e9a200-7de7-43d9-97a0-030c29ae88ef",
+        "date_posted": 1756413835,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413857,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/OEM-Account-Applications-Engineer---New-College-Grad-2025_JR2002780",
+        "company_name": "NVIDIA",
+        "title": "OEM Account Applications Engineer",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "6d2d9d90-bf0a-4cd7-a110-767aa20737fb",
+        "date_posted": 1756413857,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756413879,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "http://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
+        "company_name": "NVIDIA",
+        "title": "GPU Architecture Engineer",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "a2151f28-9ee1-4eec-a92a-3adacf05cd51",
+        "date_posted": 1756413879,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756414000,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.amazon.jobs/en/jobs/3066890/system-dev-engineer-i-analytics-adc",
+        "company_name": "Amazon",
+        "title": "System Dev Engineer I, Analytics ADC",
+        "locations": [
+            "Denver, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "86266e03-12a2-4eef-b634-d3c5bbccad6e",
+        "date_posted": 1756414000,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Atlantic Industries",
+        "id": "b83652a5-bc8f-42a1-8a07-4baf9aa9c553",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756419936,
+        "date_posted": 1756419936,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535138",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Iridium Communications",
+        "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756422564,
+        "date_posted": 1756422564,
+        "url": "https://careers-iridium.icims.com/jobs/4644/job",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Iridium-Communications",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WSP",
+        "id": "99e1a3d1-7f44-4c23-a37f-5ea507bb6bf3",
+        "title": "Early Career Data Scientist",
+        "active": true,
+        "date_updated": 1756423875,
+        "date_posted": 1756423875,
+        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs/job/72552",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/WSP",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
