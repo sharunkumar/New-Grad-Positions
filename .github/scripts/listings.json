@@ -1,134 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "ServiceNow",
-        "id": "0dbf690d-0863-4a5e-ab8e-275128519f1a",
-        "title": "Utg \u2013 New College Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1725503560,
-        "date_posted": 1725503560,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000011667145",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Pylon",
-        "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
-        "title": "New grad \u2013 Software Engineer",
-        "active": true,
-        "date_updated": 1725505898,
-        "date_posted": 1725505898,
-        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Pylon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "3d21c79a-41d8-4c90-8db3-d63347ae04fc",
-        "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1725514804,
-        "date_posted": 1725512279,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374534006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "a82c7fb2-f2d9-48dd-b252-bfca8067e103",
-        "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1725514606,
-        "date_posted": 1725512279,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4389940006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "84731929-e094-4ced-9a79-9b8fbb5ad5f9",
-        "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1725514821,
-        "date_posted": 1725512279,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4392370006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "966928b3-86e8-47f8-ad92-32ce12754af1",
-        "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1725512278,
-        "date_posted": 1725512278,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374767006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Nutanix",
-        "id": "fad05f62-9155-4c9f-8485-0c8762a8860f",
-        "title": "Early Career / Software Engineer 2 - Cdp",
-        "active": false,
-        "date_updated": 1725512277,
-        "date_posted": 1725512277,
-        "url": "https://jobs.jobvite.com/nutanix/job/o76kufwL?nl=1&nl=1&fr=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1725514537,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4054592006",
-        "company_name": "NewsBreak",
-        "title": "Software Engineer (Junior & New Grad)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "1d8e7ec9-fef4-48da-9a60-c4c37d0b3cbc",
-        "date_posted": 1725514537,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "company_name": "Trustpilot",
         "id": "785f3420-6c01-4b61-b724-5401a97f0fab",
         "title": "Fullstack Software Engineer I - Tnt",
@@ -23982,6 +23854,46 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pylon",
+        "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
+        "title": "New Grad \u2013 Software Engineer",
+        "active": true,
+        "date_updated": 1752662543,
+        "date_posted": 1751902001,
+        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pylon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pylon",
+        "id": "f2019b56-ba55-41fa-af52-f5aa7dad80a6",
+        "title": "New Grad \u2013 Software Engineer",
+        "active": false,
+        "date_updated": 1752662543,
+        "date_posted": 1751902001,
+        "url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pylon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
