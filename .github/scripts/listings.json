@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "785f3420-6c01-4b61-b724-5401a97f0fab",
-        "title": "Fullstack Software Engineer I - Tnt",
-        "active": false,
-        "date_updated": 1725556195,
-        "date_posted": 1725556195,
-        "url": "https://business.trustpilot.com/jobs/6192971?gh_jid=6192971",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Trustpilot",
-        "id": "54a95d95-4203-4230-b62a-2d77ff52b61c",
-        "title": "Fullstack Software Engineer I - Tnt",
-        "active": false,
-        "date_updated": 1725556195,
-        "date_posted": 1725556195,
-        "url": "https://business.trustpilot.com/jobs/6235343?gh_jid=6235343",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trustpilot",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Salesforce",
         "id": "47e3621f-6df0-4275-9601-99435d3759f6",
         "title": "Software Engineering AMTS/MTS \u2013 New Grad",
@@ -23576,7 +23544,7 @@
         "company_name": "Chewy",
         "id": "8bc213e8-2641-4559-8500-b5b181768159",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756451687,
         "date_posted": 1756451687,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6987316",
@@ -23707,9 +23675,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756492466,
+        "date_updated": 1756661235,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/commure-athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8",
         "company_name": "Commure",
@@ -23722,7 +23690,7 @@
         "id": "824dbdb9-1606-406b-b6a9-16042480b55e",
         "date_posted": 1756492466,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756492792,
