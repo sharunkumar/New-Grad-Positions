@@ -23981,5 +23981,61 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1756810197,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6865698002",
+        "company_name": "Databricks",
+        "title": "Software Engineer",
+        "locations": [
+            "Bellevue, Washington",
+            "Mountain View, California",
+            "San Francisco, California"
+        ],
+        "category": "Software Engineering",
+        "source": "rohan-jagtap04",
+        "id": "2a4933f0-d5a6-4b8c-ac33-d2221814b2ef",
+        "date_posted": 1756810197,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756810329,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://duboischemicals.wd1.myworkdayjobs.com/en-US/external/job/Sharonville-OH---HQ/Research-Scientist-I_R102506",
+        "company_name": "DuBois",
+        "title": "Research Scientist I",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "27dd1211-8577-4247-9301-e47b3f32aef3",
+        "date_posted": 1756810329,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756810420,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/F-22-Pilot-Training-Entry-Level-Software-Engineer---Simulation_JR2025457113-1",
+        "company_name": "Boeing",
+        "title": "F-22 Pilot Training Entry-Level Software Engineer \u2013 Simulation",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "21b12d9c-2aa1-4ac8-9368-fd79df6bf457",
+        "date_posted": 1756810420,
+        "company_url": "",
+        "is_visible": true
     }
 ]
