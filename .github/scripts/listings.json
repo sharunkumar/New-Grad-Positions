@@ -1,40 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Veeva Systems",
-        "id": "fd6bbde9-f83f-4049-be5a-961d5abd1e32",
-        "title": "Associate Software Engineer \u2013 Seeking 2024 and 2025 Grads",
-        "active": false,
-        "date_updated": 1725650119,
-        "date_posted": 1725650119,
-        "url": "https://jobs.lever.co/veeva/0f3a83d8-9184-4bc6-bbad-6e448ffee6a5/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Aquatic Capital Management",
-        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
-        "title": "Software Engineer: Early Career - Python",
-        "active": true,
-        "date_updated": 1725655419,
-        "date_posted": 1725655419,
-        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
-        "locations": [
-            "London, UK",
-            "Chicago, IL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Wyetech LLC",
         "id": "8f047ff6-f495-4866-812d-ef15b1e478a8",
         "title": "Software Engineer 1",
@@ -23844,6 +23810,172 @@
             "Uxbridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aquatic Capital Management",
+        "id": "4d4a1638-ea25-4c1f-9b28-cbc317ba10d0",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": false,
+        "date_updated": 1747347510,
+        "date_posted": 1726672039,
+        "url": "https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/7624703002",
+        "locations": [
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Aquatic-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "4425a2a5-881f-4567-b730-3abfc1cccaae",
+        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
+        "active": true,
+        "date_updated": 1756768715,
+        "date_posted": 1756768715,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "cc08919c-d003-4a69-87fc-d16094133db0",
+        "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
+        "active": true,
+        "date_updated": 1756768721,
+        "date_posted": 1756768721,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789917",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
