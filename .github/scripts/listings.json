@@ -23475,7 +23475,7 @@
         "company_name": "Cox",
         "id": "c57a389d-852e-48f0-9233-6d85f2fefa9c",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756453258,
         "date_posted": 1756453258,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202566222",
@@ -23802,7 +23802,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -24037,5 +24037,27 @@
         "date_posted": 1756810420,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Blue Origin",
+        "id": "8c125a08-f60a-4953-95e3-1a9411da20a7",
+        "title": "Software Development Engineer I \u2013 Early Career & New Graduate Rotation",
+        "active": true,
+        "date_updated": 1756826732,
+        "date_posted": 1756826732,
+        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
+        "locations": [
+            "Seattle, WA",
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
