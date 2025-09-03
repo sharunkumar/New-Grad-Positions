@@ -8809,7 +8809,7 @@
         "company_name": "Sev1Tech",
         "id": "b21ffbbd-f7a4-46fb-b07f-567504ac99dc",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1743833497,
         "date_posted": 1743833497,
         "url": "https://careers-sev1tech.icims.com/jobs/8778/job",
@@ -21518,7 +21518,7 @@
         "company_name": "Electric Boat",
         "id": "36deec29-ea02-40cd-8e84-bb1c17b42299",
         "title": "Entry Level Embedded Software Engineer-Ship Control",
-        "active": true,
+        "active": false,
         "date_updated": 1755751912,
         "date_posted": 1755751912,
         "url": "https://careers-gdeb.icims.com/jobs/15852/job",
@@ -23984,7 +23984,7 @@
         ]
     },
     {
-        "date_updated": 1756810197,
+        "date_updated": 1756902955,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -24001,7 +24001,7 @@
         "id": "2a4933f0-d5a6-4b8c-ac33-d2221814b2ef",
         "date_posted": 1756810197,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756810329,
@@ -24046,7 +24046,7 @@
         "id": "8c125a08-f60a-4953-95e3-1a9411da20a7",
         "title": "Software Development Engineer I \u2013 Early Career & New Graduate Rotation",
         "active": true,
-        "date_updated": 1756826732,
+        "date_updated": 1756903070,
         "date_posted": 1756826732,
         "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Seattle-WA/Software-Development-Engineer-I---Early-Career---New-Graduate-Rotation--2025-2026-Starts-_R54894",
         "locations": [
@@ -24055,11 +24055,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -24109,7 +24106,7 @@
         "company_name": "Gridmatic",
         "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1756840490,
         "date_posted": 1756840490,
         "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
@@ -24165,8 +24162,8 @@
         ]
     },
     {
-        "date_updated": 1756855912,
-        "sponsorship": "Offers Sponsorship",
+        "date_updated": 1756902937,
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
@@ -24302,7 +24299,7 @@
         "id": "f692cc56-d79e-4b40-8851-130e0670610c",
         "title": "Software Engineer I - Salesforce",
         "active": true,
-        "date_updated": 1756863999,
+        "date_updated": 1756903143,
         "date_posted": 1756863999,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
         "locations": [
@@ -24313,10 +24310,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
