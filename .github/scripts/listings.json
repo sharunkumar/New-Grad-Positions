@@ -18165,7 +18165,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1755008257,
+        "date_updated": 1756861605,
         "url": "https://amainc.wd12.myworkdayjobs.com/en-US/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100359",
         "company_name": "Analytical Mechanics Associates",
         "title": "AI/ML Research Associate",
@@ -18179,7 +18179,8 @@
         "id": "7062f9fd-9d7c-44a4-bdef-bd2966e22a61",
         "date_posted": 1755008257,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -19614,7 +19615,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "30dfbb90-c528-42cb-a136-c69f862081f5",
         "title": "Electrical/Hardware Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755298789,
         "date_posted": 1755298789,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Houston-Texas-United-States-of-America/Electrical-Hardware-Engineer-I_1192941-1",
@@ -21622,7 +21623,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755817792,
+        "date_updated": 1756850239,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -21637,7 +21638,7 @@
         "id": "6705097a-a8ec-4610-906e-063d10520f69",
         "date_posted": 1755817792,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -22051,7 +22052,7 @@
         "company_name": "SMX",
         "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755909353,
         "date_posted": 1755909353,
         "url": "https://www.smxtech.com/careers/?gh_jid=6689584003",
@@ -22491,7 +22492,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756203509,
+        "date_updated": 1756861809,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22506,10 +22507,10 @@
         "id": "7c30bd9c-3f47-41c1-966c-8080f9538215",
         "date_posted": 1756203509,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1756203595,
+        "date_updated": 1756861622,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22524,10 +22525,10 @@
         "id": "be6b7f52-e0de-4f3b-a55f-fb12c1634640",
         "date_posted": 1756203595,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1756203670,
+        "date_updated": 1756861589,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -22542,7 +22543,7 @@
         "id": "ec5f452f-cba6-4d1b-8b45-3da8cfbc6a1d",
         "date_posted": 1756203670,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756203764,
@@ -22698,7 +22699,7 @@
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1756246846,
         "date_posted": 1756246846,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
@@ -24053,6 +24054,240 @@
             "Kent, WA"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CenturyLink",
+        "id": "ce77bc77-35cc-4a79-bd6a-6e30a1998f1b",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756838053,
+        "date_posted": 1756838053,
+        "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322139300/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Lumen Technologies",
+        "id": "858230a7-8a49-4496-addb-d53e74684ef6",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756840742,
+        "date_posted": 1756840742,
+        "url": "https://jobs.lumen.com/global/en/job/339747",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gridmatic",
+        "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1756840490,
+        "date_posted": 1756840490,
+        "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gridmatic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Securities",
+        "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1756847386,
+        "date_posted": 1756847386,
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442146",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "N1",
+        "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
+        "title": "New Grad Software Engineer - Backend Rust",
+        "active": true,
+        "date_updated": 1756847561,
+        "date_posted": 1756847561,
+        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
+        "locations": [
+            "Oakland, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/N1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1756855912,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285",
+        "company_name": "IBM",
+        "title": "Software Developer",
+        "locations": [
+            "Sandy Springs, GA",
+            "Poughkeepsie, NY",
+            "Lowell, MA",
+            "Rochester, MN",
+            "Tucson, AZ",
+            "Research Triangle Park, NC",
+            "Durham, NC",
+            "Hopewell Junction, NY",
+            "San Jose, CA",
+            "Dallas, TX",
+            "Houston, TX",
+            "Austin, TX",
+            "Herndon, VA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "d4ea417d-2e42-4174-80ac-0382439102b0",
+        "date_posted": 1756855912,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756855936,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8145483002?gh_jid=8145483002",
+        "company_name": "SpaceX",
+        "title": "Software Engineer",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "a59027fc-5575-4f3c-801f-567ef43ac640",
+        "date_posted": 1756855936,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756857301,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/us/en/job/1869391",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack",
+        "locations": [
+            "United States"
+        ],
+        "category": "Software Engineering",
+        "source": "unvibingcode",
+        "id": "87af25f0-4deb-4ca2-96fc-621b6f787a1c",
+        "date_posted": 1756857301,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "CenturyLink",
+        "id": "95f54956-e2af-4542-b8fb-7a29b6302279",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756858294,
+        "date_posted": 1756858294,
+        "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322179700/?ats=successfactors",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/CenturyLink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Lumen Technologies",
+        "id": "a1d30eed-a7e9-41bd-a40e-24b7b40caa45",
+        "title": "Information Security Engineer I",
+        "active": true,
+        "date_updated": 1756861077,
+        "date_posted": 1756861077,
+        "url": "https://jobs.lumen.com/global/en/job/339750",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lumen-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
+        "title": "2026 University Graduate - Finance Data Scientist",
+        "active": true,
+        "date_updated": 1756862678,
+        "date_posted": 1756862678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
