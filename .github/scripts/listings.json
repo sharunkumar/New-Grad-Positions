@@ -17628,7 +17628,7 @@
         "company_name": "Esri",
         "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
         "title": "Software Developer Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1754702367,
         "date_posted": 1754702367,
         "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
@@ -23705,7 +23705,7 @@
         "company_name": "TD Bank",
         "id": "4b2b81c8-a1ed-4052-aae0-2f7ee004699c",
         "title": "Machine Learning Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756512846,
         "date_posted": 1756512846,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1441970",
@@ -24109,7 +24109,7 @@
         "company_name": "Gridmatic",
         "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756840490,
         "date_posted": 1756840490,
         "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
@@ -24293,6 +24293,117 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "f692cc56-d79e-4b40-8851-130e0670610c",
+        "title": "Software Engineer I - Salesforce",
+        "active": true,
+        "date_updated": 1756863999,
+        "date_posted": 1756863999,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
+        "locations": [
+            "Sparks, MD",
+            "Hartford, CT",
+            "Atlanta, GA",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Roblox",
+        "id": "b3c3e871-13cb-4544-9170-9f76e534ec8b",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1756865175,
+        "date_posted": 1756865175,
+        "url": "https://careers.roblox.com/jobs/7206214?gh_jid=7206214",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gecko Robotics",
+        "id": "d782e6b5-6978-407c-affa-b4c257577a5a",
+        "title": "Software Engineer \u2013 New Graduate Rotational Development Program",
+        "active": true,
+        "date_updated": 1756866418,
+        "date_posted": 1756866418,
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
+        "locations": [
+            "Boston, MA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "65140a4f-996b-40f3-98da-63270ba6a609",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1756871708,
+        "date_posted": 1756871708,
+        "url": "https://stripe.com/jobs/search?gh_jid=7210112",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "8510087c-34fe-43c9-b6e9-7f5a00f1d270",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1756871707,
+        "date_posted": 1756871707,
+        "url": "https://stripe.com/jobs/search?gh_jid=7206505",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
