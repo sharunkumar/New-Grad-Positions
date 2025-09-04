@@ -23436,7 +23436,7 @@
         "company_name": "WSP",
         "id": "99e1a3d1-7f44-4c23-a37f-5ea507bb6bf3",
         "title": "Early Career Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756423875,
         "date_posted": 1756423875,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/jobs/job/72552",
@@ -23950,7 +23950,7 @@
         "company_name": "RTX",
         "id": "4425a2a5-881f-4567-b730-3abfc1cccaae",
         "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756768715,
         "date_posted": 1756768715,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916",
@@ -24587,7 +24587,7 @@
         "id": "d22bfd21-36a7-4c9b-b6b7-bb42786f2303",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1756948309,
+        "date_updated": 1756974704,
         "date_posted": 1756948309,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01789869",
         "locations": [
@@ -24595,10 +24595,8 @@
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -24722,5 +24720,324 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Mastercard",
+        "id": "c46f1d49-efdf-41f5-b656-c45b25e49e9e",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1756968542,
+        "date_posted": 1756968542,
+        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Software-Engineer-I_R-258957",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Mastercard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FOX",
+        "id": "c8d76cab-ccd2-4973-bb76-7f59667b3b6e",
+        "title": "Software Engineer I - Android",
+        "active": true,
+        "date_updated": 1756938933,
+        "date_posted": 1756938933,
+        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Blue-Ash-Ohio-USA/Software-Engineer-I--Android_R50029814",
+        "locations": [
+            "Sharonville, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1756974823,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/2k/jobs/6688546003",
+        "company_name": "2K",
+        "title": "US Engineering Graduate Program",
+        "locations": [
+            "Novato, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "21cee484-13c4-4247-a902-433f798e3356",
+        "date_posted": 1756974823,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975007,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
+        "company_name": "LinkedIn",
+        "title": "Associate Product Builder (APB) - Rotational Program",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "3e6d5800-52c8-44e0-be8e-5f84a254e43a",
+        "date_posted": 1756975007,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975094,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.roblox.com/jobs/7167345",
+        "company_name": "Roblox",
+        "title": "Associate Product Designer, Early Career",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "e1ef069c-abb6-492b-b919-ad27e9d8b2a0",
+        "date_posted": 1756975094,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975135,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.roblox.com/jobs/7167343",
+        "company_name": "Roblox",
+        "title": "Associate Product Manager, Early Career",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "1999e97d-22a7-45fa-a212-7880e1abc0d7",
+        "date_posted": 1756975135,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975226,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+        "company_name": "Stripe",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "91eec74c-6598-4669-a40f-38c2dc8adbce",
+        "date_posted": 1756975226,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975605,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
+        "company_name": "VIAVI",
+        "title": "Early Careers Rotational Program - R&D Engineer (AI)",
+        "locations": [
+            "Minnetonka, MN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "029395e6-da90-46b8-8027-b4a3169ff396",
+        "date_posted": 1756975605,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975770,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP-----Artificial-Intelligence-Track---Start-Date--July-13--2026_25011433",
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program (TECDP) - Artificial Intelligence",
+        "locations": [
+            "St. Louis, MO",
+            "Morris Plains, NJ",
+            "Bloomfield, CT",
+            "Austin, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "52d706e2-5eb3-4f0c-b19b-c8c6506f6863",
+        "date_posted": 1756975770,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975875,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Summer-Associate---Quantitative-Rotational-Program_R_1441549",
+        "company_name": "TD",
+        "title": "Quantitative Rotational Program",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "2c672e97-b9d8-4746-b76f-bf758f8ad8ab",
+        "date_posted": 1756975875,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756975959,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ329843-1",
+        "company_name": "T-Mobile",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0e7c6e6e-9a7e-48c4-b9a6-e78be48d2066",
+        "date_posted": 1756975959,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756980855,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/Technology-Development-Program--TECDP----Infrastructure---Cloud-Engineering-Track---Start-Date--July-13--2026_25011438-1",
+        "company_name": "The Cigna Group",
+        "title": "Technology Development Program (TECDP) - Infrastructure & Cloud Engineering Track",
+        "locations": [
+            "St. Louis, MO",
+            "Bloomfield, CT",
+            "Bloomington, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7efa4a90-bd67-48f9-b6b5-b305ae01b410",
+        "date_posted": 1756980855,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756981021,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?gh_jid=8121675002",
+        "company_name": "SpaceX",
+        "title": "New Graduate Engineer, Software (Starlink)",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "202e727a-8715-4d5a-be00-838d1f09e262",
+        "date_posted": 1756981021,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756981080,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/spacex/jobs/8144023002?gh_jid=8144023002",
+        "company_name": "SpaceX",
+        "title": "New Graduate Engineer, Software (Starship)",
+        "locations": [
+            "Starbase, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bc5a010c-342d-4ffc-8443-6d4f997a627b",
+        "date_posted": 1756981080,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756981665,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Firmware-Engineer-Graduate--Colorado-_1193613-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Firmware Engineer Graduate",
+        "locations": [
+            "Ft. Collins, CO"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "d2b4b747-892a-478e-aa7a-0f21642b6445",
+        "date_posted": 1756981665,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756981796,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/Software-Engineering-Graduate--Colorado-_1193615-1",
+        "company_name": "Hewlett Packard Enterprise",
+        "title": "Software Engineering Graduate",
+        "locations": [
+            "Ft. Collins, CO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6b08e82f-ef09-440e-aa44-6795153bdeda",
+        "date_posted": 1756981796,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1756981921,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
+        "company_name": "Bonterra",
+        "title": "EA-Data Engineer I, Services",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "7cf3ac86-36ec-48d6-b196-df55320ca40a",
+        "date_posted": 1756981921,
+        "company_url": "",
+        "is_visible": true
     }
 ]
