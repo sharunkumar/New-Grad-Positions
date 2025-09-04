@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wyetech LLC",
-        "id": "8f047ff6-f495-4866-812d-ef15b1e478a8",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1725899717,
-        "date_posted": 1725899717,
-        "url": "https://jobs.lever.co/wyetechllc/d12df61c-fcd9-4918-9574-fdf48cc554e0/apply",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "NVIDIA",
         "id": "b97c7b5a-7b6c-40e4-94ab-349ba9be297a",
         "title": "Compiler Engineer \u2013 New College Grad 2024 - HPC",
@@ -24107,7 +24091,7 @@
         "company_name": "Gridmatic",
         "id": "635f6e5d-7846-4181-a0a8-d5970a4c06ae",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1756840490,
         "date_posted": 1756840490,
         "url": "https://jobs.lever.co/gridmatic/df5d7a74-34fd-4675-b5fd-928ad0de2b89/apply",
@@ -24707,7 +24691,7 @@
         "company_name": "Premera Blue Cross",
         "id": "67191ba7-b301-43fc-a1d2-64d3c6b0123c",
         "title": "Data Engineer I - Workforce Management",
-        "active": true,
+        "active": false,
         "date_updated": 1756938832,
         "date_posted": 1756938832,
         "url": "https://premera.wd5.myworkdayjobs.com/premera/job/Telecommuter/Data-Engineer-I--Workforce-Management_R28235",
@@ -25039,5 +25023,46 @@
         "date_posted": 1756981921,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "12b4518e-ad12-41d5-af9e-6b93e9efd9a8",
+        "title": "Software Engineer I - Legal & Compliance",
+        "active": true,
+        "date_updated": 1756992949,
+        "date_posted": 1756511024,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918",
+        "locations": [
+            "Hartford, CT",
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Canonical",
+        "id": "c3980a57-97b4-4c1e-8169-e8ac3200ff46",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1756998293,
+        "date_posted": 1756998293,
+        "url": "https://job-boards.greenhouse.io/canonical/jobs/6642917",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Canonical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
