@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Persona",
-        "id": "7b0a92a2-0f75-464b-980f-6a0501a5934f",
-        "title": "Software engineer \u2013 New grad",
-        "active": false,
-        "date_updated": 1725940879,
-        "date_posted": 1725940879,
-        "url": "https://jobs.lever.co/persona/70dd3239-d020-4035-aaab-16bd289642f7/apply",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Persona",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Booz Allen",
         "id": "a2ecf6f0-70cd-4517-847c-9b46f727003f",
         "title": "Data Scientist - Junior",
@@ -210,22 +194,6 @@
             "Raleigh, NC"
         ],
         "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Gecko Robotics",
-        "id": "4de6098a-15b6-4713-a555-bdab5daa716c",
-        "title": "Embedded Software Engineer \u2013 New Graduate",
-        "active": false,
-        "date_updated": 1725941434,
-        "date_posted": 1725941434,
-        "url": "https://jobs.ashbyhq.com/gecko-robotics/c161948f-001d-45e4-a340-776cfccc1ff2/application",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gecko-Robotics",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -24995,6 +24963,149 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ellipsis Labs",
+        "id": "04f4153d-3ef4-4c63-95fc-17771cca2eec",
+        "title": "Software Engineer \u2013 Intern & New Grad",
+        "active": true,
+        "date_updated": 1757036984,
+        "date_posted": 1757036984,
+        "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ellipsis-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "38a259d5-f441-49c5-b9dd-4dc53890afba",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757038355,
+        "date_posted": 1757038355,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566492",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "077c0a28-ea27-4f9b-a4ae-426c784bce0a",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757037954,
+        "date_posted": 1757037954,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7195601",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Valkyrie Trading",
+        "id": "67a851ea-8525-4f41-aaf5-9512b3d00fd1",
+        "title": "Junior Quantitative Researcher",
+        "active": true,
+        "date_updated": 1757039060,
+        "date_posted": 1757039060,
+        "url": "https://jobs.lever.co/valkyrietrading/6ba65cc5-53ec-4c92-ac98-dbc3326c75ab/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valkyrie Trading",
+        "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1757041770,
+        "date_posted": 1757041770,
+        "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "04aa6768-9420-4e85-b3da-8bc7941f61c8",
+        "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1757041766,
+        "date_posted": 1757041766,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "32a96099-ef28-4059-8655-a22c8e1e4733",
+        "title": "2026 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1757044606,
+        "date_posted": 1757044606,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Software-Engineer_R158633",
+        "locations": [
+            "Seattle, WA",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
