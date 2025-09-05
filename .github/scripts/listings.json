@@ -167,22 +167,6 @@
     },
     {
         "source": "Simplify",
-        "company_name": "RELX",
-        "id": "7e047c7a-949a-4a7e-b4c3-3adbd5fe4d77",
-        "title": "Aspire Tech Graduate Program - Data Engineer I",
-        "active": false,
-        "date_updated": 1725985999,
-        "date_posted": 1725985999,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Program---Data-Engineer-I_R83652-1",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/1495091e-1f19-4c30-a48a-5afa4aa5e7dd",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Tencent",
         "id": "2fe87416-59d9-4125-ae96-47b609f83c15",
         "title": "Security Software Engineer I",
@@ -10456,7 +10440,7 @@
         "company_name": "General Dynamics",
         "id": "79fd1da3-151a-4655-8ce5-be37e1eae0fd",
         "title": "Junior Front End Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1747337779,
         "date_posted": 1747337779,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703",
@@ -14460,7 +14444,7 @@
         "company_name": "CACI",
         "id": "ac8b67b8-97b8-4915-90f9-87cb00709c0a",
         "title": "Entry Level Software Engineer - Automated Testing",
-        "active": true,
+        "active": false,
         "date_updated": 1752710482,
         "date_posted": 1752710482,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-Software-Engineer--Automated-Testing-_314546-1",
@@ -21716,7 +21700,7 @@
         "company_name": "Ciena",
         "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
         "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755908269,
         "date_posted": 1755908269,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
@@ -23982,7 +23966,7 @@
         "company_name": "The Travelers Companies",
         "id": "f692cc56-d79e-4b40-8851-130e0670610c",
         "title": "Software Engineer I - Salesforce",
-        "active": true,
+        "active": false,
         "date_updated": 1756903143,
         "date_posted": 1756863999,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
@@ -24770,7 +24754,7 @@
         "company_name": "Jerry",
         "id": "0454b6f9-153d-4c67-9b43-5c4792b798da",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757011693,
         "date_posted": 1757011693,
         "url": "https://jobs.ashbyhq.com/jerry.ai/88345c93-ae5e-416b-af29-69d8ea6fde78/application",
@@ -24790,7 +24774,7 @@
         "company_name": "Jerry",
         "id": "6e14a783-e5c6-43f4-97d0-83e2db840795",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757015797,
         "date_posted": 1757015797,
         "url": "https://jobs.ashbyhq.com/jerry.ai/095ecb99-75f7-4f82-bac7-45fa2db917c6/application",
@@ -24935,19 +24919,17 @@
         "company_name": "Aflac",
         "id": "6e331d09-8412-461c-9326-14091f9ae7de",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1757036054,
+        "active": false,
+        "date_updated": 1757077337,
         "date_posted": 1757036054,
         "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors",
         "locations": [
             "Columbus, GA"
         ],
         "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -25127,6 +25109,81 @@
         "source": "thereevemenezes",
         "id": "14eac50f-40b5-40f7-8fca-eeb4b15c56a1",
         "date_posted": 1757075740,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757080660,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://triafed.com/jobs/?gh_jid=4890318008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst (Developer) Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "bfe9aa64-fc6a-4bff-a502-ac0b1549c811",
+        "date_posted": 1757080660,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757080716,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://triafed.com/jobs/?gh_jid=4890304008",
+        "company_name": "Tria Federal",
+        "title": "Data Analyst (BI/Reporting) Level I",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "abd37c07-777b-4c28-bd82-0862522ff663",
+        "date_posted": 1757080716,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757080975,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
+        "company_name": "PDI Technologies",
+        "title": "Junior Machine Learning Engineer",
+        "locations": [
+            "Alpharetta, GA",
+            "Temple, TX",
+            "Dallas, TX",
+            "Houston, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1c4a0a4c-0df8-4028-a421-574c74a14f93",
+        "date_posted": 1757080975,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757081227,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://hczw.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/12967",
+        "company_name": "CSC",
+        "title": "Junior Data Analyst",
+        "locations": [
+            "Wilmington, DE"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f1309916-9513-4209-a282-9bd27dcf2245",
+        "date_posted": 1757081227,
         "company_url": "",
         "is_visible": true
     }
