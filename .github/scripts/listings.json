@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "a2ecf6f0-70cd-4517-847c-9b46f727003f",
-        "title": "Data Scientist - Junior",
-        "active": false,
-        "date_updated": 1725959468,
-        "date_posted": 1725959468,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Junior_R0204910",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Subsplash",
         "id": "b60c54e1-7ab9-4d7a-9148-54d754be2ff0",
         "title": "Software Development Engineer I - Front-end",
@@ -21675,7 +21659,7 @@
         "company_name": "Toyota Connected",
         "id": "a9ccc1fd-d50f-40c1-964c-2f11a4961bda",
         "title": "Machine Learning Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1755903055,
         "date_posted": 1755903055,
         "url": "https://boards.greenhouse.io/embed/job_app?token=8133318002",
@@ -22774,7 +22758,7 @@
         "company_name": "GM financial",
         "id": "325a787b-0d7a-48d5-a230-7df1ab6dccd6",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756300456,
         "date_posted": 1753138978,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/535",
@@ -24243,7 +24227,7 @@
         "company_name": "Barry-Wehmiller",
         "id": "a46be02c-d22d-485a-9004-fe7fad10c76b",
         "title": "Entry Level - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756939940,
         "date_posted": 1756939940,
         "url": "https://barrywehmiller.wd1.myworkdayjobs.com/BWCareers/job/Dallas-TX/Entry-Level---Software-Engineer_R019332",
@@ -24324,7 +24308,7 @@
         "company_name": "RTX",
         "id": "f17fa82b-c567-40fa-832e-1afe7d5bcce8",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756953611,
         "date_posted": 1756953611,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01784317-1",
@@ -25107,5 +25091,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "4098078f-4134-4979-b41f-7dabd027c11e",
+        "title": "Entry Level Software Engineer-Test & Verification",
+        "active": true,
+        "date_updated": 1757021587,
+        "date_posted": 1757021587,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2",
+        "locations": [
+            "Kent, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1757075740,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/share/1869347",
+        "company_name": "Microsoft",
+        "title": "Software Engineer - Fullstack",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "thereevemenezes",
+        "id": "14eac50f-40b5-40f7-8fca-eeb4b15c56a1",
+        "date_posted": 1757075740,
+        "company_url": "",
+        "is_visible": true
     }
 ]
