@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wiley Edge",
-        "id": "f2bd3aac-859d-424c-887a-e00abb3854b6",
-        "title": "Junior Software Engineer - Open to relocation - Sheffield - Birmingham - Bournemouth - Newcastle & Glasgow",
-        "active": false,
-        "date_updated": 1726067231,
-        "date_posted": 1726067231,
-        "url": "https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4391091006",
-        "locations": [
-            "Christchurch, UK",
-            "Newcastle upon Tyne, UK",
-            "Birmingham, UK",
-            "Sheffield, UK",
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/WileyEdge",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "date_updated": 1726307479,
-        "url": "https://careers.adobe.com/us/en/job/ADOBUSR148217EXTERNALENUS/2025-University-Graduate-Software-Engineer",
-        "company_name": "Adobe",
-        "title": "Software Engineer - University Graduate 2025",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "whuang214",
-        "id": "74775dc2-7dd0-4a7d-ad1c-b022190acfcc",
-        "date_posted": 1726075748,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "company_name": "KLA",
         "id": "04688802-4e15-4b0e-b04b-a1ad14f12bc2",
         "title": "Software Engineer \u2013 New College Grad",
@@ -23651,7 +23615,7 @@
         "company_name": "CenturyLink",
         "id": "ce77bc77-35cc-4a79-bd6a-6e30a1998f1b",
         "title": "Information Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756838053,
         "date_posted": 1756838053,
         "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322139300/?ats=successfactors",
@@ -23821,7 +23785,7 @@
         "company_name": "CenturyLink",
         "id": "95f54956-e2af-4542-b8fb-7a29b6302279",
         "title": "Information Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756858294,
         "date_posted": 1756858294,
         "url": "https://internaljobs.centurylink.com/job/Remote-INFORMATION-SECURITY-ENGINEER-I/1322179700/?ats=successfactors",
