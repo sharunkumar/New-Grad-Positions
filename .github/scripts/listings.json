@@ -19088,7 +19088,7 @@
         "company_name": "Mastercard",
         "id": "1e3ed3ad-963e-4860-adfd-b24288e46eaf",
         "title": "Software Engineer I - Backend - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1755298469,
         "date_posted": 1755298469,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Vancouver-Canada/Software-Engineer-I--Backend---Java-_R-258140",
@@ -23732,7 +23732,7 @@
         "company_name": "Adobe",
         "id": "6215e47a-c0d1-4efb-a067-3fb6b0172084",
         "title": "2026 University Graduate - Finance Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756862678,
         "date_posted": 1756862678,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Finance-Data-Scientist_R158870",
@@ -24182,7 +24182,7 @@
         "company_name": "Mastercard",
         "id": "c46f1d49-efdf-41f5-b656-c45b25e49e9e",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756968542,
         "date_posted": 1756968542,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Toronto-Canada/Software-Engineer-I_R-258957",
@@ -24603,7 +24603,7 @@
         "company_name": "Altice USA",
         "id": "2667bcdd-a309-4376-a0ef-736453f4c541",
         "title": "Software Dev Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757030938,
         "date_posted": 1757030938,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
@@ -25123,7 +25123,7 @@
         "company_name": "CACI",
         "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
         "title": "Entry Level Java and Python Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757310408,
         "date_posted": 1757118218,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
@@ -25141,7 +25141,7 @@
         "company_name": "Cox",
         "id": "d0811db1-ec47-4cb1-8b04-bd837aa97c50",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757119025,
         "date_posted": 1757119025,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202566673",
@@ -25624,5 +25624,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1757353619,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505",
+        "company_name": "Epic",
+        "title": "Infrastructure Engineer",
+        "locations": [
+            "Madison, WI"
+        ],
+        "category": "Software Engineering",
+        "source": "mtlogs",
+        "id": "c660f891-9a0b-4c58-9515-f470876c9a1d",
+        "date_posted": 1757353619,
+        "company_url": "",
+        "is_visible": true
     }
 ]
