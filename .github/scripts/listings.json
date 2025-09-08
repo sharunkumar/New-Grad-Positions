@@ -21507,7 +21507,7 @@
         "company_name": "SMX",
         "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755909353,
         "date_posted": 1755909353,
         "url": "https://www.smxtech.com/careers/?gh_jid=6689584003",
@@ -24099,7 +24099,7 @@
         "company_name": "RTX",
         "id": "db912136-78e3-4b91-a39a-27c5c8121d74",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756953612,
         "date_posted": 1756953612,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01787856-1",
@@ -25123,7 +25123,7 @@
         "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
         "title": "Entry Level Java and Python Software Engineer",
         "active": true,
-        "date_updated": 1757118218,
+        "date_updated": 1757310408,
         "date_posted": 1757118218,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
         "locations": [
@@ -25131,10 +25131,8 @@
         ],
         "company_url": "https://simplify.jobs/c/CACI",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -25490,6 +25488,26 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Tencent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boom Supersonic",
+        "id": "f321e2b2-f378-4a33-91f6-00583f014a13",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757301300,
+        "date_posted": 1757301300,
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boom-Supersonic",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
