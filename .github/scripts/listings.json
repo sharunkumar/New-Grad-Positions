@@ -1,37 +1,5 @@
 [
     {
-        "date_updated": 1727127998,
-        "url": "https://www.splunk.com/en_us/careers/jobs/software-engineer-early-in-29740.html",
-        "company_name": "Splunk",
-        "title": "Software Engineer",
-        "locations": [
-            "SF Bay Area, Seattle Metro, and New York City Metro Area"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "source": "Akshay6890",
-        "id": "87348472-60dd-49f8-b9de-2c7e2f8a4545",
-        "date_posted": 1726307527,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1726307549,
-        "url": "https://jobs.sap.com/job/Palo-Alto-Data-Scientist-SNT-%282024-Grads%29-CA-94304/1118371501/",
-        "company_name": "SAP",
-        "title": "Data Scientist: SNT (2024 Grads)",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "source": "mohammedsalmank04",
-        "id": "7b60ba5f-29fa-43b3-9d1c-a53d2229c3ac",
-        "date_posted": 1726307549,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Western Digital",
         "id": "a01d45cb-bb9a-41a7-8d48-4472ee0e9ce9",
@@ -24552,7 +24520,7 @@
         "company_name": "ICF",
         "id": "d000a238-f90b-4c63-bfb9-69725e027ef3",
         "title": "Data Scientist \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757025768,
         "date_posted": 1757025768,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
@@ -25836,5 +25804,268 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1757401128,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
+        "company_name": "Amazon",
+        "title": "Security Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7008175b-a348-4881-b7e5-84de3e4da747",
+        "date_posted": 1757401128,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figma",
+        "id": "3bea35c7-6895-4566-a81a-32705074a380",
+        "title": "Early Career - Data Scientist",
+        "active": true,
+        "date_updated": 1757356297,
+        "date_posted": 1757356297,
+        "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Securities",
+        "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
+        "title": "Machine Learning Engineer I",
+        "active": true,
+        "date_updated": 1757358863,
+        "date_posted": 1757358863,
+        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1757401240,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
+        "company_name": "Arm Limited",
+        "title": "Graduate Software Applications Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "926863f0-8c2d-4e12-af66-fb8bd5e29053",
+        "date_posted": 1757401240,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401305,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110",
+        "company_name": "Bumble Engineering",
+        "title": "Jr. Software Engineer",
+        "locations": [
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3217003d-557d-4f6c-99dd-68f9cdf7c3ab",
+        "date_posted": 1757401305,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401457,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2026_R218758-1",
+        "company_name": "Capital One",
+        "title": "Technology Development Program Associate",
+        "locations": [
+            "McLean, VA",
+            "Richmond, VA",
+            "Plano, TX"
+        ],
+        "category": "Other",
+        "source": "AlmondCroffle",
+        "id": "db6b2270-09fd-4711-a9f1-fd02df611769",
+        "date_posted": 1757401457,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401533,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Glendale, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c66df321-c70e-4dd8-a07e-d8b153c3cba6",
+        "date_posted": 1757401533,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401647,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.publicisgroupe.com/jobs/121504",
+        "company_name": "Epsilon",
+        "title": "Associate, Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "f4d67ceb-c267-4832-bf7c-e3b2e8664359",
+        "date_posted": 1757401647,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401706,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.publicisgroupe.com/jobs/121511",
+        "company_name": "Epsilon",
+        "title": "Associate, Software Engineer",
+        "locations": [
+            "Irving, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "53729385-feaf-42a4-b150-83e912af8b00",
+        "date_posted": 1757401706,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401781,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
+        "company_name": "Verkada",
+        "title": "Backend Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6e02731c-cc69-420c-b180-8da8632c6ab7",
+        "date_posted": 1757401781,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757401905,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
+        "company_name": "Morgan Stanley",
+        "title": "Machine Learning Research Associate Program - PhD",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a9cbfe13-e4b3-45bf-ad1c-d6e0248ca431",
+        "date_posted": 1757401905,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757402522,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643300004",
+        "company_name": "Boom",
+        "title": "Data Scientist, New Grad",
+        "locations": [
+            "Denver, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "58d0a8dc-bd31-4271-901c-696c4e9bfe25",
+        "date_posted": 1757402522,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757402619,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4160702007",
+        "company_name": "Jahnel Group",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "40518bd8-626e-4e68-a185-aae7a870dfa3",
+        "date_posted": 1757402619,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757404344,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering (Ignite Innovator Pgm)",
+        "locations": [
+            "Herndon, VA",
+            "Blacksburg, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a1a71fa0-4d3a-49d0-8c39-742ca3d20ae8",
+        "date_posted": 1757404344,
+        "company_url": "",
+        "is_visible": true
     }
 ]
