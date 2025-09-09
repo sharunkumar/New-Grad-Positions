@@ -23978,7 +23978,7 @@
         "company_name": "RTX",
         "id": "d22bfd21-36a7-4c9b-b6b7-bb42786f2303",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756974704,
         "date_posted": 1756948309,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01789869",
@@ -25548,7 +25548,7 @@
         "company_name": "Ciena",
         "id": "a564c7c1-63c4-4627-9c80-967441cc17b1",
         "title": "Wavelogic Software Developer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757317184,
         "date_posted": 1757317184,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R028787",
@@ -26067,5 +26067,68 @@
         "date_posted": 1757404344,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "04bb0203-4590-48c4-934a-94bb90df933a",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757424622,
+        "date_posted": 1757424622,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080622046",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "046f77e5-d626-4dca-9c26-39c459271611",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757424548,
+        "date_posted": 1757424548,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080620585",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trexquant",
+        "id": "655044db-1f63-41b0-a8cc-8ac80f15bf80",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1757438299,
+        "date_posted": 1757438299,
+        "url": "https://apply.workable.com/trexquant/j/11DC4EA360/apply",
+        "locations": [
+            "Stamford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Trexquant",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
