@@ -15038,7 +15038,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1756120670,
+        "date_updated": 1757384848,
         "url": "https://jobs.ashbyhq.com/unify/762e3fd4-7813-4da8-bb02-cc6050e3626a",
         "company_name": "Unify",
         "title": "Software Engineer",
@@ -15051,7 +15051,7 @@
         "id": "94d94881-a076-4e38-8623-b0c0be8dea9f",
         "date_posted": 1753829826,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "degrees": []
     },
     {
@@ -16802,7 +16802,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1754642261,
+        "date_updated": 1757384775,
         "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Maxar/job/Herndon-VA/Forward-Deployed-Software-Engineer-I_R22647-1",
         "company_name": "Maxar",
         "title": "Forward Deployed Software Engineer I",
@@ -16815,7 +16815,8 @@
         "id": "07e3733c-260c-4dc2-8ea5-de5cdcaba9cc",
         "date_posted": 1754642261,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754642341,
@@ -20626,7 +20627,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755680196,
+        "date_updated": 1757384620,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -20643,7 +20644,7 @@
         "id": "3585fc63-d976-444f-8ea5-5469be8650b8",
         "date_posted": 1755680196,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755903340,
@@ -20741,7 +20742,7 @@
     {
         "date_updated": 1756120142,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
         "company_name": "Cisco",
@@ -24713,7 +24714,7 @@
         "company_name": "Cox",
         "id": "38a259d5-f441-49c5-b9dd-4dc53890afba",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757038355,
         "date_posted": 1757038355,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566492",
@@ -24794,7 +24795,7 @@
         "company_name": "CACI",
         "id": "04aa6768-9420-4e85-b3da-8bc7941f61c8",
         "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757041766,
         "date_posted": 1757041766,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797",
@@ -24926,7 +24927,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757081227,
+        "date_updated": 1757384911,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -24941,7 +24942,7 @@
         "id": "f1309916-9513-4209-a282-9bd27dcf2245",
         "date_posted": 1757081227,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757101807,
@@ -25071,7 +25072,7 @@
         "company_name": "EBSCO",
         "id": "67745353-ef49-4446-9e3d-36d4010722f9",
         "title": "Software Dev Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757116763,
         "date_posted": 1757116763,
         "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
@@ -25538,7 +25539,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757314521,
+        "date_updated": 1757384342,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -25553,7 +25554,7 @@
         "id": "1edbb68c-cff8-4b93-ba93-9e72cca3a9a8",
         "date_posted": 1757314521,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757314647,
@@ -25709,6 +25710,131 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scale AI",
+        "id": "ba5a73f8-843e-45cd-a294-03a095ff6701",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1757382023,
+        "date_posted": 1757382023,
+        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4605996005",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Scale-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "7f518353-ff97-40d7-abab-3000f533d8b6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757383760,
+        "date_posted": 1757383760,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "069c39cd-3586-42b5-b14d-25ffcbd5e35b",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1757383760,
+        "date_posted": 1757383760,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/e3c1fe10-9514-4fe4-89db-48d0c5cb4be3/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1757385678,
+        "date_posted": 1757385678,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Adobe",
+        "id": "b3ef6e74-a8c5-4541-af5e-dc69ff1d6a1a",
+        "title": "2026 University Graduate - Application Security Engineer",
+        "active": true,
+        "date_updated": 1757385677,
+        "date_posted": 1757385677,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Application-Security-Engineer_R159164",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "244f393c-0175-416b-9508-c052f8313587",
+        "title": "2026 University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1757397047,
+        "date_posted": 1757397047,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157571",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
