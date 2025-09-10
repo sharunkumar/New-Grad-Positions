@@ -10126,7 +10126,7 @@
         "company_name": "Amentum",
         "id": "4573ee25-77c1-49ef-99cb-80acb1f18ebe",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1747325721,
         "date_posted": 1747325721,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0139275",
@@ -15408,7 +15408,7 @@
         "company_name": "The Travelers Companies",
         "id": "7fea6865-d7a3-40be-bc65-7c35d9e97f6e",
         "title": "Software Engineer I - Aws - React - GenAI",
-        "active": true,
+        "active": false,
         "date_updated": 1754031936,
         "date_posted": 1754031936,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--AWS--React--GenAI-_R-44034",
@@ -26278,7 +26278,7 @@
         "id": "1f0477f2-1188-4942-a4c0-c3ff7df3d67f",
         "title": "Software Engineer \u2013 New College Grad",
         "active": true,
-        "date_updated": 1757468210,
+        "date_updated": 1757527878,
         "date_posted": 1757434736,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080905285",
         "locations": [
@@ -26286,11 +26286,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -26299,7 +26296,7 @@
         "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
         "title": "Software Engineer \u2013 New College Grad",
         "active": true,
-        "date_updated": 1757493166,
+        "date_updated": 1757527861,
         "date_posted": 1757493166,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080904205",
         "locations": [
@@ -26307,11 +26304,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -26393,5 +26387,98 @@
         "date_posted": 1757508459,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1757508571,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/thorlabs/j/E79FA34ED4/",
+        "company_name": "Thorlabs",
+        "title": "Software Engineer I",
+        "locations": [
+            "Jessup, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "197112b1-8c11-4228-8d67-fe846e53cacb",
+        "date_posted": 1757508571,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757508637,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/37194866-4a9c-4215-8eac-a99c6e8ea74a",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cb70dbb2-27c5-4bb2-b9ed-3aa42e7a8e89",
+        "date_posted": 1757508637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757508762,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-credence-llc.icims.com/jobs/9541/entry-level-software-engineer-%28computer-engineering-graduate%29/job",
+        "company_name": "Credence",
+        "title": "Entry-Level Software Engineer",
+        "locations": [
+            "McLean, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "4e5b1236-1ed0-4b1c-b6e9-86b38a05424b",
+        "date_posted": 1757508762,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757508886,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale/Associate-Software-Engineer---Sunnyvale--CA_R37010",
+        "company_name": "Costar",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "33a51ca5-bbac-4f38-ac04-f5819ab54b26",
+        "date_posted": 1757508886,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "2d3a9ad7-4d3e-4984-b030-688e147dee14",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757527251,
+        "date_posted": 1757527251,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080906828",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
