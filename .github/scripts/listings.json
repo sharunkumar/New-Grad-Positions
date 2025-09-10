@@ -12676,7 +12676,7 @@
         "company_name": "Cadence Design Systems",
         "id": "07d65df4-4bfc-4e78-87ec-484a0df20a8f",
         "title": "C++ Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1750895037,
         "date_posted": 1750895037,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50666",
@@ -24702,7 +24702,7 @@
         "company_name": "Chewy",
         "id": "077c0a28-ea27-4f9b-a4ae-426c784bce0a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757037954,
         "date_posted": 1757037954,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7195601",
@@ -26229,6 +26229,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Cable One",
+        "id": "fd690af3-6f2c-4d4e-9bf7-72aa86204d61",
+        "title": "Cyber Security Engineer I",
+        "active": true,
+        "date_updated": 1757471425,
+        "date_posted": 1757471425,
+        "url": "https://cableone.wd1.myworkdayjobs.com/Cable_One_External_Careers/job/Phoenix-AZ/Cyber-Security-Engineer-I_R-105943-1",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Cable-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "972b83e3-656a-4d40-834f-46c6e1c77d65",
+        "title": "Software Engineer I - Aws",
+        "active": true,
+        "date_updated": 1757464265,
+        "date_posted": 1757464265,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "1f0477f2-1188-4942-a4c0-c3ff7df3d67f",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757468210,
+        "date_posted": 1757434736,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080905285",
+        "locations": [
+            "Highlands Ranch, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
