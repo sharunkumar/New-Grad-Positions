@@ -24622,7 +24622,7 @@
         "company_name": "qode.world",
         "id": "64ec080a-e86a-454e-8ec9-8879164fae86",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1757035197,
         "date_posted": 1757035197,
         "url": "https://apply.workable.com/qodeworld/j/5E96914ADB/apply",
@@ -26291,5 +26291,107 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
+        "title": "Software Engineer \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1757493166,
+        "date_posted": 1757493166,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000080904205",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OffDeal",
+        "id": "ec2ac102-621a-441e-a40d-c2e78d929bcc",
+        "title": "Founding Full Stack Engineer",
+        "active": true,
+        "date_updated": 1757493150,
+        "date_posted": 1757022331,
+        "url": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/OffDeal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1757507941,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1",
+        "company_name": "Jonas",
+        "title": "Full Stack Junior Developer",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2f116c38-6e86-4858-b224-a863b40a7ac1",
+        "date_posted": 1757507941,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757508286,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035",
+        "company_name": "NVIDIA",
+        "title": "Developer Technology Engineer, AI",
+        "locations": [
+            "Santa Clara, CA",
+            "Austin, TX",
+            "Durham, NC",
+            "Redmond, WA",
+            "Salt Lake City, UT",
+            "Boulder, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "a13aaf41-ca14-4ecd-ac84-db0c1dada41a",
+        "date_posted": 1757508286,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1757508459,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/Lloyds-Banking-Group---Manchester/Entry-Level-Software-Application-Engineer_REQ567515",
+        "company_name": "Unisys",
+        "title": "Entry-Level Software Application Engineer",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e2f789ff-3aec-4923-8c11-2427ee98139f",
+        "date_posted": 1757508459,
+        "company_url": "",
+        "is_visible": true
     }
 ]
