@@ -10888,7 +10888,7 @@
         "company_name": "Uber",
         "id": "bb21a4af-4fd6-46a1-b521-436522a27f34",
         "title": "Software Engineer I - Container Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1748484487,
         "date_posted": 1748484487,
         "url": "https://www.uber.com/global/en/careers/list/144046/",
@@ -15267,7 +15267,7 @@
         "company_name": "Uber",
         "id": "f555971a-35b5-4db5-a78a-8ef74219acc1",
         "title": "Software Engineer I - Platforms",
-        "active": false,
+        "active": true,
         "date_updated": 1753919699,
         "date_posted": 1753919699,
         "url": "https://www.uber.com/global/en/careers/list/145880/",
@@ -24784,7 +24784,7 @@
         "company_name": "Adobe",
         "id": "32a96099-ef28-4059-8655-a22c8e1e4733",
         "title": "2026 University Graduate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757044606,
         "date_posted": 1757044606,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Software-Engineer_R158633",
@@ -26609,7 +26609,7 @@
         "company_name": "Iridium Communications",
         "id": "9f81e03e-67c6-4385-903a-18c1bcfaf9ea",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757545863,
         "date_posted": 1757542246,
         "url": "https://careers-iridium.icims.com/jobs/4644/job?mobile=true&needsRedirect=false",
@@ -26692,7 +26692,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -26764,6 +26764,130 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "5d784d85-0c4c-465d-bc90-b69c2af6f4d3",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1757556229,
+        "date_posted": 1757556229,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-for-Naval-Research-Technology_R0145740",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1757558310,
+        "date_posted": 1757558310,
+        "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motive",
+        "id": "d293d84b-b5d5-4187-8d88-4dd5c4a27dd1",
+        "title": "Backend Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1757558070,
+        "date_posted": 1757558070,
+        "url": "https://job-boards.greenhouse.io/gomotive/jobs/8134258002",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Motive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "81812d77-1856-4a81-aedb-e98ee2007f27",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1757566924,
+        "date_posted": 1757566924,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0145734",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starpath Robotics",
+        "id": "2f29e648-16e9-4a69-81b2-6ad5b25c4000",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1757568610,
+        "date_posted": 1757568610,
+        "url": "https://jobs.ashbyhq.com/starpath.space/e27021db-0427-4d4a-a2a1-5f8f349ad4d8/application",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Starpath-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "29a35bfe-e4e3-4e8b-99cf-38bfbe95a5e1",
+        "title": "2026 University Graduate - Software Engineer",
+        "active": true,
+        "date_updated": 1757570607,
+        "date_posted": 1757570607,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/XMLNAME-2026-University-Graduate---Software-Engineer_R159163",
+        "locations": [
+            "San Jose, CA",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
