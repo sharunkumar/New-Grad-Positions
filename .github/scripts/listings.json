@@ -1,26 +1,10 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Western Digital",
-        "id": "a01d45cb-bb9a-41a7-8d48-4472ee0e9ce9",
-        "title": "New College Grad Engineer - Software Engineer - Firmware Engineering",
-        "active": false,
-        "date_updated": 1726505835,
-        "date_posted": 1726505835,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000014221462",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "WeRide",
         "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
         "title": "New Grads 2025 - General Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1726513959,
         "date_posted": 1726513959,
         "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
@@ -22023,7 +22007,7 @@
         "company_name": "Verisk",
         "id": "77d06abd-87ab-4f69-b03c-11fca5383d54",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756206884,
         "date_posted": 1751383894,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1749",
@@ -22186,7 +22170,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "a921a0e1-c844-437c-9342-4540980ae604",
         "title": "Software Developer \u2013 New Grad - Market Data - Libraries & Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1756248226,
         "date_posted": 1756248226,
         "url": "https://careers-sig.icims.com/jobs/9261/job",
@@ -26650,7 +26634,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -26904,6 +26888,131 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": false,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dayton Freight Lines",
+        "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
+        "title": "Entry Level Software Developer",
+        "active": true,
+        "date_updated": 1757611606,
+        "date_posted": 1757611606,
+        "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Dayton-Freight-Lines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "WeRide",
+        "id": "81ce0706-95f4-4b32-ab45-cd532285dd5d",
+        "title": "New Grads 2025 - General Software Engineer",
+        "active": true,
+        "date_updated": 1756460280,
+        "date_posted": 1738196432,
+        "url": "https://jobs.lever.co/weride/c6199fb6-cd1e-4f11-b51c-24702ddfa63d/apply",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/WeRide",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
