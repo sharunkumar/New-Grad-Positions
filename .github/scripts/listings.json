@@ -19075,7 +19075,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -20561,7 +20561,7 @@
         "company_name": "Sierra Nevada Coporation",
         "id": "4e1266dc-3177-4fd1-a869-64416d586c5b",
         "title": "Cybersecurity Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755745221,
         "date_posted": 1755745221,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Sparks-NV/Cybersecurity-Engineer-I_R0027494",
@@ -27610,7 +27610,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758011928,
+        "date_updated": 1758043554,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -27626,10 +27626,10 @@
         "id": "a038e9b8-981b-4cd4-aedc-455697888475",
         "date_posted": 1758011928,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1758012042,
+        "date_updated": 1758043505,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -27644,7 +27644,7 @@
         "id": "4fd5ead5-877f-4ae2-9fa2-b300148b7f0a",
         "date_posted": 1758012042,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758012133,
@@ -27828,5 +27828,25 @@
         "date_posted": 1758014662,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Applied Materials",
+        "id": "83d8867d-65d8-4150-b9a7-deea6fc24578",
+        "title": "Associate Product Manager New College Grad - Bachelors",
+        "active": true,
+        "date_updated": 1758030167,
+        "date_posted": 1755963370,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/AustinTX/Associate-Product-Manager--Austin--TX---NCG-_R2516315",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
