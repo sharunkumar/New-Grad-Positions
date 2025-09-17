@@ -15226,7 +15226,7 @@
         "company_name": "Sentry",
         "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1754274376,
         "date_posted": 1754075670,
         "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
@@ -26886,7 +26886,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757668082,
+        "date_updated": 1758126557,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -26901,7 +26901,7 @@
         "id": "a48c0369-b4c6-428f-8b24-11678660c772",
         "date_posted": 1757668082,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757668156,
@@ -27677,7 +27677,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758013545,
+        "date_updated": 1758131507,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -27693,7 +27693,7 @@
         "id": "1ea8396e-6674-42b5-9ac9-6d517d41e0e3",
         "date_posted": 1758013545,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758014085,
@@ -28148,6 +28148,44 @@
         "source": "AlmondCroffle",
         "id": "643c90a8-2e0c-42d5-9bf6-d0828d9d773b",
         "date_posted": 1758103955,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GM financial",
+        "id": "7aced101-ae2c-4a84-bc43-e6596dde3bda",
+        "title": "Software Development Engineer I",
+        "active": true,
+        "date_updated": 1758117402,
+        "date_posted": 1756160310,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/557",
+        "locations": [
+            "Arlington, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758131629,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8",
+        "company_name": "Watershed",
+        "title": "Software engineer, new grad",
+        "locations": [
+            "San Francisco"
+        ],
+        "category": "Software Engineering",
+        "source": "alapre",
+        "id": "77d44535-7657-4a26-bad8-bb55dbfc5739",
+        "date_posted": 1758131629,
         "company_url": "",
         "is_visible": true
     }
