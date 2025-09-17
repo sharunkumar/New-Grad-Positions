@@ -9851,7 +9851,7 @@
         "company_name": "General Dynamics",
         "id": "79fd1da3-151a-4655-8ce5-be37e1eae0fd",
         "title": "Junior Front End Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1747337779,
         "date_posted": 1747337779,
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703",
@@ -14631,7 +14631,7 @@
         "company_name": "Twitch",
         "id": "04aa6721-47f4-4bf9-aca9-4ad464ca844a",
         "title": "Software Development Engineer I - Frontend & Mobile",
-        "active": true,
+        "active": false,
         "date_updated": 1755270292,
         "date_posted": 1753744354,
         "url": "https://job-boards.greenhouse.io/twitch/jobs/8093301002",
@@ -14939,7 +14939,7 @@
         "company_name": "Chewy",
         "id": "356831e8-e08e-4050-ad42-7760d1e33d27",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753970216,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7094171",
@@ -14974,7 +14974,7 @@
         "company_name": "Chewy",
         "id": "befdd2ad-c6df-458e-b0e0-ee8c8e1137fa",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1753970281,
         "date_posted": 1753919144,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7096822",
@@ -16363,7 +16363,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -20095,7 +20095,7 @@
         ]
     },
     {
-        "date_updated": 1755679391,
+        "date_updated": 1758068561,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -20110,7 +20110,7 @@
         "id": "965f400a-651f-4dac-afd9-b62bb7db814d",
         "date_posted": 1755679391,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1755679462,
@@ -22213,12 +22213,10 @@
         ]
     },
     {
-        "date_updated": 1756367276,
+        "date_updated": 1758068074,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--TensorRT-Specialized-Platforms---New-College-Grad-2025_JR2002870",
         "company_name": "NVIDIA",
         "title": "Software Engineer, TensorRT Specialized Platforms",
@@ -22230,7 +22228,7 @@
         "id": "33bd81ef-6d7f-45d6-af47-ac43c16d36fb",
         "date_posted": 1756367276,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756367372,
@@ -22415,7 +22413,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756413879,
+        "date_updated": 1758068030,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -22432,7 +22430,7 @@
         "id": "a2151f28-9ee1-4eec-a92a-3adacf05cd51",
         "date_posted": 1756413879,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756731805,
@@ -22458,7 +22456,7 @@
         "company_name": "North Atlantic Industries",
         "id": "b83652a5-bc8f-42a1-8a07-4baf9aa9c553",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756419936,
         "date_posted": 1756419936,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535138",
@@ -23235,7 +23233,7 @@
         "company_name": "The Travelers Companies",
         "id": "f692cc56-d79e-4b40-8851-130e0670610c",
         "title": "Software Engineer I - Salesforce",
-        "active": false,
+        "active": true,
         "date_updated": 1756903143,
         "date_posted": 1756863999,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Software-Engineer-I--Salesforce-_R-46480",
@@ -24305,7 +24303,7 @@
         "company_name": "CACI",
         "id": "04aa6768-9420-4e85-b3da-8bc7941f61c8",
         "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757041766,
         "date_posted": 1757041766,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797",
@@ -25799,7 +25797,7 @@
         "company_name": "The Travelers Companies",
         "id": "972b83e3-656a-4d40-834f-46c6e1c77d65",
         "title": "Software Engineer I - Aws",
-        "active": true,
+        "active": false,
         "date_updated": 1757464265,
         "date_posted": 1757464265,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I---AWS_R-46180",
@@ -25888,12 +25886,10 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757508286,
+        "date_updated": 1758068271,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Engineer--AI---New-College-Graduate-2025_JR2003035",
         "company_name": "NVIDIA",
         "title": "Developer Technology Engineer, AI",
@@ -25910,7 +25906,7 @@
         "id": "a13aaf41-ca14-4ecd-ac84-db0c1dada41a",
         "date_posted": 1757508286,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757630566,
@@ -26049,7 +26045,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": true,
+        "active": false,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -26191,7 +26187,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -27647,12 +27643,10 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758012133,
+        "date_updated": 1758068360,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Quantitative-Analyst-I_R61935",
         "company_name": "Fifth Third",
         "title": "Quantitative Analyst I",
@@ -27664,7 +27658,7 @@
         "id": "88a836b0-963f-482f-b02b-79ee4829fa69",
         "date_posted": 1758012133,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758012249,
@@ -27843,6 +27837,187 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
+        "title": "Junior Level Software Engineering - Associate",
+        "active": true,
+        "date_updated": 1758054101,
+        "date_posted": 1758054101,
+        "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "King George County, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "a1c7ebb8-f55a-4d0c-8293-ed794342d136",
+        "title": "Software Engineer I",
+        "active": false,
+        "date_updated": 1758053613,
+        "date_posted": 1758053613,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7253456",
+        "locations": [
+            "Boston, MA",
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "736a8ece-1503-44e7-adc1-9f84cbe6a904",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1758058362,
+        "date_posted": 1758058362,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R57795",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "RTX",
+        "id": "43cdc060-d0df-432e-81b9-8643c49cc399",
+        "title": "2026 Raytheon Systems Security Engineer I",
+        "active": true,
+        "date_updated": 1758063237,
+        "date_posted": 1758063237,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "O'Reilly Auto Parts",
+        "id": "77590a74-c1c6-4ddf-af2d-7a286d9cacab",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758063154,
+        "date_posted": 1758063154,
+        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Remote-Colorado/Software-Engineer-I_R144461",
+        "locations": [
+            "Colorado"
+        ],
+        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "f9650e49-9a88-4962-be4b-fcdae6b32a04",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758064668,
+        "date_posted": 1758064668,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT205-1128-W-2400-South-Salt-Lake-C-1128-West-2400-South-AST---Salt-Lake-City-Salt-Lake-City-UT-84119-USA/Software-Engineer-I--Onsite-_01794082",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "778d2009-634c-428a-a07c-3d267d1fb5f5",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758064653,
+        "date_posted": 1758064653,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA620-AST160N-Riverview-Anaheim-Hill-160-North-Riverview-Drive-Suite-300-Anaheim-CA-92808-USA/Software-Engineer-I--Onsite-_01793337",
+        "locations": [
+            "Anaheim, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "39bf41fb-0f12-4c08-962d-2ff5600ec2c3",
+        "title": "Software Engineer I - Raytheon",
+        "active": true,
+        "date_updated": 1758064670,
+        "date_posted": 1758064670,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793655",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "North Atlantic Industries",
+        "id": "62c8d027-1bfb-4673-be23-d11d806a0ec6",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758072616,
+        "date_posted": 1758072616,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3580950",
+        "locations": [
+            "Long Island, New York"
+        ],
+        "company_url": "https://simplify.jobs/c/North-Atlantic-Industries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
