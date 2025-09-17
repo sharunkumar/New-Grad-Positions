@@ -14439,7 +14439,7 @@
         "company_name": "Amentum",
         "id": "1b703188-0a92-41a2-a4ae-fd1777366cf6",
         "title": "Entry Level Software Engineer/Software Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1753478813,
         "date_posted": 1753478813,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0142800",
@@ -16363,7 +16363,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -20891,7 +20891,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "ce72f687-0643-43a5-9527-4d892c6faea2",
         "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755850660,
         "date_posted": 1755850660,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192929-1",
@@ -26004,7 +26004,7 @@
         "company_name": "Visa",
         "id": "2d3a9ad7-4d3e-4984-b030-688e147dee14",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757527251,
         "date_posted": 1757527251,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080906828",
@@ -26045,7 +26045,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": false,
+        "active": true,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -26187,7 +26187,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -26770,7 +26770,7 @@
         "company_name": "RTX",
         "id": "8d176532-5dae-4784-8732-ebd40b79cd56",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757632708,
         "date_posted": 1757632708,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I--Onsite-_01792630",
@@ -27132,7 +27132,7 @@
         "id": "16f0ad67-8a00-460b-886e-d1fea299b724",
         "title": "Software Engineer I",
         "active": false,
-        "date_updated": 1757836746,
+        "date_updated": 1758102898,
         "date_posted": 1757836746,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Software-Engineer-I--Onsite-_01781205",
         "locations": [
@@ -27140,10 +27140,8 @@
         ],
         "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27850,7 +27848,7 @@
         "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
         "title": "Junior Level Software Engineering - Associate",
         "active": true,
-        "date_updated": 1758054101,
+        "date_updated": 1758102973,
         "date_posted": 1758054101,
         "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
         "locations": [
@@ -27858,10 +27856,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -28023,5 +28019,136 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1758103402,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/point72/jobs/8169967002",
+        "company_name": "Point72",
+        "title": "Quantitative Portfolio Analyst",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "58641e2a-5aea-4dca-af05-0c243aad7d1f",
+        "date_posted": 1758103402,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103534,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://gartner.wd5.myworkdayjobs.com/en-US/ext/job/Irving-TX/Data-Analyst---2026-graduates_103573",
+        "company_name": "Gartner",
+        "title": "Data Analyst",
+        "locations": [
+            "Irving, TX",
+            "Stamford, CT"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "1c8244b6-b01d-4f2c-964c-a3a9dfcc83b3",
+        "date_posted": 1758103534,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103649,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.duolingo.com/jobs/8151163002",
+        "company_name": "Duolingo",
+        "title": "AI Research Engineer",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "123f9e5d-ff4b-453d-a05d-187f44816b60",
+        "date_posted": 1758103649,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103683,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://careers.duolingo.com/jobs/8169815002",
+        "company_name": "Duolingo",
+        "title": "AI Research Engineer",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d0a205f6-1e44-4eaf-b273-595808fd379c",
+        "date_posted": 1758103683,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103748,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/verkada/jobs/4872797007",
+        "company_name": "Verkada",
+        "title": "Security Software Engineer",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "221a1cf3-a2dd-4fce-b8a4-ffa97d213698",
+        "date_posted": 1758103748,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103856,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Gatekeeper-Associate-Software-Engineer-Software-Engineer----15039-_R10207436",
+        "company_name": "Northrop Grumman",
+        "title": "Sentinel Gatekeeper Associate Software Engineer/Software Engineer",
+        "locations": [
+            "Roy, UT"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0009e225-4e0a-4d85-8633-d6a70c1b84cc",
+        "date_posted": 1758103856,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758103955,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
+        "company_name": "Jerry",
+        "title": "Software Engineer I",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "643c90a8-2e0c-42d5-9bf6-d0828d9d773b",
+        "date_posted": 1758103955,
+        "company_url": "",
+        "is_visible": true
     }
 ]
