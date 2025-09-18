@@ -12159,7 +12159,7 @@
         "company_name": "Sentry",
         "id": "a15680e4-5ffc-4ada-a0dd-820582ff0967",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755269781,
         "date_posted": 1750675326,
         "url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d/application",
@@ -15243,7 +15243,7 @@
         "company_name": "Sentry",
         "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755270405,
         "date_posted": 1754075667,
         "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
@@ -24600,7 +24600,7 @@
         "company_name": "CACI",
         "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
         "title": "Entry Level Java and Python Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757310408,
         "date_posted": 1757118218,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
@@ -25757,7 +25757,7 @@
         "company_name": "RTX",
         "id": "89141f56-0558-428b-970f-de05949c8f2d",
         "title": "Cybersecurity Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757467779,
         "date_posted": 1757467779,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Cybersecurity-Engineer-I--Onsite-_01791225",
@@ -25835,7 +25835,7 @@
         "company_name": "Visa",
         "id": "a7d3a768-07d8-4a3f-86ee-8961a812b194",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757527861,
         "date_posted": 1757493166,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080904205",
@@ -25879,8 +25879,8 @@
             "Remote in Canada"
         ],
         "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2f116c38-6e86-4858-b224-a863b40a7ac1",
+        "source": "Simplify",
+        "id": "90e4568c-4bfb-4dd2-82a6-bc5e5edfa97a",
         "date_posted": 1757507941,
         "company_url": "",
         "is_visible": true
@@ -26045,7 +26045,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": true,
+        "active": false,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -26105,7 +26105,7 @@
         "company_name": "Visa",
         "id": "bd3e5c92-982c-40f7-8a22-24f26fcd1034",
         "title": "Software Engineer \u2013 New College Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757541848,
         "date_posted": 1757541848,
         "url": "https://jobs.smartrecruiters.com/Visa/744000080905065",
@@ -26187,7 +26187,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -28188,5 +28188,145 @@
         "date_posted": 1758131629,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Aristocrat Leisure",
+        "id": "ed83edd9-2b43-4432-8d8b-337325577626",
+        "title": "Junior Product Manager",
+        "active": true,
+        "date_updated": 1758135009,
+        "date_posted": 1758135009,
+        "url": "https://aristocrat.wd3.myworkdayjobs.com/aristocratexternalcareerssite/job/Las-Vegas-NV-US/Junior-Product-Manager_R0019672-1",
+        "locations": [
+            "Las Vegas, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Aristocrat-Leisure",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ced87084-4bc5-42fe-a43a-f59321283341",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758144036,
+        "date_posted": 1758144036,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "b9838953-7da7-4c81-9087-732f492e4215",
+        "title": "Entry Level - C Software Developer",
+        "active": true,
+        "date_updated": 1758155936,
+        "date_posted": 1758155936,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "5264e299-8159-4685-bfe3-842530de17bd",
+        "title": "Entry Level - C Software Developer",
+        "active": true,
+        "date_updated": 1758155938,
+        "date_posted": 1758155938,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "05074df3-2751-400b-a241-21a028a42af5",
+        "title": "Entry Level Software Engineer-Developer",
+        "active": true,
+        "date_updated": 1758156971,
+        "date_posted": 1758156971,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Developer_JR2025470637-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nike",
+        "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
+        "title": "Software Engineer I - Innovation",
+        "active": true,
+        "date_updated": 1758158728,
+        "date_posted": 1758158728,
+        "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Nike",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Macy's",
+        "id": "0b2ca3ab-fc25-4984-87f7-33597fbc68b6",
+        "title": "Macy's Tech Early Careers - Software Engineer",
+        "active": true,
+        "date_updated": 1758158106,
+        "date_posted": 1758158106,
+        "url": "https://ebwh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/jobs/job/80534",
+        "locations": [
+            "Johns Creek, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
