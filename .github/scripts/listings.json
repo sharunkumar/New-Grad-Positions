@@ -16363,7 +16363,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -19037,7 +19037,7 @@
         "company_name": "Pinterest",
         "id": "d7feac2c-dad6-41c7-96f9-25652bbadef6",
         "title": "Machine Learning Engineer I - Monetization Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1756120836,
         "date_posted": 1755566145,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7172308",
@@ -28323,6 +28323,86 @@
             "Johns Creek, GA"
         ],
         "company_url": "https://simplify.jobs/c/Macys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Watershed",
+        "id": "a3f9d5e3-404d-4f55-8cb0-002c4308a3a0",
+        "title": "Software engineer \u2013 New grad",
+        "active": true,
+        "date_updated": 1758160388,
+        "date_posted": 1758160388,
+        "url": "https://jobs.ashbyhq.com/Watershed/d83c7850-2211-4cbd-a527-09e25f5d94a8/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Watershed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "fbbd7a18-8a0a-42d8-a1ea-b89a7a31eebd",
+        "title": "Embedded Cybersecurity Software Engineer I",
+        "active": true,
+        "date_updated": 1758162132,
+        "date_posted": 1758162132,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "1436a632-a63d-4df4-9f23-3621b221f468",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758163006,
+        "date_posted": 1758163006,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01792373",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alumni Ventures",
+        "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1758162751,
+        "date_posted": 1758162751,
+        "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
+        "locations": [
+            "Andover, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Alumni-Ventures",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
