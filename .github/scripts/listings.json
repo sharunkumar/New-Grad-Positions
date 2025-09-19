@@ -16235,7 +16235,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -19854,7 +19854,7 @@
         "company_name": "Old Mission",
         "id": "896dbe55-ef9b-431b-9a54-5c8eb5ad8c43",
         "title": "Junior Quantitative Researcher - Ph.D",
-        "active": true,
+        "active": false,
         "date_updated": 1751101380,
         "date_posted": 1736800282,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6309652003",
@@ -22069,7 +22069,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "be034e03-9992-454f-95f0-a2e5f03f0880",
         "title": "AI and Machine Learning Engineer I Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1756366891,
         "date_posted": 1756366891,
         "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/AI-and-Machine-Learning-Engineer-I-Graduate_1192917-1",
@@ -26059,7 +26059,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -26820,7 +26820,7 @@
         "company_name": "Expedia Group",
         "id": "b4b13a9d-d220-4bc3-9994-434aa0a31122",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757695544,
         "date_posted": 1757695544,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97727",
@@ -26841,7 +26841,7 @@
         "company_name": "Expedia Group",
         "id": "0414920e-9a7a-46e6-967c-320c1b558953",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757695543,
         "date_posted": 1757695543,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
@@ -27440,7 +27440,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758011746,
+        "date_updated": 1758247317,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -27455,7 +27455,7 @@
         "id": "67ed0c5c-4787-4036-a65c-d152925af773",
         "date_posted": 1758011746,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758011842,
@@ -27858,7 +27858,7 @@
         "company_name": "RTX",
         "id": "39bf41fb-0f12-4c08-962d-2ff5600ec2c3",
         "title": "Software Engineer I - Raytheon",
-        "active": true,
+        "active": false,
         "date_updated": 1758064670,
         "date_posted": 1758064670,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793655",
@@ -27911,7 +27911,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758103534,
+        "date_updated": 1758246982,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -27927,7 +27927,7 @@
         "id": "1c8244b6-b01d-4f2c-964c-a3a9dfcc83b3",
         "date_posted": 1758103534,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758103649,
@@ -28425,7 +28425,7 @@
         "company_name": "The Boeing Company",
         "id": "bb0b2050-ef39-45b9-bd01-a2a690787c67",
         "title": "Entry Level Software Engineer - Flight Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1758240979,
         "date_posted": 1758240979,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011",
@@ -28445,7 +28445,7 @@
         "company_name": "Centene",
         "id": "c92e36b1-7541-48bb-bef8-f4c05a3b6695",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758240766,
         "date_posted": 1758240766,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Engineer-I_1600164",
