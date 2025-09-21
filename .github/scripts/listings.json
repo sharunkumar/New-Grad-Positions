@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Amplitude",
-        "id": "36e6b8c4-c134-4f08-a992-31498afc2999",
-        "title": "Software Engineer I - Growth",
-        "active": false,
-        "date_updated": 1727320014,
-        "date_posted": 1727320014,
-        "url": "https://job-boards.greenhouse.io/amplitude/jobs/7657831002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Amplitude",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Capital One",
         "id": "0708641e-cbe9-4912-b240-d5020e94ad77",
         "title": "Associate \u2013 New Grad - Software Engineer - OR049160",
@@ -1016,22 +1000,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sprocket Security",
-        "id": "b0ecff71-3064-421c-9ee3-b663c1cc5f60",
-        "title": "Software Engineer - Early Careers",
-        "active": false,
-        "date_updated": 1727320504,
-        "date_posted": 1727320504,
-        "url": "https://www.sprocketsecurity.com/company/careers/apply?gh_jid=4133296008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/38830c5c-616a-4e08-be48-d4ce6c915024",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -25803,7 +25771,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": true,
+        "active": false,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -25945,7 +25913,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -25987,7 +25955,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -28476,7 +28444,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
