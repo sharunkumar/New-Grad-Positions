@@ -1,86 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Wyetech",
-        "id": "80ea5956-2483-4c16-a6eb-506add359c2f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1727378200,
-        "date_posted": 1727378200,
-        "url": "https://jobs.lever.co/wyetechllc/f70a3c22-5c54-4e01-8128-421faf496fd6/apply",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sumo Logic",
-        "id": "41d041f6-06a8-4aa9-9697-845e9cbace2c",
-        "title": "Software Engineer I - Mle",
-        "active": false,
-        "date_updated": 1727378911,
-        "date_posted": 1727378911,
-        "url": "https://job-boards.greenhouse.io/sumologic/jobs/6267941",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sumo-Logic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wyetech",
-        "id": "0feb0097-f1f8-458e-b5fb-088f0ae06031",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1727378199,
-        "date_posted": 1727378199,
-        "url": "https://jobs.lever.co/wyetechllc/5278ff9a-4625-44b0-858d-67cb2c1c3fdc/apply",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Chime",
-        "id": "ac3538f2-3069-4692-a897-7e83ab9935ef",
-        "title": "Software Engineer \u2013 New Grad - Pay Anyone",
-        "active": false,
-        "date_updated": 1727379050,
-        "date_posted": 1727379050,
-        "url": "https://boards.greenhouse.io/chime/jobs/7515160002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Chime",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Snap Inc.",
-        "id": "7737c33d-9b7b-49b1-94ed-7815816978c5",
-        "title": "Software Engineer \u2013 New Grad Engineer - Full Stack",
-        "active": false,
-        "date_updated": 1727392387,
-        "date_posted": 1727392387,
-        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Seattle-Washington/Software-Engineer--Full-Stack--New-Grad-Engineer_R0037143-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Snap",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Booz Allen",
         "id": "4c8c9e42-6a2b-4d1e-b99a-8c8c916b25cf",
         "title": "Software Developer - Junior",
@@ -25939,7 +25859,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -28428,7 +28348,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
