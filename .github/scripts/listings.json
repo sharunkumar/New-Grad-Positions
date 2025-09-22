@@ -25675,7 +25675,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": false,
+        "active": true,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -25817,7 +25817,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -25859,7 +25859,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -27985,7 +27985,7 @@
         "company_name": "RTX",
         "id": "fbbd7a18-8a0a-42d8-a1ea-b89a7a31eebd",
         "title": "Embedded Cybersecurity Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758162132,
         "date_posted": 1758162132,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01792039",
@@ -28344,7 +28344,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -29259,5 +29259,25 @@
         "date_posted": 1758522723,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "a41739a3-848f-4a02-8eb6-7ef9dcf6dec2",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1758524469,
+        "date_posted": 1758524469,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-I--Onsite-_01790428",
+        "locations": [
+            "Annapolis, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
