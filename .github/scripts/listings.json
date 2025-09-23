@@ -15993,7 +15993,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -18226,7 +18226,7 @@
         "company_name": "Artefact",
         "id": "c6af06d4-a624-41c0-8854-564d8c4dde4f",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755297762,
         "date_posted": 1755297762,
         "url": "https://job-boards.greenhouse.io/artefact/jobs/8119158002",
@@ -25020,7 +25020,7 @@
         "company_name": "TD Securities",
         "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
         "title": "Machine Learning Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757358863,
         "date_posted": 1757358863,
         "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
@@ -25675,7 +25675,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "441205ce-38a4-40c1-ac16-8feaeea2875c",
         "title": "Software Engineer Entry Level - Java / C++",
-        "active": true,
+        "active": false,
         "date_updated": 1757536566,
         "date_posted": 1757536566,
         "url": "https://careers-gdms.icims.com/jobs/67488/job?mobile=true&needsRedirect=false",
@@ -25817,7 +25817,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -27887,7 +27887,7 @@
         "company_name": "mthree",
         "id": "5264e299-8159-4685-bfe3-842530de17bd",
         "title": "Entry Level - C Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1758155938,
         "date_posted": 1758155938,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006",
@@ -28325,7 +28325,7 @@
         "company_name": "Verkada",
         "id": "83fbef63-5130-4b6e-9d70-c158753adeed",
         "title": "Embedded Software Engineer \u2013 University Graduate 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1758314484,
         "date_posted": 1757122525,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835669007",
@@ -28346,7 +28346,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -29061,24 +29061,6 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758520201,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://Data Scientist I - (DSAP)",
-        "company_name": "LexisNexis",
-        "title": "Data Analyst I",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "219edbed-2167-4345-8aac-488c0f52ad55",
-        "date_posted": 1758520201,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1758520324,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -29362,5 +29344,251 @@
         "date_posted": 1758585351,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "549eeb08-3ded-452b-8f16-6842e19982f5",
+        "title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
+        "active": true,
+        "date_updated": 1758593154,
+        "date_posted": 1758593154,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "7cb0f175-04df-4342-81e3-028b8cc4a6ed",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1758308559,
+        "date_posted": 1744441208,
+        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4558889006",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NextEra Energy",
+        "id": "ff1f5f3e-5e7a-4dfe-a1fb-9d658755635b",
+        "title": "Software Development Engineer 1 - New Product Engineering",
+        "active": true,
+        "date_updated": 1758594889,
+        "date_posted": 1758594889,
+        "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/NextEra-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "6a49bd3b-c1ce-4223-82d4-c340a6bf1a21",
+        "title": "Software Engineer I - Discovery Recommendations",
+        "active": true,
+        "date_updated": 1758597123,
+        "date_posted": 1758597123,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7260970",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "5de30536-7ed9-4121-977c-734010710c22",
+        "title": "University Graduate - Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1758597605,
+        "date_posted": 1758597605,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160133",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Everlaw",
+        "id": "58296267-4dd6-41e7-b360-5efdbd58798f",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1758597633,
+        "date_posted": 1758597633,
+        "url": "https://job-boards.greenhouse.io/everlaw/jobs/4597021006",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Everlaw",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Chewy",
+        "id": "94b14ba8-0bd1-4560-84d5-ddf9fff641e3",
+        "title": "Software Engineer 1 - Discovery Recommendations",
+        "active": true,
+        "date_updated": 1758597122,
+        "date_posted": 1758597122,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7187320",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chewy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nextdoor",
+        "id": "e03e0a85-11c0-4948-b546-b88e158be2b5",
+        "title": "Machine Learning Engineer \u2013 New Grad 2026 - Machine Learning - Nextdoor",
+        "active": true,
+        "date_updated": 1758598153,
+        "date_posted": 1758598153,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "3238816d-0dc3-48d5-8beb-e1003676ca4d",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758601184,
+        "date_posted": 1758601184,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/74b74cba-011f-43b9-b432-385df555bc10/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OKX ",
+        "id": "e4b25ebe-59fa-4c3f-bd03-bf20ec4581f8",
+        "title": "Software Engineer \u2013 New Grad - Backend",
+        "active": true,
+        "date_updated": 1758605055,
+        "date_posted": 1758605055,
+        "url": "https://job-boards.greenhouse.io/okx/jobs/7384630003",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/OKX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nextdoor",
+        "id": "2ee93cba-db12-4999-b7b8-bde62d8e9293",
+        "title": "Software Engineer \u2013 New Grad 2026",
+        "active": true,
+        "date_updated": 1758605825,
+        "date_posted": 1758605825,
+        "url": "https://about.nextdoor.com/careers-list/?gh_jid=6978039",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextdoor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f90db536-b338-40b3-90b7-0ed617a3988c",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758605543,
+        "date_posted": 1758605543,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/a25ea926-a8ed-416c-b426-4bfd73de3e38/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
