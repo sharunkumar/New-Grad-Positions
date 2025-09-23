@@ -13083,7 +13083,7 @@
         "company_name": "Citadel",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755284210,
         "date_posted": 1752196371,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -13120,7 +13120,7 @@
         "company_name": "Citadel Securities",
         "id": "79054f04-0e8b-45fb-865d-bc789b4acfe9",
         "title": "Quantitative Research Analyst \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1752196374,
         "date_posted": 1752196374,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -13157,7 +13157,7 @@
         "company_name": "Citadel",
         "id": "1e5ec141-389c-43d9-8e1b-1e99a59ae8cf",
         "title": "Quantitative Research Engineer \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1755284243,
         "date_posted": 1752196364,
         "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
@@ -21148,7 +21148,7 @@
     {
         "date_updated": 1756202896,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835315007",
         "company_name": "Together AI",
@@ -22514,7 +22514,7 @@
         "company_name": "RTX",
         "id": "4425a2a5-881f-4567-b730-3abfc1cccaae",
         "title": "2026 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756768715,
         "date_posted": 1756768715,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA311-Woburn-MA-225-Presidential-225-Presidential-Way-Goddard-Building-27-Woburn-MA-01801-USA/XMLNAME-2026-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01789916",
@@ -24608,7 +24608,7 @@
         "company_name": "Boom Supersonic",
         "id": "f321e2b2-f378-4a33-91f6-00583f014a13",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1757301300,
         "date_posted": 1757301300,
         "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643302004",
@@ -25879,7 +25879,7 @@
         "company_name": "RTX",
         "id": "eac1e4ed-b205-4a48-9313-cf212ad80292",
         "title": "Software Engineer I - C/C++ Linux",
-        "active": true,
+        "active": false,
         "date_updated": 1757553049,
         "date_posted": 1757553049,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01791668",
@@ -26534,7 +26534,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757668156,
+        "date_updated": 1758584670,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -26549,7 +26549,7 @@
         "id": "e9aa375c-d8f2-4256-afc1-a49556ef4fe9",
         "date_posted": 1757668156,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -26871,7 +26871,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757929148,
+        "date_updated": 1758584634,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -26888,7 +26888,7 @@
         "id": "090226dc-3da5-4e4c-aa3a-4cdffae85495",
         "date_posted": 1757929148,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -27104,7 +27104,7 @@
         "company_name": "Cisco",
         "id": "804505e8-45ae-47fb-be62-547f0af246bf",
         "title": "Ensoft \u2013 Early in Career /Graduate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1757981802,
         "date_posted": 1757981802,
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Ensoft-Early-in-Career-Graduate-Software-Engineering-UK/1450555",
@@ -27536,7 +27536,7 @@
         "company_name": "RTX",
         "id": "43cdc060-d0df-432e-81b9-8643c49cc399",
         "title": "2026 Raytheon Systems Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758063237,
         "date_posted": 1758063237,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
@@ -27746,7 +27746,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758103856,
+        "date_updated": 1758584611,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -27761,13 +27761,15 @@
         "id": "0009e225-4e0a-4d85-8633-d6a70c1b84cc",
         "date_posted": 1758103856,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1758103955,
+        "date_updated": 1758584585,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [],
+        "degrees": [
+            "Master's"
+        ],
         "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
         "company_name": "Jerry",
         "title": "Software Engineer I",
@@ -27885,7 +27887,7 @@
         "company_name": "mthree",
         "id": "5264e299-8159-4685-bfe3-842530de17bd",
         "title": "Entry Level - C Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1758155938,
         "date_posted": 1758155938,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602566006",
@@ -28466,7 +28468,7 @@
         "company_name": "WeRide",
         "id": "c60fbddb-59b7-4fe9-96e9-5051db26fc59",
         "title": "New Grads 2026 - General Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758326110,
         "date_posted": 1758326110,
         "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply",
@@ -28548,7 +28550,7 @@
         "company_name": "Jerry",
         "id": "1ccc323b-5d54-4ffc-9303-dedeeb045f4c",
         "title": "Software Engineer 1 - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1758340628,
         "date_posted": 1758340628,
         "url": "https://jobs.ashbyhq.com/jerry.ai/1ff2f3c2-fbf0-4b33-a5d0-f9cde79bae52/application",
@@ -28591,7 +28593,7 @@
         "company_name": "Jerry",
         "id": "ab8f47e0-d4cb-4316-89da-a7386c3b8deb",
         "title": "Software Engineer 1 - Engineering - Core App - Retention - Automation - React - NodeJS - TypeScript - AWS - Python - Docker - CI/CD - Redis - Postgres - DynamoDB - Clickhouse - AI/ML",
-        "active": true,
+        "active": false,
         "date_updated": 1758343111,
         "date_posted": 1758343111,
         "url": "https://jobs.ashbyhq.com/jerry.ai/42f3759f-eaa8-4b31-93ba-f6d206d0df3f/application",
@@ -28983,7 +28985,7 @@
         "company_name": "Netic",
         "id": "f6288fa7-371b-43c4-95a9-b5bf2f92193b",
         "title": "Machine Learning Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758384471,
         "date_posted": 1756678071,
         "url": "https://jobs.ashbyhq.com/netic/f645d611-ae5f-40cc-bfa8-613286060a76/application",
@@ -29279,5 +29281,86 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EvenUp",
+        "id": "56403aeb-9d47-4609-aa35-427e2f7f2e9a",
+        "title": "Early Career Data Scientist/Economist",
+        "active": true,
+        "date_updated": 1756404206,
+        "date_posted": 1756404206,
+        "url": "https://jobs.ashbyhq.com/evenup/4d950939-05ca-4f9c-be90-aca7f25cdfff/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Panasonic Holdings",
+        "id": "e57239b4-e628-4e6c-a96c-ed20adfbeb9a",
+        "title": "Software Engineer 1 - Microservices",
+        "active": true,
+        "date_updated": 1758575240,
+        "date_posted": 1757547893,
+        "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Panasonic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lennar Corporation",
+        "id": "ca8a35db-e6f3-4eed-b520-d279fa43f2d4",
+        "title": "Future Builders Recent College Grad Program - Software Engineering",
+        "active": true,
+        "date_updated": 1758583328,
+        "date_posted": 1757025704,
+        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Software-Engineering_R25_0000003694",
+        "locations": [
+            "Bentonville, AR",
+            "Miami, FL",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758585351,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Graduate-Program_R12714",
+        "company_name": "NorthMark Strategies",
+        "title": "Graduate Engineering Program",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "TimothyNaumov",
+        "id": "ea175e22-2ea9-4d2d-ae8e-fbc57fb7ab91",
+        "date_posted": 1758585351,
+        "company_url": "",
+        "is_visible": true
     }
 ]
