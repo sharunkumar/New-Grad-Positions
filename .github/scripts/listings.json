@@ -18433,7 +18433,7 @@
         "company_name": "Esri",
         "id": "d7950fb8-db44-4a5e-abcd-231daa5f9037",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755294176,
         "date_posted": 1755294176,
         "url": "https://www.esri.com/careers/4829378007?gh_jid=4829378007",
@@ -19041,7 +19041,7 @@
         "company_name": "Western Digital",
         "id": "f35998e0-2113-4d1f-962a-4bced53028e5",
         "title": "New College Grad Software Engineer - Software Engineering Development - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1755309064,
         "date_posted": 1755309064,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000076460273",
@@ -19218,7 +19218,7 @@
         "company_name": "AG Technologies",
         "id": "72276751-0fe5-4dbf-b457-77947ddcddb7",
         "title": "Entry Level software engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755194508,
         "date_posted": 1755194508,
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658568718",
@@ -25186,7 +25186,7 @@
     {
         "date_updated": 1757402522,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643300004",
         "company_name": "Boom",
@@ -25307,7 +25307,7 @@
         "company_name": "SMX",
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757444743,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
@@ -25817,7 +25817,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -26228,7 +26228,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "23c87d4e-610a-4a43-ba32-3f2381c3abfd",
         "title": "New Grad 2026 - Technology - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1757615552,
         "date_posted": 1757615552,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/San-Diego-CA/New-Grad-2026---Technology--Software-Development_R-046207-1",
@@ -26917,7 +26917,7 @@
         "company_name": "Altice USA",
         "id": "db772bb7-f8f1-4514-8bc8-ad2dcabaf6ac",
         "title": "Software Dev Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757977985,
         "date_posted": 1757977985,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326245900/?ats=successfactors",
@@ -27847,7 +27847,7 @@
         "company_name": "RTX",
         "id": "ced87084-4bc5-42fe-a43a-f59321283341",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758144036,
         "date_posted": 1758144036,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA826-200-Holger-WaySan-Jose-200-Holger-Way---San-Jose-CA-95134-USA/Software-Engineer-I--Onsite-_01791041",
@@ -28489,7 +28489,7 @@
         "company_name": "WeRide",
         "id": "59f8db17-8c82-4741-a2d5-802f1b969d2c",
         "title": "New Grads 2026 - Software Engineer - Algorithm",
-        "active": true,
+        "active": false,
         "date_updated": 1758326112,
         "date_posted": 1758326112,
         "url": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply",
@@ -28880,7 +28880,7 @@
         "company_name": "Roblox",
         "id": "cb516fb8-a980-4251-9c89-91f871f258b4",
         "title": "Associate Product Manager - Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1757969510,
         "date_posted": 1756867324,
         "url": "https://careers.roblox.com/jobs/7167343?gh_jid=7167343",
@@ -29028,7 +29028,7 @@
         "company_name": "EverCommerce",
         "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758519444,
         "date_posted": 1758519444,
         "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Ontario/Junior-Software-Engineer_R-105466",
@@ -29585,6 +29585,88 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intact",
+        "id": "556de495-069d-423c-b5fd-a6e1fd9a8996",
+        "title": "New Grad Tech Development Program - Software Development - Cloud",
+        "active": true,
+        "date_updated": 1758614651,
+        "date_posted": 1758614651,
+        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R149021",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SIFT",
+        "id": "33764b21-27c6-4c41-8e4b-7d8283de6aed",
+        "title": "Software Engineer \u2013 New College Graduate",
+        "active": true,
+        "date_updated": 1758618395,
+        "date_posted": 1758618395,
+        "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6/application",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SIFT-Stack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bombora",
+        "id": "a9b5eb62-ac85-4d24-98da-e3279e2d9474",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1758386974,
+        "date_posted": 1757715792,
+        "url": "https://bombora.com/about/bombora-careers?gh_jid=8167665002",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Bombora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "24ba20e7-0e3a-4da8-b708-a448823b1663",
+        "title": "Software Engineer 1 - Servicing Engineering",
+        "active": true,
+        "date_updated": 1758623413,
+        "date_posted": 1756950503,
+        "url": "https://aexp.eightfold.ai/careers/job/30954270",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
