@@ -11032,7 +11032,7 @@
         "company_name": "Numeric",
         "id": "f048af16-1b47-4bba-910e-a1cf1b5d1588",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1755269686,
         "date_posted": 1749526495,
         "url": "https://jobs.ashbyhq.com/numeric/75fb980e-623a-4b92-932b-4ff3ae6fc2e8/application",
@@ -25756,7 +25756,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -27084,7 +27084,7 @@
         "company_name": "RTX",
         "id": "4f1bc12d-5eb6-44bd-88cb-172df1486e5e",
         "title": "Raytheon Software Engineer I - Test Equipment",
-        "active": true,
+        "active": false,
         "date_updated": 1757982271,
         "date_posted": 1757982271,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -29805,5 +29805,125 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Citigroup",
+        "id": "2dd479a3-c56a-41c4-be00-e2cc0c4bab4f",
+        "title": "Entry Level Java Developer/Software Engineer and Technology Business Analysts - Technology Business Analysis - Applications Development",
+        "active": true,
+        "date_updated": 1758681047,
+        "date_posted": 1758681047,
+        "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Entry-Level-Java-Developer-Software-Engineer-and-Technology-Business-Analysts_25908328",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Warner Bros.",
+        "id": "9473651a-1bbf-47c0-8007-15c3b4b0d008",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1758683467,
+        "date_posted": 1758683467,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/UT-Salt-Lake-City-175-East-400-South/Junior-Software-Engineer_R000098752-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "82a2775d-0300-415a-b3b3-b7115901f814",
+        "title": "Software Engineer 1 - Engineering / Product Development",
+        "active": true,
+        "date_updated": 1758683914,
+        "date_posted": 1758683914,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "IXL Learning",
+        "id": "7e59f39b-87af-49fa-9170-40895f2548a1",
+        "title": "Associate Product Manager \u2013 New Grad - Product Management",
+        "active": true,
+        "date_updated": 1758685716,
+        "date_posted": 1758685716,
+        "url": "https://www.ixl.com/company/jobs?gh_jid=8182864002",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/IXL-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758691834,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
+        "company_name": "JPMorganChase",
+        "title": "Quantitative Research - Data Analytics - Associate",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
+        "date_posted": 1758691834,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758691926,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/figma/jobs/5616603004",
+        "company_name": "Figma",
+        "title": "Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "89a69655-711e-42fd-8699-a8b6caf767ca",
+        "date_posted": 1758691926,
+        "company_url": "",
+        "is_visible": true
     }
 ]
