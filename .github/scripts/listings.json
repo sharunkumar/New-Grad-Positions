@@ -11875,7 +11875,7 @@
         "company_name": "SMX",
         "id": "7463c287-498f-48f5-86ff-0443c74dc683",
         "title": "Junior Software Engineer - Ts/Sci CI Poly",
-        "active": false,
+        "active": true,
         "date_updated": 1750722293,
         "date_posted": 1750722293,
         "url": "https://www.smxtech.com/careers/?gh_jid=6618208003",
@@ -13450,7 +13450,7 @@
         "company_name": "CACI",
         "id": "e23f991b-f6bb-4037-a415-84cb81506adb",
         "title": "Entry Level DSP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1752623968,
         "date_posted": 1752623968,
         "url": "https://caci.wd1.myworkdayjobs.com/External/job/US-NY-Rochester/Entry-Level-DSP-Software-Engineer_314488-1",
@@ -20149,7 +20149,7 @@
         "company_name": "IXL Learning",
         "id": "ea4aba99-157b-4794-9bcb-01d93b153fc0",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755744352,
         "date_posted": 1755744352,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8128533002",
@@ -20170,7 +20170,7 @@
         "company_name": "IXL Learning",
         "id": "9a3ffe11-4ec8-4997-a925-aef4a12180b9",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755745279,
         "date_posted": 1755745279,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8128544002",
@@ -25035,7 +25035,7 @@
         ]
     },
     {
-        "date_updated": 1757401240,
+        "date_updated": 1758672100,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -25050,7 +25050,7 @@
         "id": "926863f0-8c2d-4e12-af66-fb8bd5e29053",
         "date_posted": 1757401240,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757401305,
@@ -25756,7 +25756,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -25817,7 +25817,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -27084,7 +27084,7 @@
         "company_name": "RTX",
         "id": "4f1bc12d-5eb6-44bd-88cb-172df1486e5e",
         "title": "Raytheon Software Engineer I - Test Equipment",
-        "active": false,
+        "active": true,
         "date_updated": 1757982271,
         "date_posted": 1757982271,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -27144,7 +27144,7 @@
         "company_name": "RTX",
         "id": "96830d1e-2305-470c-8331-ed38089f6f47",
         "title": "Software Engineer I - Raytheon",
-        "active": false,
+        "active": true,
         "date_updated": 1757983520,
         "date_posted": 1757983520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
@@ -27179,7 +27179,7 @@
         ]
     },
     {
-        "date_updated": 1758011649,
+        "date_updated": 1758672456,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -27195,7 +27195,7 @@
         "id": "91765333-8853-4ae2-9225-d1c5133eef54",
         "date_posted": 1758011649,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758247317,
@@ -27764,12 +27764,10 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758584585,
+        "date_updated": 1758672507,
         "sponsorship": "Offers Sponsorship",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://jobs.ashbyhq.com/jerry.ai/7fce20dc-30a9-4dff-890d-eb041efe2a91",
         "company_name": "Jerry",
         "title": "Software Engineer I",
@@ -27781,7 +27779,7 @@
         "id": "643c90a8-2e0c-42d5-9bf6-d0828d9d773b",
         "date_posted": 1758103955,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -28042,7 +28040,7 @@
         ]
     },
     {
-        "date_updated": 1758506970,
+        "date_updated": 1758672340,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -28057,7 +28055,7 @@
         "id": "96471107-22b4-41cf-bc9e-b0a4f2c013a7",
         "date_posted": 1758212656,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758212748,
@@ -28346,7 +28344,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -28800,7 +28798,7 @@
         "company_name": "Altice USA",
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1758368656,
         "date_posted": 1757977983,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
@@ -28820,7 +28818,7 @@
         "company_name": "IXL Learning",
         "id": "cedbf36e-b47f-4f1e-bc52-9a1279770d2e",
         "title": "Associate Product Manager \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758369745,
         "date_posted": 1755744079,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8128549002",
@@ -29154,7 +29152,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758521252,
+        "date_updated": 1758671997,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -29169,7 +29167,7 @@
         "id": "d11d4c32-f80b-48f5-af2b-4bde147b19ab",
         "date_posted": 1758521252,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758521306,
@@ -29412,7 +29410,7 @@
         "company_name": "Chewy",
         "id": "6a49bd3b-c1ce-4223-82d4-c340a6bf1a21",
         "title": "Software Engineer I - Discovery Recommendations",
-        "active": true,
+        "active": false,
         "date_updated": 1758597123,
         "date_posted": 1758597123,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7260970",
@@ -29689,6 +29687,119 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Lennar-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "D2L",
+        "id": "380f5198-4daf-4c7d-9349-31d7bd8b54ca",
+        "title": "Software Developer \u2013 Spring 2026 New Graduate",
+        "active": true,
+        "date_updated": 1758655705,
+        "date_posted": 1758655705,
+        "url": "https://www.d2l.com/careers/jobs/?job_id=7260896&gh_jid=7260896",
+        "locations": [
+            "Winnipeg, MB, Canada",
+            "Toronto, ON, Canada",
+            "Kitchener, ON, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/D2L",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "3d53433a-408a-4c5d-bddb-aae123505562",
+        "title": "Entry Level Software Engineer - Systems Test & Verification - Test & Verification",
+        "active": true,
+        "date_updated": 1758658002,
+        "date_posted": 1758658002,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Systems-Test---Verification--Test---Verification-_JR2025470683",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Providence",
+        "id": "61a85912-13ac-40a0-a327-1ec86c8fb013",
+        "title": "Data Software Engineer 1 - Enterprise Information Services",
+        "active": true,
+        "date_updated": 1758666311,
+        "date_posted": 1758666311,
+        "url": "https://evac.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/jobs/job/388647",
+        "locations": [
+            "Washington",
+            "Oregon",
+            "Lubbock, TX",
+            "California",
+            "Montana",
+            "Silverton, TX",
+            "Morton, TX",
+            "Alaska"
+        ],
+        "company_url": "https://simplify.jobs/c/Providence",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Adobe",
+        "id": "2a4144eb-d683-41ab-aa6b-4054edea48eb",
+        "title": "University Graduate - Data Scientist",
+        "active": true,
+        "date_updated": 1758666320,
+        "date_posted": 1758666320,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R160661",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fifth Third Bank",
+        "id": "7c064910-805a-4037-876c-13452565138c",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1758674824,
+        "date_posted": 1758674824,
+        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-1_R62252",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
