@@ -25756,7 +25756,7 @@
         "company_name": "Cellular Sales",
         "id": "c7c1c6c0-062c-431e-b8f1-9d7b798ac33c",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757542524,
         "date_posted": 1757542524,
         "url": "https://careers-cellularsales.icims.com/jobs/19001/job?mobile=true&needsRedirect=false",
@@ -28344,7 +28344,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -28758,7 +28758,7 @@
         "company_name": "Ciena",
         "id": "de2c5aa8-afd1-4d9f-9968-0e3901597227",
         "title": "PON Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758362371,
         "date_posted": 1757622733,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/US--MA--Mansfield--200-Chauncy-St/PON-Software-Engineer---New-Grad_R028765",
@@ -29987,5 +29987,45 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "78d2b8a7-dbfd-4431-bcf7-4a0bd151c057",
+        "title": "Software Development Engineer 1 - Mobile Apps Engineering",
+        "active": true,
+        "date_updated": 1758384406,
+        "date_posted": 1755201965,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-iOS,-Mobile-Apps-Engineering-NY-11714/1271275900/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758738003,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.pinterestcareers.com/jobs/7211012/software-engineer-university-grad/?gh_jid=7211012",
+        "company_name": "Pinterest",
+        "title": "Software Engineer University Grad",
+        "locations": [
+            "San Francisco",
+            "Palo Alto",
+            "Seattle"
+        ],
+        "category": "Software Engineering",
+        "source": "GAchuzia",
+        "id": "950c76d4-44a9-4b51-bcc5-61c8cc18f172",
+        "date_posted": 1758738003,
+        "company_url": "",
+        "is_visible": true
     }
 ]
