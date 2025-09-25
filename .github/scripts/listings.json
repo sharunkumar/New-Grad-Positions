@@ -25859,7 +25859,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -29390,7 +29390,7 @@
         "company_name": "NextEra Energy",
         "id": "ff1f5f3e-5e7a-4dfe-a1fb-9d658755635b",
         "title": "Software Development Engineer 1 - New Product Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1758594889,
         "date_posted": 1758594889,
         "url": "https://jobs.nexteraenergy.com/job/St_-Paul-Software-Development-Eng-I-MN-55107/1312731700/?ats=successfactors",
@@ -29853,7 +29853,7 @@
         "company_name": "Cox",
         "id": "82a2775d-0300-415a-b3b3-b7115901f814",
         "title": "Software Engineer 1 - Engineering / Product Development",
-        "active": true,
+        "active": false,
         "date_updated": 1758683914,
         "date_posted": 1758683914,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202564459",
@@ -30116,7 +30116,7 @@
         "company_name": "Comcast",
         "id": "891744d8-4b45-494b-bdad-be4ba6bfc4c5",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1758758478,
         "date_posted": 1758758478,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/IL---Chicago-33-W-Monroe-St-Suite-1900/Software-Engineer-1---Chicago--IL-OR-Reston--VA_R420695",
@@ -30177,7 +30177,7 @@
         "company_name": "Trend Health Partners",
         "id": "01a759d0-0c25-4488-8649-c6b19c7ad741",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758785700,
         "date_posted": 1758785700,
         "url": "https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply",
@@ -30229,5 +30229,99 @@
         "date_posted": 1758798064,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "RTX",
+        "id": "2568e71a-ea47-49df-897a-83e4e99d16f4",
+        "title": "Systems Security Engineer 1 - Systems Security Engineering",
+        "active": true,
+        "date_updated": 1758804935,
+        "date_posted": 1758804935,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370",
+        "locations": [
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758807373,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://westernalliancebank.wd5.myworkdayjobs.com/en-US/WAB/job/Phoenix-AZ/Engineer-I---AI-Business-Engineer_R11486",
+        "company_name": "Western Alliance Bancorporation",
+        "title": "Engineer I - AI Business Engineer",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "267b4d5e-784b-4381-890b-021ddbbe834b",
+        "date_posted": 1758807373,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758807558,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/wolve/b42f4d54-02e1-4549-a6a5-7cd5673c8216",
+        "company_name": "Wolverine Trading",
+        "title": "C++ Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "ce8aab3b-ea66-473d-a08c-687fe0fb9b15",
+        "date_posted": 1758807558,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758807634,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
+        "company_name": "Medtronic",
+        "title": "Software Operations Engineer I",
+        "locations": [
+            "Northridge, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7c1d0a10-aa03-446d-b021-2000c2bac477",
+        "date_posted": 1758807634,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "7717d08c-b438-43d0-af9e-887993d43959",
+        "title": "Software Engineer New College Grad - Masters Degree",
+        "active": true,
+        "date_updated": 1758808378,
+        "date_posted": 1758808378,
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2517309",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
