@@ -21392,7 +21392,7 @@
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1756246846,
         "date_posted": 1756246846,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
@@ -24917,7 +24917,7 @@
         "company_name": "Adobe",
         "id": "cf31e3a7-ad75-4417-ba00-3fcbc98b644f",
         "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757385678,
         "date_posted": 1757385678,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157573",
@@ -27925,7 +27925,7 @@
         "company_name": "Nike",
         "id": "f482a959-12d8-423c-a3f9-413a0e13c503",
         "title": "Software Engineer I - Innovation",
-        "active": true,
+        "active": false,
         "date_updated": 1758158728,
         "date_posted": 1758158728,
         "url": "https://nike.wd1.myworkdayjobs.com/en-US/nke/job/Beaverton-Oregon/Software-Engineer-I---Innovation_R-69655",
@@ -28141,7 +28141,7 @@
         "company_name": "RTX",
         "id": "3a0307a9-2e9f-4833-a645-4b2b93621232",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758507000,
         "date_posted": 1758231896,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01794320",
@@ -30170,5 +30170,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trend Health Partners",
+        "id": "01a759d0-0c25-4488-8649-c6b19c7ad741",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1758785700,
+        "date_posted": 1758785700,
+        "url": "https://jobs.lever.co/Trend-Health-Partners/5a892ec7-a7b0-4afc-81d1-c191e6796e59/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Health-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "20772022-6b4e-4952-957e-a9ca3fef995c",
+        "title": "Fiori Front End Developer \u2013 Entry level",
+        "active": true,
+        "date_updated": 1758786563,
+        "date_posted": 1758786563,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RCT99-RTN-Remote-Connecticut/Fiori-Front-End-Developer--Entry-level-_01796231",
+        "locations": [
+            "Waterbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758798064,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+        "company_name": "Notion",
+        "title": "Software Engineer, Fullstack",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "19ed9c9b-c543-46f0-a647-6c4abff59d05",
+        "date_posted": 1758798064,
+        "company_url": "",
+        "is_visible": true
     }
 ]
