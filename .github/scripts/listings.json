@@ -14552,7 +14552,7 @@
         "company_name": "Chewy",
         "id": "68821ceb-0090-4a87-8061-42789cb56646",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1753918469,
         "date_posted": 1753918469,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7081410",
@@ -22106,7 +22106,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -28344,7 +28344,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -30145,6 +30145,26 @@
             "Tewksbury, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Meshy",
+        "id": "ca943fdd-edd4-4fe7-8ae1-33ed7976a2c3",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758778957,
+        "date_posted": 1758778957,
+        "url": "https://job-boards.greenhouse.io/meshy/jobs/4932258008",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meshy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
