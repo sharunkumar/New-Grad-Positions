@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Accenture Federal Services",
-        "id": "eaa3483e-9354-4e5a-b05c-1a0ed6257712",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1727752415,
-        "date_posted": 1727752415,
-        "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4398469006",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/AccentureFederalServices",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Codazen",
         "id": "8024d820-597d-41d3-b788-20dd2b2eaea4",
         "title": "Full-Stack Engineer Summer 2025 New Grad",
@@ -11739,7 +11723,7 @@
         "company_name": "Capital Rx",
         "id": "ff409e69-5566-41e6-9960-7bc4c5720dfc",
         "title": "Data Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1755269232,
         "date_posted": 1750670041,
         "url": "https://job-boards.greenhouse.io/capitalrx/jobs/4750004008",
@@ -29317,7 +29301,7 @@
         "company_name": "The Boeing Company",
         "id": "549eeb08-3ded-452b-8f16-6842e19982f5",
         "title": "Entry Level Software Engineer - Test and Verification - Test and Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1758593154,
         "date_posted": 1758593154,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2025470699-2",
@@ -30373,5 +30357,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
+        "title": "Junior Software Engineer - Java Engineering",
+        "active": true,
+        "date_updated": 1758864132,
+        "date_posted": 1758864132,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000083897595",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1758868246,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Scientist---Direct-College-Hire_R-2025-59817",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Scientist",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
+        "date_posted": 1758868246,
+        "company_url": "",
+        "is_visible": true
     }
 ]
