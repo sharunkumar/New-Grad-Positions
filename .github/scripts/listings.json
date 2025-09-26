@@ -25811,7 +25811,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -30395,5 +30395,228 @@
         "date_posted": 1758868246,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "date_updated": 1758868556,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/genies/jobs/7477215003",
+        "company_name": "Genies",
+        "title": "Product Operations Associate \u2013 AI Avatars",
+        "locations": [
+            "Los Angeles, CA"
+        ],
+        "category": "Product Management",
+        "source": "AlmondCroffle",
+        "id": "3f5b7918-0cf4-4af1-985a-75882623a878",
+        "date_posted": 1758868556,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868677,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59811",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "3c72f92a-18d0-434a-8838-180a9471c3a6",
+        "date_posted": 1758868677,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868742,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Software-Engineer---Direct-College-Hire_R-2025-59810",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "858b146b-f1ab-47ae-80b6-b1ad8c88b3c4",
+        "date_posted": 1758868742,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868768,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59813",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "835a1a1c-0727-4c58-a98a-e10a07a4b490",
+        "date_posted": 1758868768,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868830,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://swa.wd1.myworkdayjobs.com/en-US/external/job/TX-Dallas/Associate-Data-Engineer---Direct-College-Hire_R-2025-59816",
+        "company_name": "Southwest Airlines",
+        "title": "Associate Data Engineer",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "fd78602f-e1ba-444e-a3ee-30ce6c64e479",
+        "date_posted": 1758868830,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868913,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137893",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "61cf0f69-c461-4d69-8d66-a38e0793f155",
+        "date_posted": 1758868913,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758868962,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137895",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b99326c9-d40e-4238-909c-ae297aa406ae",
+        "date_posted": 1758868962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758869022,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137894",
+        "company_name": "Bloomber",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7461ea90-d24b-4386-96da-74a96591f64c",
+        "date_posted": 1758869022,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758869050,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineerinng-Associate_137898",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "aca440de-1ade-458a-b97a-875f3a52cbbb",
+        "date_posted": 1758869050,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1758869229,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
+        "company_name": "Bloomberg",
+        "title": "Software Engineering Associate",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2917f903-c781-46a7-ab98-258e930850f9",
+        "date_posted": 1758869229,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1758887825,
+        "date_posted": 1758887825,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pinterest",
+        "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
+        "title": "Software Engineer University Grad",
+        "active": true,
+        "date_updated": 1758887132,
+        "date_posted": 1758887132,
+        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
+        "locations": [
+            "Palo Alto, CA",
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Pinterest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
