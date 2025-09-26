@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Booz Allen",
-        "id": "4c8c9e42-6a2b-4d1e-b99a-8c8c916b25cf",
-        "title": "Software Developer - Junior",
-        "active": false,
-        "date_updated": 1727724612,
-        "date_posted": 1727724612,
-        "url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Developer--Junior_R0206889-1",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/45cb775d-2ca3-49ea-810f-65334ec70079",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Accenture Federal Services",
         "id": "eaa3483e-9354-4e5a-b05c-1a0ed6257712",
         "title": "Junior Software Developer",
@@ -481,22 +465,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "AQR Capital Management",
-        "id": "fadb6bc7-4525-468a-8ab9-57c9ef9edda6",
-        "title": "Junior Software Engineer-Quantitative Research",
-        "active": false,
-        "date_updated": 1727723719,
-        "date_posted": 1727723719,
-        "url": "https://careers.aqr.com/jobs?gh_jid=6283929&gh_jid=6283929",
-        "locations": [
-            "Greenwich, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -6897,7 +6865,7 @@
         "company_name": "Esri",
         "id": "01f0e606-70e7-47e3-8d11-7b8ccbc87568",
         "title": "C++ Software Development Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1742873875,
         "date_posted": 1742873875,
         "url": "https://www.esri.com/careers/4671729007?gh_jid=4671729007",
@@ -20298,7 +20266,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755784282,
+        "date_updated": 1758836213,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -20313,7 +20281,7 @@
         "id": "2c441054-4f95-44a3-a992-4671d6a665ba",
         "date_posted": 1755784282,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756850239,
@@ -21392,7 +21360,7 @@
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1756246846,
         "date_posted": 1756246846,
         "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Costa-Mesa-CA/Entry-Level-Data-Scientist_JR202531480-1",
@@ -25817,7 +25785,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -25859,7 +25827,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -26835,7 +26803,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757928668,
+        "date_updated": 1758836149,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -26850,7 +26818,7 @@
         "id": "14ce3d00-cf34-4074-ae05-d64553e63196",
         "date_posted": 1757928668,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757928947,
@@ -28344,7 +28312,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -29888,12 +29856,10 @@
         ]
     },
     {
-        "date_updated": 1758691834,
+        "date_updated": 1758836302,
         "sponsorship": "Other",
         "active": true,
-        "degrees": [
-            "Master's"
-        ],
+        "degrees": [],
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210666344",
         "company_name": "JPMorganChase",
         "title": "Quantitative Research - Data Analytics - Associate",
@@ -29905,7 +29871,7 @@
         "id": "bf81a833-6a92-44bf-af80-3ed9de1e3521",
         "date_posted": 1758691834,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758691926,
@@ -30322,6 +30288,90 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Persona",
+        "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
+        "title": "Software Engineer 2026 New Grad",
+        "active": true,
+        "date_updated": 1758826054,
+        "date_posted": 1758826054,
+        "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Persona",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ICF International",
+        "id": "9b0ce0d5-9785-473a-acc4-c5fdb6a42dfa",
+        "title": "Software Developer \u2013 Entry Level - Summer 2026",
+        "active": true,
+        "date_updated": 1758825837,
+        "date_posted": 1758825837,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Software-Developer--Summer-2026--Entry-Level--Remote-_R2502713",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adobe",
+        "id": "d1517900-3538-42df-a98c-a73fbc21f4d9",
+        "title": "University Graduate Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1758831790,
+        "date_posted": 1758831790,
+        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Adobe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Coporation",
+        "id": "0a75db21-80f7-4a24-9ae0-0b85ce2dcc1f",
+        "title": "Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies",
+        "active": true,
+        "date_updated": 1758831367,
+        "date_posted": 1758831367,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0028548",
+        "locations": [
+            "Southern Pines, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
