@@ -1,53 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "company_name": "SeatGeek",
-        "id": "05f006a7-e4b0-4263-915b-b761c61f8240",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1727811719,
-        "date_posted": 1727811719,
-        "url": "https://seatgeek.com/jobs/6295342?gh_jid=6295342",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/SeatGeek",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "SMX",
-        "id": "efdb49dd-cee5-4049-bca9-01d77d755cf3",
-        "title": "Junior Software Engineer - Ts/Sci CI Poly",
-        "active": false,
-        "date_updated": 1727811030,
-        "date_posted": 1727811030,
-        "url": "https://www.smxtech.com/careers/?gh_jid=6228060003",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Splunk",
-        "id": "b3cd2dc0-5c30-4527-abee-a408d1f0985f",
-        "title": "Fedramp Software Engineer \u2013 Early Career - Raleigh - NC - Jan 2025 or sooner start date ONLY",
-        "active": false,
-        "date_updated": 1727824595,
-        "date_posted": 1727824595,
-        "url": "https://jobs.jobvite.com/splunk-careers/job/ovBBufwV?nl=1&nl=1&fr=false",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Splunk",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1727859026,
         "url": "https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/",
         "company_name": "IBM",
@@ -17135,7 +17087,7 @@
         "company_name": "Becton, Dickinson and Company",
         "id": "78c2a49e-da4c-4434-974e-85eb8b9c2bdd",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755154524,
         "date_posted": 1755154524,
         "url": "https://bdx.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREER_SITE_USA/job/USA-MD---Sparks---7-Loveton-Circle/Software-Engineer-I----Hybrid-_R-523411-1",
@@ -22042,7 +21994,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -25753,7 +25705,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -28278,9 +28230,9 @@
         "source": "Simplify",
         "category": "Other",
         "company_name": "Sev1Tech",
-        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
+        "id": "71bf6784-4332-4e13-9dda-b41a35330da4",
         "title": "Cybersecurity Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -30641,6 +30593,153 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RELX",
+        "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
+        "title": "Data Engineer 1 - Insurance Industry",
+        "active": true,
+        "date_updated": 1758914436,
+        "date_posted": 1758914436,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ardent",
+        "id": "0792f38f-5a91-4853-8e4b-717325737b5d",
+        "title": "Junior Developer Consultant - Geospatial Software Development",
+        "active": true,
+        "date_updated": 1758916693,
+        "date_posted": 1758916693,
+        "url": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ardent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Gauntlet Networks",
+        "id": "623f45db-6ae9-4795-981f-a40286a0be77",
+        "title": "Quant Research Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1758915902,
+        "date_posted": 1758915902,
+        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad/apply",
+        "locations": [
+            "SF",
+            "LA",
+            "NYC",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Gauntlet-Networks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Other",
+        "company_name": "Honeywell",
+        "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
+        "title": "Cyber Security Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758917815,
+        "date_posted": 1758917815,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
+        "title": "Software Engineer 1 - Industrial Automation",
+        "active": true,
+        "date_updated": 1758917853,
+        "date_posted": 1758917853,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
+        "locations": [
+            "Fort Mill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
+        "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
+        "active": true,
+        "date_updated": 1758917756,
+        "date_posted": 1758917756,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell",
+        "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1758917678,
+        "date_posted": 1758917678,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
