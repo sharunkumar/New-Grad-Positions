@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1727859026,
-        "url": "https://careers.ibm.com/job/21000016/entry-level-back-end-developer-2025-remote/",
-        "company_name": "IBM",
-        "title": "Entry Level Back End Developer: 2025",
-        "locations": [
-            "Tucson, AZ",
-            "Austin, TX",
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "liamstamper",
-        "id": "59947027-cc64-493a-8efd-afc6d0096999",
-        "date_posted": 1727859026,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "company_name": "Grand Rounds",
         "id": "aca438a8-e473-4ff0-82c1-cc31c65f85e6",
@@ -28290,7 +28272,7 @@
         "company_name": "Chime",
         "id": "efb0e92a-a27a-4577-8f76-44763ea6c1e4",
         "title": "Product Security Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758317481,
         "date_posted": 1755300570,
         "url": "https://boards.greenhouse.io/chime/jobs/8101747002",
@@ -30601,7 +30583,7 @@
         "company_name": "RELX",
         "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
         "title": "Data Engineer 1 - Insurance Industry",
-        "active": true,
+        "active": false,
         "date_updated": 1758914436,
         "date_posted": 1758914436,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
@@ -30740,6 +30722,107 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
+        "title": "Software Development Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1758963633,
+        "date_posted": 1758963633,
+        "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "fd937607-7e79-43de-9b55-4cea6245ccfd",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966993,
+        "date_posted": 1758966993,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223351",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "d619d9ac-95a4-4ed4-9b3b-907a08573838",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966966,
+        "date_posted": 1758966966,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226562",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "af467e2e-2ade-425c-9ab9-238d3e605bf2",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966995,
+        "date_posted": 1758966995,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R223357",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "1e7a6a27-4b9f-4e7d-92f0-555244c980ab",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1758966968,
+        "date_posted": 1758966968,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226563",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
