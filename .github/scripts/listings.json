@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "PolyAI",
-        "id": "1a84467e-5607-475f-80ae-9938c2d6d9b5",
-        "title": "Software Engineer \u2013 Graduate / Junior - Project - Must be in Toronto",
-        "active": false,
-        "date_updated": 1727939792,
-        "date_posted": 1727939792,
-        "url": "https://apply.workable.com/poly-ai/j/E2ED2F21C7/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/PolyAI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Quora",
         "id": "9a0f2cb2-8c5e-4116-80f2-47494253da2d",
         "title": "Data Scientist \u2013 New Grad - Monetization - Remote",
@@ -15847,7 +15831,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -25671,7 +25655,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -30938,6 +30922,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "8ff03fb4-7ad5-4b9d-afd7-6014e3031149",
+        "title": "Engineer 1: Summer 2026 \u2013 Senior Full Stack Cloud Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759043106,
+        "date_posted": 1759043106,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW102-Middletown-Aircraft-Rd-PO-Box-611-Middletown-CT-06457-USA/Engineer-I--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Remote-_01794400",
+        "locations": [
+            "Middletown, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
