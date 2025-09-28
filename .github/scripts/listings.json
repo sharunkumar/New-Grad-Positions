@@ -21944,7 +21944,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -25338,7 +25338,7 @@
     {
         "date_updated": 1757507941,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareCanada/job/Remote-Canada-ON/Full-Stack-Junior-Developer_R46739-1",
         "company_name": "Jonas",
@@ -30942,6 +30942,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ISYS Technologies",
+        "id": "8413cf8b-9f9f-45f7-a2ed-d55a89685016",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1757606508,
+        "date_posted": 1757606508,
+        "url": "https://careers-i2xisys.icims.com/jobs/14627/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Offutt AFB, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/ISYS-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
