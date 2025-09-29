@@ -21863,7 +21863,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -25574,7 +25574,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -25676,7 +25676,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -28101,7 +28101,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -30551,12 +30551,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Honeywell",
         "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
-        "title": "Software Engineer 1 - Industrial Automation",
+        "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1758917853,
+        "date_updated": 1759115072,
         "date_posted": 1758917853,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
         "locations": [
@@ -30564,11 +30564,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -30592,12 +30589,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Honeywell",
+        "category": "Software Engineering",
+        "company_name": "HoneyWell",
         "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1758917678,
+        "date_updated": 1759115037,
         "date_posted": 1758917678,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
         "locations": [
@@ -30605,11 +30602,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -30618,7 +30612,7 @@
         "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
         "title": "Software Development Engineer 1 - Multiple Teams",
         "active": true,
-        "date_updated": 1758963633,
+        "date_updated": 1759115094,
         "date_posted": 1758963633,
         "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
         "locations": [
@@ -30626,11 +30620,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -30638,7 +30629,7 @@
         "company_name": "Capital One",
         "id": "fd937607-7e79-43de-9b55-4cea6245ccfd",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966993,
         "date_posted": 1758966993,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223351",
@@ -30658,7 +30649,7 @@
         "company_name": "Capital One",
         "id": "d619d9ac-95a4-4ed4-9b3b-907a08573838",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966966,
         "date_posted": 1758966966,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226562",
@@ -30678,7 +30669,7 @@
         "company_name": "Capital One",
         "id": "af467e2e-2ade-425c-9ab9-238d3e605bf2",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966995,
         "date_posted": 1758966995,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R223357",
@@ -30698,7 +30689,7 @@
         "company_name": "Capital One",
         "id": "1e7a6a27-4b9f-4e7d-92f0-555244c980ab",
         "title": "Associate - New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758966968,
         "date_posted": 1758966968,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226563",
@@ -30826,7 +30817,7 @@
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
         "active": true,
-        "date_updated": 1759001310,
+        "date_updated": 1759115116,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
         "locations": [
@@ -30837,11 +30828,8 @@
         ],
         "company_url": "https://simplify.jobs/c/General-Motors",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -30883,5 +30871,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759116323,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-peraton.icims.com/jobs/160168/software-engineering%2c-associate/job",
+        "company_name": "Peraton",
+        "title": "Software Engineering, Associate",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "be56e076-3f0f-4008-84c3-66566e20b1de",
+        "date_posted": 1759116323,
+        "company_url": "",
+        "is_visible": true
     }
 ]
