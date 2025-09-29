@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Citylitics",
-        "id": "fa5a36a9-0fbc-45bf-beac-f34757f70c86",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1728054587,
-        "date_posted": 1728054587,
-        "url": "https://apply.workable.com/citylitics/j/EF1E9FD739/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Citylitics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Uber",
         "id": "ed67200c-e17b-47fe-bc16-1d1076bf3307",
         "title": "Graduate 2024 Machine Learning Engineer I - San Francisco",
@@ -25574,7 +25558,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -25676,7 +25660,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -28101,7 +28085,7 @@
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
         "title": "Cybersecurity Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1758315728,
         "date_posted": 1758307494,
         "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
@@ -28141,7 +28125,7 @@
         "company_name": "Sev1Tech",
         "id": "68efc7ef-3cf2-4f53-921a-79d5887bee54",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758507128,
         "date_posted": 1758317383,
         "url": "https://careers-sev1tech.icims.com/jobs/9185/job?mobile=true&needsRedirect=false",
@@ -29789,7 +29773,7 @@
         "company_name": "Ciena",
         "id": "e99da8c0-784c-404e-a32b-9a4ce8a5fe59",
         "title": "New Grad Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1758754101,
         "date_posted": 1758754101,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
@@ -30364,12 +30348,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758908384,
+        "date_updated": 1759167656,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
-        "company_name": "Bloomberg",
+        "company_name": "Bloomberg Industry Group",
         "title": "Software Engineering Associate",
         "locations": [
             "Arlington, VA"
@@ -30873,7 +30857,7 @@
         ]
     },
     {
-        "date_updated": 1759116323,
+        "date_updated": 1759167333,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -30888,6 +30872,46 @@
         "id": "be56e076-3f0f-4008-84c3-66566e20b1de",
         "date_posted": 1759116323,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "15a5ba04-c264-4699-b53d-68fd6a3d1a5e",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1759160589,
+        "date_posted": 1759160589,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1329771000/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
+        "title": "Software Engineer 1 - iOS - iOS",
+        "active": true,
+        "date_updated": 1759165156,
+        "date_posted": 1759165156,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
