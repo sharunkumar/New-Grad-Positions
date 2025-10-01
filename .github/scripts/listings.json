@@ -12943,7 +12943,7 @@
         "company_name": "Akuna Capital",
         "id": "1ac52fdb-7e69-4fc6-a38c-2d98bf9c0ca9",
         "title": "Junior Quantitative Developer & Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1752518406,
         "date_posted": 1752518406,
         "url": "https://www.akunacapital.com/job-details?gh_jid=7063563",
@@ -30794,7 +30794,7 @@
         "company_name": "QinetiQ",
         "id": "35613efd-81db-49ef-b91c-05b18a9fade3",
         "title": "Junior Data Scientist - Data Analysis - Machine Learning",
-        "active": false,
+        "active": true,
         "date_updated": 1759199126,
         "date_posted": 1757542266,
         "url": "https://careers-qinetiqus.icims.com/jobs/11796/job?mobile=true&needsRedirect=false",
@@ -31087,6 +31087,68 @@
             "Marlborough, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "cc805687-8699-41cc-bc01-274071e245a2",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759308697,
+        "date_posted": 1759308697,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21907",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "5339800c-c92f-4acd-a591-d0a1364c0381",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759308700,
+        "date_posted": 1759308700,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21906",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "a4f42d4a-f353-4295-abfb-ea2f36527147",
+        "title": "Early Career Analyst - Gen AI Technology - Software Engineering",
+        "active": true,
+        "date_updated": 1759321263,
+        "date_posted": 1759321263,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026---Early-Career---Gen-AI-Technology---Software-Engineering-Analyst---United-States--Atlanta--GA-_JR2505378-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
