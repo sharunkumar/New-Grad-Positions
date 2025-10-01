@@ -18477,7 +18477,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1755783490,
+        "date_updated": 1759329391,
         "url": "https://www.housecallpro.com/careers/open-positions/?gh_jid=5620132004",
         "company_name": "Housecall Pro",
         "title": "Graduate AI Solutions Specialist",
@@ -18485,7 +18485,7 @@
             "Denver, CO"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "045c2077-c022-468c-a58d-57473b79b1e6",
         "date_posted": 1755594048,
@@ -22012,18 +22012,16 @@
         "id": "8da2822c-c728-4f81-ab3d-76079d41f02d",
         "title": "Machine Learning Engineer I",
         "active": true,
-        "date_updated": 1756512642,
+        "date_updated": 1759329426,
         "date_posted": 1756512642,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442223",
         "locations": [
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -22940,9 +22938,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756975007,
+        "date_updated": 1759329517,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970",
         "company_name": "LinkedIn",
@@ -22955,7 +22953,7 @@
         "id": "3e6d5800-52c8-44e0-be8e-5f84a254e43a",
         "date_posted": 1756975007,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756975094,
@@ -25412,7 +25410,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -26296,7 +26294,7 @@
         "company_name": "AllTrails",
         "id": "b3c80fe1-d839-482f-aa36-e8840e4b63e8",
         "title": "Software Engineer I - Fullstack - Trail Data",
-        "active": true,
+        "active": false,
         "date_updated": 1757729051,
         "date_posted": 1757729051,
         "url": "https://jobs.lever.co/alltrails/eedd7a84-9fa6-4653-9ea6-1475ed813568/apply",
@@ -27736,7 +27734,7 @@
         "company_name": "RTX",
         "id": "3a0307a9-2e9f-4833-a645-4b2b93621232",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1758507000,
         "date_posted": 1758231896,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01794320",
@@ -27776,7 +27774,7 @@
         "company_name": "The Boeing Company",
         "id": "bb0b2050-ef39-45b9-bd01-a2a690787c67",
         "title": "Entry Level Software Engineer - Flight Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1758240979,
         "date_posted": 1758240979,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer---Flight-Simulation_JR2025466011",
@@ -28269,7 +28267,7 @@
         "company_name": "Meta",
         "id": "f5f3a5fb-8744-4e44-ba4b-7ae81fdcc1c1",
         "title": "Product Security Engineer \u2013 University Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758359233,
         "date_posted": 1753485873,
         "url": "https://www.metacareers.com/jobs/2179414399210116",
@@ -30130,9 +30128,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1758908599,
+        "date_updated": 1759329323,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137893",
         "company_name": "Bloomberg",
@@ -30145,12 +30143,12 @@
         "id": "61cf0f69-c461-4d69-8d66-a38e0793f155",
         "date_posted": 1758868913,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1758908577,
+        "date_updated": 1759329301,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137895",
         "company_name": "Bloomberg",
@@ -30163,12 +30161,12 @@
         "id": "b99326c9-d40e-4238-909c-ae297aa406ae",
         "date_posted": 1758868962,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1758908617,
+        "date_updated": 1759329338,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137894",
         "company_name": "Bloomberg",
@@ -30181,12 +30179,12 @@
         "id": "7461ea90-d24b-4386-96da-74a96591f64c",
         "date_posted": 1758869022,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1758908537,
+        "date_updated": 1759329375,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineerinng-Associate_137898",
         "company_name": "Bloomberg",
@@ -30199,12 +30197,12 @@
         "id": "aca440de-1ade-458a-b97a-875f3a52cbbb",
         "date_posted": 1758869050,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1759167656,
+        "date_updated": 1759329356,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bloomberg.wd1.myworkdayjobs.com/en-US/Bloombergindustrygroup_External_Career_Site/job/Arlington---1801-S-Bell-INDG/Software-Engineering-Associate_137896",
         "company_name": "Bloomberg Industry Group",
@@ -30217,7 +30215,7 @@
         "id": "2917f903-c781-46a7-ab98-258e930850f9",
         "date_posted": 1758869229,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -30246,7 +30244,7 @@
         "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
         "title": "Software Engineer University Grad",
         "active": true,
-        "date_updated": 1758887132,
+        "date_updated": 1759329675,
         "date_posted": 1758887132,
         "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
         "locations": [
@@ -30256,11 +30254,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Pinterest",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "sponsorship": "Does Not Offer Sponsorship",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -30794,7 +30789,7 @@
         "company_name": "QinetiQ",
         "id": "35613efd-81db-49ef-b91c-05b18a9fade3",
         "title": "Junior Data Scientist - Data Analysis - Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1759199126,
         "date_posted": 1757542266,
         "url": "https://careers-qinetiqus.icims.com/jobs/11796/job?mobile=true&needsRedirect=false",
@@ -30871,7 +30866,7 @@
         ]
     },
     {
-        "date_updated": 1759238463,
+        "date_updated": 1759331449,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -30887,7 +30882,7 @@
         "id": "df214627-c5cd-4367-b5c4-2687fce1e2a3",
         "date_posted": 1759238463,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -31149,6 +31144,164 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1759329654,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390-software-engineer",
+        "company_name": "Google",
+        "title": "Software Engineer",
+        "locations": [
+            "Mountain View, CA",
+            "Cambridge, MA",
+            "Kirkland, WA",
+            "Los Angeles, CA",
+            "New York, NY",
+            "Pittsburgh, PA",
+            "San Bruno, CA",
+            "Seattle, WA",
+            "San Jose, CA",
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "XayHanmonty",
+        "id": "cd2b204f-35e4-48ee-b16b-7d85570d0f28",
+        "date_posted": 1759329654,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759329740,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Sierra/6a75b530-b7bb-4439-bb67-37b4f2b75b96",
+        "company_name": "Sierra",
+        "title": "Software Engineer, Agent",
+        "locations": [
+            "San Francisco, CA",
+            "New York, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "userzho",
+        "id": "1ce1e25c-4c7e-443a-b209-4548b6198523",
+        "date_posted": 1759329740,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759342619,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/bddd5ff3-3478-497b-b849-76256992b89f",
+        "company_name": "Yuzu Health",
+        "title": "Product Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "15a8a8f6-1efc-46ae-9e46-70ab23e5098e",
+        "date_posted": 1759339251,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1759342585,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/c379c43c-8942-41df-ab40-3c5ee7fe4080",
+        "company_name": "Yuzu Health",
+        "title": "Pricing Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "888ad7ac-070d-4bae-b464-27dbac902e57",
+        "date_posted": 1759339290,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1759342603,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/2bfc1773-e826-4a87-9b5f-7f79e1507ae6",
+        "company_name": "Yuzu Health",
+        "title": "Design Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "894f7c25-f8d1-40db-a1bb-d8ffbdbb3667",
+        "date_posted": 1759339324,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1759342685,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://yuzu.health/careers/875a76b8-fb1b-4fc0-9478-0127635ae322",
+        "company_name": "Yuzu Health",
+        "title": "Fullstack Software Engineer",
+        "locations": [
+            "New York City"
+        ],
+        "category": "Software Engineering",
+        "source": "russellpekala",
+        "id": "e0780b25-a361-4d5e-a43e-258c8c95d8b8",
+        "date_posted": 1759339353,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9ee2e29f-51c9-4fb7-a49f-8563043377f2",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759340813,
+        "date_posted": 1759340813,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Software-Engineer-I--Onsite-_01788093",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Momentum Engineering",
+        "id": "395baf0b-0e8d-4bc2-a40b-94815f327fd5",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1759342227,
+        "date_posted": 1759342227,
+        "url": "https://ats.rippling.com/momentumcareers/jobs/8c2a6494-73a1-445c-84aa-4dc824d8895e",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Momentum-Engineering",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
