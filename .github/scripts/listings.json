@@ -11164,7 +11164,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -20435,7 +20435,7 @@
         "company_name": "SMX",
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757444743,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
@@ -23467,7 +23467,7 @@
         "company_name": "Motorola",
         "id": "4db29e91-1c1d-4211-a891-40e1bbab5387",
         "title": "Entry Level Software Engineer - Kotlin - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1758330983,
         "date_posted": 1758330983,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Somerville-MA/Software-Engineer---Kotlin---Java_R55107",
@@ -25032,7 +25032,7 @@
         "company_name": "mthree",
         "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
         "title": "Junior Software Developer - Java/Scala",
-        "active": true,
+        "active": false,
         "date_updated": 1758755027,
         "date_posted": 1758755027,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4600596006",
@@ -26779,5 +26779,77 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "date_updated": 1759416479,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ333189",
+        "company_name": "T-Mobile",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "c4e18fba-31c4-4899-b7aa-7a87059b3c59",
+        "date_posted": 1759411571,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759411683,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Embedded-Software-Engineer_R10208121-1",
+        "company_name": "Northrop Grumman",
+        "title": "Associate Embedded Software Engineer",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "fe5a6378-06e4-4aa5-87dd-e41ac938dbcf",
+        "date_posted": 1759411683,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759411745,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8192195002",
+        "company_name": "Anaplan",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "cbe9b0ed-ae7b-4da9-928b-b07db4e00ed9",
+        "date_posted": 1759411745,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759411790,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8161559002",
+        "company_name": "Anaplan",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "York, UK"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "7071ac60-a80d-49cd-b3ac-16f1181510d5",
+        "date_posted": 1759411790,
+        "company_url": "",
+        "is_visible": true
     }
 ]
