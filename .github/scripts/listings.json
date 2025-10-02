@@ -1,55 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cambridge Mobile Telematics",
-        "id": "33fc030e-1244-4ecb-b161-49a12d6a2fe5",
-        "title": "Software Engineer I - Mobile",
-        "active": false,
-        "date_updated": 1738642129,
-        "date_posted": 1738642129,
-        "url": "https://www.cmtelematics.com/who-we-are/join-our-team/job-posting/?gh_jid=6600513",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/4deb12d2-2054-45da-b1c8-a49bc3f15c6a",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Synchrony Financial",
-        "id": "36734b79-992e-40dc-bcf6-39add5ddef37",
-        "title": "Front-End Engineer I - Digital Servicing",
-        "active": false,
-        "date_updated": 1745028772,
-        "date_posted": 1738642883,
-        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Remote-GA/Front-End-Engineer-I---Digital-Servicing_2500428-1",
-        "locations": [
-            "Seattle, WA",
-            "Sharonville, OH",
-            "Newport Beach, CA",
-            "Bentonville, AR",
-            "Stamford, CT",
-            "Oakland, CA",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Altamonte Springs, FL",
-            "Charlotte, NC",
-            "Alpharetta, GA",
-            "Rapid City, SD",
-            "Kansas City, MO",
-            "NYC",
-            "Phoenix, AZ",
-            "Draper, UT",
-            "Canton, OH",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Scale AI",
         "id": "88cfdb71-aa4f-4441-8bc9-bac55c01a820",
         "title": "Software Engineer \u2013 New Grad - Security Engineering",
@@ -11213,7 +11164,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -17953,9 +17904,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756857301,
+        "date_updated": 1759378236,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.careers.microsoft.com/us/en/job/1869391",
         "company_name": "Microsoft",
@@ -19167,9 +19118,9 @@
         ]
     },
     {
-        "date_updated": 1757075740,
+        "date_updated": 1759378176,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.careers.microsoft.com/global/en/share/1869347",
         "company_name": "Microsoft",
@@ -20268,9 +20219,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1757401533,
+        "date_updated": 1759378323,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
         "company_name": "Disney",
@@ -26780,6 +26731,48 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "80e7b3e0-fdce-497e-8b23-ba94e51691fc",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759372390,
+        "date_posted": 1759372390,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21910",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "World Kinect",
+        "id": "935c6806-92fc-4eb1-b8c8-eb2a8379a838",
+        "title": "IT Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759372386,
+        "date_posted": 1759372386,
+        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21908",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/World-Kinect",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
