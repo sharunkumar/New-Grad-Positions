@@ -1,43 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Scale AI",
-        "id": "88cfdb71-aa4f-4441-8bc9-bac55c01a820",
-        "title": "Software Engineer \u2013 New Grad - Security Engineering",
-        "active": false,
-        "date_updated": 1738702523,
-        "date_posted": 1738702523,
-        "url": "https://job-boards.greenhouse.io/scaleai/jobs/4523725005",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Scale-AI",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Synchrony Financial",
-        "id": "14d26259-d81a-4c14-aca4-8118f9181f67",
-        "title": "Android Engineer I - Digital Servicing",
-        "active": false,
-        "date_updated": 1738702541,
-        "date_posted": 1738702541,
-        "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Alpharetta-Site/Android-Engineer-I---Digital-Servicing_2500429",
-        "locations": [
-            "Newport Beach, CA",
-            "Remote in USA",
-            "Chicago, IL",
-            "Alpharetta, GA",
-            "NYC",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Synchrony-Financial",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Capital One",
         "id": "da121c5e-38f4-4583-9aa8-3430d81e0490",
         "title": "Associate \u2013 New Grad - Software Engineer",
@@ -15855,7 +15818,7 @@
         "company_name": "Ciena",
         "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
         "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755908269,
         "date_posted": 1755908269,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
@@ -16432,7 +16395,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "74f26036-33d9-4200-8dc2-ca925be3aa34",
         "title": "Software Engineer 1/2/3/Sr",
-        "active": true,
+        "active": false,
         "date_updated": 1756207205,
         "date_posted": 1752271606,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003152",
@@ -22964,7 +22927,7 @@
         "company_name": "Alumni Ventures",
         "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1758162751,
         "date_posted": 1758162751,
         "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
@@ -25247,7 +25210,7 @@
         "company_name": "Applied Materials",
         "id": "7717d08c-b438-43d0-af9e-887993d43959",
         "title": "Software Engineer New College Grad - Masters Degree",
-        "active": true,
+        "active": false,
         "date_updated": 1758808378,
         "date_posted": 1758808378,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Software-Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2517309",
@@ -26851,5 +26814,46 @@
         "date_posted": 1759411790,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NetImpact Strategies",
+        "id": "ace07096-f936-4feb-977a-eb89db502854",
+        "title": "Junior Full Stack .NET Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1759448385,
+        "date_posted": 1759293070,
+        "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Austin, TX",
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/NetImpact-Strategies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "7d151dc9-d84b-40aa-9ccb-f5e9acbd5612",
+        "title": "Software Engineer 1 - C/C++ Linux",
+        "active": true,
+        "date_updated": 1759455673,
+        "date_posted": 1759455673,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278",
+        "locations": [
+            "Newport, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
