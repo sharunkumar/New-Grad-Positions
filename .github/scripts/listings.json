@@ -17199,7 +17199,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -21663,7 +21663,7 @@
         "company_name": "RTX",
         "id": "16f0ad67-8a00-460b-886e-d1fea299b724",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1758102898,
         "date_posted": 1757836746,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Software-Engineer-I--Onsite-_01781205",
@@ -24436,7 +24436,7 @@
         "company_name": "OKX ",
         "id": "e4b25ebe-59fa-4c3f-bd03-bf20ec4581f8",
         "title": "Software Engineer \u2013 New Grad - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1758605055,
         "date_posted": 1758605055,
         "url": "https://job-boards.greenhouse.io/okx/jobs/7384630003",
@@ -25979,7 +25979,7 @@
         "company_name": "RTX",
         "id": "8ff03fb4-7ad5-4b9d-afd7-6014e3031149",
         "title": "Engineer 1: Summer 2026 \u2013 Senior Full Stack Cloud Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759043106,
         "date_posted": 1759043106,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW102-Middletown-Aircraft-Rd-PO-Box-611-Middletown-CT-06457-USA/Engineer-I--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Remote-_01794400",
@@ -26199,7 +26199,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "c02158ba-75c6-4420-ba50-bcf4c7b5f0b9",
         "title": "Engineer I - Software Development",
-        "active": true,
+        "active": false,
         "date_updated": 1759238280,
         "date_posted": 1759238280,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/en-US/External/job/Fort-MillCharlotte/Engineer-I--Software-Development_R-046445",
@@ -26850,6 +26850,256 @@
             "Newport, RI"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "724db6f9-bf05-4239-a33c-1010510c9725",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1759458571,
+        "date_posted": 1759458571,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
+        "locations": [
+            "Texas",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Tennessee",
+            "North Carolina",
+            "Missouri",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "e4ac42f8-203e-4627-9ceb-e35dc8f6bf9a",
+        "title": "Campus Undergraduate Full-Time - Software Engineer 1 - Technology",
+        "active": true,
+        "date_updated": 1759460028,
+        "date_posted": 1759460028,
+        "url": "https://aexp.eightfold.ai/careers/job/38270714",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "975d55af-3f12-4b33-98af-150ba18e288d",
+        "title": "Software Engineer 1 - Technology",
+        "active": true,
+        "date_updated": 1759460030,
+        "date_posted": 1759460030,
+        "url": "https://aexp.eightfold.ai/careers/job/38270703",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trend Health Partners",
+        "id": "1c120349-66b8-4524-bd0e-9fcb0656a802",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1759459752,
+        "date_posted": 1759459752,
+        "url": "https://jobs.lever.co/Trend-Health-Partners/ed68f037-97d3-4f32-b24a-fa8a544db7db/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trend-Health-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "3137eb87-cae1-45ef-a9ee-469a4322ac84",
+        "title": "Software Development Engineer 1 - SEM Engineering",
+        "active": true,
+        "date_updated": 1759461013,
+        "date_posted": 1759461013,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98187-2",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ZipRecruiter",
+        "id": "4e434cf9-2333-442d-9cd9-5a78192d78ea",
+        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1759461653,
+        "date_posted": 1759461653,
+        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZipRecruiter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Magnite",
+        "id": "c2c02a7e-98db-4154-a198-1e15a9eb779f",
+        "title": "Backend Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1759461148,
+        "date_posted": 1759461148,
+        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Backend-Engineer--Entry-Level-_R-01124",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "bb15804d-e44e-4f20-bb96-a1afd5348e1b",
+        "title": "Software Engineer I - Video Platform",
+        "active": true,
+        "date_updated": 1759463804,
+        "date_posted": 1759463804,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8181483002",
+        "locations": [
+            "SF",
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Replit",
+        "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
+        "title": "Software Engineer \u2013 New Grad - Summer 2026",
+        "active": true,
+        "date_updated": 1759464573,
+        "date_posted": 1759464573,
+        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Replit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "e53e695b-c09a-4c3b-a76c-8c9846f1cf27",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1759471005,
+        "date_posted": 1759471005,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01798004",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wayfair",
+        "id": "ab528634-1079-45f8-a929-c8f05cedc330",
+        "title": "Software Engineer 1 - Early Careers",
+        "active": true,
+        "date_updated": 1759471832,
+        "date_posted": 1759471832,
+        "url": "https://www.wayfair.com/careers/jobs/8106097002?gh_jid=8106097002",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Wayfair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abbott",
+        "id": "10c77412-b7dc-4a78-b892-c261b33cb0e9",
+        "title": "Software Engineer 1 - Digital Health Engineering",
+        "active": true,
+        "date_updated": 1759471560,
+        "date_posted": 1759471560,
+        "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Engineer-I_31130840-1",
+        "locations": [
+            "Pacoima, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
