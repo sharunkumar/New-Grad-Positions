@@ -20908,7 +20908,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20950,7 +20950,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -25230,7 +25230,7 @@
         "company_name": "Persona",
         "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
         "title": "Software Engineer 2026 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758826054,
         "date_posted": 1758826054,
         "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
@@ -26321,7 +26321,7 @@
         "company_name": "Evotec",
         "id": "46cb7b13-fd0e-477d-a629-cd916cae2e89",
         "title": "Software Engineer 1 - Data Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1759286741,
         "date_posted": 1759286741,
         "url": "https://evotecgroup.wd3.myworkdayjobs.com/Just_Bio_Career_Site/job/Seattle-WA/Software-Engineer-I--DataOps-Manager_JOBID-13157",
@@ -26604,7 +26604,7 @@
         "id": "395baf0b-0e8d-4bc2-a40b-94815f327fd5",
         "title": "Software Engineer 0",
         "active": true,
-        "date_updated": 1759342227,
+        "date_updated": 1759496987,
         "date_posted": 1759342227,
         "url": "https://ats.rippling.com/momentumcareers/jobs/8c2a6494-73a1-445c-84aa-4dc824d8895e",
         "locations": [
@@ -26612,10 +26612,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Momentum-Engineering",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27146,6 +27144,81 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1759501245,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-sig.icims.com/jobs/9531/quantitative-strategy-developer---new-grad/job",
+        "company_name": "Susquehanna",
+        "title": "Quantitative Strategy Developer - New Grad",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "9570f6ba-6a90-474f-8a40-ccb9d227acde",
+        "date_posted": 1759498570,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "date_updated": 1759500970,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+        "company_name": "Replit",
+        "title": "Software Engineer - New Grad - Summer 2026",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "d640e3c7-09f1-40a5-9c7c-9ef074285583",
+        "date_posted": 1759498677,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1759501297,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-sig.icims.com/jobs/9531/job",
+        "company_name": "Susquehanna",
+        "title": "Quantitative Strategy Developer - New Grad",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "category": "Quantitative Finance",
+        "source": "AlmondCroffle",
+        "id": "867c89c0-fc78-4143-ba4d-b9a82809f97c",
+        "date_posted": 1759501297,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
+        "title": "Software Engineer 1 or 2 - Aurora Software and Digital Engineering",
+        "active": true,
+        "date_updated": 1759514814,
+        "date_posted": 1759514814,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
