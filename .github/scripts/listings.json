@@ -1,55 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Capital One",
-        "id": "da121c5e-38f4-4583-9aa8-3430d81e0490",
-        "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1738789946,
-        "date_posted": 1738789946,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R207372",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Softheon",
-        "id": "98c1864a-d986-4b5d-9a37-1276713092ab",
-        "title": "Software Engineer I - Membership",
-        "active": false,
-        "date_updated": 1738801080,
-        "date_posted": 1738801080,
-        "url": "https://apply.workable.com/softheon/j/7C007B52A6/apply",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Softheon",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sigma Computing",
-        "id": "d71158fd-1236-4451-ac4c-079e3d7f28b9",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "date_updated": 1738800962,
-        "date_posted": 1738800962,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6351817003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Northrop Grumman",
         "id": "7d65e23b-7acd-49d9-b035-7485dae2ea82",
         "title": "Cyber Software Engineer \u2013 Early career",
@@ -9879,7 +9830,7 @@
         "company_name": "The Travelers Companies",
         "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
         "title": "Software Engineer I - Java - Aws - Jsf",
-        "active": true,
+        "active": false,
         "date_updated": 1754031804,
         "date_posted": 1754031804,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
@@ -17199,7 +17150,7 @@
         "company_name": "Iridium Communications",
         "id": "cff3ea70-b48c-45c5-bca9-b3fb564130eb",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1756422564,
         "date_posted": 1756422564,
         "url": "https://careers-iridium.icims.com/jobs/4644/job",
@@ -20908,7 +20859,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20950,7 +20901,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -21010,7 +20961,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -27214,6 +27165,109 @@
             "Aurora, CO"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medtronic",
+        "id": "34a406e4-0580-4911-883a-71d3ae3b5230",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759518151,
+        "date_posted": 1759518151,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Engineer-I--Northridge--CA-_R47859",
+        "locations": [
+            "Northridge, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Modernizing Medicine",
+        "id": "909be1e2-f265-48cf-88e1-fe09d5058882",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1759523174,
+        "date_posted": 1759523174,
+        "url": "https://job-boards.greenhouse.io/modernizingmedicineinc/jobs/8194195002",
+        "locations": [
+            "Boca Raton, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/ModMed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "3a9d6aed-4916-4777-8c70-8f712f3a1dbb",
+        "title": "Software Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1759523613,
+        "date_posted": 1759523613,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518826",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "8d72a79c-78b3-4f4e-8a10-36e4bd8b6bd5",
+        "title": "Embedded Software Engineer \u2013 New Grad - Real-Time Systems",
+        "active": true,
+        "date_updated": 1759531466,
+        "date_posted": 1759531466,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "a949f780-0ff6-4438-83e2-a09c88954fec",
+        "title": "Software Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1759533878,
+        "date_posted": 1759533878,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518755",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
