@@ -20901,7 +20901,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -20961,7 +20961,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -27359,6 +27359,120 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cox",
+        "id": "be6c567d-05ad-465d-b24b-e90f8d68692b",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1759588481,
+        "date_posted": 1759588481,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202567376",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "c9f2214a-b99b-4441-ad0e-355cab1c9bc6",
+        "title": "Software Developer \u2013 Early Career - Virtualization and SIL Integration",
+        "active": true,
+        "date_updated": 1759589948,
+        "date_posted": 1759589948,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Virtualization-and-SIL-Integration---Early-Career_JR-202518919",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Salesforce",
+        "id": "fcb34217-b3f9-4df3-b09f-5661dc8d3a7e",
+        "title": "AI Forward Deployed Engineer \u2013 Early Career - Agentforce - Software Engineering",
+        "active": true,
+        "date_updated": 1759592127,
+        "date_posted": 1759592127,
+        "url": "https://salesforce.wd12.myworkdayjobs.com/en-us/External_Career_Site/job/Washington---Bellevue/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Indianapolis, IN",
+            "Washington, DC",
+            "SF",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Salesforce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Flexport",
+        "id": "eff76a88-c516-4dcd-b472-fe2e2a87d6ad",
+        "title": "Software Engineer 1 - Import Team",
+        "active": true,
+        "date_updated": 1759593612,
+        "date_posted": 1759593612,
+        "url": "https://boards.greenhouse.io/flexport/jobs/7275329",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexport",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "34668e73-8db2-4cf0-ba75-f0af0b7c0d66",
+        "title": "Software Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1759600127,
+        "date_posted": 1759600127,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
