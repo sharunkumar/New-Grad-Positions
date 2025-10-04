@@ -20901,7 +20901,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -20961,7 +20961,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -26770,7 +26770,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -27273,6 +27273,69 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f4802c88-e6cc-4d90-b51b-ace60c6de0fe",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759555131,
+        "date_posted": 1759555131,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/e468884c-8d4d-443a-9110-43be11f3db04/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "529d57c9-5ce6-4d4f-a357-73213169f979",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1759555103,
+        "date_posted": 1759555103,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/678f16c5-9353-40c2-ab2a-8551ffa720eb/application",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jamf",
+        "id": "7f025ceb-a858-44da-a732-adf161a3d098",
+        "title": "Software Engineer I",
+        "active": true,
+        "date_updated": 1759556788,
+        "date_posted": 1759556788,
+        "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5664065004&gh_jid=5664065004",
+        "locations": [
+            "Eau Claire, WI",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Jamf",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
