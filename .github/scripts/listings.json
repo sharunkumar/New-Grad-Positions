@@ -17733,7 +17733,7 @@
         "company_name": "TD Securities",
         "id": "984f3b2b-7a73-4d47-bb64-cd1e078cc5cc",
         "title": "Machine Learning Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1756847386,
         "date_posted": 1756847386,
         "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442146",
@@ -18764,48 +18764,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NewsBreak",
-        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
-        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
-        "active": true,
-        "date_updated": 1754604945,
-        "date_posted": 1738887360,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
-        "locations": [
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NewsBreak",
-        "id": "f6db0437-48c7-4c28-89d5-76d6e4f15f71",
-        "title": "Machine Learning Engineer \u2013 Junior & New Grad",
-        "active": false,
-        "date_updated": 1754604945,
-        "date_posted": 1738887360,
-        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4338876006",
-        "locations": [
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NewsBreak",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -20961,7 +20919,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -23651,7 +23609,7 @@
         "company_name": "Altice USA",
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": false,
+        "active": true,
         "date_updated": 1758368656,
         "date_posted": 1757977983,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
@@ -23752,7 +23710,7 @@
         "company_name": "American Express",
         "id": "3dcd2e88-e3d8-4347-90c3-366c28c12e37",
         "title": "Software Engineer 1 - International Card Services - Int Card & Risk Services Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1758375670,
         "date_posted": 1755823820,
         "url": "https://aexp.eightfold.ai/careers/job/30763120",
@@ -27473,6 +27431,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Belden",
+        "id": "1cdbed4d-36a1-41bd-8f31-920f34589d2e",
+        "title": "Product Management Track: Launch Early Career Leadership Program",
+        "active": true,
+        "date_updated": 1759612975,
+        "date_posted": 1759612975,
+        "url": "https://careers.belden.com/job/Carmel-Product-Management-Track-Launch-Early-Career-Leadership-Program-IN-46032/1325052600/?ats=successfactors",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Belden",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
