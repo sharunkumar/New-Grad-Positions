@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Rocket Software",
-        "id": "f1acba32-af7e-411f-af2e-652fe41a3c09",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739290892,
-        "date_posted": 1739290892,
-        "url": "https://rocket.wd5.myworkdayjobs.com/en-US/rocket_careers/job/Bentonville-AR-USA/Software-Engineer-I_R2025-5365",
-        "locations": [
-            "Bentonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/ff0e403d-7fb1-43cf-81ba-a2f00c99612b",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Applied Materials",
         "id": "ab98155b-32e8-4be8-9740-e3728c2b98b1",
         "title": "Software Engineer / Data Scientist New College Grad-Bachelor's",
@@ -5194,7 +5178,7 @@
         "company_name": "Cadence Design Systems",
         "id": "710b0d6c-c433-4628-8de0-67819044c855",
         "title": "Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1748483357,
         "date_posted": 1748483357,
         "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/SAN-JOSE/Software-Engineer-II_R48302",
@@ -20741,7 +20725,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -22213,14 +22197,14 @@
         "id": "d671317d-80c6-4f29-a236-fc748c813fa5",
         "title": "Junior Level Software Engineering - Associate",
         "active": true,
-        "date_updated": 1758102973,
+        "date_updated": 1760033603,
         "date_posted": 1758054101,
         "url": "https://careers-peraton.icims.com/jobs/159860/job?mobile=true&needsRedirect=false",
         "locations": [
             "King George County, VA"
         ],
         "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "U.S. Citizenship is Required",
         "degrees": []
     },
@@ -23699,7 +23683,7 @@
         "id": "1c49e461-9658-4a0a-ae74-588933252625",
         "title": "Software Engineer \u2013 Summer 2026 New Grad - Ambient AI",
         "active": true,
-        "date_updated": 1758380383,
+        "date_updated": 1760028041,
         "date_posted": 1756339280,
         "url": "https://jobs.ashbyhq.com/Commure-Athelas/0f13b112-8d8c-4fb1-ae3d-449cc36cd89e/application",
         "locations": [
@@ -23708,9 +23692,7 @@
         "company_url": "https://simplify.jobs/c/Commure",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -26646,7 +26628,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -28101,12 +28083,12 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Leidos",
         "id": "7419dc98-8673-4535-8fbc-a1c2cf000dc8",
         "title": "Entry Level Software Developer",
         "active": true,
-        "date_updated": 1759968454,
+        "date_updated": 1760016385,
         "date_posted": 1759968454,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Entry-Level-Software-Developer_R-00167822",
         "locations": [
@@ -28114,10 +28096,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -28218,6 +28198,161 @@
             "Seattle, WA"
         ],
         "company_url": "https://simplify.jobs/c/Atlassian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1760016662,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/vultr/jobs/4602862006",
+        "company_name": "Vultr",
+        "title": "Junior Frontend Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6536860e-4e4b-48e7-bbe6-2baed14b1377",
+        "date_posted": 1760016662,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760018962,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Software-Engineer-Software-Engineer---PGS-Space-Systems-_R10210446",
+        "company_name": "Northrop Grumman",
+        "title": "Associate Software Engineer/Software Engineer (PGS Space Systems)",
+        "locations": [
+            "Redondo Beach, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5cf43f54-e3eb-4a11-b4e3-c4b9202f7297",
+        "date_posted": 1760018962,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760020120,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/CAD-Engineer--Physical-Design---New-College-Grad-2026_JR2005254",
+        "company_name": "NVIDIA",
+        "title": "CAD Engineer, Physical Design",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Hardware Engineering",
+        "source": "AlmondCroffle",
+        "id": "dac44822-c620-45a3-a77a-dab2815a645b",
+        "date_posted": 1760020120,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valon",
+        "id": "e767a1da-b658-44aa-b30c-3b926e51103f",
+        "title": "Software Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760025765,
+        "date_posted": 1760025765,
+        "url": "https://jobs.ashbyhq.com/Valon/5348244b-763b-4ce7-8828-85575eba2a4c/application",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Valon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NewsBreak",
+        "id": "7a62b689-78a2-41c2-bbd3-a5441f281281",
+        "title": "Machine Learning Engineer - Junior - Recommendation",
+        "active": true,
+        "date_updated": 1760030138,
+        "date_posted": 1760030138,
+        "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4608368006",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NewsBreak",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Forage",
+        "id": "6c955563-9228-4023-a162-92ea9bade829",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1760031674,
+        "date_posted": 1760031674,
+        "url": "https://job-boards.greenhouse.io/joinforage/jobs/4892105007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/JoinForage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5b5bcdcb-ecb8-45e9-b382-27ce689ac746",
+        "title": "Fixed Wing Displays Software Engineer I - Onsite",
+        "active": true,
+        "date_updated": 1760032566,
+        "date_posted": 1760032566,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Software-Engineer-I--Onsite-_01799192",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abnormal Security",
+        "id": "9db75355-f86d-4e5f-9f8e-84fdd0745161",
+        "title": "Software Engineer 1 - Identity Security",
+        "active": true,
+        "date_updated": 1760033088,
+        "date_posted": 1760033088,
+        "url": "https://abnormal.ai/careers/jobs/7491522003?gh_jid=7491522003",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Abnormal-Security",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
