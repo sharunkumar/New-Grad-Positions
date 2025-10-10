@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Applied Materials",
-        "id": "ab98155b-32e8-4be8-9740-e3728c2b98b1",
-        "title": "Software Engineer / Data Scientist New College Grad-Bachelor's",
-        "active": false,
-        "date_updated": 1739306826,
-        "date_posted": 1739306826,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/Software-Engineer---Data-Scientist-New-College-Grad--Bachelor-s--Gloucester--MA-_R2511212",
-        "locations": [
-            "Essex County, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Apple",
         "id": "d9765ae9-aeab-4557-9368-2144b583f58c",
         "title": "Software Engineer \u2013 Early Career - IS&T",
@@ -10313,7 +10297,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754361784,
+        "date_updated": 1760050002,
         "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
         "company_name": "Qualtrics",
         "title": "Machine Learning Engineer",
@@ -10326,7 +10310,8 @@
         "id": "e0a7cfe0-c4a9-42fa-bfd5-fdeb0163dbce",
         "date_posted": 1754361784,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false,
+        "degrees": []
     },
     {
         "date_updated": 1754362176,
@@ -13697,7 +13682,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -16696,7 +16681,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756320123,
+        "date_updated": 1760049672,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -16711,7 +16696,7 @@
         "id": "09bcbc97-f4d9-4465-932e-e8f50ef7e336",
         "date_posted": 1756320123,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "source": "Simplify",
@@ -20723,7 +20708,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Susquehanna International Group (SIG)",
-        "id": "433df37a-1b0b-420a-86b5-60991427bfb8",
+        "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
         "active": false,
         "date_updated": 1757549793,
@@ -21863,7 +21848,7 @@
         "company_name": "RTX",
         "id": "96830d1e-2305-470c-8331-ed38089f6f47",
         "title": "Software Engineer I - Raytheon",
-        "active": false,
+        "active": true,
         "date_updated": 1757983520,
         "date_posted": 1757983520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
@@ -23832,7 +23817,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758520959,
+        "date_updated": 1760049592,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -23848,7 +23833,7 @@
         "id": "df511fe2-266d-45db-ae0c-7a8aa81d1ae5",
         "date_posted": 1758520959,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758521109,
@@ -24963,7 +24948,7 @@
         ]
     },
     {
-        "date_updated": 1758807373,
+        "date_updated": 1760049852,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -24978,7 +24963,7 @@
         "id": "267b4d5e-784b-4381-890b-021ddbbe834b",
         "date_posted": 1758807373,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758807558,
@@ -25042,7 +25027,7 @@
         "company_name": "Persona",
         "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
         "title": "Software Engineer 2026 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1758826054,
         "date_posted": 1758826054,
         "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
@@ -25141,7 +25126,7 @@
         ]
     },
     {
-        "date_updated": 1758868246,
+        "date_updated": 1760049835,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -25156,7 +25141,7 @@
         "id": "f4793d06-e985-4d12-9368-ef4e5b86c6d5",
         "date_posted": 1758868246,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1758868556,
@@ -28357,6 +28342,163 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Truveta",
+        "id": "d07a156c-288d-4c3e-b95b-c4e0e05614fb",
+        "title": "Software Engineer \u2013 Entry Level - Front End",
+        "active": true,
+        "date_updated": 1760043093,
+        "date_posted": 1760043093,
+        "url": "https://job-boards.greenhouse.io/truveta/jobs/5674617004",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Truveta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Leidos",
+        "id": "bc25fb10-2e86-40a0-a7e8-2e7d05f3b5ac",
+        "title": "Software Developer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1760044720,
+        "date_posted": 1760044720,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00168259",
+        "locations": [
+            "Lawton, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "7de80a61-0f91-4af9-aa25-961b97e8e057",
+        "title": "Applied Machine Learning Engineer \u2013 New College Grad 2025 - Circuit Design",
+        "active": true,
+        "date_updated": 1760045765,
+        "date_posted": 1760045765,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2025_JR2005860",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell",
+        "id": "df030a42-2054-4334-ad3c-42c4a7fa43dc",
+        "title": "Software Engineer 1 - Embedded C++ - Avionics Systems",
+        "active": true,
+        "date_updated": 1760050245,
+        "date_posted": 1760050245,
+        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/122027",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "0ba7509f-8cc2-424f-bb65-6898fdc2a8ac",
+        "title": "Data Engineer 1",
+        "active": true,
+        "date_updated": 1760051685,
+        "date_posted": 1760051685,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1610112",
+        "locations": [
+            "Washington",
+            "Pennsylvania",
+            "California",
+            "Texas",
+            "Jackson Township, NJ",
+            "Florida",
+            "South Carolina",
+            "Georgia",
+            "Virginia",
+            "NYC",
+            "Maryland",
+            "Massachusetts",
+            "North Carolina",
+            "Missouri",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "ccc0f5b0-eb43-4b51-9ae4-1264c6f8bb89",
+        "title": "Software Developer Engineer 1 - Front-End UI Development",
+        "active": true,
+        "date_updated": 1760052645,
+        "date_posted": 1760052645,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1333380400/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anyscale",
+        "id": "46c32409-c67c-4b82-a4a4-a4e0896d9808",
+        "title": "Software Engineer \u2013 New Grad 2026",
+        "active": true,
+        "date_updated": 1760053361,
+        "date_posted": 1760053361,
+        "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200/application",
+        "locations": [
+            "Palo Alto, CA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Anyscale",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
