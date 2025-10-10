@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Apple",
-        "id": "d9765ae9-aeab-4557-9368-2144b583f58c",
-        "title": "Software Engineer \u2013 Early Career - IS&T",
-        "active": false,
-        "date_updated": 1739334673,
-        "date_posted": 1739334673,
-        "url": "https://jobs.apple.com/en-us/details/200590935",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Apple",
-        "id": "2e65b1c2-691c-4938-8bd9-661851a332e9",
-        "title": "Software Engineer \u2013 Early Career - IS&T",
-        "active": false,
-        "date_updated": 1739334663,
-        "date_posted": 1739334663,
-        "url": "https://jobs.apple.com/en-us/details/200590936",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Apple",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "LexisNexis Risk Solutions",
         "id": "7484f389-5a98-4a88-a679-f350bc7b57b4",
         "title": "Graduate Software Engineer I",
@@ -17273,7 +17241,7 @@
         "company_name": "Capital One",
         "id": "0b92737d-70a3-4db5-b31c-4cb752879f91",
         "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756505796,
         "date_posted": 1756505796,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330",
@@ -20812,7 +20780,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -20975,7 +20943,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -26613,7 +26581,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -27995,7 +27963,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "1443d83a-f98f-4d1d-8538-cbd5d1a194e9",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1759913652,
         "date_posted": 1759913652,
         "url": "https://careers-gdms.icims.com/jobs/68501/job?mobile=true&needsRedirect=false",
@@ -28494,6 +28462,47 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Anyscale",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pioneering Evolution",
+        "id": "1b9e2e9a-5f0b-46d0-9c94-b4e66a4177aa",
+        "title": "Junior Full-Stack Developer",
+        "active": true,
+        "date_updated": 1760066974,
+        "date_posted": 1760066974,
+        "url": "https://job-boards.greenhouse.io/pioneeringevolution/jobs/4740996008",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pioneering-Evolution",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "7d96c0dc-36d6-4e45-afd4-33c4829bf1a6",
+        "title": "Software Engineer \u2013 New College Grad 2025 - CAD Automation",
+        "active": true,
+        "date_updated": 1760072918,
+        "date_posted": 1760072918,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
