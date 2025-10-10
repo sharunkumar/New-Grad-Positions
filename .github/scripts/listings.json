@@ -13595,7 +13595,7 @@
         "company_name": "Chord Energy",
         "id": "141524f2-adf7-4b47-afb9-4115336e9871",
         "title": "Junior Data Engineer Azure",
-        "active": true,
+        "active": false,
         "date_updated": 1755566527,
         "date_posted": 1755566527,
         "url": "https://chordenergy.wd1.myworkdayjobs.com/external/job/Houston-TX---Corporate/Junior-Data-Engineer-Azure_R0002251-1",
@@ -20168,7 +20168,7 @@
         "company_name": "SMX",
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757444743,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
@@ -20780,7 +20780,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -20943,7 +20943,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -26581,7 +26581,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -28509,5 +28509,102 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "date_updated": 1760085613,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
+        "company_name": "General Motors",
+        "title": "Machine Learning Engineer - AI Research (PhD)",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "0ef9f2b0-3c39-41b5-ac1a-6c54973671cf",
+        "date_posted": 1760085613,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760086424,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
+        "company_name": "Disney",
+        "title": "Software Engineer I",
+        "locations": [
+            "Santa Monica, CA",
+            "Seattle, WA",
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "eed0ea40-7864-4623-9669-cf609126117f",
+        "date_posted": 1760086424,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1760086742,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230",
+        "company_name": "Applied Materials",
+        "title": "Global Software Support Engineer I",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "391102f6-6238-435a-a98a-2ba875a3526d",
+        "date_posted": 1760086742,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Avery Dennison",
+        "id": "a35e1eab-45e3-4fb7-9d5c-f2514f975340",
+        "title": "Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT",
+        "active": true,
+        "date_updated": 1760086204,
+        "date_posted": 1760086204,
+        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000086898306",
+        "locations": [
+            "Miamisburg, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Avery-Dennison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "date_updated": 1760086993,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/vailsys/ad5c0c59-c301-4ac5-983b-bbd62b736c94/",
+        "company_name": "Vail Systems",
+        "title": "Software Engineer, Test & Infrastructure I",
+        "locations": [
+            "Greater Chicago Area, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "32cb2e37-5ef8-43d5-8edc-d40de0e9fdf5",
+        "date_posted": 1760086993,
+        "company_url": "",
+        "is_visible": true
     }
 ]
