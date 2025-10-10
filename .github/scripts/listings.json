@@ -20208,7 +20208,7 @@
         "company_name": "RTX",
         "id": "e9d56d2d-2eae-4b40-94e9-04b1b6f991a2",
         "title": "Embedded Software Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1757467264,
         "date_posted": 1757467264,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
@@ -20678,7 +20678,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -22308,7 +22308,7 @@
         "company_name": "North Atlantic Industries",
         "id": "62c8d027-1bfb-4673-be23-d11d806a0ec6",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1758072616,
         "date_posted": 1758072616,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3580950",
@@ -25518,7 +25518,7 @@
         "company_name": "Esri",
         "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
         "title": "Software Development Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759115094,
         "date_posted": 1758963633,
         "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
@@ -26581,7 +26581,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -28298,7 +28298,7 @@
         "company_name": "Abnormal Security",
         "id": "9db75355-f86d-4e5f-9f8e-84fdd0745161",
         "title": "Software Engineer 1 - Identity Security",
-        "active": true,
+        "active": false,
         "date_updated": 1760033088,
         "date_posted": 1760033088,
         "url": "https://abnormal.ai/careers/jobs/7491522003?gh_jid=7491522003",
@@ -28433,7 +28433,7 @@
         "company_name": "Altice USA",
         "id": "ccc0f5b0-eb43-4b51-9ae4-1264c6f8bb89",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
-        "active": true,
+        "active": false,
         "date_updated": 1760052645,
         "date_posted": 1760052645,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1333380400/?ats=successfactors",
@@ -28453,7 +28453,7 @@
         "company_name": "Anyscale",
         "id": "46c32409-c67c-4b82-a4a4-a4e0896d9808",
         "title": "Software Engineer \u2013 New Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1760053361,
         "date_posted": 1760053361,
         "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200/application",
@@ -28606,5 +28606,67 @@
         "date_posted": 1760086993,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "3c4db72d-f1d5-46ef-89dc-50130a6777fa",
+        "title": "Full-Stack Developer - Junior",
+        "active": true,
+        "date_updated": 1760107535,
+        "date_posted": 1760107535,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "45a81101-572d-42fc-a570-1fb2c6d9a71c",
+        "title": "Machine Learning Engineer \u2013 Early Career - AI Research",
+        "active": true,
+        "date_updated": 1760112321,
+        "date_posted": 1759904453,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cox",
+        "id": "f9697416-97dc-497c-8c91-2d42df97d6a0",
+        "title": "Software Engineer 1 - Salesforce - Backend Services",
+        "active": true,
+        "date_updated": 1760118596,
+        "date_posted": 1760118596,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202567898",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
