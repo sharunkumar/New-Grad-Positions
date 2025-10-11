@@ -20687,7 +20687,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -20747,7 +20747,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -20910,7 +20910,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -26548,7 +26548,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -27439,7 +27439,7 @@
         "company_name": "Uber",
         "id": "a1000d46-677c-4a53-846a-4429ec68e8f4",
         "title": "Software Engineer 1 - iOS",
-        "active": true,
+        "active": false,
         "date_updated": 1759794324,
         "date_posted": 1759794324,
         "url": "https://university-uber.icims.com/jobs/149558/job?mobile=true&needsRedirect=false",
@@ -27888,7 +27888,7 @@
         "company_name": "The Boeing Company",
         "id": "74297a91-6465-4c73-8d4e-e08004fa5b04",
         "title": "Entry Level Software Engineer-Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1759911598,
         "date_posted": 1759911598,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Software-Engineer-Systems--Systems-_JR2025467015-2",
@@ -28694,6 +28694,147 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "f33329f2-26bd-438c-8ae1-d31595d8e468",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760147470,
+        "date_posted": 1760147470,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/3e08c6f4-dbf4-40d1-972f-e1aa5b21893b/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "451bc58a-ba6c-4172-abba-0a8d6581d92c",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760147471,
+        "date_posted": 1760147471,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/da56e386-eb61-4cf4-bee8-fad6b1282ab0/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "220fe9df-0c32-4b8f-8a94-a26ff971e491",
+        "title": "Hardware Engineer \u2013 New Grad",
+        "active": true,
+        "date_updated": 1760147403,
+        "date_posted": 1760147403,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineer---New-Grad_R028768",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "fe31744c-2734-471f-a0fb-8a3a4e8dec14",
+        "title": "Associate - New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1760146222,
+        "date_posted": 1760146222,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226913",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Travelers Companies",
+        "id": "0c791cc9-5324-4c5f-a91f-cbd691cc5b48",
+        "title": "Software Engineer 1 - Python - Web Development",
+        "active": true,
+        "date_updated": 1760152226,
+        "date_posted": 1760152226,
+        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I--Python--Web-Development--LLM-_R-47356",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Travelers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "948ad4f6-0908-48f3-9343-cb5404c6d841",
+        "title": "Embedded Cybersecurity Software Engineer 1 - Crypto Team",
+        "active": true,
+        "date_updated": 1760155468,
+        "date_posted": 1760155468,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01798466",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Rex Solutions",
+        "id": "ef598fdb-91d5-4ee8-82fd-8f88781dc7d7",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760155233,
+        "date_posted": 1760155233,
+        "url": "https://www.trexsolutionsllc.com/current-opportunities-at-trex/?gh_jid=8208235002",
+        "locations": [
+            "District Heights, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
