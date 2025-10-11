@@ -1,39 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "7484f389-5a98-4a88-a679-f350bc7b57b4",
-        "title": "Graduate Software Engineer I",
-        "active": false,
-        "date_updated": 1739392196,
-        "date_posted": 1739392196,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/UK---Grosvenor-House-Southampton/Graduate-Software-Engineer-I_R89226-1",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Bombora",
-        "id": "b91602b6-14e5-4b3e-93de-44d1785d605c",
-        "title": "Software Engineer I - Services Engineering",
-        "active": false,
-        "date_updated": 1739392439,
-        "date_posted": 1739392439,
-        "url": "https://bombora.com/about/bombora-careers?gh_jid=7859996002",
-        "locations": [
-            "Reno, NV",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Bombora",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Global Payments",
         "id": "f7592917-bf0d-4701-a15e-08a35bb0fd10",
         "title": "Mainframe Software Engineer I",
@@ -6677,7 +6644,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1755269760,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -13650,7 +13617,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -20780,7 +20747,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -22697,7 +22664,7 @@
         "company_name": "Alumni Ventures",
         "id": "df644de1-2aab-4e44-ae7f-71847c2cdde4",
         "title": "Software Engineer \u2013 Early Career",
-        "active": false,
+        "active": true,
         "date_updated": 1758162751,
         "date_posted": 1758162751,
         "url": "https://job-boards.greenhouse.io/alumniventures/jobs/4027838009",
@@ -24995,7 +24962,7 @@
         "company_name": "Persona",
         "id": "d98b5156-3839-4397-a1d7-d5af66db0527",
         "title": "Software Engineer 2026 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1758826054,
         "date_posted": 1758826054,
         "url": "https://jobs.ashbyhq.com/persona/fd4d41b2-42b4-454e-91ad-d61fdc6a0042/application",
@@ -26581,7 +26548,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -27124,7 +27091,7 @@
         "company_name": "Jamf",
         "id": "7f025ceb-a858-44da-a732-adf161a3d098",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1759556788,
         "date_posted": 1759556788,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=5664065004&gh_jid=5664065004",
@@ -27581,7 +27548,7 @@
         "id": "ca34ac6f-47b2-47ce-9c51-cf79bfcc460f",
         "title": "Software Engineer 1 - iOS",
         "active": true,
-        "date_updated": 1759824735,
+        "date_updated": 1760129978,
         "date_posted": 1759824735,
         "url": "https://www.uber.com/global/en/careers/list/149558/",
         "locations": [
@@ -27591,9 +27558,7 @@
         "company_url": "https://simplify.jobs/c/Uber",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -28667,6 +28632,68 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "259e77f9-44aa-4e06-80df-4f567fee9980",
+        "title": "Software Development Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760128393,
+        "date_posted": 1760128393,
+        "url": "https://www.esri.com/careers/4940766007?gh_jid=4940766007",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "bb70924a-8fbe-4b64-aa12-ca63069abcb2",
+        "title": "Security Engineer 1 - Corporate Services Security",
+        "active": true,
+        "date_updated": 1760132121,
+        "date_posted": 1760132121,
+        "url": "https://amazon.jobs/en/jobs/3099188/security-engineer-i-corporate-services-security",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Humana",
+        "id": "03f784d8-eee3-4099-82dd-5fac1ba800a8",
+        "title": "Software Engineer 1 - Cybersecurity Identity",
+        "active": true,
+        "date_updated": 1760141396,
+        "date_posted": 1760141396,
+        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/XIAM-Software-Engineer_R-388461",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Humana",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]

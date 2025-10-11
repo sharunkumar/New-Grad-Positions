@@ -11,19 +11,71 @@ YES_VALUES = {"yes", "y", "true", "open"}
 NO_VALUES  = {"no", "n", "false", "closed"}
 
 CATEGORY_MAPPING = {
-    "software engineering": "Software Engineering",
-    "software": "Software Engineering",
-    "product management": "Product Management", 
-    "product": "Product Management",
-    "data science, ai & machine learning": "Data Science, AI & Machine Learning",
+    # Hardware variations
+    "hardware": "Hardware Engineering",
+    "hardware engineering": "Hardware Engineering", 
+    "embedded engineering": "Hardware Engineering",
+    "embedded": "Hardware Engineering",
+    "firmware": "Hardware Engineering",
+    "fpga": "Hardware Engineering",
+    "circuit": "Hardware Engineering", 
+    "chip": "Hardware Engineering",
+    "silicon": "Hardware Engineering",
+    "asic": "Hardware Engineering",
+    
+    # Quantitative Finance variations
+    "quant": "Quantitative Finance",
+    "quantitative finance": "Quantitative Finance",
+    "quantitative": "Quantitative Finance",
+    "finance": "Quantitative Finance",
+    "trading": "Quantitative Finance",
+    "investment": "Quantitative Finance",
+    "financial": "Quantitative Finance",
+    
+    # Data Science, AI & ML variations  
+    "ai/ml/data": "Data Science, AI & Machine Learning",
+    "data & analytics": "Data Science, AI & Machine Learning",
+    "ai & machine learning": "Data Science, AI & Machine Learning", 
     "data science": "Data Science, AI & Machine Learning",
+    "data science, ai & machine learning": "Data Science, AI & Machine Learning",
     "ai": "Data Science, AI & Machine Learning",
     "machine learning": "Data Science, AI & Machine Learning",
-    "quantitative finance": "Quantitative Finance",
-    "quant": "Quantitative Finance",
-    "hardware engineering": "Hardware Engineering",
-    "hardware": "Hardware Engineering",
+    "ml": "Data Science, AI & Machine Learning",
+    "data": "Data Science, AI & Machine Learning",
+    "analytics": "Data Science, AI & Machine Learning",
+    "research": "Data Science, AI & Machine Learning",
+    "ai/ml": "Data Science, AI & Machine Learning",
+    "data science & analytics": "Data Science, AI & Machine Learning",
+    
+    # Product Management variations
+    "product": "Product Management",
+    "product management": "Product Management",
+    "pm": "Product Management",
+    "apm": "Product Management",
+    "product manager": "Product Management",
+    
+    # Software Engineering variations
+    "software": "Software Engineering",
+    "software engineering": "Software Engineering",
+    "software engineer": "Software Engineering",
+    "engineering": "Software Engineering",
+    "swe": "Software Engineering",
+    "dev": "Software Engineering",
+    "developer": "Software Engineering",
+    "backend": "Software Engineering",
+    "frontend": "Software Engineering",
+    "fullstack": "Software Engineering",
+    "full-stack": "Software Engineering",
+    "mobile": "Software Engineering",
+    "web": "Software Engineering",
+    "infrastructure": "Software Engineering",
+    "devops": "Software Engineering",
+    "sre": "Software Engineering",
+    
+    # Other
     "other": "Other",
+    "misc": "Other",
+    "miscellaneous": "Other",
 }
 
 def _clean(s: str) -> str:
