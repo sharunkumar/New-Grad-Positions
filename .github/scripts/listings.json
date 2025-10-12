@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Coalition",
-        "id": "6c230b52-2752-4356-ae54-f6fa42072bc1",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739480134,
-        "date_posted": 1739480134,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4529304005",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "765957b7-080f-4e21-833e-f09c694a3c35",
-        "title": "Software Engineer I - Continuous Integration Team",
-        "active": false,
-        "date_updated": 1739478680,
-        "date_posted": 1739478680,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6630879",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "6afdb127-1c86-46e5-8d30-5f3a0be329cb",
-        "title": "Software Engineer I - Infrastructure as Code Team",
-        "active": false,
-        "date_updated": 1739478680,
-        "date_posted": 1739478680,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6630900",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "d77d0a2b-bc5a-444f-a506-900a33b208a3",
-        "title": "Software Engineer I - Infrastructure as Code Team",
-        "active": false,
-        "date_updated": 1739478679,
-        "date_posted": 1739478679,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6617947",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Marqeta",
-        "id": "bc5c2d20-7030-4fc3-829f-c9e6bd845a2b",
-        "title": "Software Engineer I - Continuous Integration Team",
-        "active": false,
-        "date_updated": 1739478678,
-        "date_posted": 1739478678,
-        "url": "https://job-boards.greenhouse.io/marqeta/jobs/6549903",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Marqeta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Coalition",
-        "id": "1204a3e6-bb6a-4db3-a820-27dc60333e21",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739480133,
-        "date_posted": 1739480133,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4528287005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Vanta",
         "id": "17aed23d-462e-4133-9778-26fc636fb537",
         "title": "Software Engineer \u2013 Entry Level",
@@ -14850,7 +14754,7 @@
     {
         "date_updated": 1756120142,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1447850",
         "company_name": "Cisco",
@@ -20613,7 +20517,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20878,7 +20782,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -26516,7 +26420,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -27515,7 +27419,7 @@
         "company_name": "Uber",
         "id": "ca34ac6f-47b2-47ce-9c51-cf79bfcc460f",
         "title": "Software Engineer 1 - iOS",
-        "active": true,
+        "active": false,
         "date_updated": 1760129978,
         "date_posted": 1759824735,
         "url": "https://www.uber.com/global/en/careers/list/149558/",
