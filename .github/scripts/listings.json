@@ -1,38 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Vanta",
-        "id": "17aed23d-462e-4133-9778-26fc636fb537",
-        "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1739564566,
-        "date_posted": 1739564566,
-        "url": "https://jobs.ashbyhq.com/vanta/13d263a6-ba81-4a93-87df-efda33a909bf/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanta",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "PayScale",
-        "id": "4bcdb1ec-2af2-48a8-93f6-577c1d850daf",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1739564226,
-        "date_posted": 1739564226,
-        "url": "https://jobs.jobvite.com/payscale/job/otRnvfwW?nl=1&nl=1&fr=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/PayScale",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Caterpillar Inc.",
         "id": "401fd6ec-e523-439f-8266-d46c148a2a19",
         "title": "Early Career Data Scientist / Technical Analyst",
@@ -20602,7 +20570,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -25180,7 +25148,7 @@
         "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1758910882,
+        "date_updated": 1760306372,
         "date_posted": 1758910882,
         "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
         "locations": [
@@ -25189,9 +25157,7 @@
         "company_url": "https://simplify.jobs/c/Parafin",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -28686,6 +28652,26 @@
             "District Heights, MD"
         ],
         "company_url": "https://simplify.jobs/c/T-Rex-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
+        "title": "Early Career Analyst - Gen AI - Data Engineering",
+        "active": true,
+        "date_updated": 1760310205,
+        "date_posted": 1760310205,
+        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
