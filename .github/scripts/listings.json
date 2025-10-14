@@ -6484,7 +6484,7 @@
         "company_name": "Collective Hub",
         "id": "5d6deca1-e3ba-4a5d-999c-d15fc2bc7fd2",
         "title": "Software Engineer \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1755269760,
         "date_posted": 1750459321,
         "url": "https://www.collective.com/careers/6614825003?gh_jid=6614825003",
@@ -9475,7 +9475,7 @@
         "company_name": "The Travelers Companies",
         "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
         "title": "Software Engineer I - Java - Aws - Jsf",
-        "active": false,
+        "active": true,
         "date_updated": 1754031804,
         "date_posted": 1754031804,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
@@ -10725,7 +10725,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -13215,7 +13215,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755640212,
+        "date_updated": 1760394738,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
         "company_name": "Harris",
         "title": "Junior Computational Linguist",
@@ -13237,7 +13237,7 @@
         "id": "228b40ec-8006-4f43-9de2-653954ed72fa",
         "date_posted": 1755418299,
         "company_url": "",
-        "is_visible": true,
+        "is_visible": false,
         "category": "Data Science, AI & Machine Learning",
         "degrees": []
     },
@@ -16556,7 +16556,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756367372,
+        "date_updated": 1760394504,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -16571,7 +16571,7 @@
         "id": "9f6c0bfd-9acc-491c-a72f-461468d5db8f",
         "date_posted": 1756367372,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756942880,
@@ -17451,7 +17451,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756904475,
+        "date_updated": 1760394479,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -17466,7 +17466,7 @@
         "id": "a59027fc-5575-4f3c-801f-567ef43ac640",
         "date_posted": 1756855936,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759378236,
@@ -18129,7 +18129,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756975770,
+        "date_updated": 1760394701,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -18147,7 +18147,7 @@
         "id": "52d706e2-5eb3-4f0c-b19b-c8c6506f6863",
         "date_posted": 1756975770,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1757983453,
@@ -18186,7 +18186,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1756980855,
+        "date_updated": 1760394430,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
         "degrees": [],
@@ -18203,7 +18203,7 @@
         "id": "7efa4a90-bd67-48f9-b6b5-b305ae01b410",
         "date_posted": 1756980855,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1756981021,
@@ -19447,7 +19447,7 @@
         "company_name": "RTX",
         "id": "fe3b559c-6d17-46af-9a0e-d7c236c83404",
         "title": "Software Engineer I - Raytheon",
-        "active": false,
+        "active": true,
         "date_updated": 1757366999,
         "date_posted": 1757366999,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
@@ -20733,7 +20733,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -27483,7 +27483,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1759844317,
+        "date_updated": 1760394325,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -27498,7 +27498,7 @@
         "id": "d18c4c7e-b351-49e7-82db-b3cdf79f1bfd",
         "date_posted": 1759844317,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1759844439,
@@ -28758,7 +28758,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760366462,
+        "date_updated": 1760394257,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -28773,10 +28773,10 @@
         "id": "4630c7ec-dfea-4383-bc4e-4e4138dda1e9",
         "date_posted": 1760366462,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
-        "date_updated": 1760367075,
+        "date_updated": 1760394269,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -28791,7 +28791,7 @@
         "id": "46029e2b-d575-48b1-8067-d56666130303",
         "date_posted": 1760367075,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1760367437,
@@ -28846,5 +28846,128 @@
         "date_posted": 1760368106,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "4111e6c0-b494-4c0a-a3bd-c2361bf7fb4a",
+        "title": "Software Engineer 1 - Remote Assist",
+        "active": true,
+        "date_updated": 1760385199,
+        "date_posted": 1760385199,
+        "url": "https://aurora.tech/jobs/8209480002?gh_jid=8209480002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "11a24614-aae6-401d-b591-ee36aef2bd4c",
+        "title": "Software Engineer 1 - Remote Assist",
+        "active": true,
+        "date_updated": 1760385202,
+        "date_posted": 1760385202,
+        "url": "https://aurora.tech/jobs/8191750002?gh_jid=8191750002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "83414be6-2f14-4ddc-934e-e2f8b5898baf",
+        "title": "Entry Level Software Engineer - Developer",
+        "active": true,
+        "date_updated": 1760392052,
+        "date_posted": 1760392052,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025467505-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "3d02295d-8294-4340-b125-2a6c7bf22136",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1760395619,
+        "date_posted": 1760395619,
+        "url": "https://jobs.lever.co/wyetechllc/68850aff-cd40-44e9-9af0-8124ac21e930/apply",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "91d6eb05-efb8-4ee9-9eca-987fb2a77b26",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760396742,
+        "date_posted": 1760396742,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/4bc86af6-43aa-433a-bcde-e4c007823ce4/application",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Greater Toronto Area, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "81375da9-7d36-4e2a-9e8d-4fb973bf247f",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760396742,
+        "date_posted": 1760396742,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/8e6b9a39-2ef0-4016-b513-dc54a2048b6d/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
