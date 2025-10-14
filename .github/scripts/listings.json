@@ -13440,7 +13440,7 @@
         "company_name": "ZOLL Medical Corporation",
         "id": "d4e19593-9bc3-4bfa-b1cd-c46336ad40fe",
         "title": "Software Engineer I - Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1755532104,
         "date_posted": 1755532104,
         "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Broomfield-CO/Software-Engineer-I---Applications_R16057",
@@ -20733,7 +20733,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -26369,7 +26369,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -28969,5 +28969,63 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1760465226,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://arrow.wd1.myworkdayjobs.com/en-US/AC/job/IN-KA-Bangalore-India-SKAV-Seethalakshmi-GESC/Apprentice---Cloud-Infrastructure_R236670",
+        "company_name": "Arrow Electronics",
+        "title": "Apprentice - Cloud Infrastructure",
+        "locations": [
+            "Bangalore, IN"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "698c3131-0f52-4a8e-88c4-32cd4c7ccdab",
+        "date_posted": 1760451473,
+        "company_url": "",
+        "is_visible": false
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "a6b60fa5-f8a2-4947-9026-e0a8acb16efa",
+        "title": "Software Engineer I - Onsite",
+        "active": true,
+        "date_updated": 1760461253,
+        "date_posted": 1760461253,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Software-Engineer-I--Onsite-_01799291",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1760465340,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=58552",
+        "company_name": "IBM",
+        "title": "Software Developer",
+        "locations": [
+            "Lowell, MA",
+            "San Jose, CA",
+            "Austin, TX"
+        ],
+        "category": "Software Engineering",
+        "source": "GitHarsh19",
+        "id": "e3aea654-65ea-430b-8435-30ee760ae072",
+        "date_posted": 1760465340,
+        "company_url": "",
+        "is_visible": true
     }
 ]
