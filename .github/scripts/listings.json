@@ -516,7 +516,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": false,
+        "active": true,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -20468,7 +20468,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20570,7 +20570,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -20733,7 +20733,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -26369,7 +26369,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -28830,7 +28830,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760369584,
+        "date_updated": 1760481332,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
@@ -28840,7 +28840,7 @@
         "locations": [
             "McLean, VA"
         ],
-        "category": "Product Management",
+        "category": "Software Engineering",
         "source": "AlmondCroffle",
         "id": "8c4f4f71-621d-48d7-b95c-458e2320fee1",
         "date_posted": 1760368106,
@@ -29027,5 +29027,170 @@
         "date_posted": 1760465340,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "195b7fb1-c9f4-4abb-a06b-62e68bc3ce4c",
+        "title": "Associate \u2013 New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1760473502,
+        "date_posted": 1760473502,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223350-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Esri",
+        "id": "8a1f8411-6a7a-41fb-9af1-da4beb2e18f1",
+        "title": "Java Software Engineer I",
+        "active": true,
+        "date_updated": 1760473324,
+        "date_posted": 1760473324,
+        "url": "https://www.esri.com/careers/4728895007?gh_jid=4728895007",
+        "locations": [
+            "West Redlands, Redlands, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Esri",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Credit Acceptance Careers",
+        "id": "827f0ce0-ab85-465b-89a1-815b0df76eb4",
+        "title": "Software Engineer I - Engineering",
+        "active": true,
+        "date_updated": 1760475230,
+        "date_posted": 1760475230,
+        "url": "https://creditacceptance.wd5.myworkdayjobs.com/en-US/Credit_Acceptance/job/Michigan--Southfield-Office/Software-Engineer-I--Engineering_R13134",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/1ba6d017-f1e1-44ac-af01-0ac2a47a6803",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "7b37bddf-4662-466d-9f54-3044feac8f6e",
+        "title": "Software Developer \u2013 2026 Grads",
+        "active": true,
+        "date_updated": 1760474895,
+        "date_posted": 1760474895,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/Software-Developer---2026-Grads_R029193",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "mthree",
+        "id": "f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1760473791,
+        "date_posted": 1760473791,
+        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mthree",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "cad3e332-fd1e-4aa5-9152-348f0812cd98",
+        "title": "2025 Fulltime Raytheon Software Engineer I - Test Equipment - Onsite",
+        "active": true,
+        "date_updated": 1760477054,
+        "date_posted": 1760477054,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2025-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01799429",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "3d39f8ac-1b07-477e-ba27-9e224228e167",
+        "title": "Deep Learning Software Engineer \u2013 New College Grad 2025 - Inference and Model Optimization",
+        "active": true,
+        "date_updated": 1760476888,
+        "date_posted": 1760476888,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Software-Engineer--Inference-and-Model-Optimization---New-College-Grad-2025_JR2004584",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "e5e5ac5c-5851-4ec2-a6f9-e8ad1a41540d",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1760483916,
+        "date_posted": 1760483916,
+        "url": "https://careers-gdms.icims.com/jobs/68565/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
