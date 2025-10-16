@@ -20570,7 +20570,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -29310,5 +29310,64 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "24a99f74-4f12-49c0-992c-7274fafd0e46",
+        "title": "Entry Level Software Engineer-Developer - CITS Software - C++, C, Ada, C#",
+        "active": true,
+        "date_updated": 1760559262,
+        "date_posted": 1760559262,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer_JR2025467657-1",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Divergent Technologies",
+        "id": "b192eb3f-479a-4467-8761-5b5b93418ad0",
+        "title": "Software Engineer \u2013 New Grads: Fall 2025/Spring 2026",
+        "active": true,
+        "date_updated": 1760563242,
+        "date_posted": 1760563242,
+        "url": "https://job-boards.greenhouse.io/divergent/jobs/4954950008",
+        "locations": [
+            "Carson, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Divergent-TechnologiesDivergent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1760568390,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/glide/5ece3064-6884-43c2-923c-066d6187b25d",
+        "company_name": "Glide",
+        "title": "Full Stack Engineer \u2013 Early Career",
+        "locations": [
+            "New York, NY",
+            "Hybrid"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "5975c663-7367-4c03-acc7-b04055415e7d",
+        "date_posted": 1760568390,
+        "company_url": "",
+        "is_visible": true
     }
 ]
