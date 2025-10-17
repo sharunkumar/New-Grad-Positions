@@ -10676,7 +10676,7 @@
         "company_name": "i3",
         "id": "a0400f57-73c1-4920-8d81-a0743ce3c7cd",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1754610792,
         "date_posted": 1754610792,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job",
@@ -20419,7 +20419,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": true,
+        "active": false,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20461,7 +20461,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -26299,7 +26299,7 @@
         "company_name": "NetImpact Strategies",
         "id": "ace07096-f936-4feb-977a-eb89db502854",
         "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1759448385,
         "date_posted": 1759293070,
         "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
@@ -29504,7 +29504,7 @@
         "company_name": "Safran",
         "id": "95ba2214-0efb-46cc-ad00-4e847dfe8208",
         "title": "Junior Full-Stack Software Engineer - Geospatial AI",
-        "active": true,
+        "active": false,
         "date_updated": 1760703408,
         "date_posted": 1760703408,
         "url": "https://safransed.bamboohr.com/careers/1039/",
@@ -29516,6 +29516,46 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
+        "title": "Machine Learning Engineer 1 - Analytics, Insights, & Artificial Intelligence",
+        "active": true,
+        "date_updated": 1760715869,
+        "date_posted": 1760715869,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1451546",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Jerry",
+        "id": "1c7ef8a6-9671-484a-ad0a-a49cd0017a61",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1760719408,
+        "date_posted": 1760719408,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/9036b899-743b-4106-9357-ef6892405703/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
