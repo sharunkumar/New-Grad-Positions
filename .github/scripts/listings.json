@@ -14317,7 +14317,7 @@
         "company_name": "Applied Intuition",
         "id": "92337de8-0b22-4877-aba2-7825ff5e7917",
         "title": "Research Engineer \u2013 New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1755654113,
         "date_posted": 1755654113,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4489207005",
@@ -29848,6 +29848,88 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sigma Computing",
+        "id": "3b14d946-f1a3-4591-8149-a54cb9fbd609",
+        "title": "Software Engineer \u2013 New Grad Program",
+        "active": true,
+        "date_updated": 1760773536,
+        "date_posted": 1760773536,
+        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501719003",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sigma-Computing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
+        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760775318,
+        "date_posted": 1760775318,
+        "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
+        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760776171,
+        "date_posted": 1760776171,
+        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
+        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
+        "active": true,
+        "date_updated": 1760776181,
+        "date_posted": 1760776181,
+        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
