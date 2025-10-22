@@ -20403,7 +20403,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "0f6d0bb1-d082-4bf0-99df-257b2f6072e1",
         "title": "Software Developer \u2013 New Grad - Sprc",
-        "active": false,
+        "active": true,
         "date_updated": 1757549793,
         "date_posted": 1757549793,
         "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false",
@@ -20445,7 +20445,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "da2084e4-faca-4fb8-90c3-82fdeba3c6b1",
         "title": "Entry Level Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1757551572,
         "date_posted": 1757542243,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/job?mobile=true&needsRedirect=false",
@@ -20668,7 +20668,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -30338,5 +30338,46 @@
         "date_posted": 1761069578,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capitolis",
+        "id": "e55e0b4b-64d9-41cf-bde0-50d494620b07",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1761092610,
+        "date_posted": 1761092610,
+        "url": "https://capitolis.com/careers/job/?gh_jid=6670061003",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Capitolis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "3fcf882e-b106-447c-95fb-7b793b897e9a",
+        "title": "Junior Data Scientist - ",
+        "active": true,
+        "date_updated": 1761096036,
+        "date_posted": 1761096036,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Junior-Data-Scientist_60012560-1",
+        "locations": [
+            "London, UK",
+            "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
