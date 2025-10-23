@@ -1,22 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Cox",
-        "id": "a8f5b8eb-be6c-487f-9b83-84a4fb9fe28a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740500466,
-        "date_posted": 1740500466,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558865",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Teledyne",
         "id": "12bdc17d-bacd-4355-a17e-5c08ae7a38bf",
         "title": "Junior Research Engineer",
@@ -30856,6 +30840,42 @@
         "source": "AlmondCroffle",
         "id": "d99d9d6f-3362-4114-b89f-fcd07434fa3f",
         "date_posted": 1761218991,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761228556,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers.adobe.com/us/en/job/ADOBUSR158465EXTERNALENUS/Software-Development-Engineer",
+        "company_name": "Adobe",
+        "title": "Software Development Engineer",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "92782192-cb9c-4040-a403-a599b825a952",
+        "date_posted": 1761228556,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761236989,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.careers.microsoft.com/global/en/job/1894673/Software-Engineer",
+        "company_name": "Microsoft",
+        "title": "Software Engineer",
+        "locations": [
+            "Remond, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1cd30c6c-7bba-4173-8210-0c3fc34c38a7",
+        "date_posted": 1761236989,
         "company_url": "",
         "is_visible": true
     }
