@@ -1,102 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Teledyne",
-        "id": "12bdc17d-bacd-4355-a17e-5c08ae7a38bf",
-        "title": "Junior Research Engineer",
-        "active": false,
-        "date_updated": 1740515051,
-        "date_posted": 1740515051,
-        "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Durham-NC-TDY/Junior-Research-Engineer_REQ28389-1",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Onto Innovation",
-        "id": "34bb1875-7334-4028-8e57-fd6283e37b2f",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1740528631,
-        "date_posted": 1740528631,
-        "url": "https://onto.wd1.myworkdayjobs.com/onto_careers/job/Tucson-AZ/Software-Engineer-1_R-4313",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Onto-Innovation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Healthfirst",
-        "id": "cbce0fc3-4ecd-462b-8850-9144178409bd",
-        "title": "Technology Early Career Development Program - Full Stack Developer",
-        "active": false,
-        "date_updated": 1740528646,
-        "date_posted": 1740528646,
-        "url": "https://healthfirst.wd1.myworkdayjobs.com/healthfirst/job/Hybrid---NY/XMLNAME-2025-Technology-Early-Career-Development-Program---Full-Stack-Developer_R020017",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Healthfirst",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Wood Mackenzie",
-        "id": "07475729-6892-4070-8a63-a553fcfa9a6c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740528598,
-        "date_posted": 1740528598,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Boston-US/Software-Engineer-I_JR1383-1",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "f8f8c43c-8d56-44e9-aa13-7f887bfc39ca",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1740529389,
-        "date_posted": 1740529389,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202558007",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "KBR",
-        "id": "871e08f9-4581-4a47-84c3-662f3f14ff0c",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1740530363,
-        "date_posted": 1740530363,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Springfield-Virginia/Junior-Software-Developer_R2098967",
-        "locations": [
-            "Springfield, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Adobe",
         "id": "e6e76bc9-f0d3-4345-9a47-9133dc723ee6",
         "title": "Software Development Engineer 1",
@@ -657,22 +561,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Whoop",
-        "id": "5de1c3ac-3ffe-4fc2-bf0c-a547b5b4d15f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1741655648,
-        "date_posted": 1740529975,
-        "url": "https://jobs.lever.co/whoop/f6a52874-4099-4768-b5bb-66b211c12140/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Whoop",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -2109,23 +1997,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "National Audubon Society",
-        "id": "98c5b79d-f3e7-4260-918b-ce5bc3a58a04",
-        "title": "Junior Data Engineer",
-        "active": false,
-        "date_updated": 1741914671,
-        "date_posted": 1740529740,
-        "url": "https://audubon.wd5.myworkdayjobs.com/Audubon/job/New-York-NY/Junior-Data-Engineer_JR624",
-        "locations": [
-            "Washington, DC",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Audubon-Society",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -8122,7 +7993,7 @@
         "company_name": "mthree",
         "id": "0032aa81-0d90-454a-a690-bd48849678fe",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1755270237,
         "date_posted": 1752776889,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4406180006",
@@ -20426,7 +20297,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -22617,7 +22488,7 @@
         "company_name": "Verkada",
         "id": "83fbef63-5130-4b6e-9d70-c158753adeed",
         "title": "Embedded Software Engineer \u2013 University Graduate 2026",
-        "active": false,
+        "active": true,
         "date_updated": 1758314484,
         "date_posted": 1757122525,
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835669007",
@@ -24362,7 +24233,7 @@
         "company_name": "mthree",
         "id": "de2aa833-1aeb-4eec-b942-b25dd9ec163a",
         "title": "Junior Software Developer - Go Lang",
-        "active": true,
+        "active": false,
         "date_updated": 1758755035,
         "date_posted": 1758755035,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4604065006",
@@ -30423,7 +30294,7 @@
         ]
     },
     {
-        "date_updated": 1761209366,
+        "date_updated": 1761244889,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -30431,9 +30302,7 @@
         "company_name": "Zapier",
         "title": "Software Engineer, Backend-leaning Full Stack or Backend (Runner Team)",
         "locations": [
-            "Remote in USA",
-            "Remote in CAN",
-            "Remote Globally"
+            "Remote"
         ],
         "category": "Software Engineering",
         "source": "AlmondCroffle",
@@ -30536,7 +30405,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761211981,
+        "date_updated": 1761245215,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -30551,7 +30420,7 @@
         "id": "464f43ed-d9e1-4b22-9f15-0b32b482d844",
         "date_posted": 1761211981,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761212221,
@@ -30715,7 +30584,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761215683,
+        "date_updated": 1761250072,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -30733,7 +30602,7 @@
         "id": "9644b8cd-e6e7-41d3-8edd-35854efd7797",
         "date_posted": 1761215683,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761215879,
@@ -30772,7 +30641,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761217494,
+        "date_updated": 1761245327,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "degrees": [],
@@ -30787,7 +30656,7 @@
         "id": "9cbd7fb6-4fb2-4d80-93e9-df2c611812dd",
         "date_posted": 1761217494,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761217917,
@@ -30808,7 +30677,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761218267,
+        "date_updated": 1761252903,
         "sponsorship": "Other",
         "active": true,
         "degrees": [],
@@ -30823,7 +30692,7 @@
         "id": "16d37771-8fdf-4044-a0cd-bf628c12175f",
         "date_posted": 1761218267,
         "company_url": "",
-        "is_visible": true
+        "is_visible": false
     },
     {
         "date_updated": 1761218991,
@@ -30878,5 +30747,85 @@
         "date_posted": 1761236989,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "32314f06-2c67-40a5-abe3-6665e42b67cd",
+        "title": "2026 Graduate Software Developer - DV Commodities",
+        "active": true,
+        "date_updated": 1761249396,
+        "date_posted": 1754086272,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4592931005",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DV Trading",
+        "id": "ebce2464-8a88-4bfb-ace3-36495434337a",
+        "title": "2026 Graduate Software Developer - DV Commodities",
+        "active": true,
+        "date_updated": 1761249392,
+        "date_posted": 1754086269,
+        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589615005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DV-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "bf734b0a-be20-4c1e-ac5a-4753bcc96f11",
+        "title": "2026 Full-time - Software Engineer I - Onsite - CO",
+        "active": true,
+        "date_updated": 1761259235,
+        "date_posted": 1761259235,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "676e9f3c-e166-4409-95c3-cd96c5b4bd08",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1761265797,
+        "date_posted": 1761265797,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073",
+        "locations": [
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
