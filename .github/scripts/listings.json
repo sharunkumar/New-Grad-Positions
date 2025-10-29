@@ -19385,7 +19385,7 @@
     {
         "date_updated": 1757401781,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
         "company_name": "Verkada",
@@ -22365,7 +22365,7 @@
         "company_name": "Radiant",
         "id": "1b97d314-67da-40b1-9e94-2cac9a751f6a",
         "title": "Software Engineer \u2013 2026 New Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1758315594,
         "date_posted": 1757386034,
         "url": "https://job-boards.greenhouse.io/radiant/jobs/4606578005",
@@ -30862,7 +30862,7 @@
         "company_name": "Vermont Information Processing",
         "id": "ef2a8b85-5f94-4225-a730-1a7860825094",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1761169652,
         "date_posted": 1761169652,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/4953972007",
@@ -30875,5 +30875,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1761689168,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8136092002",
+        "company_name": "Torc Robotics",
+        "title": "Machine Learning Engineer, I - App Engine (CUDA)",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "7f38d84b-2170-413b-b2f6-ddc00ac8d73f",
+        "date_posted": 1761689168,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761689278,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.qualtrics.com/careers/us/en/job/7347811?gh_jid=7347811",
+        "company_name": "Qualtrics",
+        "title": "Software Engineer I - Customer Experience",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "60874fa9-5223-4500-80dd-8cd0e637f315",
+        "date_posted": 1761689278,
+        "company_url": "",
+        "is_visible": true
     }
 ]
