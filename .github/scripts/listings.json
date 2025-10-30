@@ -17278,7 +17278,7 @@
     {
         "date_updated": 1756905852,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -20193,7 +20193,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "0b9c09e9-ba2b-4d9c-b917-95ee6f7189ec",
         "title": "Software Engineer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757558310,
         "date_posted": 1757558310,
         "url": "https://careers-gdms.icims.com/jobs/67972/job?mobile=true&needsRedirect=false",
@@ -22261,7 +22261,7 @@
         "company_name": "Databricks",
         "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
         "title": "Data Scientist \u2013 New Grad - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1758306471,
         "date_posted": 1754705021,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
