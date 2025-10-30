@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "19f38bf7-9f66-4300-a0ce-0d3baf782090",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741061794,
-        "date_posted": 1741061794,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026766",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "7d2cbcc3-2797-432c-8e43-e26a9b43f555",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1741061789,
-        "date_posted": 1741061789,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0026883",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "6044f53c-5272-4a36-9bcc-82dc326f75fd",
-        "title": "Software Engineer I - Test",
-        "active": false,
-        "date_updated": 1741061765,
-        "date_posted": 1741061765,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Herndon-VA/Software-Engineer-I---Test_R0026900",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Cox",
         "id": "e6aafbb4-b094-4486-bfbb-8ca683084c4e",
         "title": "Software Engineer I",
@@ -20502,7 +20454,7 @@
         "company_name": "Adobe",
         "id": "65bdd31a-88b7-4679-886a-64deb5f113dc",
         "title": "2026 University Graduate - Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1761559679,
         "date_posted": 1757661263,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158623",
@@ -23924,7 +23876,7 @@
         "company_name": "IXL Learning",
         "id": "aad18883-77ff-4b1e-9af2-1688cd8d74ec",
         "title": "Software Engineer \u2013 New Grad - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1758701832,
         "date_posted": 1758701832,
         "url": "https://www.ixl.com/company/jobs?gh_jid=8182862002",
@@ -24006,7 +23958,7 @@
         "company_name": "Ciena",
         "id": "e99da8c0-784c-404e-a32b-9a4ce8a5fe59",
         "title": "New Grad Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1758754101,
         "date_posted": 1758754101,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/UK--Edinburgh---19A-Canning-St/New-Grad-Software-Engineer---UK_R029045",
@@ -24757,7 +24709,7 @@
         "company_name": "Honeywell",
         "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1759115072,
         "date_posted": 1758917853,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
@@ -27754,7 +27706,7 @@
         "company_name": "NVIDIA",
         "id": "7d96c0dc-36d6-4e45-afd4-33c4829bf1a6",
         "title": "Software Engineer \u2013 New College Grad 2025 - CAD Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1761559995,
         "date_posted": 1760072918,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
@@ -27931,7 +27883,7 @@
         "company_name": "Esri",
         "id": "259e77f9-44aa-4e06-80df-4f567fee9980",
         "title": "Software Development Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1761553783,
         "date_posted": 1760128393,
         "url": "https://www.esri.com/careers/4940766007?gh_jid=4940766007",
@@ -30909,6 +30861,78 @@
         "source": "angie-hue",
         "id": "60874fa9-5223-4500-80dd-8cd0e637f315",
         "date_posted": 1761689278,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761799404,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://morningstar.wd5.myworkdayjobs.com/en-US/Americas/job/Chicago/Associate-Quantitative-Analyst_REQ-053662-1",
+        "company_name": "Morningstar",
+        "title": "Associate Quantitative Analyst",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Quantitative Finance",
+        "source": "angie-hue",
+        "id": "b08340e7-5fa7-4920-89ee-e2cc0532e540",
+        "date_posted": 1761799404,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761799458,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://snc.wd1.myworkdayjobs.com/en-US/SNC_External_Career_Site/job/Sparks-NV/Software-Engineer-I_R0028801-1",
+        "company_name": "Sierra Nevada Coporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Sparks, NV"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "fdb75c79-d2ea-4ada-8e8c-50825f8098cf",
+        "date_posted": 1761799458,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761799523,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/rover/206facd5-3dec-45a0-a76a-189cb2397d3e/",
+        "company_name": "Rover",
+        "title": "Software Engineer I, Expansions",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "744f18fc-0e71-4426-a59b-002b2bd6ed5e",
+        "date_posted": 1761799523,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1761799588,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/extrahopnetworks/jobs/5649570004",
+        "company_name": "ExtraHop",
+        "title": "Software Engineer I",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "cfd46ed0-f61f-4a9c-aff6-03fccb4286c2",
+        "date_posted": 1761799588,
         "company_url": "",
         "is_visible": true
     }
