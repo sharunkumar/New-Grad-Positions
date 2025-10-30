@@ -117,7 +117,7 @@
         "company_name": "esri",
         "id": "80da21ce-b264-439a-a6e9-d6ba68a20436",
         "title": "Java Software Engineer I - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1741222698,
         "date_posted": 1741222698,
         "url": "https://www.esri.com/careers/4660952007?gh_jid=4660952007",
@@ -6416,7 +6416,7 @@
         "id": "799bd4d9-691b-46a8-a48f-192c6b67c921",
         "title": "Software Engineer I - Ows",
         "active": true,
-        "date_updated": 1761555933,
+        "date_updated": 1761841344,
         "date_posted": 1750977440,
         "url": "https://job-boards.greenhouse.io/openeye/jobs/8028394002",
         "locations": [
@@ -6758,7 +6758,7 @@
         "company_name": "Palantir",
         "id": "057e0386-1d1a-425c-b6a6-d6e3374a3d52",
         "title": "Software Engineer \u2013 New Grad - Defense",
-        "active": true,
+        "active": false,
         "date_updated": 1751385398,
         "date_posted": 1751385398,
         "url": "https://jobs.lever.co/palantir/18d901fc-93bb-4d18-9f04-c72031e20d79/apply",
@@ -7701,7 +7701,7 @@
         "id": "9e3271b2-bfd1-4924-80cc-6adf115fe3ac",
         "title": "College Graduates - Full-Time - Junior Quantitative Trader",
         "active": true,
-        "date_updated": 1752520276,
+        "date_updated": 1761835024,
         "date_posted": 1752520276,
         "url": "https://www.oldmissioncapital.com/careers/?gh_jid=6602920003",
         "locations": [
@@ -7709,7 +7709,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Old-Mission",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -8646,7 +8647,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1753886045,
+        "date_updated": 1761841546,
         "url": "https://mtb.wd5.myworkdayjobs.com/en-US/Campus/job/XMLNAME-2026-Technology-Development-Program---Software-Engineering_R72033",
         "company_name": "M&T Bank",
         "title": "Technology Development Program - Software Engineering",
@@ -8654,12 +8655,13 @@
             "Buffalo, NY"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "f31bd653-cebf-409f-99e7-bdbb99e9fd0b",
         "date_posted": 1753886045,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1753897889,
@@ -8698,7 +8700,7 @@
         "is_visible": false
     },
     {
-        "date_updated": 1755269424,
+        "date_updated": 1761835206,
         "url": "https://careers-lmi.icims.com/jobs/12942/junior-data-analyst---ts-sci-required/job",
         "company_name": "LMI",
         "title": "Junior Data Analyst - TS/SCI Required",
@@ -8706,12 +8708,13 @@
             "Washington, DC"
         ],
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "96761fd4-0cef-4998-a9b2-f26d93b789da",
         "date_posted": 1753901043,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1754415808,
@@ -9033,7 +9036,7 @@
         "id": "4d1aca64-b187-4f97-adcc-5824d3b20dcb",
         "title": "Software Engineer I - Java - Aws - Jsf",
         "active": false,
-        "date_updated": 1761563459,
+        "date_updated": 1761841665,
         "date_posted": 1754031804,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Java--AWS--JSF-_R-45189",
         "locations": [
@@ -11946,7 +11949,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1755241946,
+        "date_updated": 1761831242,
         "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
         "company_name": "Amazon",
         "title": "Robotics Systems Engineer, Amazon Robotics Deployment Engineering",
@@ -11956,12 +11959,13 @@
             "North Reading, MA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "5dbf87bc-ac63-4ea4-9cd1-d9b81f90f3c5",
         "date_posted": 1755241946,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755242238,
@@ -12556,7 +12560,7 @@
         "company_name": "Prosidian Consulting",
         "id": "4c21cbfb-5349-47be-ad4e-709883f9c09f",
         "title": "ITSM IT Security Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1755298264,
         "date_posted": 1755298264,
         "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999692267870",
@@ -12677,7 +12681,7 @@
         "id": "703ca800-7739-4af0-ac22-fe5aa240bd03",
         "title": "Software Engineer \u2013 University Graduate",
         "active": true,
-        "date_updated": 1761555791,
+        "date_updated": 1761842448,
         "date_posted": 1755287791,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
         "locations": [
@@ -13021,7 +13025,7 @@
         "id": "bd3b350e-b453-4e9e-b406-0b8c7cef670a",
         "title": "Software Engineer \u2013 University Graduate",
         "active": true,
-        "date_updated": 1761555836,
+        "date_updated": 1761842392,
         "date_posted": 1755532132,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
         "locations": [
@@ -13056,7 +13060,7 @@
         "id": "37d641e3-9418-41e4-b20d-0cc2e8e29feb",
         "title": "Software Engineer I - Workday Programmer - Report Writer - Eib",
         "active": true,
-        "date_updated": 1755532290,
+        "date_updated": 1761843026,
         "date_posted": 1755532290,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I--Workday-Programmer----Report-Writer--EIB_R-46062",
         "locations": [
@@ -13065,7 +13069,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Travelers",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Other",
+        "degrees": []
     },
     {
         "date_updated": 1755593486,
@@ -14720,7 +14725,7 @@
         "id": "12ad8a7e-d4bc-4d4a-ac2f-f53b894f7027",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1761555136,
+        "date_updated": 1761843075,
         "date_posted": 1755845772,
         "url": "https://job-boards.greenhouse.io/togetherai/jobs/4835292007",
         "locations": [
@@ -14966,7 +14971,7 @@
         "id": "ce0000af-49cf-4e07-ba5d-fcde698721b7",
         "title": "Software Engineer \u2013 New Grad",
         "active": false,
-        "date_updated": 1761555894,
+        "date_updated": 1761843461,
         "date_posted": 1755906591,
         "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
         "locations": [
@@ -15115,7 +15120,7 @@
         "id": "928de189-f6da-486c-b588-3c541f629575",
         "title": "2025 Fulltime - Raytheon Missile Defense Sensors Software Engineer I",
         "active": false,
-        "date_updated": 1761563527,
+        "date_updated": 1761843481,
         "date_posted": 1756141066,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2025-Fulltime---Raytheon-Missile-Defense-Sensors-Software-Engineer-I--On-site-_01788730",
         "locations": [
@@ -15310,7 +15315,7 @@
         "id": "3906bc49-1cb1-49de-873e-82ab4784de64",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1761563587,
+        "date_updated": 1761844665,
         "date_posted": 1756174818,
         "url": "https://jobs.ashbyhq.com/harvey/163860df-ae88-437d-81da-305efa554dff/application",
         "locations": [
@@ -15854,7 +15859,7 @@
         "id": "5a66fea0-ed21-475d-9798-602e067f18eb",
         "title": "Systems Security Engineer I",
         "active": true,
-        "date_updated": 1761560499,
+        "date_updated": 1761830248,
         "date_posted": 1756254133,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0028118",
         "locations": [
@@ -15872,7 +15877,7 @@
         "id": "b1c0c1f9-c373-466d-9230-5e7361962acc",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1761563678,
+        "date_updated": 1761844947,
         "date_posted": 1756259302,
         "url": "https://job-boards.greenhouse.io/valon/jobs/4409152006",
         "locations": [
@@ -16440,7 +16445,7 @@
         "id": "87cea11e-3fc8-4ec4-878f-2ff415f60149",
         "title": "Early Career Machine Learning Engineer",
         "active": true,
-        "date_updated": 1761556721,
+        "date_updated": 1761835253,
         "date_posted": 1756453223,
         "url": "https://jobs.ashbyhq.com/evenup/58e747cc-0572-4316-83c0-f112ee52e3b5/application",
         "locations": [
@@ -17152,7 +17157,7 @@
         "id": "d782e6b5-6978-407c-affa-b4c257577a5a",
         "title": "Software Engineer \u2013 New Graduate Rotational Development Program",
         "active": false,
-        "date_updated": 1761563753,
+        "date_updated": 1761845139,
         "date_posted": 1756866418,
         "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application",
         "locations": [
@@ -17412,7 +17417,7 @@
         "id": "819cf53e-93a1-4d6f-a7b7-496a8a3fee30",
         "title": "Aspire Tech Graduate Software Engineer I",
         "active": false,
-        "date_updated": 1761563803,
+        "date_updated": 1761845191,
         "date_posted": 1756949852,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Aspire-Tech-Graduate-Software-Engineer-I_R100927-1",
         "locations": [
@@ -17931,7 +17936,7 @@
         "id": "d000a238-f90b-4c63-bfb9-69725e027ef3",
         "title": "Data Scientist \u2013 Entry Level",
         "active": false,
-        "date_updated": 1761557076,
+        "date_updated": 1761835609,
         "date_posted": 1757025768,
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
         "locations": [
@@ -18204,9 +18209,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757080660,
+        "date_updated": 1761835686,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://triafed.com/jobs/?gh_jid=4890318008",
         "company_name": "Tria Federal",
@@ -18222,9 +18227,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757080716,
+        "date_updated": 1761835705,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://triafed.com/jobs/?gh_jid=4890304008",
         "company_name": "Tria Federal",
@@ -18325,7 +18330,7 @@
         "id": "c93300ae-86b9-4433-993a-03a0e316ed71",
         "title": "Aspire Tech Graduate Security Engineer I",
         "active": true,
-        "date_updated": 1761560574,
+        "date_updated": 1761830280,
         "date_posted": 1757113543,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
         "locations": [
@@ -18991,7 +18996,7 @@
         "id": "fe3b559c-6d17-46af-9a0e-d7c236c83404",
         "title": "Software Engineer I - Raytheon",
         "active": true,
-        "date_updated": 1761561090,
+        "date_updated": 1761831318,
         "date_posted": 1757366999,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01791951",
         "locations": [
@@ -19495,7 +19500,7 @@
         "id": "460df1fc-80a8-4761-8693-657bc844c1d8",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1757444743,
+        "date_updated": 1761845217,
         "date_posted": 1757444743,
         "url": "https://www.smxtech.com/careers/?gh_jid=7141321003",
         "locations": [
@@ -19504,9 +19509,7 @@
         "company_url": "https://simplify.jobs/c/Smx",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -19535,7 +19538,7 @@
         "id": "e9d56d2d-2eae-4b40-94e9-04b1b6f991a2",
         "title": "Embedded Software Engineer I",
         "active": false,
-        "date_updated": 1761561160,
+        "date_updated": 1761831351,
         "date_posted": 1757467264,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01788530-1",
         "locations": [
@@ -20417,7 +20420,7 @@
         "id": "7f173f22-a3e4-4f68-8261-66e127ed0707",
         "title": "2026 University Graduate - Data Scientist",
         "active": false,
-        "date_updated": 1761558270,
+        "date_updated": 1761835801,
         "date_posted": 1757651574,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158866",
         "locations": [
@@ -20473,7 +20476,7 @@
         "id": "04ad3078-79a3-4f41-9175-b679f60ca7aa",
         "title": "2026 University Graduate - Data Scientist",
         "active": false,
-        "date_updated": 1761558961,
+        "date_updated": 1761835883,
         "date_posted": 1757661251,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158865",
         "locations": [
@@ -20608,7 +20611,7 @@
         "id": "ca019c65-43a2-44cb-9cfa-5d0348684d94",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1761554341,
+        "date_updated": 1761845287,
         "date_posted": 1757721450,
         "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007",
         "locations": [
@@ -20747,7 +20750,7 @@
         "id": "16f0ad67-8a00-460b-886e-d1fea299b724",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1761554388,
+        "date_updated": 1761845308,
         "date_posted": 1757836746,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW100-East-Hartford-400-Main-Street-East-Hartford-CT-06118-USA/Software-Engineer-I--Onsite-_01781205",
         "locations": [
@@ -21046,7 +21049,7 @@
         "id": "4f1bc12d-5eb6-44bd-88cb-172df1486e5e",
         "title": "Raytheon Software Engineer I - Test Equipment",
         "active": true,
-        "date_updated": 1761554626,
+        "date_updated": 1761845388,
         "date_posted": 1757982271,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
         "locations": [
@@ -21104,7 +21107,7 @@
         "id": "96830d1e-2305-470c-8331-ed38089f6f47",
         "title": "Software Engineer I - Raytheon",
         "active": true,
-        "date_updated": 1761561242,
+        "date_updated": 1761831375,
         "date_posted": 1757983520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ802-RMS-AP-Bldg-802-1151-East-Hermans-Road-Building-802-Tucson-AZ-85756-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01793126",
         "locations": [
@@ -21355,9 +21358,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758014494,
+        "date_updated": 1761845481,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Associate_R0016789-1",
         "company_name": "AllianceBernstein",
@@ -21391,9 +21394,9 @@
         "is_visible": false
     },
     {
-        "date_updated": 1758014662,
+        "date_updated": 1761845462,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5585759004",
         "company_name": "Lucid Software",
@@ -21474,7 +21477,7 @@
         "id": "736a8ece-1503-44e7-adc1-9f84cbe6a904",
         "title": "Entry Level Software Engineer",
         "active": false,
-        "date_updated": 1758058362,
+        "date_updated": 1761845510,
         "date_posted": 1758058362,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Entry-Level-Software-Engineer_R57795",
         "locations": [
@@ -21483,9 +21486,7 @@
         "company_url": "https://simplify.jobs/c/MotorolaSolutions",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21494,7 +21495,7 @@
         "id": "43cdc060-d0df-432e-81b9-8643c49cc399",
         "title": "2026 Raytheon Systems Security Engineer I",
         "active": true,
-        "date_updated": 1761560626,
+        "date_updated": 1761830295,
         "date_posted": 1758063237,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ201-RMS-AP-Bldg-801-1151-East-Hermans-Road-Building-801-Tucson-AZ-85756-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Tucson--AZ_01790331",
         "locations": [
@@ -21821,7 +21822,7 @@
         "id": "b9838953-7da7-4c81-9087-732f492e4215",
         "title": "Entry Level - C Software Developer",
         "active": true,
-        "date_updated": 1761554755,
+        "date_updated": 1761845565,
         "date_posted": 1758155936,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4602555006",
         "locations": [
@@ -22095,7 +22096,7 @@
         "id": "3a0307a9-2e9f-4833-a645-4b2b93621232",
         "title": "Software Engineer I",
         "active": true,
-        "date_updated": 1761554712,
+        "date_updated": 1761845626,
         "date_posted": 1758231896,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL410-Largo-FL-MFG-7887-Bryan-Dairy-Road---Largo-FL-33777-USA/Software-Engineer-I--Onsite-_01794320",
         "locations": [
@@ -22377,7 +22378,7 @@
         "id": "e7ccdcef-3b63-4e49-8d4b-9a8ccbbaee67",
         "title": "Embedded Software Engineer \u2013 New Grad",
         "active": false,
-        "date_updated": 1761560915,
+        "date_updated": 1761831150,
         "date_posted": 1755029047,
         "url": "https://boards.greenhouse.io/appliedintuition/jobs/4592027005",
         "locations": [
@@ -22728,7 +22729,7 @@
         "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
         "title": "Software Development Engineer 1 - Engineering - Development",
         "active": true,
-        "date_updated": 1761554533,
+        "date_updated": 1761845342,
         "date_posted": 1757972597,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
         "locations": [
@@ -22746,7 +22747,7 @@
         "id": "f73dc6c7-6409-43a0-8989-af2d1393111e",
         "title": "Software Developer Engineer 1 - Front-End UI Development",
         "active": true,
-        "date_updated": 1761554598,
+        "date_updated": 1761845368,
         "date_posted": 1757977983,
         "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1326213300/?ats=successfactors",
         "locations": [
@@ -23211,7 +23212,7 @@
         "company_name": "EvenUp",
         "id": "56403aeb-9d47-4609-aa35-427e2f7f2e9a",
         "title": "Early Career Data Scientist/Economist",
-        "active": true,
+        "active": false,
         "date_updated": 1756404206,
         "date_posted": 1756404206,
         "url": "https://jobs.ashbyhq.com/evenup/4d950939-05ca-4f9c-be90-aca7f25cdfff/application",
@@ -23233,7 +23234,7 @@
         "id": "e57239b4-e628-4e6c-a96c-ed20adfbeb9a",
         "title": "Software Engineer 1 - Microservices",
         "active": true,
-        "date_updated": 1761564082,
+        "date_updated": 1761845236,
         "date_posted": 1757547893,
         "url": "https://careers.na.panasonic.com/jobs/44350?lang=en-us&icims=1",
         "locations": [
@@ -23434,7 +23435,7 @@
         "id": "e03e0a85-11c0-4948-b546-b88e158be2b5",
         "title": "Machine Learning Engineer \u2013 New Grad 2026 - Machine Learning - Nextdoor",
         "active": true,
-        "date_updated": 1761556579,
+        "date_updated": 1761836232,
         "date_posted": 1758598153,
         "url": "https://about.nextdoor.com/careers-list/?gh_jid=7264954",
         "locations": [
@@ -23703,7 +23704,7 @@
         "id": "2a4144eb-d683-41ab-aa6b-4054edea48eb",
         "title": "University Graduate - Data Scientist",
         "active": false,
-        "date_updated": 1761559562,
+        "date_updated": 1761836320,
         "date_posted": 1758666320,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R160661",
         "locations": [
@@ -24062,7 +24063,7 @@
         "id": "62507386-0c71-4d73-93df-88bea3307b27",
         "title": "Software Engineer 1 - Air & Missile Defense Software Department",
         "active": true,
-        "date_updated": 1761561288,
+        "date_updated": 1761831944,
         "date_posted": 1758763930,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01796017",
         "locations": [
@@ -24159,7 +24160,7 @@
         "id": "2568e71a-ea47-49df-897a-83e4e99d16f4",
         "title": "Systems Security Engineer 1 - Systems Security Engineering",
         "active": false,
-        "date_updated": 1761560771,
+        "date_updated": 1761830470,
         "date_posted": 1758804935,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA131-Tewksbury-MA-Bldg--1-Assabet-50-Apple-Hill-Drive-Assabet---Building-1-Tewksbury-MA-01876-USA/XMLNAME-2026-Raytheon-Systems-Security-Engineer-I---Onsite---Massachusetts_01790370",
         "locations": [
@@ -24551,7 +24552,7 @@
         "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
         "title": "Software Engineer 1",
         "active": true,
-        "date_updated": 1761561821,
+        "date_updated": 1761832099,
         "date_posted": 1758887825,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
         "locations": [
@@ -24589,7 +24590,7 @@
         "id": "d592e898-680a-4be8-99f5-718021b9ebe4",
         "title": "Data Scientist New College Grad - Multiple Teams",
         "active": true,
-        "date_updated": 1761560292,
+        "date_updated": 1761837593,
         "date_posted": 1758894862,
         "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Bachelors-Degree--Santa-Clara--CA-_R2517338",
         "locations": [
@@ -24607,7 +24608,7 @@
         "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
         "title": "Software Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1761554010,
+        "date_updated": 1761845546,
         "date_posted": 1758910882,
         "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
         "locations": [
@@ -25067,7 +25068,7 @@
         "company_name": "McDonald's",
         "id": "6a3c013b-9b7d-42f4-9de4-e1064c13e339",
         "title": "Software Engineer 1 - iOS - iOS",
-        "active": true,
+        "active": false,
         "date_updated": 1759165156,
         "date_posted": 1759165156,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?ats=successfactors",
@@ -25591,7 +25592,7 @@
         "id": "9ee2e29f-51c9-4fb7-a49f-8563043377f2",
         "title": "Software Engineer 1 - Multiple Teams",
         "active": true,
-        "date_updated": 1761561885,
+        "date_updated": 1761832214,
         "date_posted": 1759340813,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/FL915-St-Petersburg---Bldg-D-7401-22nd-Ave-N-Building-D-St-Petersburg-FL-33710-USA/Software-Engineer-I--Onsite-_01788093",
         "locations": [
@@ -25668,7 +25669,7 @@
         "company_name": "Supernova Technology",
         "id": "96cc08fe-93f9-488b-850b-b496706d6853",
         "title": "Junior Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1753741499,
         "date_posted": 1753741499,
         "url": "https://jobs.lever.co/supernovacompanies/68e224c9-e125-4e3f-9acd-065c0fc94bba/apply",
@@ -25989,7 +25990,7 @@
         "company_name": "Magnite",
         "id": "c2c02a7e-98db-4154-a198-1e15a9eb779f",
         "title": "Backend Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1759461148,
         "date_posted": 1759461148,
         "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Backend-Engineer--Entry-Level-_R-01124",
@@ -26051,7 +26052,7 @@
         "id": "e53e695b-c09a-4c3b-a76c-8c9846f1cf27",
         "title": "Software Engineer 1",
         "active": true,
-        "date_updated": 1761561949,
+        "date_updated": 1761832378,
         "date_posted": 1759471005,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01798004",
         "locations": [
@@ -26280,7 +26281,7 @@
         "id": "8d72a79c-78b3-4f4e-8a10-36e4bd8b6bd5",
         "title": "Embedded Software Engineer \u2013 New Grad - Real-Time Systems",
         "active": true,
-        "date_updated": 1759531466,
+        "date_updated": 1761832576,
         "date_posted": 1759531466,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad--Real-Time-Systems-_R029145",
         "locations": [
@@ -26289,10 +26290,7 @@
         "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -26408,7 +26406,7 @@
         "id": "be6c567d-05ad-465d-b24b-e90f8d68692b",
         "title": "Data Engineer 1",
         "active": false,
-        "date_updated": 1761560325,
+        "date_updated": 1761838559,
         "date_posted": 1759588481,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I_R202567376",
         "locations": [
@@ -26826,7 +26824,7 @@
         "id": "0a641504-4c74-476c-93e6-140bc60fc1ef",
         "title": "University Graduate - Data Scientist",
         "active": false,
-        "date_updated": 1761560392,
+        "date_updated": 1761839210,
         "date_posted": 1759825890,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R161170",
         "locations": [
@@ -27021,7 +27019,7 @@
         "id": "cbe41088-5041-4ca2-a532-3aab7b8f8188",
         "title": "Embedded Firmware Engineer I - Security",
         "active": true,
-        "date_updated": 1759905964,
+        "date_updated": 1761834156,
         "date_posted": 1759905964,
         "url": "https://aurora.tech/jobs/8170469002?gh_jid=8170469002",
         "locations": [
@@ -27030,9 +27028,7 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27041,7 +27037,7 @@
         "id": "8fb17085-75ea-4b0f-93d6-0660ed6feda5",
         "title": "Embedded Firmware Engineer I - Security",
         "active": true,
-        "date_updated": 1759905965,
+        "date_updated": 1761834244,
         "date_posted": 1759905965,
         "url": "https://aurora.tech/jobs/8201816002?gh_jid=8201816002",
         "locations": [
@@ -27050,9 +27046,7 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27061,7 +27055,7 @@
         "id": "14ce70b4-51d4-409b-b492-dfacbe2721f8",
         "title": "Embedded Firmware Engineer I - Security",
         "active": true,
-        "date_updated": 1759905964,
+        "date_updated": 1761833774,
         "date_posted": 1759905964,
         "url": "https://aurora.tech/jobs/8201817002?gh_jid=8201817002",
         "locations": [
@@ -27070,9 +27064,7 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27081,7 +27073,7 @@
         "id": "0d5f925b-a007-48bd-849f-fb3cde3632b6",
         "title": "Embedded Firmware Engineer I - Security",
         "active": true,
-        "date_updated": 1759905967,
+        "date_updated": 1761834674,
         "date_posted": 1759905967,
         "url": "https://aurora.tech/jobs/8201705002?gh_jid=8201705002",
         "locations": [
@@ -27090,9 +27082,7 @@
         "company_url": "https://simplify.jobs/c/Aurora-Innovation",
         "is_visible": true,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -27498,7 +27488,7 @@
         "id": "5b5bcdcb-ecb8-45e9-b382-27ce689ac746",
         "title": "Fixed Wing Displays Software Engineer I - Onsite",
         "active": true,
-        "date_updated": 1761562061,
+        "date_updated": 1761834475,
         "date_posted": 1760032566,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Fixed-Wing-Displays-Software-Engineer-I--Onsite-_01799192",
         "locations": [
@@ -27556,7 +27546,7 @@
         "id": "bc25fb10-2e86-40a0-a7e8-2e7d05f3b5ac",
         "title": "Software Developer \u2013 Entry Level",
         "active": true,
-        "date_updated": 1761562121,
+        "date_updated": 1761834790,
         "date_posted": 1760044720,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Sill-OK/Software-Developer---Entry-level_R-00168259",
         "locations": [
@@ -27615,7 +27605,7 @@
         "id": "0ba7509f-8cc2-424f-bb65-6898fdc2a8ac",
         "title": "Data Engineer 1",
         "active": true,
-        "date_updated": 1761562394,
+        "date_updated": 1761839225,
         "date_posted": 1760051685,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1610112",
         "locations": [
@@ -27842,7 +27832,7 @@
         "company_name": "General Motors",
         "id": "45a81101-572d-42fc-a570-1fb2c6d9a71c",
         "title": "Machine Learning Engineer \u2013 Early Career - AI Research",
-        "active": true,
+        "active": false,
         "date_updated": 1760112321,
         "date_posted": 1759904453,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
@@ -28365,7 +28355,7 @@
         "company_name": "Jerry",
         "id": "81375da9-7d36-4e2a-9e8d-4fb973bf247f",
         "title": "Software Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1760396742,
         "date_posted": 1760396742,
         "url": "https://jobs.ashbyhq.com/jerry.ai/8e6b9a39-2ef0-4016-b513-dc54a2048b6d/application",
@@ -28404,7 +28394,7 @@
         "id": "a6b60fa5-f8a2-4947-9026-e0a8acb16efa",
         "title": "Software Engineer I - Onsite",
         "active": false,
-        "date_updated": 1761562149,
+        "date_updated": 1761834961,
         "date_posted": 1760461253,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Software-Engineer-I--Onsite-_01799291",
         "locations": [
@@ -29093,9 +29083,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1760735409,
+        "date_updated": 1761839644,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/en-US/corebridgefinancial/job/TX-Houston/Entry-Level---Data-Scientist_JR2501686",
         "company_name": "Corebridge Financial",
@@ -29413,7 +29403,7 @@
         "id": "c2981a89-e31a-4a64-9ffb-529384a1de21",
         "title": "Data Engineer I",
         "active": false,
-        "date_updated": 1761563006,
+        "date_updated": 1761839773,
         "date_posted": 1760844432,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-GA/Data-Engineer-I_1606353-1",
         "locations": [
@@ -29447,7 +29437,7 @@
         "id": "3d4bcfa0-c3fd-4384-8e5f-d16503e431c2",
         "title": "Software Engineer I - Onsite",
         "active": false,
-        "date_updated": 1761562214,
+        "date_updated": 1761834992,
         "date_posted": 1760845427,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Onsite-_01801021",
         "locations": [
@@ -29701,7 +29691,7 @@
         "id": "9873b7c9-836b-4c1f-ac5a-d2e1bd8eb06b",
         "title": "Machine Learning Engineer \u2013 New Graduate",
         "active": true,
-        "date_updated": 1761563043,
+        "date_updated": 1761840103,
         "date_posted": 1761005407,
         "url": "https://revionics.com/about/careers/open-jobs?gh_jid=7172125",
         "locations": [
@@ -29877,7 +29867,7 @@
         "company_name": "Shield AI",
         "id": "93c78b5d-5ecf-4eca-a08f-9ac97eb0a260",
         "title": "Software Engineer I - Hardware Test - R3999",
-        "active": true,
+        "active": false,
         "date_updated": 1761165452,
         "date_posted": 1761165452,
         "url": "https://jobs.lever.co/shieldai/8ed6bd48-2bf0-44a2-812d-7d8a2ab6b9f0/apply",
@@ -29917,7 +29907,7 @@
         "company_name": "SMX",
         "id": "6b0e1cce-1603-4928-8862-c9be2bbf7727",
         "title": "Junior Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1761170320,
         "date_posted": 1761170320,
         "url": "https://www.smxtech.com/careers/?gh_jid=7498313003",
@@ -30008,9 +29998,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761210817,
+        "date_updated": 1761841278,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Indianapolis-IN/Junior-Data-Scientist_R1061631",
         "company_name": "AES Corporation",
@@ -30937,12 +30927,12 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761811110,
+        "date_updated": 1761848603,
         "sponsorship": "Offers Sponsorship",
         "active": true,
         "degrees": [],
         "url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation",
-        "company_name": "Annapurna Labs",
+        "company_name": "Amazon",
         "title": "Silicon & AI Systems Innovation",
         "locations": [
             "Austin, TX",
