@@ -30517,7 +30517,7 @@
     {
         "date_updated": 1761689278,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://www.qualtrics.com/careers/us/en/job/7347811?gh_jid=7347811",
         "company_name": "Qualtrics",
@@ -30966,5 +30966,60 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "date_updated": 1762178601,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57",
+        "company_name": "Citizen Health",
+        "title": "Early Career Software Engineer",
+        "locations": [
+            "San Francisco, CA",
+            "San Mateo, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "973d49c7-810f-4999-a0c7-a0221dd571d8",
+        "date_posted": 1762178601,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762178736,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://metacareers.com/jobs/2578176955882259",
+        "company_name": "Meta",
+        "title": "Data Engineer, Analytics (University Grad)",
+        "locations": [
+            "New York, NY"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "angie-hue",
+        "id": "b906fe61-e72b-4cd0-be5b-d24dd71d85d7",
+        "date_posted": 1762178736,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762178852,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://redhat.wd5.myworkdayjobs.com/en-US/jobs/job/Remote-US-NC/Associate-Software-Engineer_R-052052",
+        "company_name": "Red Hat",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote in USA"
+        ],
+        "category": "Software Engineering",
+        "source": "angie-hue",
+        "id": "a3b60e61-8524-41d1-90e0-e8d231872d7c",
+        "date_posted": 1762178852,
+        "company_url": "",
+        "is_visible": true
     }
 ]
