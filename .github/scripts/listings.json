@@ -30968,9 +30968,9 @@
         ]
     },
     {
-        "date_updated": 1762178601,
+        "date_updated": 1762244136,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/Citizen%20Health/0f4048fa-da35-4112-9166-123440a2cb57",
         "company_name": "Citizen Health",
@@ -31319,7 +31319,7 @@
         "company_name": "RTX",
         "id": "c3b49ba9-cbf6-47c6-83f0-7f41baea1c1f",
         "title": "Embedded Software Engineer 1 - Embedded Software - MBSE",
-        "active": true,
+        "active": false,
         "date_updated": 1761992765,
         "date_posted": 1761992765,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HTX36-Richardson-TX-3200-E-Renner-Rd---Richardson-TX-75082-2402-USA/Embedded-Software-Engineer-I--Onsite-_01803952",
@@ -33143,6 +33143,75 @@
             "San Mateo, CA"
         ],
         "company_url": "https://simplify.jobs/c/Citizen-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "5df90d62-9b36-40cc-9472-654f58bfd160",
+        "title": "Data Engineer I",
+        "active": true,
+        "date_updated": 1762240965,
+        "date_posted": 1762240965,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IA/Data-Engineer-I_1606352-1",
+        "locations": [
+            "New Mexico",
+            "Cunningham, KS",
+            "Pennsylvania",
+            "Texas",
+            "Florida",
+            "Wichita, KS",
+            "South Carolina",
+            "Edmond, OK",
+            "Tennessee",
+            "Minnesota",
+            "Fort Gibson, OK",
+            "Wisconsin",
+            "North Carolina",
+            "Missouri",
+            "Illinois",
+            "McKenzie, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Altice USA",
+        "id": "216daacb-dd56-400a-ab18-2451fcec8209",
+        "title": "Software Dev Engineer I",
+        "active": true,
+        "date_updated": 1762240688,
+        "date_posted": 1762240688,
+        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1340029300/?ats=successfactors",
+        "locations": [
+            "Plainview, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LexisNexis Risk Solutions",
+        "id": "42e61775-f544-4875-aabf-780ba7476d36",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1762255239,
+        "date_posted": 1762255239,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Nottingham/Software-Engineer-1_R102845",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
