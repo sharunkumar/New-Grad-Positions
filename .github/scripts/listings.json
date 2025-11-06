@@ -9635,7 +9635,7 @@
         "degrees": []
     },
     {
-        "date_updated": 1754528498,
+        "date_updated": 1762412567,
         "url": "https://careers-i3-corps.icims.com/jobs/4833/entry-level-full-stack-software-engineer/job",
         "company_name": "i3",
         "title": "Full-Stack Software Engineer",
@@ -9643,12 +9643,13 @@
             "Hunstville, AL"
         ],
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "10757e82-0f1f-47cc-9dba-a04229089139",
         "date_posted": 1754528498,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1755041580,
@@ -17242,9 +17243,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756975605,
+        "date_updated": 1762413832,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Minnetonka-MN-USA/Early-Careers-Rotational-Program---R-D-Engineer--AI-_250003743-1",
         "company_name": "VIAVI",
@@ -17409,9 +17410,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1756981921,
+        "date_updated": 1762413706,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bonterra.wd1.myworkdayjobs.com/en-US/bonterratech/job/Remote-United-States/EA-Data-Engineer-I--Services_R2025-0310",
         "company_name": "Bonterra",
@@ -17824,9 +17825,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757080975,
+        "date_updated": 1762413450,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/pditechnologies/dabd35a1-a15f-4702-8beb-f4c5d6a3d837",
         "company_name": "PDI Technologies",
@@ -18991,9 +18992,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1757404344,
+        "date_updated": 1762411909,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job",
         "company_name": "Peraton",
@@ -29097,9 +29098,9 @@
         ]
     },
     {
-        "date_updated": 1760994357,
+        "date_updated": 1762411356,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/Rose%20Rocket/c074b14e-ebe0-4a14-beb2-1419eca9d447/application",
         "company_name": "Roserocket",
@@ -30566,9 +30567,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761863747,
+        "date_updated": 1762411317,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-gdms.icims.com/jobs/68894/sda-software-engineer-%E2%80%93-entry-level/job",
         "company_name": "General Dynamics Mission Systems",
@@ -30602,9 +30603,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761863806,
+        "date_updated": 1762411243,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Software-Developer-Associate---TS-SCI-w-Poly_RQ209620",
         "company_name": "General Dynamics Information Technology",
@@ -33194,9 +33195,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762270273,
+        "date_updated": 1762411224,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Senior-Programmer-Analyst_R2671",
         "company_name": "Redstone Federal Credit Union",
@@ -33212,9 +33213,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1762270182,
+        "date_updated": 1762411213,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Assoc-Engineer--Software_REQ338499",
         "company_name": "T-Mobile",
@@ -33815,9 +33816,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1762368759,
+        "date_updated": 1762411197,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Annapolis-Junction/Junior-Software-Engineer_319292-1",
         "company_name": "CACI",
@@ -34003,7 +34004,7 @@
         "company_name": "Cox",
         "id": "0353ba8a-aaed-4fa7-934f-51e284c0970a",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762386626,
         "date_posted": 1762386626,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202569267",
