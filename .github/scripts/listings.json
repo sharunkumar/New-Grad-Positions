@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "company_name": "Jerry",
-        "id": "a711364b-832c-4ada-af6d-b5dfc5682786",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742009017,
-        "date_posted": 1742009017,
-        "url": "https://jobs.ashbyhq.com/Jerry/4e64a103-5ac4-4456-923e-a877e47ffdda/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "fa3ffb85-7489-42f4-bbf6-e6037d710ca3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742009078,
-        "date_posted": 1742009078,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560209",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "company_name": "Cox",
-        "id": "b805d6ce-d320-4841-b839-0c861039f2f7",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1742009075,
-        "date_posted": 1742009075,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202560208",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "company_name": "Leidos",
         "id": "0744419e-63d3-44f5-8bba-a7e598dcc141",
         "title": "Entry Level Software Engineer",
@@ -19139,7 +19091,7 @@
         "company_name": "Sev1Tech",
         "id": "2b4cf532-79fe-4bbb-9791-86672e13481c",
         "title": "Software Developer \u2013 Entry Level",
-        "active": false,
+        "active": true,
         "date_updated": 1757554446,
         "date_posted": 1757554446,
         "url": "https://careers-sev1tech.icims.com/jobs/9092/job?mobile=true&needsRedirect=false",
@@ -19302,7 +19254,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -27706,7 +27658,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "d8575087-4761-455e-81d5-76128b7545eb",
         "title": "Entry Level Infrastructure Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1760520636,
         "date_posted": 1760520636,
         "url": "https://careers-gdms.icims.com/jobs/68517/job?mobile=true&needsRedirect=false",
@@ -31892,7 +31844,7 @@
         "company_name": "Falconwood",
         "id": "9d0d22a0-23b9-4e83-811e-24ce734f2894",
         "title": "Data Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762186584,
         "date_posted": 1757631601,
         "url": "https://careers-falconwood.icims.com/jobs/1672/job?mobile=true&needsRedirect=false",
@@ -34002,7 +33954,7 @@
         "company_name": "CoStar Group",
         "id": "62086d7b-7c04-4dec-8a8b-8559b1f9c128",
         "title": "Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1762620536,
         "date_posted": 1762620536,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I_R37764",
@@ -34101,6 +34053,24 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McDonald's",
+        "id": "b05a4f89-0ec5-4c84-bc93-529f64173985",
+        "title": "Full Stack Engineer 1",
+        "active": true,
+        "date_updated": 1762742164,
+        "date_posted": 1762742164,
+        "url": "https://jobs.mcdonalds.com/job/Chicago-Full-Stack-Engineer-I-IAM-IL-60607/1341509500/?ats=successfactors",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McDonald",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
