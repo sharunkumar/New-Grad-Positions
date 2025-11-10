@@ -8826,7 +8826,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1754363658,
+        "date_updated": 1762779112,
         "url": "https://lifeattiktok.com/search/7532629935644002578",
         "company_name": "TikTok",
         "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
@@ -8834,12 +8834,13 @@
             "Los Angeles, CA"
         ],
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "source": "AlmondCroffle",
         "id": "d2334f75-6d4d-4fed-a333-2b28f4515603",
         "date_posted": 1754363658,
         "company_url": "",
-        "is_visible": true
+        "is_visible": true,
+        "degrees": []
     },
     {
         "date_updated": 1754363781,
@@ -19573,7 +19574,7 @@
         "company_name": "Expedia Group",
         "id": "0414920e-9a7a-46e6-967c-320c1b558953",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757695543,
         "date_posted": 1757695543,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
@@ -29168,9 +29169,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1761553045,
+        "date_updated": 1762776289,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
+        "active": true,
         "degrees": [],
         "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591",
         "company_name": "RTX",
@@ -32658,8 +32659,8 @@
         "company_name": "McDonald's",
         "id": "d68e6692-037c-439c-8467-e1782471d327",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1762273828,
+        "active": false,
+        "date_updated": 1762779094,
         "date_posted": 1762273828,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322913300/?ats=successfactors",
         "locations": [
@@ -32676,8 +32677,8 @@
         "company_name": "McDonald's",
         "id": "b3ae3dcc-9d58-4df0-9e68-cdd089f8e648",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1762506076,
+        "active": false,
+        "date_updated": 1762779061,
         "date_posted": 1762273839,
         "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-IL-60607/1322906200/?ats=successfactors",
         "locations": [
@@ -33078,8 +33079,8 @@
         "company_name": "RTX",
         "id": "62978953-b87b-466b-a4b6-6e7dd4fd9da4",
         "title": "Software Engineer I",
-        "active": true,
-        "date_updated": 1762298778,
+        "active": false,
+        "date_updated": 1762778085,
         "date_posted": 1762298778,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/UT207-1127-West-2320-South---West-Valley-City-UT-84119-USA/Software-Engineer-I_01804302",
         "locations": [
@@ -34074,5 +34075,117 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1762771308,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7535528357414570248",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Data Platfrom TikTok BP)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "2c56bd8c-8992-403e-bf6d-64e4d7cf9a60",
+        "date_posted": 1762771308,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762771383,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://lifeattiktok.com/search/7535220808265681159",
+        "company_name": "TikTok",
+        "title": "Software Engineer Graduate (Data Arch - Data Ecosystem)",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "ecf7d091-6ed3-442e-97d9-cb9868bb3a13",
+        "date_posted": 1762771383,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762771678,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000092424475",
+        "company_name": "ServiceNow",
+        "title": "Frontend Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "efacdb64-de8f-46db-9d25-a04bf3702bac",
+        "date_posted": 1762771678,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762771910,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://rrhs.wd5.myworkdayjobs.com/RRH/job/Riedman-Campus/Software-Developer_REQ_226365",
+        "company_name": "Rochester Regional Health",
+        "title": "Software Developer",
+        "locations": [
+            "Remote",
+            "Rochester, NY"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "639df699-5bf2-42a2-ac9d-7be861e813e9",
+        "date_posted": 1762771910,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762776196,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://qualcomm.eightfold.ai/careers/job/446715361809",
+        "company_name": "Qualcomm",
+        "title": "Product Software Engineer",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "6ea9838c-48f5-4ab2-9231-f9c7cc4eb632",
+        "date_posted": 1762776196,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1762776405,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/San-Leandro-California-United-States-of-America/Software-Developer-Graduate--US_R011626",
+        "company_name": "AVEVA",
+        "title": "Software Developer Graduate",
+        "locations": [
+            "San Leandro, CA",
+            "Lake Forest, CA",
+            "Scottsdale, AZ",
+            "Philadelphia, PA"
+        ],
+        "category": "Software Engineering",
+        "source": "DereC4",
+        "id": "282577e0-c3e6-4340-b5ef-895b53022095",
+        "date_posted": 1762776405,
+        "company_url": "",
+        "is_visible": true
     }
 ]
