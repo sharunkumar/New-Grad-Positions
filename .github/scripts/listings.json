@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Affirm",
-        "id": "004ee5c4-9eb4-4f8e-ac9f-649677226c18",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1747274690,
-        "date_posted": 1747274690,
-        "url": "https://job-boards.greenhouse.io/affirm/jobs/6570371003",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Affirm",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Amentum",
         "id": "4573ee25-77c1-49ef-99cb-80acb1f18ebe",
