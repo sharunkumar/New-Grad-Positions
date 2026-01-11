@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Credit Genie",
-        "id": "e77949b5-9580-43ad-a54d-4049719357ac",
-        "title": "New Grad-Data Scientist - Cmu",
-        "active": false,
-        "date_updated": 1747418407,
-        "date_posted": 1747418407,
-        "url": "https://jobs.ashbyhq.com/creditgenie/256ab050-e0a8-4192-a9bd-0c635adb2a61/application",
-        "locations": [
-            "Conshohocken, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Credit-Genie",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Esri",
         "id": "4386ad33-6282-48ed-8f6c-e5cd45f12e04",
@@ -91762,7 +91745,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "53bd44b1-ca36-45a5-a3fd-c8377fe45574",
         "title": "Quantitative Strategy Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1763232652,
         "date_posted": 1757793162,
         "url": "https://careers-sig.icims.com/jobs/9531/job?mobile=true&needsRedirect=false",
