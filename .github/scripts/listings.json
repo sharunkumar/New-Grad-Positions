@@ -90817,7 +90817,7 @@
         "company_name": "Fidelity National Financial",
         "id": "75713ae8-9fca-469c-904d-eb1a3430a359",
         "title": "Imaging Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1763191560,
         "date_posted": 1763162169,
         "url": "https://careers-fnf.icims.com/jobs/3210/job?mobile=true&needsRedirect=false",
@@ -145798,7 +145798,7 @@
         "company_name": "Sysmex",
         "id": "c1fba69e-d208-4604-914c-d6ea1dc22ef6",
         "title": "Field Service Technician - Field Service",
-        "active": false,
+        "active": true,
         "date_updated": 1767309591,
         "date_posted": 1759865260,
         "url": "https://careers-sysmex.icims.com/jobs/4486/job?mobile=true&needsRedirect=false",
@@ -159529,5 +159529,46 @@
         "degrees": [
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpusClip",
+        "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
+        "title": "Software Engineer - AI Video Agent",
+        "active": true,
+        "date_updated": 1768116363,
+        "date_posted": 1768116363,
+        "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpusClip",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "10c83b14-9176-4a4c-98ae-5b552494660e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1768118870,
+        "date_posted": 1768118870,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556643050",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
