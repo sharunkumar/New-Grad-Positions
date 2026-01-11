@@ -1,92 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics",
-        "id": "79fd1da3-151a-4655-8ce5-be37e1eae0fd",
-        "title": "Junior Front End Developer",
-        "active": false,
-        "date_updated": 1747337779,
-        "date_posted": 1747337779,
-        "url": "https://gdit.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Front-End-Developer--TS-SCI-w-Poly-_RQ199703",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "bf0a6f94-987a-42ed-947a-a95c4e54c907",
-        "title": "Software Development Engineer I - Customer Experience",
-        "active": false,
-        "date_updated": 1747339149,
-        "date_posted": 1747339149,
-        "url": "https://www.qualtrics.com/careers/us/en/job/6886016?gh_jid=6886016",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Payments",
-        "id": "be560e6d-beae-405e-b05e-5072d648cd47",
-        "title": "Mainframe Software Engineer I or Above",
-        "active": false,
-        "date_updated": 1747339511,
-        "date_posted": 1747339511,
-        "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/Columbus-Georgia-USA/Mainframe-Software-Engineer-I-or-Above_R0062116",
-        "locations": [
-            "Alpharetta, GA",
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Payments",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "cad39bbd-d18f-491a-b444-4b49c6c34165",
-        "title": "Firmware Engineer I",
-        "active": false,
-        "date_updated": 1747343837,
-        "date_posted": 1747343837,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Firmware-Engineer-I_R0027089",
-        "locations": [
-            "Lone Tree, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bombora",
-        "id": "a55a74f9-f7c0-4d07-8520-e64a55f7e850",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1747349677,
-        "date_posted": 1747349677,
-        "url": "https://bombora.com/about/bombora-careers?gh_jid=7996747002",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Bombora",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Credit Genie",
         "id": "e77949b5-9580-43ad-a54d-4049719357ac",
@@ -157405,7 +157319,7 @@
         "company_name": "Kettering Health",
         "id": "5a03fda2-3e4b-402c-915e-8b73d981c568",
         "title": "Advanced Practice Provider - Aprn or PA - Medical Informatics",
-        "active": false,
+        "active": true,
         "date_updated": 1767914318,
         "date_posted": 1757553233,
         "url": "https://careers-ketteringhealth.icims.com/jobs/57432/job?mobile=true&needsRedirect=false",
@@ -159464,7 +159378,7 @@
         "company_name": "Sainsbury's",
         "id": "30c03b2b-14f8-4d2b-972a-14d157d8e093",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1768000902,
         "date_posted": 1768000902,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045430",
