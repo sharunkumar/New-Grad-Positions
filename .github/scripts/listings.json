@@ -2,92 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "7e9050f6-f6bf-472b-92ab-403c2006db12",
-        "title": "Software Development Engineer I - Customer Experience",
-        "active": false,
-        "date_updated": 1747698840,
-        "date_posted": 1747698840,
-        "url": "https://www.qualtrics.com/careers/us/en/job/6889008?gh_jid=6889008",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "3c5e6c73-b394-459f-88ac-3bd2d8b1ab69",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1747699801,
-        "date_posted": 1747699801,
-        "url": "https://jobs.ashbyhq.com/Jerry/75040926-e7b5-464e-b837-60fbe77fa8a7/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nordson",
-        "id": "a5e95be0-c6e3-41b1-ab2e-7e272394e79a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1747699318,
-        "date_posted": 1747699318,
-        "url": "https://nordsonhcm.wd5.myworkdayjobs.com/en-US/nordsoncareers/job/USA---California---Carlsbad/Software-Engineer-I_REQ46133",
-        "locations": [
-            "Carlsbad, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/4a6d9a5a-25c4-4585-a0d2-0a1947c56003",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "b7b42fdb-0cdf-423a-810c-aab27650fcd2",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1747701000,
-        "date_posted": 1747701000,
-        "url": "https://jobs.ashbyhq.com/Jerry/7c6f4247-f17f-4edf-9cd3-099d2263cb3a/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "ad6135de-d78b-42d7-8c7c-e1ae4e9ff086",
-        "title": "Software Engineer I - Neuro",
-        "active": false,
-        "date_updated": 1747702435,
-        "date_posted": 1747702435,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R31645-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RELX",
         "id": "0ec540d4-844b-4270-93fe-93f5cbe0cc18",
         "title": "Software Engineer I Hybrid",
@@ -16291,7 +16205,7 @@
         "company_name": "Dayton Freight Lines",
         "id": "3994d093-41d0-40c0-ab1e-c69882b901c2",
         "title": "Entry Level Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1757611606,
         "date_posted": 1757611606,
         "url": "https://careers-daytonfreight.icims.com/jobs/16714/job?mobile=true&needsRedirect=false",
@@ -45224,7 +45138,7 @@
         "company_name": "JP Morgan Chase",
         "id": "98128452-c760-49b8-a256-577e95b383ee",
         "title": "Machine Learning Scientist - Natural Language Processing - Machine Learning Center of Excellence",
-        "active": true,
+        "active": false,
         "date_updated": 1762333606,
         "date_posted": 1762333606,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680850",
@@ -46440,7 +46354,7 @@
         "company_name": "Sono-Tek Corporation",
         "id": "b40bb0c9-f655-4705-985a-206e56d73789",
         "title": "Electrical Lab Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1763131371,
         "date_posted": 1762211525,
         "url": "https://careers-councilofindustry.icims.com/jobs/4842/job?mobile=true&needsRedirect=false",
@@ -109761,7 +109675,7 @@
         "company_name": "Autodesk",
         "id": "17657ead-d77d-41ac-aad5-697080cd5695",
         "title": "Junior Product Manager - Markups and Collaborations",
-        "active": true,
+        "active": false,
         "date_updated": 1764210417,
         "date_posted": 1764210417,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---Ontario---Toronto---University-Ave/Junior-Product-manager---Markups-and-Collaborations_25WD93282-1",
@@ -112181,7 +112095,7 @@
         "company_name": "Bass Pro Shops",
         "id": "5ebd0191-ef42-479b-bd7c-f00e3b3c56e1",
         "title": "Assistant Merchant 1 Fishing Rods & Reels",
-        "active": true,
+        "active": false,
         "date_updated": 1764373796,
         "date_posted": 1764373796,
         "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Assistant-Merchant-I-Rods---Reels_R234431",
@@ -120878,7 +120792,7 @@
         "company_name": "Applied Materials",
         "id": "2c02bf48-4ead-45d3-b6b7-58378725f4b4",
         "title": "Automation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1765015508,
         "date_posted": 1765015508,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Automation-Software-Engineer--New-College-Grad--Bachelor-s--Austin--TX-_R2519059",
@@ -137091,7 +137005,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "100280c9-9300-41a5-865a-b23540a18fc6",
         "title": "Research Assistant - Electrical and Computer Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1766187227,
         "date_posted": 1766187227,
         "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---College-of-Engineering---Electrical-and-Computer-Engineering_2023955",
@@ -145072,7 +144986,7 @@
         "company_name": "Kimley-Horn",
         "id": "2085df2c-23a4-4b10-9bbe-3ffdfdb1bc87",
         "title": "Transportation Planning Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767284517,
         "date_posted": 1766013774,
         "url": "https://careers-kimley-horn.icims.com/jobs/21496/job?mobile=true&needsRedirect=false",
@@ -151638,7 +151552,7 @@
         "company_name": "Safelite",
         "id": "4f04fc0f-bbc8-476e-b7c1-496d43cf1605",
         "title": "Auto Glass Technician Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1767658124,
         "date_posted": 1767658124,
         "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/KILLEEN-TX/Auto-Glass-Technician-Trainee_JR63957",
@@ -158876,7 +158790,7 @@
         "company_name": "General Dynamics",
         "id": "862d8350-01eb-4f27-bfe8-68e96ddc6e2f",
         "title": "Entry Level Embedded Software Engineer-Ship Control",
-        "active": true,
+        "active": false,
         "date_updated": 1768001485,
         "date_posted": 1764025746,
         "url": "https://careers-gdeb.icims.com/jobs/17432/job?mobile=true&needsRedirect=false",
@@ -161770,7 +161684,7 @@
         "company_name": "Cellular Sales",
         "id": "f95b50f8-69a4-4bf3-96f9-19e8a75548d9",
         "title": "Verizon Sales Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1768300826,
         "date_posted": 1765495882,
         "url": "https://careers-cellularsales.icims.com/jobs/20859/job?mobile=true&needsRedirect=false",
@@ -162476,7 +162390,7 @@
         "company_name": "Oracle",
         "id": "035bf5b0-b62c-4b59-b0cc-d4867db47741",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768345747,
         "date_posted": 1768345747,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/321657",
@@ -164447,6 +164361,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Buxton ",
+        "id": "8fce1a2b-dd1d-426b-aa33-25b6d6dbfb36",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1768407276,
+        "date_posted": 1768407276,
+        "url": "https://ats.rippling.com/buxtoncocareers/jobs/d0620c82-5176-4a35-bc55-3984d4ca95f9",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Buxton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
