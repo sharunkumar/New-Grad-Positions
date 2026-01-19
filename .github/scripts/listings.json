@@ -2,76 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Chewy",
-        "id": "91f04375-27da-4bf9-a5ed-50a0ae8b9531",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1748051644,
-        "date_posted": 1748051644,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6709116",
-        "locations": [
-            "Boston, MA",
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "736b764d-b4c7-4e41-b630-9bfdd2abfed9",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1748051644,
-        "date_posted": 1748051644,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6713036",
-        "locations": [
-            "Boston, MA",
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "433ef2a0-9bd0-4956-bbe8-aca3c8425324",
-        "title": "Software Engineer Entry Level - UI + API Development",
-        "active": false,
-        "date_updated": 1748051514,
-        "date_posted": 1748051514,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Software-Engineer-Entry-Level---UI---API-Development_R0109733",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/664e9aa2-3c0e-4e96-9048-739e08b37a63",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "66637da9-5559-4d10-a826-072c2612f348",
-        "title": "Software Engineer I - Neuro",
-        "active": false,
-        "date_updated": 1748051373,
-        "date_posted": 1748051373,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---Neuro_R29576-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Uber",
         "id": "5b87bbd3-cdfd-41ac-bd15-7a20be73b060",
         "title": "Software Engineer I - Authorization Platform",
@@ -68749,25 +68679,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Mitsubishi UFG",
-        "id": "803e406d-cc6c-4d2e-b1ea-b629445bd34d",
-        "title": "Global Financial Crimes - Issues Management - Reporting & Data Analysis",
-        "active": false,
-        "date_updated": 1762923072,
-        "date_posted": 1748050815,
-        "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/Irving-TX/Global-Financial-Crimes--Issues-Management---Reporting---Data-Analysis--Analyst_10070365-WD",
-        "locations": [
-            "Tempe, AZ",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Mitsubishi-UFG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "LightEdge Solutions",
         "id": "88de20f3-8938-48c5-b718-52f0e1e61838",
@@ -137407,7 +137318,7 @@
         "company_name": "Centrica",
         "id": "49e912ab-fcd5-44f0-89c2-31526b748cf3",
         "title": "Graduate Commodity Trading Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1766431576,
         "date_posted": 1766431576,
         "url": "https://centrica.wd3.myworkdayjobs.com/Centrica/job/Greater-London/Graduate-Commodity-Trading-Analyst_R0080675",
@@ -144935,7 +144846,7 @@
         "company_name": "Daktronics",
         "id": "b1bc0312-5e70-4308-89eb-0b4494485643",
         "title": "Game Day Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1767309076,
         "date_posted": 1761486784,
         "url": "https://careers-daktronics.icims.com/jobs/7035/job?mobile=true&needsRedirect=false",
@@ -144992,7 +144903,7 @@
         "company_name": "Geosyntec Consultants",
         "id": "42da9aef-93e6-4373-b14f-37582d9b04ec",
         "title": "Early-Career Geologist or Hydrogeologist",
-        "active": true,
+        "active": false,
         "date_updated": 1767309913,
         "date_posted": 1762906155,
         "url": "https://careers-geosyntec.icims.com/jobs/4028/job?mobile=true&needsRedirect=false",
@@ -156735,7 +156646,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "af8ad8d0-774c-4a07-8289-53ef30990ca7",
         "title": "ASIC FPGA Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1767915301,
         "date_posted": 1765902081,
         "url": "https://careers-gdms.icims.com/jobs/70009/job?mobile=true&needsRedirect=false",
@@ -169363,6 +169274,63 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046230",
         "locations": [
             "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nutanix",
+        "id": "c64a68df-59f3-4a92-9f85-238b7baa4395",
+        "title": "Member of Technical Staff 2",
+        "active": true,
+        "date_updated": 1768778302,
+        "date_posted": 1768778302,
+        "url": "https://jobs.jobvite.com/nutanix/job/omxjzfwv?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eda813c4-270e-4ce6-b8f6-b21b0a1c93c2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1768778049,
+        "date_posted": 1768778049,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046303",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2004df2c-c93d-4fa1-b00a-1108ad84f6e4",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1768778020,
+        "date_posted": 1768778020,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046297",
+        "locations": [
+            "Solihull, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
