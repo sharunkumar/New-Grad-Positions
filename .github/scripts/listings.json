@@ -106259,7 +106259,7 @@
         "company_name": "Sinclair",
         "id": "ac660aac-d8cb-4995-91b8-4b5c2ac37350",
         "title": "Software Development Engineer - Level 1 - Direct-to-Consumer Streaming",
-        "active": true,
+        "active": false,
         "date_updated": 1764116771,
         "date_posted": 1764116771,
         "url": "https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/14900",
@@ -161766,7 +161766,7 @@
         "company_name": "Esri",
         "id": "44cbd7f7-f030-4979-8968-7b82ef270a9d",
         "title": "Software Developer 1 - Python API",
-        "active": true,
+        "active": false,
         "date_updated": 1768347292,
         "date_posted": 1768347292,
         "url": "https://www.esri.com/careers/5018509007?gh_jid=5018509007",
@@ -170217,7 +170217,7 @@
         "company_name": "General Dynamics",
         "id": "86151bb1-5f92-43c5-9542-672d6f34333e",
         "title": "Engineer 1 - Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1768875861,
         "date_posted": 1768519357,
         "url": "https://careers-gdeb.icims.com/jobs/17486/job?mobile=true&needsRedirect=false",
@@ -171033,5 +171033,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "b0255340-ba01-4035-94b0-2865cc700264",
+        "title": "Associate Software Engineer / Software Engineer",
+        "active": true,
+        "date_updated": 1768778853,
+        "date_posted": 1768778853,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Roy-UT_R10219710",
+        "locations": [
+            "Hill AFB, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
