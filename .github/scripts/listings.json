@@ -153969,7 +153969,7 @@
         "company_name": "Stellant Systems",
         "id": "b501c0b2-2c2e-4474-afab-40056fb0e544",
         "title": "Fitter",
-        "active": false,
+        "active": true,
         "date_updated": 1767803616,
         "date_posted": 1766790732,
         "url": "https://careers-stellantsystems.icims.com/jobs/1983/job?mobile=true&needsRedirect=false",
@@ -167508,7 +167508,7 @@
         "company_name": "General Dynamics",
         "id": "847bd9c6-2877-484d-8753-6c7fbaa1716c",
         "title": "Embedded Software Engineer - Embedded Software",
-        "active": false,
+        "active": true,
         "date_updated": 1768577002,
         "date_posted": 1764519974,
         "url": "https://careers-gdeb.icims.com/jobs/17551/job?mobile=true&needsRedirect=false",
@@ -171015,5 +171015,23 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2205c14e-1c73-4dd7-b46a-38ada3985914",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1768921974,
+        "date_posted": 1768921974,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046518",
+        "locations": [
+            "Brighton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
