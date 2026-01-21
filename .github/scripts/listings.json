@@ -114013,7 +114013,7 @@
         "company_name": "Qualcomm",
         "id": "3da2f12b-d440-446b-bef2-c791ec898aed",
         "title": "Software Engineer - Core Platform Test - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1764641636,
         "date_posted": 1764641636,
         "url": "https://qualcomm.eightfold.ai/careers/job/446715563394",
@@ -144903,7 +144903,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "8e331c03-3a71-4316-aa12-17df950b171a",
         "title": "Associate Financial Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1767309971,
         "date_posted": 1762531877,
         "url": "https://careers-ice.icims.com/jobs/11703/job?mobile=true&needsRedirect=false",
@@ -171055,5 +171055,23 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lucid Motors",
+        "id": "a1fd0871-80e0-40c6-9967-e1e7a63bbf2a",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1768955611,
+        "date_posted": 1753287190,
+        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4796907007",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lucid-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
