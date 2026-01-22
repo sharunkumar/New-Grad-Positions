@@ -15872,7 +15872,7 @@
         "company_name": "Expedia Group",
         "id": "0414920e-9a7a-46e6-967c-320c1b558953",
         "title": "Software Development Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1757695543,
         "date_posted": 1757695543,
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
@@ -51625,7 +51625,7 @@
         "company_name": "Lawrence Berkeley National Laboratory",
         "id": "ba98d7ee-9e82-4f54-a887-e3614ab72538",
         "title": "NESAP for Machine Learning Postdoctoral Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1761873460,
         "date_posted": 1761873460,
         "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=105335",
@@ -87035,24 +87035,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "f4ed971e-a6be-4189-bc0a-a2e7a4db1c5f",
-        "title": "Electronics Technician",
-        "active": true,
-        "date_updated": 1762911719,
-        "date_posted": 1748322710,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Cumbernauld/Electronics-Technician_REQ28794",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Jabil",
         "id": "acfe004d-ca98-4307-b835-3d8759e6a50f",
         "title": "Test Operator",
@@ -120358,7 +120340,7 @@
         "company_name": "Truist Bank",
         "id": "cb88afc8-f6d2-4739-917f-2e6ad16b9a64",
         "title": "Business Data Steward - Consumer and Small Business Banking",
-        "active": true,
+        "active": false,
         "date_updated": 1765092285,
         "date_posted": 1765092285,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465",
@@ -129721,7 +129703,7 @@
         "company_name": "Goldman Sachs",
         "id": "3988172b-5d60-465a-bdb7-9b87cd53a577",
         "title": "GBM Public - Mortgages & CLO Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1765840285,
         "date_posted": 1765840285,
         "url": "https://higher.gs.com/roles/151726",
@@ -138572,7 +138554,7 @@
         "company_name": "General Dynamics UK",
         "id": "b33cee79-2d7b-4700-9d3d-fa308bebd85a",
         "title": "Junior Systems Engineering Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1766532661,
         "date_posted": 1766532661,
         "url": "https://jobs.smartrecruiters.com/GDMSI/744000100317365",
@@ -147371,7 +147353,7 @@
         "company_name": "University of Southern California",
         "id": "b929cc29-fbb5-494f-ac27-f072b61bd3a2",
         "title": "Postdoctoral Scholar Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1764486499,
         "date_posted": 1764486499,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Downtown/Postdoctoral-Scholar-Research-Associate_REQ20165823",
@@ -150513,7 +150495,7 @@
         "company_name": "Cotiviti",
         "id": "2b8cab20-a64e-46a1-a17b-4f8b8935a643",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767655800,
         "date_posted": 1757540750,
         "url": "https://careers-cotiviti.icims.com/jobs/17318/job?mobile=true&needsRedirect=false",
@@ -153915,7 +153897,7 @@
         "company_name": "GlobalFoundries",
         "id": "a2f59ab5-5b84-43ec-973a-47e1af286568",
         "title": "Manufacturing Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1767804615,
         "date_posted": 1767804615,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Manufacturing-Operators---Up-To--5-000-Sign-On-Bonus-_JR-2504865",
@@ -154404,7 +154386,7 @@
         "company_name": "The Boeing Company",
         "id": "9d9f5b30-d5f9-4273-bfde-de0fb8106c2c",
         "title": "Software Engineer - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1767829410,
         "date_posted": 1767829410,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer---Artificial-intelligence_JR2025489368",
@@ -164247,7 +164229,7 @@
         "company_name": "Uber",
         "id": "e365fd00-a98c-4d8a-b98e-0263ebf8bbfa",
         "title": "Graduate 2026 PhD Software Engineer 2 - Consumer Structural Pricing - United States",
-        "active": true,
+        "active": false,
         "date_updated": 1768436367,
         "date_posted": 1768436367,
         "url": "https://university-uber.icims.com/jobs/153663/job?mobile=true&needsRedirect=false",
@@ -165477,7 +165459,7 @@
         "company_name": "Wash U",
         "id": "8a613aa3-73ce-48ed-8581-a84ea324d337",
         "title": "Statistical Data Analyst - Surgery",
-        "active": true,
+        "active": false,
         "date_updated": 1768493898,
         "date_posted": 1768493898,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Statistical-Data-Analyst---Surgery_JR92156",
@@ -166683,7 +166665,7 @@
         "company_name": "Northrop Grumman",
         "id": "9ef79274-4446-433e-8fd9-a478990aa930",
         "title": "Data Scientist - Melbourne FL",
-        "active": true,
+        "active": false,
         "date_updated": 1768530440,
         "date_posted": 1768530440,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Data-Scientist-1-2---Melbourne-FL_R10219591",
@@ -167950,7 +167932,7 @@
         "company_name": "Thorlabs",
         "id": "1371642f-7ee7-4ecd-9769-5e071d21d4d4",
         "title": "Photonics Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768605388,
         "date_posted": 1768605388,
         "url": "https://apply.workable.com/thorlabs/j/4E1B537611/apply",
@@ -168234,7 +168216,7 @@
         "company_name": "Qualcomm",
         "id": "0a28a005-9cfc-4500-967f-594b4bb9f829",
         "title": "Software Engineer - Platform Test - Systems Test Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1768605508,
         "date_posted": 1768605508,
         "url": "https://qualcomm.eightfold.ai/careers/job/446715660330",
@@ -168616,7 +168598,7 @@
         "company_name": "Oshkosh",
         "id": "0fe390f1-ddcc-4f10-987a-a2357ed97643",
         "title": "Software Application Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1768606889,
         "date_posted": 1768606889,
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Application-Engineer---Entry-Level_R43851",
@@ -169177,7 +169159,7 @@
         "company_name": "Sainsbury's",
         "id": "aa5e7214-a338-40ca-9202-c3be01386467",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1768691580,
         "date_posted": 1768691580,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046244",
@@ -170358,7 +170340,7 @@
         "company_name": "Hub Group",
         "id": "483c4e63-e189-4679-8627-a5ad5e920778",
         "title": "Delivery Helper",
-        "active": true,
+        "active": false,
         "date_updated": 1768901458,
         "date_posted": 1768259813,
         "url": "https://hdat.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/11122",
@@ -170845,7 +170827,7 @@
         "company_name": "KCI Technologies",
         "id": "2ede5b0f-c1be-4395-b84a-7cefcd671fff",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768922439,
         "date_posted": 1758139376,
         "url": "https://careers-kci.icims.com/jobs/7401/job?mobile=true&needsRedirect=false",
@@ -171100,7 +171082,7 @@
         "company_name": "Sainsbury's",
         "id": "7865e222-c223-42e3-a2cb-b77870ccefba",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769027811,
         "date_posted": 1769027811,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046683",
@@ -171481,7 +171463,7 @@
         "company_name": "Sainsbury's",
         "id": "8433df2d-193f-4f1a-8813-8caa361f778e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769027815,
         "date_posted": 1769027815,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046678",
@@ -171567,7 +171549,7 @@
         "company_name": "Sainsbury's",
         "id": "a0c4cbe8-bf89-457e-afa2-0829048d792b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769027814,
         "date_posted": 1769027814,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046684",
@@ -172095,7 +172077,7 @@
         "company_name": "Sainsbury's",
         "id": "d50453ea-cc51-4a24-aad3-e250c06444e2",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769027818,
         "date_posted": 1769027818,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046294",
@@ -172475,7 +172457,7 @@
         "company_name": "OpenGov",
         "id": "95d80aad-e68c-4bdc-a9ca-91ca6f886379",
         "title": "Software Engineer 1 - Boston - MA",
-        "active": true,
+        "active": false,
         "date_updated": 1769027847,
         "date_posted": 1769027847,
         "url": "https://jobs.ashbyhq.com/opengov/213a2b3c-3801-427f-ac92-3454e6263295/application",
@@ -172783,7 +172765,7 @@
         "company_name": "Vistra",
         "id": "9b789197-e953-4f00-adea-c3bc05b1719b",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1769037898,
         "date_posted": 1769037898,
         "url": "https://vst.wd5.myworkdayjobs.com/en-US/vistra_careers/job/Irving-Texas/Associate-Data-Scientist_40014566",
@@ -173107,5 +173089,184 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "W.R. Berkley",
+        "id": "fcd457ee-c8c5-4f78-af1b-daa19be278ad",
+        "title": "Associate EDI Analyst",
+        "active": true,
+        "date_updated": 1769047866,
+        "date_posted": 1769047866,
+        "url": "https://careers-berkley.icims.com/jobs/13449/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Chesterfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/WR-Berkley",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "735d6b83-4c0b-43ba-91ef-3b71141840cf",
+        "title": "Graduate Software Engineer - On-Device AI",
+        "active": true,
+        "date_updated": 1769048069,
+        "date_posted": 1769048069,
+        "url": "https://lifeattiktok.com/search/7392866498240891163",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "691d2914-24b3-4473-8d84-3ea9c6d4ee39",
+        "title": "Technical Support Engineer - Android/iOS SDK",
+        "active": true,
+        "date_updated": 1769048068,
+        "date_posted": 1769048068,
+        "url": "https://lifeattiktok.com/search/7443902253976570120",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Aurora Innovation",
+        "id": "d70d1f0a-93bf-4cd8-98bb-e6ee59283821",
+        "title": "Software Engineer 1 - Visualization",
+        "active": true,
+        "date_updated": 1769049671,
+        "date_posted": 1769049671,
+        "url": "https://aurora.tech/jobs/8372578002?gh_jid=8372578002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Aurora-Innovation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rhombus Power",
+        "id": "09a32976-621b-418d-86a9-7e653930b6a9",
+        "title": "GDELT Consultant",
+        "active": true,
+        "date_updated": 1769049455,
+        "date_posted": 1769049455,
+        "url": "https://job-boards.greenhouse.io/rhombuspower/jobs/7599864003",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rhombus-Power",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NVIDIA",
+        "id": "a2b22bf8-6138-427a-b797-486f4ec81592",
+        "title": "Research Scientist \u2013 PhD New College Grad 2026 - Human\u2011AI Perception and Interaction Research",
+        "active": true,
+        "date_updated": 1769048780,
+        "date_posted": 1769048780,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CGS Federal (Contact Government Services)",
+        "id": "c7945f1b-35b0-4255-84d7-917049e1cd8e",
+        "title": "Intelligence Analyst",
+        "active": true,
+        "date_updated": 1769048329,
+        "date_posted": 1769048329,
+        "url": "https://jobs.lever.co/cgsfederal/b6e3f88d-9460-4020-affd-c415d370607f/apply",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/CGS-Federal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "23337132-837d-483a-bb50-1dfe019575c3",
+        "title": "1&C \u2013 Instrumentation & Controls - Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1769028650,
+        "date_posted": 1769028650,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/I-C--Instrumentation---Controls--Software-Engineer_R5030229-1",
+        "locations": [
+            "Wilmington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "f4ed971e-a6be-4189-bc0a-a2e7a4db1c5f",
+        "title": "Electronics Technician",
+        "active": true,
+        "date_updated": 1763894348,
+        "date_posted": 1763894348,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Cumbernauld/Electronics-Technician_REQ28794",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
