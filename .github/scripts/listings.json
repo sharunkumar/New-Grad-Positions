@@ -2,57 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Omnicell",
-        "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1748658660,
-        "date_posted": 1748658660,
-        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4261",
-        "locations": [
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Omnicell",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "3c515a8e-4de5-425e-9abb-309c6a085216",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1748657041,
-        "date_posted": 1748657041,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6937131",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "01a1e675-6cb4-4452-a930-98a18207e857",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1748657163,
-        "date_posted": 1748657163,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Software-Engineer-I_10121473-1",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "0ded481a-71ef-48cd-ac34-ea790e58826f",
         "title": "Software Engineer I",
@@ -18921,7 +18870,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "mthree",
-        "id": "c69eca4d-3efe-46db-a9c2-5a84040d6c8b",
+        "id": "13614527-7efc-429b-ba53-e410fe62b4a0",
         "title": "Junior Software Developer - Java/Scala",
         "active": true,
         "date_updated": 1758755027,
@@ -148955,7 +148904,7 @@
         "company_name": "RTX",
         "id": "4836ddbf-d856-48ac-803a-01bb0274690a",
         "title": "Full-time Software Engineer - Software Engineer II",
-        "active": true,
+        "active": false,
         "date_updated": 1767629836,
         "date_posted": 1767629836,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-II----On-site-_01797124",
@@ -162257,7 +162206,7 @@
         "company_name": "The Hartford ",
         "id": "487ef189-e852-4127-8c0e-5d7d6b7bb91e",
         "title": "Consultant - Digital Transformation and Reporting",
-        "active": false,
+        "active": true,
         "date_updated": 1768346445,
         "date_posted": 1768346445,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644",
@@ -162944,7 +162893,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "eff9e12c-9e9a-43e4-a18d-fc2a23323edd",
         "title": "Baseball Technical Operations Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1768407276,
         "date_posted": 1768407276,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/f7e21161-975e-4dc3-adb0-3bc744df1c8f/application",
@@ -167444,7 +167393,7 @@
         "company_name": "Ciena",
         "id": "9abb3cb3-18fd-4577-a7d5-e66ae3d0ded9",
         "title": "RLS Photonics Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1768604725,
         "date_posted": 1768604725,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---New-Grad-2026_R029820",
@@ -168973,7 +168922,7 @@
         "company_name": "Qualcomm",
         "id": "0d26968d-9eb7-4cd0-bb5d-cb6ee2933e60",
         "title": "Graduate Software Engineer - Virtual Platforms - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1768835858,
         "date_posted": 1768835858,
         "url": "https://qualcomm.eightfold.ai/careers/job/446716260960",
@@ -172496,7 +172445,7 @@
         "company_name": "RTX",
         "id": "746edcaa-741e-4640-b0ec-088da455158e",
         "title": "Software Engineer 1 - C - C++",
-        "active": true,
+        "active": false,
         "date_updated": 1769028108,
         "date_posted": 1769028108,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Software-Engineer-I---C--C----Onsite-_01818412",
@@ -174530,7 +174479,7 @@
         "company_name": "Prairie View A&M University",
         "id": "2a0e3a4a-82f0-40a8-965c-06900d8a4f84",
         "title": "Postdoctoral Researcher - Pier",
-        "active": true,
+        "active": false,
         "date_updated": 1769123512,
         "date_posted": 1769123512,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Pioneering-Advanced-Materials-for-Renewable-Energy---1_R-089882-1",
@@ -177536,7 +177485,7 @@
         "company_name": "Intuit",
         "id": "c2d47493-1b6e-4d7f-acad-e64645a96152",
         "title": "Software Engineer 1 - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1769239005,
         "date_posted": 1769239005,
         "url": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
@@ -177952,7 +177901,7 @@
         "company_name": "The Boeing Company",
         "id": "8120d919-bcce-49d9-a678-7e6b283fd806",
         "title": "Systems Engineer \u2013 Associate or Mid-Level - Systems Architecture Requirements and Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1769260274,
         "date_posted": 1769260274,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntsville-AL/Systems-Engineer---Systems-Architecture-Requirements-and-Verification--Associate-or-Mid-Level-_JR2025485236-1",
@@ -178012,7 +177961,7 @@
         "company_name": "Sainsbury's",
         "id": "e807c4a4-1f61-4540-bb9f-d6cbf410a1e3",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769296211,
         "date_posted": 1769296211,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046992",
@@ -178426,5 +178375,46 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "d32a67e4-330c-497c-b8f6-bacd36ce047b",
+        "title": "Software Engineer 1 - Applications",
+        "active": true,
+        "date_updated": 1769028810,
+        "date_posted": 1769028810,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Software-Engineer-I--Applications-_6541",
+        "locations": [
+            "Simi Valley, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CLEAResult",
+        "id": "dbdfe9c5-4d91-449f-aafe-61c5fddcb15e",
+        "title": "Commercial Energy Auditor",
+        "active": true,
+        "date_updated": 1769344641,
+        "date_posted": 1769211981,
+        "url": "https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Allentown-PA---Glenlivet-Drive/Commercial-Energy-Auditor_R0016610",
+        "locations": [
+            "Pennsylvania",
+            "Allentown, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CLEAResult",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
