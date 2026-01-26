@@ -1,43 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "e39dee4b-c67a-4642-b29f-5f994f3e3bd8",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1748651902,
-        "date_posted": 1748651902,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Data-Engineer-I_1574916",
-        "locations": [
-            "California",
-            "Florida",
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vertex",
-        "id": "99231143-cfc7-4ad8-ae58-bb841a32102e",
-        "title": "Software Developer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1748653159,
-        "date_posted": 1748653159,
-        "url": "https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/Software-Developer-I_JR101131-1",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertex",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Omnicell",
         "id": "8b19b2e3-8b48-40eb-a831-c08675f7a01c",
@@ -120408,7 +120371,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Panthalassa",
-        "id": "726cf346-8813-4920-9913-bc9a0afab760",
+        "id": "3d95b5a8-4710-4c01-8c39-5323bdfc715b",
         "title": "Prototype Engineer - Electromechanical Integration",
         "active": true,
         "date_updated": 1765227686,
@@ -132001,7 +131964,7 @@
         "company_name": "Astreya",
         "id": "e378382f-8a37-49be-8494-ed2fc91e6eb6",
         "title": "Fiber Network Mapping Specialist 3",
-        "active": true,
+        "active": false,
         "date_updated": 1765978947,
         "date_posted": 1765385082,
         "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CO/Fiber-Network-Mapping-Specialist-III_R0014033",
@@ -139348,7 +139311,7 @@
         "company_name": "Sainsbury's",
         "id": "12371aaf-cff8-4615-8e58-678ea7fffbfa",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1766791000,
         "date_posted": 1766791000,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043821",
@@ -144135,7 +144098,7 @@
         "company_name": "AT&T",
         "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
         "title": "Engineering Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1766075485,
         "date_posted": 1766075485,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Engineering-Technician--Government-_R-93954-1",
@@ -162294,7 +162257,7 @@
         "company_name": "The Hartford ",
         "id": "487ef189-e852-4127-8c0e-5d7d6b7bb91e",
         "title": "Consultant - Digital Transformation and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1768346445,
         "date_posted": 1768346445,
         "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Chicago-IL/Consultant--Digital-Transformation-and-Reporting_R2623644",
@@ -167481,7 +167444,7 @@
         "company_name": "Ciena",
         "id": "9abb3cb3-18fd-4577-a7d5-e66ae3d0ded9",
         "title": "RLS Photonics Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768604725,
         "date_posted": 1768604725,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/RLS-Photonics-Software-Engineer---New-Grad-2026_R029820",
@@ -173619,7 +173582,7 @@
         "company_name": "Sainsbury's",
         "id": "5462b566-f14e-451c-bcb2-ff04820d619e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769077856,
         "date_posted": 1769077856,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046665",
@@ -175689,7 +175652,7 @@
         "company_name": "Corewell Health",
         "id": "74c19f8a-e784-4c0e-870e-eeeb827264a3",
         "title": "Encounter Data Systems Associate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1769136099,
         "date_posted": 1769136099,
         "url": "https://spectrumhealth.wd5.myworkdayjobs.com/CorewellHealthCareers/job/Grand-Rapids-MI/RA-Encounter-Data-Systems-Associate-Analyst_R201109",
@@ -178085,7 +178048,7 @@
         "company_name": "Sainsbury's",
         "id": "99c0d58f-0ef1-40a1-9384-d10c0955a2cf",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769296219,
         "date_posted": 1769296219,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046982",
@@ -178103,7 +178066,7 @@
         "company_name": "Sainsbury's",
         "id": "72777835-ee46-4813-9838-f85e420db8f1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769296220,
         "date_posted": 1769296220,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046975",
@@ -178139,7 +178102,7 @@
         "company_name": "Sainsbury's",
         "id": "0cfa7519-36cb-4111-9b26-f19c9ea5b213",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769296250,
         "date_posted": 1769296250,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046965",
@@ -178283,7 +178246,7 @@
         "company_name": "Sainsbury's",
         "id": "f83eb69f-051c-4873-9a8f-790ae14ac55d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769336743,
         "date_posted": 1769336743,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047004",
@@ -178301,7 +178264,7 @@
         "company_name": "Sainsbury's",
         "id": "849acfce-7e6e-4385-a2d6-93d59fe087f5",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769336742,
         "date_posted": 1769336742,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047005",
@@ -178309,6 +178272,157 @@
             "Swindon, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Westinghouse Electric Company",
+        "id": "fe4dfc9c-f68a-4e18-97bd-8a1907d556d7",
+        "title": "Graduate Leadership Engineer - Computer Engineering",
+        "active": true,
+        "date_updated": 1769383026,
+        "date_posted": 1769383026,
+        "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-New-Grad-Leadership-Engineer-Computer-Engineering-NC/1359127900/?ats=successfactors",
+        "locations": [
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "87e3270d-e392-4a81-a6fb-d1374302367f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769382618,
+        "date_posted": 1769382618,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047042",
+        "locations": [
+            "Dorchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "848048d6-189f-45e2-9e86-c207acb73628",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769382610,
+        "date_posted": 1769382610,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047041",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "56dce716-3fa0-48e0-be6c-57f2c84cf125",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769382614,
+        "date_posted": 1769382614,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047043",
+        "locations": [
+            "Solihull, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Westinghouse Electric Company",
+        "id": "1a1bd6ed-6946-4c6c-ba15-f9f4240f1f9c",
+        "title": "New Grad Leadership Engineer; Global Instrumentation and Controls",
+        "active": true,
+        "date_updated": 1769382670,
+        "date_posted": 1769382670,
+        "url": "https://careers.westinghousenuclear.com/job/Warrendale-New-Grad-Leadership-Engineer-Global-Instrumentatin-and-Controls-OR/1359126600/?ats=successfactors",
+        "locations": [
+            "Cranberry Twp, PA",
+            "Grove City, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "13e60cbf-a014-42bc-9dc5-b889dcafa587",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769382610,
+        "date_posted": 1769382610,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047035",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merck",
+        "id": "f31f0ee4-d1f6-467b-bb76-75685e8edc71",
+        "title": "Associate Specialist - Engineering",
+        "active": true,
+        "date_updated": 1769028750,
+        "date_posted": 1769028750,
+        "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Engineering_R379447-1",
+        "locations": [
+            "Papillion, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Merck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "f1383e72-7b8f-4e8b-a302-6c03a6bd75db",
+        "title": "Quality Inspection/Final Test 1",
+        "active": true,
+        "date_updated": 1769307042,
+        "date_posted": 1769307042,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265818",
+        "locations": [
+            "Ashland, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
