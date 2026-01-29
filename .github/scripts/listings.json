@@ -2,24 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Numeric",
-        "id": "c1940def-1b0f-4f57-8517-4b6abdb3b22a",
-        "title": "Software Engineer \u2013 Early Career",
-        "active": false,
-        "date_updated": 1755269550,
-        "date_posted": 1748918686,
-        "url": "https://jobs.ashbyhq.com/numeric/f9c9e075-7799-414f-8601-f770c0cd9061/application",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Numeric-IO",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Medtronic",
         "id": "41927ec0-6ad7-4e3b-9295-bac0476c0ad1",
         "title": "Software Engineer I",
@@ -71014,7 +70996,7 @@
         "company_name": "Akuna Capital",
         "id": "88f6eacc-4d74-4dfb-b7bf-0f4d10966a36",
         "title": "Software Engineer - Entry-Level - C++",
-        "active": false,
+        "active": true,
         "date_updated": 1757116683,
         "date_posted": 1757116683,
         "url": "https://www.akunacapital.com/job-details?gh_jid=6926191",
@@ -131517,7 +131499,7 @@
         "company_name": "NVIDIA",
         "id": "dc799011-53dd-40eb-a0b4-033ea01b7cb4",
         "title": "Research Scientist New College Grad - ML Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1765938334,
         "date_posted": 1765938334,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161",
@@ -165563,7 +165545,7 @@
         "company_name": "ABB",
         "id": "b35c2738-9b18-41db-b42b-b0a82ab922ff",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768519660,
         "date_posted": 1768519660,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dallas-Texas-United-States-of-America/Associate-Field-Application-Engineer_JR00021516",
@@ -180187,7 +180169,7 @@
         "company_name": "Canadian Tire",
         "id": "32a4d54e-3bd1-4970-8915-cb71017a4a90",
         "title": "New Graduate Rotational Program - Data Science Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1769499603,
         "date_posted": 1769499603,
         "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/XMLNAME-2026-New-Grad-Rotational-Program---Data-Science-Associate_JR155445",
@@ -181894,7 +181876,7 @@
         "company_name": "Sainsbury's",
         "id": "7d1cd309-b2ad-46a7-a716-d990242ad950",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769566595,
         "date_posted": 1769566595,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047304",
@@ -181948,7 +181930,7 @@
         "company_name": "Sainsbury's",
         "id": "b09898b4-5f15-44e3-9b5c-ddb39fc69ece",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769566341,
         "date_posted": 1769566341,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047302",
@@ -184245,5 +184227,135 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ercot",
+        "id": "342e66b2-e4dd-4370-adc6-d31b1e8aa702",
+        "title": "MMS Applications Engineer",
+        "active": true,
+        "date_updated": 1769655088,
+        "date_posted": 1769655088,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/GMS-Application-Engineer_R1983-1",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cambia Health Solutions",
+        "id": "2171d30d-c89e-4ec4-9420-ee75bbef1852",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1769654612,
+        "date_posted": 1769654612,
+        "url": "https://cambiahealth.wd1.myworkdayjobs.com/External/job/Portland-OR/Software-Development-Engineer-I_R-6269",
+        "locations": [
+            "Salt Lake City, UT",
+            "Post Falls, ID",
+            "Medford, OR",
+            "Burlington, WA",
+            "Tukwila, WA",
+            "Boise, ID",
+            "Beaverton, OR",
+            "Moscow, ID",
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambia-Health-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "62490b3e-d715-4b18-820d-6d8a95210085",
+        "title": "Mech Supply Engineer",
+        "active": true,
+        "date_updated": 1769654229,
+        "date_posted": 1769654229,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Mech-Supply-Engineer-2-3_R10221069",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equifax",
+        "id": "4b36439d-b322-42cf-8bb3-77c97317efc1",
+        "title": "Data Analyst - Rdp",
+        "active": true,
+        "date_updated": 1769654135,
+        "date_posted": 1769654135,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Atlanta---One-Atlantic-Center/Data-Analyst---RDP_J00173044",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equifax",
+        "id": "0ac8d16a-aff6-441a-8c33-c5adbfafb7d7",
+        "title": "D&a Rotational Development Program Associate",
+        "active": true,
+        "date_updated": 1769654132,
+        "date_posted": 1769654132,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/D-A-Rotational-Development-Program-Associate_J00171083",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Health",
+        "id": "e19f5ac2-caf5-469d-983c-ed753fd44eea",
+        "title": "Public Health Data Analyst",
+        "active": true,
+        "date_updated": 1769653688,
+        "date_posted": 1769653688,
+        "url": "https://trumed.wd1.myworkdayjobs.com/TMC_External_Career_Site/job/Jackson-County-Public-Health/Public-Health-Data-Analyst---Jackson-County-Health-Department----Mon-Fri--8a-4-30p-_R0016462-2",
+        "locations": [
+            "Lee's Summit, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
