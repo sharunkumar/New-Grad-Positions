@@ -27953,24 +27953,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TransMarket Group",
-        "id": "3f2d4a6f-5727-454e-8a49-8c0d435e4921",
-        "title": "Junior Quantitative Trader",
-        "active": true,
-        "date_updated": 1749015145,
-        "date_posted": 1749015145,
-        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749911007?gh_jid=4749911007",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/TransMarket-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
         "id": "861a0ca0-a8b2-43cd-bd83-1581ca871f82",
@@ -30128,7 +30110,7 @@
         "company_name": "Benchling",
         "id": "b9f3073a-1684-4ecd-963f-cb1ef2488200",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1762906040,
         "date_posted": 1762906038,
         "url": "https://boards.greenhouse.io/benchling/jobs/7386982",
@@ -37745,7 +37727,7 @@
         "company_name": "Axiom Space",
         "id": "d09e6a67-1220-4a81-aca5-9c33d05ac005",
         "title": "Lunar Terrain Vehicle - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1762906454,
         "date_posted": 1762906454,
         "url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/Lunar-Terrain-Vehicle--LTV--Software-Engineer--NASA-LTVS-Award-Contingent-_JR100297",
@@ -49813,7 +49795,7 @@
         "company_name": "Lenovo",
         "id": "2b35f1b6-c94c-4abc-b12e-b300255763e4",
         "title": "Model Development Engineer - Global Future Leaders Program 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1761907975,
         "date_posted": 1761907975,
         "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Model-Development-Engineer-Global-Future-Leaders-Program-2026/69922",
@@ -116867,7 +116849,7 @@
         "company_name": "Astranis",
         "id": "afd58e1f-48b3-4ec8-9f26-6d6662197729",
         "title": "Software Engineer - Backend - Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1764830986,
         "date_posted": 1764830986,
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4622097006",
@@ -120317,7 +120299,7 @@
         "company_name": "Oracle",
         "id": "27165788-5e71-4c5e-ab78-4feb1fed354a",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1765234106,
         "date_posted": 1765234106,
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/315615",
@@ -134387,7 +134369,7 @@
         "company_name": "Dematic",
         "id": "073dcfef-629e-4ca1-aef7-2018f1525a0d",
         "title": "Warehouse Automation Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1766100755,
         "date_posted": 1766100755,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243",
@@ -136305,7 +136287,7 @@
     {
         "date_updated": 1766402827,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/astranis/jobs/4621916006",
         "company_name": "Astranis",
@@ -148752,7 +148734,7 @@
         "company_name": "Manulife Financial",
         "id": "f813eed5-a8b2-47b7-8b6a-e87ca58f7c5b",
         "title": "Associate Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767632147,
         "date_posted": 1767632147,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Associate-Full-Stack-Software-Engineer_JR25121019-1",
@@ -149228,7 +149210,7 @@
         "company_name": "TD Bank",
         "id": "509e7ae3-a4c5-410f-99f6-ec2fc2df1882",
         "title": "Senior Salesforce Analyst - Marketing",
-        "active": true,
+        "active": false,
         "date_updated": 1767632874,
         "date_posted": 1767632874,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Senior-Salesforce-Analyst--Marketing-_R_1432667",
@@ -165365,7 +165347,7 @@
         "company_name": "NiSource",
         "id": "d562b93a-b598-4f79-80e4-7d753f497712",
         "title": "GIS Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1768519868,
         "date_posted": 1768519868,
         "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Monaca-PA-Op-Ctr/GIS-Technician_R00941773",
@@ -165817,7 +165799,7 @@
         "company_name": "Raymond James Financial",
         "id": "990ebeef-fdae-44a4-a3e6-caa05e47ca82",
         "title": "Trading Support Associate 3 - Rebalance Support",
-        "active": true,
+        "active": false,
         "date_updated": 1768519274,
         "date_posted": 1768519274,
         "url": "https://raymondjames.wd1.myworkdayjobs.com/RaymondJamesCareers/job/Saint-Petersburg-Florida---United-States/Trading-Support-Associate-III---Rebalance-Support_R-0008898-1",
@@ -175371,7 +175353,7 @@
         "company_name": "Sainsbury's",
         "id": "ab35f0f8-8e9e-47a9-a3fd-99730e7e18ae",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769134195,
         "date_posted": 1769134195,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046820",
@@ -175389,7 +175371,7 @@
         "company_name": "Sainsbury's",
         "id": "91d9ee3e-03c7-4183-ada5-e72c9ec30ec2",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769134196,
         "date_posted": 1769134196,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046821",
@@ -178171,7 +178153,7 @@
         "company_name": "Merck",
         "id": "f31f0ee4-d1f6-467b-bb76-75685e8edc71",
         "title": "Associate Specialist - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1769028750,
         "date_posted": 1769028750,
         "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Nebraska---Elkhorn/Associate-Specialist--Engineering_R379447-1",
@@ -179264,7 +179246,7 @@
         "company_name": "TD Bank",
         "id": "091b6065-473f-4602-9031-a54e3499f505",
         "title": "Product Owner 1",
-        "active": true,
+        "active": false,
         "date_updated": 1769471861,
         "date_posted": 1769471861,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Product-Owner-I_R_1467489",
@@ -186461,7 +186443,7 @@
         "company_name": "Capital One",
         "id": "9e1397b0-f3d4-4104-af3d-47f01149f04e",
         "title": "Associate \u2013 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1769733558,
         "date_posted": 1769733558,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R232956",
@@ -186753,5 +186735,146 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "KION Group",
+        "id": "dde231fe-aee5-46e0-bab8-6582656bb5f7",
+        "title": "Warehouse Automation Software Engineer",
+        "active": true,
+        "date_updated": 1769741108,
+        "date_posted": 1769741108,
+        "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243-1",
+        "locations": [
+            "Grand Rapids, MI",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/KION-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Twitch",
+        "id": "c8aa7569-ac97-45c3-99c3-bf6054f03dac",
+        "title": "Sde 1 \u2013 Creator Monetization",
+        "active": true,
+        "date_updated": 1769741157,
+        "date_posted": 1769741157,
+        "url": "https://job-boards.greenhouse.io/twitch/jobs/8397361002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Twitch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "8f747a9b-4b52-417a-9d0b-e1f750dcb692",
+        "title": "Entry Level Application Engineer - 2026 Start Date",
+        "active": true,
+        "date_updated": 1769743266,
+        "date_posted": 1769743266,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908-1",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "f77841f7-98fe-4ee3-b015-8ce6d107f1c2",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1769742261,
+        "date_posted": 1769742261,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician_WD214124",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "f5467220-0b68-4eb0-8d70-3fdc6507d26c",
+        "title": "Engineering Technician-1",
+        "active": true,
+        "date_updated": 1769742253,
+        "date_posted": 1769742253,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214126",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "7931be1f-b9f9-490f-8871-4b9efaa7be8a",
+        "title": "Engineering Technician-1",
+        "active": true,
+        "date_updated": 1769742250,
+        "date_posted": 1769742250,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214129",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Flextronics International",
+        "id": "c49eab84-4ac2-4c03-ad25-1addfcdefa22",
+        "title": "Engineering Technician-1",
+        "active": true,
+        "date_updated": 1769742199,
+        "date_posted": 1769742199,
+        "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-1_WD214475",
+        "locations": [
+            "Pflugerville, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Flextronics-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
