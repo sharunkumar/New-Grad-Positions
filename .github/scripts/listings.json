@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Truist",
-        "id": "e40eda45-74fb-49e3-bb44-1f0eeafc6957",
-        "title": "Software Engineer I / Ncino Developer",
-        "active": false,
-        "date_updated": 1749090985,
-        "date_posted": 1749090985,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA/Software-Engineer-I---nCino-Developer_R0102738",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Omnicell",
         "id": "e55927c8-69f7-49bd-b1cd-7427d9c9187b",
         "title": "Software Engineer I",
@@ -74306,7 +74289,7 @@
         "company_name": "Micron Technology",
         "id": "38c58c38-acd0-4ba8-abcd-607df413aaac",
         "title": "DRAM Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1758272753,
         "date_posted": 1755956152,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Manassas-VA----Fab-6/DRAM-Product-Engineer_JR81224",
@@ -105306,7 +105289,7 @@
         "company_name": "Stackline",
         "id": "5cba0867-9dba-4f74-ad53-b596f293ced9",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1764112457,
         "date_posted": 1764112457,
         "url": "https://job-boards.greenhouse.io/stackline/jobs/4633616005",
@@ -130066,7 +130049,7 @@
         "company_name": "Safelite",
         "id": "3775dbc6-90f2-4798-b66d-2bd95e9efaf2",
         "title": "Auto Glass Technician Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1765891542,
         "date_posted": 1765891542,
         "url": "https://belron.wd3.myworkdayjobs.com/Safelite_Careers/job/SPRINGDALE-AR/Auto-Glass-Technician-Trainee_JR63270",
@@ -131949,7 +131932,7 @@
         "company_name": "Northrop Grumman",
         "id": "4b446b39-8677-4bcb-9005-94e7620efe2b",
         "title": "Data Engineer - People Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1765989916,
         "date_posted": 1765989916,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Unknown-City/Data-Engineer-2-3---People-Analytics_R10217513",
@@ -136511,7 +136494,7 @@
         "company_name": "BlackRock",
         "id": "f8be898f-cfc3-4af8-8b6f-8d601b83a6e3",
         "title": "Associate \u2013 Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1766432116,
         "date_posted": 1766432116,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/Associate--Application-Engineer_R258341-1",
@@ -136939,7 +136922,7 @@
         "company_name": "KBR",
         "id": "9f54691d-ad41-4185-b3a8-dc9b3b8863d0",
         "title": "Software Engineer - Full Stack Entry - Mid",
-        "active": true,
+        "active": false,
         "date_updated": 1766451475,
         "date_posted": 1766451475,
         "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Software-Engineer---Full-Stack-Entry---Mid_R2116871",
@@ -171281,7 +171264,7 @@
         "company_name": "ASM International",
         "id": "334cd802-5c93-461a-ab6b-b932a9f80213",
         "title": "Engineer 1 - Software Engineering-\"Fixed-Term Contract\"",
-        "active": true,
+        "active": false,
         "date_updated": 1769029944,
         "date_posted": 1769029944,
         "url": "https://www.asm.com/open-vacancies/?gh_jid=4762705101",
@@ -181167,7 +181150,7 @@
         "company_name": "RTX",
         "id": "e1848794-c24d-41bc-b0b0-251c7eba2adf",
         "title": "2026 Full-time - Software Integration Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1769558162,
         "date_posted": 1769558162,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Integration-Engineer-I---Onsite--MA-_01819844",
@@ -182136,7 +182119,7 @@
         "company_name": "RTX",
         "id": "28206a1d-295c-4be4-8c26-3508593bc603",
         "title": "2026 Full-time - Software Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1769585995,
         "date_posted": 1769585995,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--TX-_01819777",
@@ -186694,7 +186677,7 @@
         "company_name": "Vanguard",
         "id": "8f747a9b-4b52-417a-9d0b-e1f750dcb692",
         "title": "Entry Level Application Engineer - 2026 Start Date",
-        "active": true,
+        "active": false,
         "date_updated": 1769743266,
         "date_posted": 1769743266,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Entry-Level-Application-Engineer---2026-Start-Date_168908-1",
@@ -187354,7 +187337,7 @@
         "company_name": "Sainsbury's",
         "id": "6848b14a-18b5-4d99-bcd4-5db60994846f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769785832,
         "date_posted": 1769785832,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047640",
@@ -187919,7 +187902,7 @@
         "company_name": "Sainsbury's",
         "id": "de4ea08e-5a46-41da-bc00-20f9c8fda06e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814742,
         "date_posted": 1769814742,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047678",
@@ -187937,7 +187920,7 @@
         "company_name": "Sainsbury's",
         "id": "d8f4229f-63f4-482b-826b-2be83abe518c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814762,
         "date_posted": 1769814762,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047700",
@@ -187995,7 +187978,7 @@
         "company_name": "Sainsbury's",
         "id": "87ec7980-0be9-403b-9d73-d5a980ad1599",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814766,
         "date_posted": 1769814766,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047704",
@@ -188108,7 +188091,7 @@
         "company_name": "Sainsbury's",
         "id": "26833f6f-d090-43b0-acc5-8b45c8a22f13",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814750,
         "date_posted": 1769814750,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045031",
@@ -188126,7 +188109,7 @@
         "company_name": "Sainsbury's",
         "id": "0ad330f2-f3cd-46bc-948d-066b279b6834",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814761,
         "date_posted": 1769814761,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047698",
@@ -188879,5 +188862,219 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "3fccaea6-723a-4a5a-b4b5-4893bb90a153",
+        "title": "Equipment Technician - Aptd",
+        "active": true,
+        "date_updated": 1769827034,
+        "date_posted": 1769827034,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Equipment-Technician--APTD_JR89635",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "d1f68e41-e767-45a5-81df-090a5f8ee1cf",
+        "title": "Mobile Engineering Graduate",
+        "active": true,
+        "date_updated": 1769826813,
+        "date_posted": 1769826813,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Mobile-Engineering-Graduate---2026---Austin--San-Jose--Seattle_R-98642-2",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "a2d21763-ce11-49a9-8b45-c56a88e4f385",
+        "title": "Mobile Engineering Graduate",
+        "active": true,
+        "date_updated": 1769826812,
+        "date_posted": 1769826812,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Mobile-Engineering-Graduate---2026---Austin--San-Jose--Seattle_R-98642-1",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "94abcf76-dd05-409b-a9bd-548ba4b9408a",
+        "title": "Developer - Software",
+        "active": true,
+        "date_updated": 1769826816,
+        "date_posted": 1769826816,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-I-2026--Montral_R-98560-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "8cd9b4b6-af3a-4e87-a627-4dce6a58a377",
+        "title": "Developer",
+        "active": true,
+        "date_updated": 1769826816,
+        "date_posted": 1769826816,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile-I-2026--Montral_R-98643-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "4707b2fa-67c3-499b-902a-b72d63594b62",
+        "title": "Software Development Engineering Graduate",
+        "active": true,
+        "date_updated": 1769826818,
+        "date_posted": 1769826818,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Graduate---2026---Austin--Seattle_R-98559-1",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "33be754b-bf81-433d-aaba-61e559b20fbe",
+        "title": "Developer - euse",
+        "active": true,
+        "date_updated": 1769826817,
+        "date_posted": 1769826817,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile-I-2026--Montral_R-98643-2",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "1e346158-e534-4785-9ce2-adb2fc1908ed",
+        "title": "Developer - euse",
+        "active": true,
+        "date_updated": 1769826816,
+        "date_posted": 1769826816,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels-I-2026--Montral_R-98560",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Expedia Group",
+        "id": "0d4c2199-fd1d-4153-8f15-fff0b3816e47",
+        "title": "Graduate Software Development Engineer",
+        "active": true,
+        "date_updated": 1769826815,
+        "date_posted": 1769826815,
+        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Graduate---2026---Austin--Seattle_R-98559",
+        "locations": [
+            "Seattle, WA",
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Centene",
+        "id": "25618cdb-e39c-4f82-b577-66303a6aeb9e",
+        "title": "Enterprise Platforms Product Manager",
+        "active": true,
+        "date_updated": 1769826618,
+        "date_posted": 1769826618,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Platforms-Product-Manager_1627585",
+        "locations": [
+            "North Carolina",
+            "Missouri",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
