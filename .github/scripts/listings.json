@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Comcast",
-        "id": "a4e7658a-a929-45c6-9253-9296e7897bcd",
-        "title": "Engineer 1 - Software Dev/Eng - Full Stack",
-        "active": false,
-        "date_updated": 1749191553,
-        "date_posted": 1749191553,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Engineer-1--Software-Dev-Eng-----Full-Stack_R413401",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "4478d71d-1724-4037-a8dc-0d74c18d81c6",
         "title": "Software Engineer I",
@@ -146281,7 +146264,7 @@
         "company_name": "RTX",
         "id": "8de22862-f383-4ebe-bfaf-badf9b70fa72",
         "title": "Graduate Systems Engineer - Gdp - September 2026 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1765988349,
         "date_posted": 1765988349,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR01Harlow-Essex-Kao-One-Kao-Park-Harlow-CM17-9NA/Graduate-Systems-Engineer--GDP---September-2026-Start-_01809747",
@@ -181306,7 +181289,7 @@
         "company_name": "Wells Fargo",
         "id": "7f060903-7cfe-48a8-b2bb-369a2220e426",
         "title": "Engineering Associate - Middleware & Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1769556682,
         "date_posted": 1769556682,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Middleware---Automation_R-517729-1",
@@ -185100,7 +185083,7 @@
         "company_name": "General Dynamics",
         "id": "ef97f792-c91b-44ae-95d0-ed997319c726",
         "title": "Integrated Communications Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769728414,
         "date_posted": 1769728414,
         "url": "https://careers-gdeb.icims.com/jobs/16147/job?mobile=true&needsRedirect=false",
@@ -188942,7 +188925,7 @@
         "company_name": "Centene",
         "id": "25618cdb-e39c-4f82-b577-66303a6aeb9e",
         "title": "Enterprise Platforms Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1769826618,
         "date_posted": 1769826618,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Platforms-Product-Manager_1627585",
@@ -189065,7 +189048,7 @@
         "company_name": "NextEra Energy",
         "id": "eb4cc09a-4ac0-47ae-9ef8-275dec3d3165",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1769857824,
         "date_posted": 1769857824,
         "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Data-Scientist-FL-33408/1360699900/?ats=successfactors",
@@ -189313,6 +189296,42 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047782",
         "locations": [
             "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "45dff06c-e271-4cb4-b750-00919be7562d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769929806,
+        "date_posted": 1769929806,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047809",
+        "locations": [
+            "Maidstone, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "42c7055e-6369-47d5-ad30-498fab6248f0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769929796,
+        "date_posted": 1769929796,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047808",
+        "locations": [
+            "Liverpool, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
