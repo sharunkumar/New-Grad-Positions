@@ -2,125 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Omnicell",
-        "id": "e55927c8-69f7-49bd-b1cd-7427d9c9187b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749159921,
-        "date_posted": 1749159921,
-        "url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/jobs/job/4131",
-        "locations": [
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Omnicell",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "ccaa4fb3-137f-4ce7-b7b5-a514e4564bde",
-        "title": "Software Engineer I - C++",
-        "active": false,
-        "date_updated": 1749162410,
-        "date_posted": 1749162410,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--C-------Onsite-_01740652",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "376b97b2-4585-4174-8a8f-96c650222429",
-        "title": "Hardware Engineer I",
-        "active": false,
-        "date_updated": 1749164795,
-        "date_posted": 1749164795,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I--_R33867",
-        "locations": [
-            "Lafayette, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fifth Third Bank",
-        "id": "8f892f39-ee4b-4b15-b635-682274f05a01",
-        "title": "Data Engineer I - Regulatory Reporting",
-        "active": false,
-        "date_updated": 1749165633,
-        "date_posted": 1749165633,
-        "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Data-Engineer-I---Regulatory-Reporting_R59266",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Fifth-Third-Bank",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "9d9be120-9661-444e-a7ca-085385022fd3",
-        "title": "Software Engineer I - Java",
-        "active": false,
-        "date_updated": 1749166369,
-        "date_posted": 1749166369,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01732642",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "d28356e9-a49a-4ccf-bf5b-232d2e9daa56",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1749166278,
-        "date_posted": 1749166278,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-1_R202563453",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "ae667c1a-7742-4562-97ee-c695209e879f",
-        "title": "Entry Level Software Developer",
-        "active": false,
-        "date_updated": 1749156687,
-        "date_posted": 1749156687,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Developer_R0140249",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/4310804e-f9a0-44e7-b26f-51ecd2a9237d",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Comcast",
         "id": "a4e7658a-a929-45c6-9253-9296e7897bcd",
         "title": "Engineer 1 - Software Dev/Eng - Full Stack",
@@ -134265,7 +134146,7 @@
         "company_name": "Dematic",
         "id": "073dcfef-629e-4ca1-aef7-2018f1525a0d",
         "title": "Warehouse Automation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1766100755,
         "date_posted": 1766100755,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243",
@@ -164843,7 +164724,7 @@
         "company_name": "Visa",
         "id": "f50791a2-9968-42fe-ac34-56be4839a758",
         "title": "Analyst - Merchant Data Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1768519015,
         "date_posted": 1768519015,
         "url": "https://jobs.smartrecruiters.com/Visa/744000103810770",
@@ -173823,7 +173704,7 @@
         "company_name": "Visa",
         "id": "70b9e595-1fcf-4025-8ea6-68e0de754399",
         "title": "Analyst - Merchant Data Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1769094725,
         "date_posted": 1769094725,
         "url": "https://jobs.smartrecruiters.com/Visa/744000104917365",
@@ -183147,7 +183028,7 @@
         "company_name": "Sainsbury's",
         "id": "bc8d061d-6786-4a67-babc-5ca1251507f8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769641953,
         "date_posted": 1769641953,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047416",
@@ -186636,7 +186517,7 @@
         "company_name": "KION Group",
         "id": "dde231fe-aee5-46e0-bab8-6582656bb5f7",
         "title": "Warehouse Automation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769741108,
         "date_posted": 1769741108,
         "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Atlanta-GA-United-States/Software-Engineer_JR-0083243-1",
@@ -187939,7 +187820,7 @@
         "company_name": "Sainsbury's",
         "id": "d56efc9f-28b7-4be5-9b0b-7041961e369d",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1769814750,
         "date_posted": 1769814750,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047699",
@@ -188053,7 +187934,7 @@
         "company_name": "Sainsbury's",
         "id": "3b553e33-1ebc-4dc4-9d9c-a537bc9eca47",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814754,
         "date_posted": 1769814754,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047686",
@@ -188109,7 +187990,7 @@
         "company_name": "Sainsbury's",
         "id": "0ad330f2-f3cd-46bc-948d-066b279b6834",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1769814761,
         "date_posted": 1769814761,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047698",
@@ -189282,7 +189163,7 @@
         "company_name": "Sainsbury's",
         "id": "d484d895-e525-4119-9da5-daf1a97262e3",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769872151,
         "date_posted": 1769872151,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047737",
@@ -189300,7 +189181,7 @@
         "company_name": "Sainsbury's",
         "id": "434c2420-9527-4cf0-88a7-86b2efe4e912",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769872152,
         "date_posted": 1769872152,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047759",
@@ -189318,12 +189199,120 @@
         "company_name": "Sainsbury's",
         "id": "28569661-27d6-4436-8119-da0327f08148",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769872162,
         "date_posted": 1769872162,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047754",
         "locations": [
             "Leicester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ee40e23e-e2cc-4ff6-b7b4-f114e6908d95",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769901069,
+        "date_posted": 1769901069,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047787",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d98ae0cd-74d1-4c35-8624-c6f9084b80f8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769901080,
+        "date_posted": 1769901080,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047803",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "d56aa71e-a62a-4037-a3c1-2ee36f4f2bdc",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769901072,
+        "date_posted": 1769901072,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047804",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a28d5c14-e18d-4bb5-9a50-0015edb8c000",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769901084,
+        "date_posted": 1769901084,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047788",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "952cc8f3-5f84-42cb-a468-981b9ef7f3da",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769901077,
+        "date_posted": 1769901077,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047780",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4869100d-6ce6-4ba4-b475-9c1336088f1c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769901089,
+        "date_posted": 1769901089,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047782",
+        "locations": [
+            "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
