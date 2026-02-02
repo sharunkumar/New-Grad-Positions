@@ -2,41 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "4478d71d-1724-4037-a8dc-0d74c18d81c6",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749244765,
-        "date_posted": 1749244765,
-        "url": "https://jobs.ashbyhq.com/Jerry/1ad199e1-668c-436c-8125-2ce019979fc7/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "38f288c6-281c-4954-a79b-61319230f507",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749256429,
-        "date_posted": 1749256429,
-        "url": "https://jobs.ashbyhq.com/Jerry/bf3c29df-7967-4e12-b84e-d0c725f33261/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Relativity Space",
         "id": "18a63e15-0822-4fcf-965d-19765771fb6b",
         "title": "Software Engineer I - Factory Platform",
@@ -8737,27 +8702,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Google",
-        "id": "269cf6a4-44aa-4742-9359-25f3a26316af",
-        "title": "Silicon Development Engineer \u2013 University Graduate - Frontend - PhD",
-        "active": false,
-        "date_updated": 1749490317,
-        "date_posted": 1749246223,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/108642933007098566",
-        "locations": [
-            "Madison, WI",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "date_updated": 1755716125,
@@ -169694,7 +169638,7 @@
         "company_name": "Mondelez International",
         "id": "fbf78054-74b5-40a4-886a-94087ca4e192",
         "title": "Innovation Assistant - Grenade",
-        "active": true,
+        "active": false,
         "date_updated": 1768908020,
         "date_posted": 1768260310,
         "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Birmingham-United-Kingdom/Innovation-Executive---Grenade_R-157098",
@@ -172348,7 +172292,7 @@
         "company_name": "NVIDIA",
         "id": "a2b22bf8-6138-427a-b797-486f4ec81592",
         "title": "Research Scientist \u2013 PhD New College Grad 2026 - Human\u2011AI Perception and Interaction Research",
-        "active": false,
+        "active": true,
         "date_updated": 1769048780,
         "date_posted": 1769048780,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Human-AI-Perception-and-Interaction-Research---PhD-New-College-Grad-2026_JR2011804-1",
@@ -182735,7 +182679,7 @@
         "company_name": "Clay",
         "id": "291c93ed-5b14-4d0a-ae2b-0aaa990cefee",
         "title": "GTM Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1769642298,
         "date_posted": 1769642298,
         "url": "https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03/application",
@@ -184423,7 +184367,7 @@
         "company_name": "Expedia Group",
         "id": "55515f05-f170-4987-a265-ba377eb44b64",
         "title": "Software Development Engineer 1 - Front End",
-        "active": true,
+        "active": false,
         "date_updated": 1769689751,
         "date_posted": 1769689751,
         "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineer-I_R-99742-2",
@@ -185160,7 +185104,7 @@
         "company_name": "Sainsbury's",
         "id": "7b6f9551-7118-4d22-9be3-477191c97316",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769728385,
         "date_posted": 1769728385,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047550",
@@ -185286,7 +185230,7 @@
         "company_name": "Sainsbury's",
         "id": "32eafd6c-ae19-4666-a1e2-c6e3213fd917",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769728384,
         "date_posted": 1769728384,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047578",
@@ -187803,7 +187747,7 @@
         "company_name": "Sainsbury's",
         "id": "d56efc9f-28b7-4be5-9b0b-7041961e369d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814750,
         "date_posted": 1769814750,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047699",
@@ -187973,7 +187917,7 @@
         "company_name": "Sainsbury's",
         "id": "0ad330f2-f3cd-46bc-948d-066b279b6834",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769814761,
         "date_posted": 1769814761,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047698",
@@ -189344,7 +189288,7 @@
         "company_name": "Sainsbury's",
         "id": "958a02a5-4b65-45ec-9cdb-c2cf9d180a16",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769958665,
         "date_posted": 1769958665,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047509",
@@ -189380,7 +189324,7 @@
         "company_name": "Sainsbury's",
         "id": "1b162e8a-a7f0-403b-ba18-dbecfee398b1",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1769958665,
         "date_posted": 1769958665,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047837",
@@ -189404,6 +189348,172 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047839",
         "locations": [
             "Hereford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eea95e58-b209-44d9-8927-e7f12b9e7d5a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769987491,
+        "date_posted": 1769987491,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047858",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "75567918-83ac-483b-b83b-bb02c3b337fa",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769987517,
+        "date_posted": 1769987517,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047865",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6d0e6d78-0f2c-43f7-b45a-f42bfc0e1d34",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769987508,
+        "date_posted": 1769987508,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047857",
+        "locations": [
+            "Aldershot, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "69778df0-f6f9-4467-ad57-b96f26f566a3",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769987479,
+        "date_posted": 1769987479,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047864",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "586d68ab-687d-4251-ab8b-aa2dbfed632d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1769987497,
+        "date_posted": 1769987497,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047861",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "S&P Global ",
+        "id": "030e627a-11c9-4210-878e-687e97c648d1",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1769999330,
+        "date_posted": 1769999330,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Associate-Product-Manager_324582-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Emerson Electric",
+        "id": "171192b8-94f0-4348-b386-42d897d772f7",
+        "title": "Manufacturing Software Engineer",
+        "active": true,
+        "date_updated": 1769998379,
+        "date_posted": 1769998379,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26000800",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "eb217d1a-11a2-4c36-9361-855534cc2f28",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769998256,
+        "date_posted": 1769998256,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047872",
+        "locations": [
+            "Milton Keynes, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a92a0961-cf13-4215-8413-28f962ea903e",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1769998228,
+        "date_posted": 1769998228,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047873",
+        "locations": [
+            "Milton Keynes, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
