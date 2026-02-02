@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Relativity Space",
-        "id": "18a63e15-0822-4fcf-965d-19765771fb6b",
-        "title": "Software Engineer I - Factory Platform",
-        "active": false,
-        "date_updated": 1749265082,
-        "date_posted": 1749265082,
-        "url": "https://boards.greenhouse.io/relativity/jobs/8029393002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Chewy",
         "id": "904a6d2f-35f5-4628-a253-66e50a77d8f4",
         "title": "Software Engineer I",
@@ -110936,7 +110919,7 @@
         "company_name": "Texas A&M University - Corpus Christi",
         "id": "7fa15bdb-3ecc-42aa-a8cf-fbdabc44f4ec",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1764522405,
         "date_posted": 1764522405,
         "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Postdoctoral-Research-Associate_R-089245-1",
@@ -132223,7 +132206,7 @@
         "company_name": "Mercury Insurance",
         "id": "4704348a-c61f-4253-a610-3ed6447e93c8",
         "title": "Mercury Ignite Data Science Graduate Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1766013685,
         "date_posted": 1759871674,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/5990/job?mobile=true&needsRedirect=false",
@@ -149386,7 +149369,7 @@
         "company_name": "Dell Technologies",
         "id": "8bc324e5-0b85-4e45-bfc6-29dcf1fba9bc",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1767655052,
         "date_posted": 1767655052,
         "url": "https://dell.wd1.myworkdayjobs.com/External/job/Hopkinton-Massachusetts-United-States/Software-Engineer-2_R282942-2",
@@ -150982,7 +150965,7 @@
         "company_name": "RTX",
         "id": "b65e2de0-6641-4ca3-9cba-533a4ad7ee46",
         "title": "Graduate Systems Engineer - Weapons",
-        "active": true,
+        "active": false,
         "date_updated": 1767716149,
         "date_posted": 1767716149,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/GBR01Harlow-Essex-Kao-One-Kao-Park-Harlow-CM17-9NA/Graduate-Systems-Engineer--GDP---September-2026-Start-_01813720-1",
@@ -157044,7 +157027,7 @@
         "company_name": "ASML",
         "id": "8fb7d1c9-5092-49fb-8c40-3f59a907bf1b",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1768001332,
         "date_posted": 1768001332,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Malta-NY-USA/Field-Service-Engineer_J-00331448",
@@ -160871,7 +160854,7 @@
         "company_name": "Advanced Energy",
         "id": "cdf7369b-2d81-4a7e-91a5-ac6cda184a62",
         "title": "Electronics Service Technician 2",
-        "active": true,
+        "active": false,
         "date_updated": 1768345913,
         "date_posted": 1768345913,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-II-CO-80525/1352410300/?ats=successfactors",
@@ -169100,7 +169083,7 @@
         "company_name": "The Boeing Company",
         "id": "1a9d5289-d26f-4cd8-b175-04ab9dd3dfa8",
         "title": "Associate \u2013 Mid-Level or Senior Equipment & Tool Engineer - Ircsc",
-        "active": true,
+        "active": false,
         "date_updated": 1768865525,
         "date_posted": 1768865525,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---North-Charleston-SC/Associate--Mid-Level-or-Senior-Equipment---Tool-Engineer---IRCSC_JR2026490934-2",
@@ -181799,7 +181782,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "309d1278-5da8-4c69-b939-254b37a47db3",
         "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the. - Daytona Beach Campus",
-        "active": false,
+        "active": true,
         "date_updated": 1769584450,
         "date_posted": 1769584450,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Aviation-Operations-and-Machine-Learning-AI-in-the-School-of-Graduate-Studies--Daytona-Beach-Campus_R309969",
@@ -182499,7 +182482,7 @@
         "company_name": "TD Bank",
         "id": "39acb0d0-6b91-48f5-bcc3-d27e303734da",
         "title": "Product Manager 1 - Pricing and Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1769642601,
         "date_posted": 1769642601,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Product-Manager-I--Pricing-and-Insights_R_1469208",
@@ -182602,7 +182585,7 @@
         "company_name": "American Express",
         "id": "6f0c539f-8004-4fde-8b79-da27a8d6989c",
         "title": "Associate Product Manager - AI Integrations",
-        "active": true,
+        "active": false,
         "date_updated": 1769642262,
         "date_posted": 1769642262,
         "url": "https://aexp.eightfold.ai/careers/job/39720849",
@@ -183422,7 +183405,7 @@
         "company_name": "T-Mobile",
         "id": "ffd242ea-33d6-47f6-89e4-b6d267d18d7a",
         "title": "Associate Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1769643195,
         "date_posted": 1769643195,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Assoc-Engineer--Software_REQ338082",
@@ -183442,7 +183425,7 @@
         "company_name": "T-Mobile",
         "id": "f31b366e-be88-40d4-a0d7-9e638db5fa9a",
         "title": "Assoc Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1769643188,
         "date_posted": 1769643188,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Assoc-Engineer--Software_REQ335427-1",
@@ -183462,7 +183445,7 @@
         "company_name": "T-Mobile",
         "id": "c44efd23-1cc0-4d9b-b581-38d38a26a752",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769643191,
         "date_posted": 1769643191,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Associate-Software-Engineer_REQ338143",
@@ -189519,5 +189502,168 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "c7142277-f589-4669-b7e6-315a6375df14",
+        "title": "1&C \u2013 Instrumentation & Controls - Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1769999435,
+        "date_posted": 1769999435,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/I-C--Instrumentation---Controls--Software-Engineer_R5030229-2",
+        "locations": [
+            "Wilmington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Bank of America",
+        "id": "956021e0-fb52-4672-ab62-04c9cfcdeae7",
+        "title": "Client Quantitative Analyst 1",
+        "active": true,
+        "date_updated": 1769999684,
+        "date_posted": 1769999684,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Plano/Client-Quantitative-Analyst-I_25045539-1",
+        "locations": [
+            "Plano, TX",
+            "Newark, NJ",
+            "Charlotte, NC",
+            "Fort Worth, TX",
+            "Greensboro, NC",
+            "Phoenix, AZ",
+            "Chandler, AZ",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "de685bba-4564-4f55-aac4-1acc04443e71",
+        "title": "Embedded SW Development",
+        "active": true,
+        "date_updated": 1769999384,
+        "date_posted": 1769999384,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rochester/Embedded-SW-Development_R5030299-2",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "75011aec-0d04-4917-93b6-9d818efa5653",
+        "title": "GE Vernova Advanced Research Edison Rotational Program",
+        "active": true,
+        "date_updated": 1769999518,
+        "date_posted": 1769999518,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Niskayuna/GE-Vernova-Advanced-Research-2026-Edison-Rotational-Program_R5015939-2",
+        "locations": [
+            "Schenectady, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "6357316c-ae9e-4fa9-9040-f7d0359d9ab9",
+        "title": "Engineer \u2013 Inspection Engineering-Electrical and Controls",
+        "active": true,
+        "date_updated": 1769999362,
+        "date_posted": 1769999362,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Wilmington-NC-USA/Engineer--Inspection-Engineering--Electrical-and-Controls_R5030929",
+        "locations": [
+            "Wilmington, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toshiba Global Commerce",
+        "id": "2b42533c-2309-462a-8f7b-79dfec094f38",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1769999503,
+        "date_posted": 1769999503,
+        "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5039154007",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Toshiba-Global-Commerce",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Vernova",
+        "id": "25150388-eac1-4f00-b502-dbd4d396302c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1769999428,
+        "date_posted": 1769999428,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Roanoke-US-VA-3/Software-Engineer_R5030434-3",
+        "locations": [
+            "Roanoke, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d0df0ab9-f9b5-4f5b-8c4f-4c63abafb90a",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1769999063,
+        "date_posted": 1769999063,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineer-I--Onsite-_01814829-2",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
