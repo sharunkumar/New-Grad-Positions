@@ -2,57 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Nutanix",
-        "id": "6c613844-7f1a-47bf-a3bd-174439762a3b",
-        "title": "Software Engineer 1 / Early Career - C++/Go/Linux/AWS-S3",
-        "active": false,
-        "date_updated": 1749762513,
-        "date_posted": 1749762513,
-        "url": "https://jobs.jobvite.com/nutanix/job/od3Jufwd?nl=1&nl=1&fr=false",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Taco Bell",
-        "id": "8e36922e-f0b8-456e-973f-d5be216fc17f",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1749762927,
-        "date_posted": 1749762927,
-        "url": "https://job-boards.greenhouse.io/tacobell/jobs/6843093",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TacoBell",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b2aecd49-2ada-460b-9b3e-775b0c71003a",
-        "title": "Software Engineer I - Embedded Communications",
-        "active": false,
-        "date_updated": 1749783195,
-        "date_posted": 1749783195,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01773093",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Truist",
         "id": "e8846f3e-12aa-49cf-ab4d-4da7f4c97fd6",
         "title": "Software Engineer I (broken link)",
@@ -198994,7 +198943,7 @@
         "company_name": "Sainsbury's",
         "id": "212bb317-a161-4841-b96a-02e489dc6382",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770390641,
         "date_posted": 1770390641,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048507",
@@ -200256,7 +200205,7 @@
         "company_name": "Sainsbury's",
         "id": "db06ab87-8432-4aad-b44f-da12efdb556a",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770419682,
         "date_posted": 1770419682,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048550",
@@ -200712,7 +200661,7 @@
         "company_name": "Sainsbury's",
         "id": "a6482392-3b2d-4e14-ab77-caf42e733c44",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770460563,
         "date_posted": 1770460563,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048564",
@@ -200831,6 +200780,78 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048626",
         "locations": [
             "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9e3509d5-2a8d-4da9-b69b-313335845ee2",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1770505988,
+        "date_posted": 1770505988,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048639",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "830700da-299b-4f3c-8370-bddeea8eaeb4",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1770505990,
+        "date_posted": 1770505990,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048646",
+        "locations": [
+            "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "40f72318-5f50-45c3-8572-17d9d32c6450",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1770505983,
+        "date_posted": 1770505983,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048636",
+        "locations": [
+            "Harrogate, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "efabd73c-54fb-466b-8c36-76baed22c320",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770516697,
+        "date_posted": 1770516697,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048666",
+        "locations": [
+            "Manchester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
