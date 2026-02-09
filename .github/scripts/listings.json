@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Truist",
-        "id": "ceb4bb2b-1182-4adb-aad0-7cde078e9465",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749853698,
-        "date_posted": 1749853698,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/New-York-NY/Software-Engineer-I_R0103666-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "dc9df46e-1cb8-4072-a94f-732cdc147608",
         "title": "Software Engineer I",
@@ -28,24 +11,6 @@
         "url": "https://jobs.ashbyhq.com/Jerry/011c16d3-cd6c-4b44-b887-bc5d391f224e/application",
         "locations": [
             "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "9c2e0bd7-2137-475b-a7db-80b592a9801b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1749867696,
-        "date_posted": 1749867696,
-        "url": "https://jobs.ashbyhq.com/Jerry/3be6e143-ee06-4a70-be7d-c329b06c39dc/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Jerry",
         "is_visible": true,
@@ -85499,24 +85464,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BetterHelp",
-        "id": "56b78d88-339c-491f-96a6-eb1c16b66f86",
-        "title": "Data Scientist - Experimentation",
-        "active": false,
-        "date_updated": 1749856235,
-        "date_posted": 1749856235,
-        "url": "https://job-boards.greenhouse.io/betterhelpcom/jobs/4756131008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/BetterHelp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FOX",
         "id": "e479db10-c7ac-49a6-a850-8a0b5f9cb010",
@@ -146781,7 +146728,7 @@
         "company_name": "L3Harris Technologies",
         "id": "752adbc9-bd79-4593-b9de-0f28c4fbd3f2",
         "title": "Manufacturing Technician A",
-        "active": true,
+        "active": false,
         "date_updated": 1767395614,
         "date_posted": 1767395614,
         "url": "https://jobs.l3harris.com/job/Londonderry-Manufacturing-Technician-A-NH-03053/1352996300/?ats=successfactors",
@@ -199571,7 +199518,7 @@
         "company_name": "Sainsbury's",
         "id": "796386b1-1a5a-4da7-8a98-b0aa8e7a75af",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770419429,
         "date_posted": 1770419429,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048554",
@@ -199609,7 +199556,7 @@
         "company_name": "Sainsbury's",
         "id": "474e34a0-ff61-4411-9992-58a5507a7153",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770419430,
         "date_posted": 1770419430,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048555",
@@ -200811,7 +200758,7 @@
         "company_name": "Sainsbury's",
         "id": "09f85471-7bae-42ab-9371-7a9ac6b047ca",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770534681,
         "date_posted": 1770534681,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048665",
@@ -200941,7 +200888,7 @@
         "company_name": "Sainsbury's",
         "id": "b32f8a80-b129-4cd2-bbb0-975ee23192e7",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770563505,
         "date_posted": 1770563505,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048700",
@@ -200959,7 +200906,7 @@
         "company_name": "Sainsbury's",
         "id": "9b13e2a0-5597-474b-b39a-e80f68ac0c23",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770563516,
         "date_posted": 1770563516,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048698",
@@ -200977,7 +200924,7 @@
         "company_name": "Sainsbury's",
         "id": "53c5263a-6e2a-4779-8446-905015a2aec2",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770563516,
         "date_posted": 1770563516,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048680",
@@ -200988,5 +200935,129 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e73a030c-060b-43f5-b342-cb2036db54da",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1770592309,
+        "date_posted": 1770592309,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048721",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "fb32e50b-7225-45b6-a968-376a5592570a",
+        "title": "Product Functional Test Technology Engineer",
+        "active": true,
+        "date_updated": 1770592074,
+        "date_posted": 1770592074,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2420156",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "LinkedIn",
+        "id": "19b9e8d0-9bcc-4b8d-8465-b3f7b7c9166c",
+        "title": "Software Engineer - Frontend - Media SDK Team",
+        "active": true,
+        "date_updated": 1770592083,
+        "date_posted": 1770592083,
+        "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000108014435",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LinkedIn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "8eb662f0-6128-4008-be14-9ba1cde370e8",
+        "title": "General Engineering - Chippewa Falls - Wisconsin",
+        "active": true,
+        "date_updated": 1770604077,
+        "date_posted": 1770604077,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/General-Engineering--Chippewa-Falls--Wisconsin_1201459",
+        "locations": [
+            "Eau Claire, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "046e6135-45a0-4e94-a20a-91653c5fa6ea",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1770604074,
+        "date_posted": 1770604074,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Software-Engineer-I_1202397",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "4ea8fcdf-dd84-4d24-8098-caa377d16368",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1770602992,
+        "date_posted": 1770602992,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
