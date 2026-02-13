@@ -2,40 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Twilio",
-        "id": "6d485416-e467-4c79-8a6d-8b6d37a05876",
-        "title": "Software Engineer \u2013 Early Career - Messaging API",
-        "active": false,
-        "date_updated": 1750215193,
-        "date_posted": 1750215193,
-        "url": "https://job-boards.greenhouse.io/twilio/jobs/6987416",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twilio",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "7shifts",
-        "id": "7756364a-3f30-4889-b775-278cbf59fdb3",
-        "title": "Junior Software Developer",
-        "active": false,
-        "date_updated": 1750215990,
-        "date_posted": 1750215990,
-        "url": "https://job-boards.greenhouse.io/7shifts/jobs/5567427004",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/7shifts",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Persona",
         "id": "68eccc04-cc20-47ac-a59e-eed897e63cb9",
         "title": "Software engineer \u2013 New grad",
@@ -17157,7 +17123,7 @@
         "company_name": "Everlaw",
         "id": "58296267-4dd6-41e7-b360-5efdbd58798f",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1758597633,
         "date_posted": 1758597633,
         "url": "https://job-boards.greenhouse.io/everlaw/jobs/4597021006",
@@ -85218,26 +85184,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
-        "id": "2e3c62d7-145c-40a1-be15-9566931b9276",
-        "title": "Machine Learning Graduate",
-        "active": true,
-        "date_updated": 1751553720,
-        "date_posted": 1750221896,
-        "url": "https://jobs.bytedance.com/en/position/7515582521393318151/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
         "id": "0a607515-b824-4f51-a1ff-06e3e6931545",
         "title": "Machine Learning Engineer Graduate - E-Commerce Recommendation/Search Alliance - 2026 Start','Phd",
         "active": true,
@@ -130128,7 +130074,7 @@
         "company_name": "Scout AI",
         "id": "1cb14ca2-13b5-4aa1-8c8f-cf9741f24ba6",
         "title": "Drone Operator",
-        "active": true,
+        "active": false,
         "date_updated": 1765928604,
         "date_posted": 1759372398,
         "url": "https://job-boards.greenhouse.io/scoutai/jobs/4940440008",
@@ -158089,7 +158035,7 @@
         "company_name": "VCU Health",
         "id": "f291b05a-cc48-4859-a2f8-e66736fe84df",
         "title": "Applications Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1768259257,
         "date_posted": 1768259257,
         "url": "https://vcuhealth.wd1.myworkdayjobs.com/vcuhealth_careers/job/Richmond-VA/Applications-Analyst-Associate_R40772-1",
@@ -172953,7 +172899,7 @@
         "company_name": "Fermilab",
         "id": "1150f792-278a-45eb-b3e9-a77598e3300f",
         "title": "Postdoctoral Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1769095431,
         "date_posted": 1769095431,
         "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Postdoctoral-Research-Associate_R_008873",
@@ -174165,7 +174111,7 @@
         "company_name": "1X",
         "id": "7cc57280-2f8d-4a04-916e-e3a0d0459517",
         "title": "Robot Operator - Swing Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1769134249,
         "date_posted": 1769134249,
         "url": "https://1x.recruitee.com/o/robot-operator-night-shift",
@@ -176522,7 +176468,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "159e9c37-8cf1-4b9a-8531-6cea0d25db0a",
         "title": "Associate Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769263100,
         "date_posted": 1769263100,
         "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Associate-Integration-Engineer_2025-18672",
@@ -187608,7 +187554,7 @@
         "company_name": "TD Bank",
         "id": "20b92cfc-f3e0-4fc1-bfe6-a234a3b685e7",
         "title": "Associate \u2013 Quantitative Engineering & Development",
-        "active": true,
+        "active": false,
         "date_updated": 1769815983,
         "date_posted": 1769815983,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate--Quantitative-Engineering---Development_R_1470490",
@@ -188029,7 +187975,7 @@
         "company_name": "Centene",
         "id": "25618cdb-e39c-4f82-b577-66303a6aeb9e",
         "title": "Enterprise Platforms Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1769826618,
         "date_posted": 1769826618,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Enterprise-Platforms-Product-Manager_1627585",
@@ -195250,7 +195196,7 @@
         "company_name": "ASML",
         "id": "bcf6d24f-ec58-4442-b611-7334afd1bf91",
         "title": "Upgrade Install and Relocation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770248098,
         "date_posted": 1770248098,
         "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Upgrade-Install-and-Relocation-Engineer_J-00334609",
@@ -197189,7 +197135,7 @@
         "company_name": "L3Harris Technologies",
         "id": "04a955b8-29f3-4904-980b-4a642a60258d",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770333034,
         "date_posted": 1763231703,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Associate,-Systems-Engineer-(Salt-Lake-City,-UT)-UT-84116/1316801100/?ats=successfactors",
@@ -198106,7 +198052,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3ca0649c-047b-4070-ae70-61ab26b32828",
         "title": "Senior Associate - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770304631,
         "date_posted": 1770304631,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1316696500/?ats=successfactors",
@@ -199362,7 +199308,7 @@
         "company_name": "Fiserv",
         "id": "e0360d04-a6f1-4fd3-84b4-2e9daf05d3a0",
         "title": "Technology Analyst Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1770419967,
         "date_posted": 1770419967,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Lincoln-Nebraska/Technology-Analyst-Program--Lincoln--NE-_R-10387471",
@@ -199824,7 +199770,7 @@
         "company_name": "Prudential Financial",
         "id": "3ac80263-1cdb-4eb0-9188-59b15fb0fb1b",
         "title": "Prudential: 2026 Investment Analyst Program",
-        "active": true,
+        "active": false,
         "date_updated": 1770420684,
         "date_posted": 1770420684,
         "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/Newark-NJ-USA/Prudential--2026-Investment-Analyst-Program_R-123466",
@@ -199883,7 +199829,7 @@
         "company_name": "TD Bank",
         "id": "d43cf67b-99df-4532-9e21-bf7acbfde8e6",
         "title": "Mobile Software Engineer 1 - Android Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1770420459,
         "date_posted": 1770420459,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer-I--Android-developer-_R_1468705",
@@ -203617,7 +203563,7 @@
         "company_name": "Kimley-Horn",
         "id": "da3253dc-7532-43d6-b333-af0febfa1059",
         "title": "GIS Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1770764855,
         "date_posted": 1770764855,
         "url": "https://careers-kimley-horn.icims.com/jobs/22357/job?mobile=true&needsRedirect=false",
@@ -205489,7 +205435,7 @@
         "company_name": "Sainsbury's",
         "id": "a7e8b89b-3dfb-4acc-9064-481bb2576e19",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1770851490,
         "date_posted": 1770851490,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049124",
@@ -207006,7 +206952,7 @@
         "company_name": "AeroVironment",
         "id": "9c231176-4d7c-44d9-a84f-b1391ec58cd5",
         "title": "Product Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770900907,
         "date_posted": 1764729519,
         "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Huntsville-AL/Product-Engineer-II-_6245",
@@ -208913,6 +208859,163 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "One Brief",
+        "id": "f7cf0ea1-5530-43f1-b77d-aaef1130c643",
+        "title": "Outcome Engineer - Early in Career Professional",
+        "active": true,
+        "date_updated": 1770948846,
+        "date_posted": 1770948846,
+        "url": "https://jobs.ashbyhq.com/onebrief/a88e10d4-66d8-4911-99e3-3d20351e73d9/application",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/One-Brief",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Fellow",
+        "id": "b50602ac-999b-4033-a430-4fd6612337d5",
+        "title": "Technician - Temp",
+        "active": true,
+        "date_updated": 1770950645,
+        "date_posted": 1770950645,
+        "url": "https://fellowproducts.com/pages/careers?gh_jid=5051869007",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Fellow",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "ab4bfc6b-77aa-445f-a333-2e3f7c3a338b",
+        "title": "Senior Software Engineer - Warfighter Systems",
+        "active": true,
+        "date_updated": 1770950168,
+        "date_posted": 1770950168,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050193007",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "1X",
+        "id": "31b75032-5716-4ada-b3a9-eb072b815fc7",
+        "title": "Robot Operator - Swing Shift",
+        "active": true,
+        "date_updated": 1770948709,
+        "date_posted": 1770948709,
+        "url": "https://1x.recruitee.com/o/robot-operator-swing-shift",
+        "locations": [
+            "Palo Alto, CA",
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/1x",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0ca1b271-4261-401c-b158-446a05f23973",
+        "title": "Trading Assistant - Shift",
+        "active": false,
+        "date_updated": 1770948734,
+        "date_posted": 1770948734,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049279",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Anduril",
+        "id": "fd13c0b8-1391-4ef9-93c7-ddd1da098dc1",
+        "title": "Early Career Software Engineer - Mixed Reality",
+        "active": true,
+        "date_updated": 1770950160,
+        "date_posted": 1770950160,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5051227007",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "3e772eca-4466-42e1-8bfe-42f307d6619a",
+        "title": "Software Engineer 1 - Effectors",
+        "active": true,
+        "date_updated": 1770949778,
+        "date_posted": 1770949778,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Full-time---Software-Engineer-I---Effectors---Onsite--AZ-_01820532",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Olsson",
+        "id": "c302f706-7413-4a07-b19e-170e933d374f",
+        "title": "Entry-Level Field Geologist",
+        "active": true,
+        "date_updated": 1770939224,
+        "date_posted": 1770939224,
+        "url": "https://job-boards.greenhouse.io/olsson/jobs/5118834008",
+        "locations": [
+            "Lincoln, NE",
+            "Oklahoma City, OK",
+            "Papillion, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Olsson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
