@@ -1,40 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Xapien",
-        "id": "e4f11117-380a-46f0-9b2f-d854686bc7a2",
-        "title": "Junior Applied Research Engineer \u2013 Graduate",
-        "active": false,
-        "date_updated": 1751038997,
-        "date_posted": 1751038997,
-        "url": "https://jobs.smartrecruiters.com/Xapien/744000067429395",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Xapien",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "6ebeb439-e6c1-4dc5-bc4d-ef54e28358ee",
-        "title": "Software Engineer I - Java",
-        "active": false,
-        "date_updated": 1751040791,
-        "date_posted": 1751040791,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MD440-8170-Maple-Lawn-Blvd-Fulton-MD-8170-Maple-Lawn-Boulevard---Fulton-MD-20759-USA/Software-Engineer-I--Java-----Onsite-_01769315",
-        "locations": [
-            "Fulton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Plusgrade",
         "id": "793856dc-03bb-4726-af22-eb74bb565bb0",
@@ -179903,7 +179869,7 @@
         "company_name": "Embry-Riddle Aeronautical University",
         "id": "309d1278-5da8-4c69-b939-254b37a47db3",
         "title": "Tenure-Track Faculty Position with a focus on Aviation Operations and Machine Learning/AI in the. - Daytona Beach Campus",
-        "active": true,
+        "active": false,
         "date_updated": 1769584450,
         "date_posted": 1769584450,
         "url": "https://embryriddle.wd1.myworkdayjobs.com/External/job/Daytona-Beach-FL/Tenure-Track-Faculty-Position-with-a-focus-on-Aviation-Operations-and-Machine-Learning-AI-in-the-School-of-Graduate-Studies--Daytona-Beach-Campus_R309969",
@@ -207195,7 +207161,7 @@
         "company_name": "RTX",
         "id": "86661fd0-df6b-44d8-8758-3430d350d298",
         "title": "Software Engineer 1 - Rdpl",
-        "active": true,
+        "active": false,
         "date_updated": 1770939520,
         "date_posted": 1770939520,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineer-I---RDPL--Onsite_01823174",
@@ -222069,7 +222035,7 @@
         "company_name": "Sainsbury's",
         "id": "3c074da3-8c51-4bc2-8cdd-4daff0f6bdb0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771715642,
         "date_posted": 1771715642,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050557",
@@ -222087,7 +222053,7 @@
         "company_name": "Sainsbury's",
         "id": "b1bb7ad6-94da-4c90-b082-013e371369b8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771715383,
         "date_posted": 1771715383,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050538",
@@ -222105,7 +222071,7 @@
         "company_name": "Sainsbury's",
         "id": "306d7684-64ea-47cf-a907-1a1129f17499",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771715359,
         "date_posted": 1771715359,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050554",
@@ -222124,7 +222090,7 @@
         "company_name": "Sainsbury's",
         "id": "0040c744-6b3b-43c1-8da4-0237ae1a4b1c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771715345,
         "date_posted": 1771715345,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050564",
@@ -222198,7 +222164,7 @@
         "company_name": "Sainsbury's",
         "id": "21d57b3e-7b87-4cbe-b904-45bea617fb71",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1771715640,
         "date_posted": 1771715640,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050559",
@@ -222234,7 +222200,7 @@
         "company_name": "Northrop Grumman",
         "id": "95c35385-60e2-4721-a95f-b0c532fb7bb9",
         "title": "Principal Engineer Software - Embedded and Real Time - Florida & Oklahoma",
-        "active": true,
+        "active": false,
         "date_updated": 1771693998,
         "date_posted": 1771693998,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Principal-Engineer-Software---Embedded-and-Real-Time--Florida---Oklahoma-_R10222588",
@@ -222333,5 +222299,149 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f8b30f87-234b-4e65-8354-3f3985a361e9",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771773196,
+        "date_posted": 1771773196,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050591",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8ae5582f-f6e0-4a87-acfc-ccf4511399b8",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771773196,
+        "date_posted": 1771773196,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050588",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c0d4ef73-e335-4ee7-b964-2c4cd1ae64e4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771772944,
+        "date_posted": 1771772944,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400049480",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5aac5a1e-c286-4c91-9ee0-d4c52d4f506a",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771772909,
+        "date_posted": 1771772909,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050592",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4944e26c-02fd-4977-86ae-33631a41da2c",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1771772934,
+        "date_posted": 1771772934,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050611",
+        "locations": [
+            "Maidenhead, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3c9cf232-728d-4d9c-9345-941d133177bc",
+        "title": "Trading Assistant - Local",
+        "active": true,
+        "date_updated": 1771772929,
+        "date_posted": 1771772929,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050590",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "370b884b-686d-4b76-baeb-17fc6e2a7a95",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1771772908,
+        "date_posted": 1771772908,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050593",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0de9e76a-e1a0-4f5f-a1d3-08ad14c02794",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1771772907,
+        "date_posted": 1771772907,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050581",
+        "locations": [
+            "Livingston, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
