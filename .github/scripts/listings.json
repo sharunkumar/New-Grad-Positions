@@ -1,23 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "3701a9cc-9df1-4e5f-b55e-40d72100cc07",
-        "title": "Software Engineer I - Embedded Communications",
-        "active": false,
-        "date_updated": 1751007764,
-        "date_posted": 1751007764,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIN02-Ft-Wayne-IN-1010-Production-Road---Fort-Wayne-IN-46808-USA/Software-Engineer-I----Embedded-Communications--Onsite-_01776613",
-        "locations": [
-            "Fort Wayne, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Xapien",
         "id": "e4f11117-380a-46f0-9b2f-d854686bc7a2",
@@ -25241,7 +25224,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761501704,
         "date_posted": 1761501704,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -159391,7 +159374,7 @@
         "company_name": "TD Bank",
         "id": "908907d2-3609-47fe-9c5b-25cb2cb961b3",
         "title": "Machine Learning Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1768347633,
         "date_posted": 1768347633,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1465384",
@@ -175270,7 +175253,7 @@
         "company_name": "Prairie View A&M University",
         "id": "6f66ab1b-433f-4ac9-84c9-28a7d33a0ef5",
         "title": "Postdoctoral Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1769126467,
         "date_posted": 1769126467,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Postdoctoral-Researcher--PIER---Environmental-Data-Science-and-Artificial-Intelligence-_R-089857-1",
@@ -215307,7 +215290,7 @@
         "company_name": "DaVita",
         "id": "70fccc55-fa88-435e-894e-d3ae94450158",
         "title": "Epic Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771458674,
         "date_posted": 1771458674,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/06797---DPS-CKD-OPS/Epic-Analyst-I_R0444011",
@@ -217156,7 +217139,7 @@
         "company_name": "RTX",
         "id": "69180680-dad2-4727-b29a-2cef31608516",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771543186,
         "date_posted": 1771543186,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineer-I-Onsite-_01823655-2",
@@ -220528,7 +220511,7 @@
         "company_name": "Cox",
         "id": "16dd6c33-7f27-49e7-acd5-6a43b91192a5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771601763,
         "date_posted": 1771601763,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA---6205-Peachtree-Dunwoody-Rd-Bldg-A/Software-Engineer-I_R202672269",
@@ -221814,7 +221797,7 @@
         "company_name": "Western Digital",
         "id": "567634ab-4202-406b-a1cf-5c0fcc2936dc",
         "title": "Early Career Talent - Metrology Engineer - Optical & Physical,Ph.D. Only",
-        "active": true,
+        "active": false,
         "date_updated": 1771639679,
         "date_posted": 1771639679,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110493255",
@@ -222177,7 +222160,7 @@
         "company_name": "Hy-Vee",
         "id": "2557f845-e9ba-4efb-9d37-d2802b5a00e1",
         "title": "IT Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771716780,
         "date_posted": 1771716780,
         "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Helpful-Smiles-Technology-Center-HST-James-Street-Grimes-IA/IT-Data-Analyst-II_R216052",
@@ -222266,6 +222249,89 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "d67111a5-b512-4a35-8faf-14a21a90e86d",
+        "title": "Early Career Talent - Software Development Engineer - Firmware",
+        "active": true,
+        "date_updated": 1771744161,
+        "date_posted": 1771744161,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544034",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "8cc1d5ce-411c-47d5-bf09-2772ba0723f6",
+        "title": "Early Career Talent - Software Engineering - Apps",
+        "active": true,
+        "date_updated": 1771744169,
+        "date_posted": 1771744169,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110544245",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western Digital",
+        "id": "8052c407-226a-45c7-8237-ab4189b4496a",
+        "title": "Early Career Talent - Software Development Engineering - Apps",
+        "active": true,
+        "date_updated": 1771744177,
+        "date_posted": 1771744177,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000110542766",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of Oklahoma City",
+        "id": "ebaf17c9-4cee-4312-9e9b-f7b2d0688a83",
+        "title": "Crime Analyst",
+        "active": true,
+        "date_updated": 1771743932,
+        "date_posted": 1771743932,
+        "url": "https://fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/3579",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-Oklahoma-City",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
