@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "af1ffb61-76d1-469e-99bb-c8bc1d2677b3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1751624071,
-        "date_posted": 1751624071,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Surrey/Software-Engineer-I_R96548",
-        "locations": [
-            "Surrey, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/9a8ce602-42f0-4474-9ff5-edf7d8868b76",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "d917bfb2-84eb-4958-bdc2-7d0979453c59",
         "title": "Software Engineer I",
@@ -8276,30 +8259,6 @@
         "is_visible": false,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "3424ee82-76b1-4d00-8274-4ebca84ba369",
-        "title": "Software Engineer 1 - Corporate Applications",
-        "active": false,
-        "date_updated": 1756196797,
-        "date_posted": 1751621106,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10002320",
-        "locations": [
-            "Salt Lake City, UT",
-            "Las Vegas, NV",
-            "Des Moines, IA",
-            "Reno, NV",
-            "Portland, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1762271905,
@@ -17463,7 +17422,7 @@
         "company_name": "General Motors",
         "id": "947030be-f428-4b1a-9c83-6635b039aa33",
         "title": "Software Engineer \u2013 Early Career - Software Development",
-        "active": false,
+        "active": true,
         "date_updated": 1761884449,
         "date_posted": 1759001310,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -83205,25 +83164,6 @@
             "Odenton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hertz",
-        "id": "4e940eb7-c18f-449a-be99-e938033f48ff",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1751610655,
-        "date_posted": 1751610655,
-        "url": "https://fa-evlf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28752",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Hertz",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -151208,7 +151148,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "56cea9f1-5c2c-4a9c-ad4f-50a61e6edcc3",
         "title": "Quantitative Technology Services New Graduate Rotational Program-Montreal - 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1767832706,
         "date_posted": 1767832706,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/Quantitative-Technology-Services-New-Graduate-Rotational-Program--Montreal--2026-_R-0000154544",
@@ -164573,7 +164513,7 @@
         "company_name": "JP Morgan Chase",
         "id": "0a72bd0b-70aa-4714-85af-b2ccc04da4e1",
         "title": "Senior Product Associate - Connected Commerce - Wallets and Lending",
-        "active": true,
+        "active": false,
         "date_updated": 1768605396,
         "date_posted": 1768605396,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210698430",
@@ -198185,7 +198125,7 @@
         "company_name": "Cleveland Clinic",
         "id": "a76e7fcf-dcd5-404f-9c2e-a06d7287e672",
         "title": "Data Scientist 1 - Cancer Center",
-        "active": true,
+        "active": false,
         "date_updated": 1770422732,
         "date_posted": 1770422732,
         "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Cancer-Center_312181-1",
@@ -220323,7 +220263,7 @@
         "company_name": "The Boeing Company",
         "id": "22a401ea-10e4-402d-bfea-6c77ed4d2c76",
         "title": "Product Data Management Engineering Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1771631617,
         "date_posted": 1771631617,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Product-Data-Management-Engineering-Specialist--Associate-or-Experienced-_JR2026492627-1",
@@ -220895,7 +220835,7 @@
         "company_name": "American Express",
         "id": "e926f253-86c1-4b6f-9ea6-a9228ce77826",
         "title": "Associate \u2013 Digital Product Management",
-        "active": false,
+        "active": true,
         "date_updated": 1771640095,
         "date_posted": 1771640095,
         "url": "https://aexp.eightfold.ai/careers/job/40312543",
@@ -227219,7 +227159,7 @@
         "company_name": "General Motors",
         "id": "9625e78d-5698-46ee-b54e-749e328b0095",
         "title": "Software Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1771987738,
         "date_posted": 1771987738,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Mountain-View-California-United-States-of-America/Software-Engineer---Early-Career_JR-202517310",
@@ -235300,7 +235240,7 @@
         "company_name": "Sainsbury's",
         "id": "a479e483-2a42-485a-8566-d331ce41ef7f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1772291455,
         "date_posted": 1772291455,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051447",
@@ -235410,7 +235350,7 @@
         "company_name": "Sainsbury's",
         "id": "10060c30-e726-4cb4-983d-098b09e90215",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772291445,
         "date_posted": 1772291445,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051422",
@@ -235466,7 +235406,7 @@
         "company_name": "Sainsbury's",
         "id": "eb8ba213-d3bf-4dcb-81d6-a63450c64379",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772320206,
         "date_posted": 1772320206,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051484",
@@ -235621,5 +235561,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cushman & Wakefield",
+        "id": "e62f8e83-407d-4a3d-9ca4-da3dc09423ae",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1772351112,
+        "date_posted": 1772351112,
+        "url": "https://cw.wd1.myworkdayjobs.com/external/job/Remote-CW-Site---USA---Flexible-United-States/Analytics-Analyst_R307482",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cushman-And-Wakefield",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
