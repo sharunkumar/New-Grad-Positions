@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "9f6380b7-4668-49fb-9b83-4e51e0815a76",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "date_updated": 1756120706,
-        "date_posted": 1751696380,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/6640194003",
-        "locations": [
-            "San Francisco, CA",
-            "New York, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "eeaa4cc1-0e31-4939-8dec-9de609614afe",
         "title": "Software Engineer I",
@@ -11530,7 +11511,7 @@
         "id": "93aeba4d-f9cc-4ab2-bdf9-18797a9a15d0",
         "title": "New Grad-Hardware Engineer",
         "active": true,
-        "date_updated": 1762779424,
+        "date_updated": 1772431282,
         "date_posted": 1757377925,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Hardware-Engineer_R5411",
         "locations": [
@@ -15193,7 +15174,7 @@
         "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
         "title": "Software Development Engineer 1 - Engineering - Development",
         "active": true,
-        "date_updated": 1761845342,
+        "date_updated": 1772431282,
         "date_posted": 1757972597,
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
         "locations": [
@@ -24174,7 +24155,7 @@
         "id": "c193c408-add9-40a6-868f-c89a718f5272",
         "title": "Backend Engineer \u2013 New Grad",
         "active": true,
-        "date_updated": 1761876256,
+        "date_updated": 1772431282,
         "date_posted": 1761876256,
         "url": "https://d3.com/careers?gh_jid=4915295008",
         "locations": [
@@ -63879,7 +63860,7 @@
         "company_name": "Q2",
         "id": "b8d38f0b-fec5-4db0-bd30-36ce2368262b",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761876358,
         "date_posted": 1761876358,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-TX/Software-Engineer_REQ-11665",
@@ -83057,24 +83038,6 @@
             "Sydney NSW, Australia"
         ],
         "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "INTEGRIS Health",
-        "id": "2af2b82d-7ff9-485c-afa3-f14b29af80b8",
-        "title": "Epic Applications Analyst 2",
-        "active": false,
-        "date_updated": 1762916104,
-        "date_posted": 1751697339,
-        "url": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/104640",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -118406,7 +118369,7 @@
         "id": "29099208-ccd7-46d8-a388-0c637f8b6c02",
         "title": "Junior Crypto Electronic Trading Support Engineer",
         "active": true,
-        "date_updated": 1765295710,
+        "date_updated": 1772431282,
         "date_posted": 1764642004,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7351141",
         "locations": [
@@ -196611,7 +196574,7 @@
         "company_name": "DNV",
         "id": "0ff2f5ff-5b01-43fe-9183-a880199d0c63",
         "title": "Graduate CFD/Technical Safety Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1770390640,
         "date_posted": 1770390640,
         "url": "https://ecyq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/6041",
@@ -210120,7 +210083,7 @@
         "company_name": "7-Eleven",
         "id": "9c3b41bd-1205-414f-b166-1be4e9e1de87",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771284231,
         "date_posted": 1771284231,
         "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Software-Engineer_R26_950",
@@ -215471,7 +215434,7 @@
         "id": "5e01b73c-fb23-4866-a4da-8999702383fb",
         "title": "Software Engineer 1",
         "active": true,
-        "date_updated": 1771498962,
+        "date_updated": 1772431282,
         "date_posted": 1771498962,
         "url": "https://job-boards.greenhouse.io/axon/jobs/7620148003",
         "locations": [
@@ -232662,9 +232625,9 @@
         ]
     },
     {
-        "date_updated": 1772204659,
+        "date_updated": 1772431282,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://ffive.wd5.myworkdayjobs.com/f5jobs/job/Seattle/Software-Development-Engineer-I_RP1036144",
         "company_name": "F5",
@@ -235032,7 +234995,7 @@
         "company_name": "Sainsbury's",
         "id": "4bba4287-158c-464e-bb65-81c2b7e6af85",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1772273268,
         "date_posted": 1772273268,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051404",
