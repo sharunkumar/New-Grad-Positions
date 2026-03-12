@@ -20168,7 +20168,7 @@
         "company_name": "mthree",
         "id": "f7573d3e-e4fd-464e-9e3f-c2c7c1c7ab72",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1760473791,
         "date_posted": 1760473791,
         "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4595457006",
@@ -81242,27 +81242,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Crowdstrike",
-        "id": "8be6ca37-0d66-439e-8caf-58d43bfa3b75",
-        "title": "Analyst 1  \u2013 Falcon Complete",
-        "active": false,
-        "date_updated": 1763116648,
-        "date_posted": 1752585978,
-        "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/United-Kingdom---Remote/Analyst-I--Falcon-Complete--Remote-_R23934",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
         "title": "Analyst 1  \u2013 Falcon Complete",
         "active": false,
@@ -81279,24 +81258,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Millennium Space Systems",
-        "id": "1592f636-a7bc-466f-80ae-e379a9ddeb99",
-        "title": "EGSE Software Engineer - Labview Specialist",
-        "active": false,
-        "date_updated": 1752594915,
-        "date_posted": 1752594915,
-        "url": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4413815008",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Millennium-Space-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -122623,7 +122584,7 @@
         "company_name": "mthree",
         "id": "a164cd80-623e-4065-804d-54bd7b187f83",
         "title": "Junior Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1765583666,
         "date_posted": 1765583666,
         "url": "https://mthree.com/careers/job/?gh_jid=4595457006",
@@ -169910,7 +169871,7 @@
         "company_name": "RTX",
         "id": "bdbfda44-e490-4230-945b-3ec790a90a6a",
         "title": "2026 Fulltime Raytheon Software Engineer 1 - Test Equipment",
-        "active": false,
+        "active": true,
         "date_updated": 1769123799,
         "date_posted": 1769123799,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-I---Test-Equipment---Onsite_01790414",
@@ -187217,7 +187178,7 @@
         "company_name": "Proofpoint",
         "id": "6765f8c1-b88f-4617-b534-ea93c8a2a91a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770076774,
         "date_posted": 1770076774,
         "url": "https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/Belfast-Northern-Ireland/Software-Engineer-I_R13617",
@@ -216430,7 +216391,7 @@
         "company_name": "TWG Global",
         "id": "e735f84d-c645-477e-9e7a-c441b7ceb4c3",
         "title": "Associate Software Engineer - AI Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1771542876,
         "date_posted": 1771542876,
         "url": "https://apply.workable.com/twgai/j/BA666BB5DE/apply",
@@ -244232,7 +244193,7 @@
         "company_name": "Cox",
         "id": "62db5e5b-5506-4b0f-b911-cac4cc9c3db3",
         "title": "Shop Trailer Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772794948,
         "date_posted": 1772282172,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Albertville-MN/Shop-Trailer-Technician-I_R202569455",
@@ -249849,7 +249810,7 @@
         "company_name": "Abbott",
         "id": "0e5a5814-33f2-4666-8f48-2d04f3decb9a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773183690,
         "date_posted": 1773183690,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---San-Diego/Software-Engineer_31142265-1",
@@ -251376,7 +251337,7 @@
         "company_name": "Thomson Reuters",
         "id": "dd6c438c-0472-4fbd-80ad-168821c00354",
         "title": "Al Engineer - New Grad - Materia",
-        "active": true,
+        "active": false,
         "date_updated": 1773267000,
         "date_posted": 1773267000,
         "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Al-Engineer--Materia--New-Grad---2026-_JREQ199007",
@@ -252763,7 +252724,7 @@
         "company_name": "Sainsbury's",
         "id": "c76979e7-3e47-42e4-a2b9-8114dc7dfdb7",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773295849,
         "date_posted": 1773295849,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053104",
@@ -253010,5 +252971,145 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Busuu",
+        "id": "0b3c511b-e92c-4133-b579-fdcc5ad9a983",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1773307001,
+        "date_posted": 1773307001,
+        "url": "https://osv-chegg.wd5.myworkdayjobs.com/en-US/Busuu/job/London---Busuu/Data-Engineer_R5099",
+        "locations": [
+            "London, UK",
+            "Madrid, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/Busuu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1773324407,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://continuous.com/careers?gh_jid=4129820009",
+        "company_name": "Continuous",
+        "title": "Software Engineer I - C# .NET",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "0057662c-3820-4afe-b8d6-e6b0938df933",
+        "date_posted": 1773324407,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773324569,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://employees-hrblock.icims.com/jobs/41315/associate-software-engineer%2c-accelerate-program/job",
+        "company_name": "H&R Block",
+        "title": "Associate Software Engineer, Accelerate Program",
+        "locations": [
+            "Kansan City, MO"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "deb116ac-811f-4c92-a9ab-e044dc1fba4f",
+        "date_posted": 1773324569,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773325109,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-lmi.icims.com/jobs/13752/junior-data-scientist/job",
+        "company_name": "LMI",
+        "title": "Junior Data Scientist",
+        "locations": [
+            "El Segundo, CA",
+            "Colorado Springs, CO"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d9ec538d-024c-47fe-ad27-621dcf07244f",
+        "date_posted": 1773325109,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hudson River Trading",
+        "id": "65d9dfbd-5d39-42b0-988c-dd59701000db",
+        "title": "Software Engineer - Python",
+        "active": true,
+        "date_updated": 1773307996,
+        "date_posted": 1770085762,
+        "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7398013",
+        "locations": [
+            "London, UK",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e4839ecb-2777-4886-93d2-c56612b08784",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1773310382,
+        "date_posted": 1773310382,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/XMLNAME-2026-Fulltime-Raytheon-Software-Engineer-II---Test-Equipment---Onsite_01790413",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TWG Global",
+        "id": "91484c21-7d21-4781-8d54-3fe7ea8b1db0",
+        "title": "Associate AI Data Scientist",
+        "active": true,
+        "date_updated": 1773325009,
+        "date_posted": 1773325009,
+        "url": "https://apply.workable.com/twgai/j/469F929A47/apply",
+        "locations": [
+            "Santa Monica, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TWG-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
