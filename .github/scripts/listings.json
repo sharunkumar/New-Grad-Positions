@@ -76466,7 +76466,7 @@
         "company_name": "AlphaSights",
         "id": "0485f920-641d-4c62-b891-89f06d38f531",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1761834559,
         "date_posted": 1754680577,
         "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
@@ -258444,5 +258444,277 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "IBM",
+        "id": "14b4120c-47e0-4863-8449-1fec8d070d52",
+        "title": "Associate Application Developer - Salesforce",
+        "active": true,
+        "date_updated": 1773641813,
+        "date_posted": 1773641813,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87201",
+        "locations": [
+            "Houston, TX",
+            "SF",
+            "Austin, TX",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/IBM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "date_updated": 1773651998,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level",
+        "company_name": "BAE Systems",
+        "title": "Software Engineer I (Entry Level)",
+        "locations": [
+            "Patuxent River, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9c624cdd-2c56-4197-abcf-968dc287de87",
+        "date_posted": 1773651998,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773652227,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://belk.wd1.myworkdayjobs.com/en-US/careers-collegecampus/job/Charlotte-NC---Corporate-Office/June-2026---Retail-Development-Program---Software-Engineering--Front-End_JR-99495-2",
+        "company_name": "Belk",
+        "title": "Retail Development Program - Software Engineering, Front-End",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "8ca74465-ee54-4706-bf18-5571d78c76c8",
+        "date_posted": 1773652227,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773652450,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Software-Engineer-1_R0000355583",
+        "company_name": "Caterpillar",
+        "title": "Software Engineer 1",
+        "locations": [
+            "Irving, TX",
+            "Peoria, IL",
+            "Mossville, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "e6d8053a-1c94-4ff5-9080-2f88cc1e9769",
+        "date_posted": 1773652450,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773652692,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/70002/software-engineer-%E2%80%93-entry-level/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer \u2013 Entry Level",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9fe34096-d4ce-4f15-8607-dbeae983477c",
+        "date_posted": 1773652692,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773652748,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71461/junior-software-engineer/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6ab81e8f-9c5c-4ce9-8a78-822da50b4057",
+        "date_posted": 1773652748,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773652884,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/uVOPHbn9X0/Junior-Software-Engineer-Fully-Cleared",
+        "company_name": "Intelliforce",
+        "title": "Junior Software Engineer- Fully Cleared",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "b6e40a32-ffd7-4ca4-8c20-990663d99bd9",
+        "date_posted": 1773652884,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773653010,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://labcorp.wd1.myworkdayjobs.com/en-US/external/job/USA---NC---Durham---10-Moore-Drive/Software-Engineer-I_265515",
+        "company_name": "Labcorp",
+        "title": "Software Engineer I",
+        "locations": [
+            "Durham, NC"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "65074ed1-7012-42c2-a5d9-94765b8a47cc",
+        "date_posted": 1773653010,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773653165,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Newport-News-VA/Junior-Software-Engineer_R-00178244",
+        "company_name": "Leidos",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Newport News, VA",
+            "Omaha, NE",
+            "Orlando, FL",
+            "Charlottesville, VA",
+            "Lexington, MA",
+            "Morgantown, WV"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "2b06d879-d0ad-4948-84e0-6cd8c2aa36cb",
+        "date_posted": 1773653165,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773653575,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://apply.workable.com/optitrack/j/DFD96026F7/",
+        "company_name": "OptiTrack",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "bdecc182-0435-4155-8a5b-f656838c14e4",
+        "date_posted": 1773653575,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773654399,
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531",
+        "company_name": "Allegion",
+        "title": "Associate AI Engineer",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "9b568468-f050-4811-808a-0cfb480c8550",
+        "date_posted": 1773654399,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SS&C",
+        "id": "48d08714-4a83-4fc1-997b-9397f8bdc911",
+        "title": "Product Solutions Analyst",
+        "active": true,
+        "date_updated": 1773654358,
+        "date_posted": 1773654358,
+        "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Boston-MA/Solutions-Engineer_R40939",
+        "locations": [
+            "Boston, MA",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SSC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SOTI",
+        "id": "205d02b0-3be2-4d49-9ba8-bc31b8219cd6",
+        "title": "Software Developer New Grad",
+        "active": true,
+        "date_updated": 1773654097,
+        "date_posted": 1773654097,
+        "url": "https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Software-Developer---New-Grad--8-month-Contracts-_R09861",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/SOTI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "78e3f2a0-2292-4721-9165-2d8ac3a7daf5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773641536,
+        "date_posted": 1773641536,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053583",
+        "locations": [
+            "Cornwall, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
