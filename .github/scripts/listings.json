@@ -3,92 +3,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
-        "id": "f74c215f-f679-4382-ba30-752294713896",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752880857,
-        "date_posted": 1752880857,
-        "url": "https://jobs.ashbyhq.com/Jerry/eb8a6a97-8177-4c5b-a607-afe98c8d4cfb/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "3cfcb567-840d-47ed-ab5f-74a04168f3e9",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752880856,
-        "date_posted": 1752880856,
-        "url": "https://jobs.ashbyhq.com/Jerry/b1126803-047b-4af5-97b1-70a2cc31d8f5/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "be5e98af-2684-4b4b-8de3-e4607b69e672",
-        "title": "Software Engineer I - Foundation",
-        "active": false,
-        "date_updated": 1752882024,
-        "date_posted": 1752882024,
-        "url": "https://www.qualtrics.com/careers/us/en/job/7071372?gh_jid=7071372",
-        "locations": [
-            "Provo, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Truist",
-        "id": "63dfa35a-5132-4189-bc76-5a03a54fe417",
-        "title": "Testing Software Engineer I",
-        "active": false,
-        "date_updated": 1752881755,
-        "date_posted": 1752881755,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Testing-Software-Engineer-I_R0104761",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Qualtrics",
-        "id": "10831f24-9b0d-410a-acb1-7b972a57de6b",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1752892303,
-        "date_posted": 1752892303,
-        "url": "https://www.qualtrics.com/careers/us/en/job/7083211?gh_jid=7083211",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualtrics",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
         "id": "429fa158-ef4b-4c5d-b5f1-4bfb70aa3174",
         "title": "Software Engineer I",
         "active": false,
@@ -258241,6 +258155,153 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053408",
         "locations": [
             "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "c0c45309-8bed-4328-ba4e-694125bd1ea5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773612927,
+        "date_posted": 1773612927,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053573",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1630ce32-66ed-4d15-baf9-04e7a1554d13",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773613163,
+        "date_posted": 1773613163,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053572",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "14f8a5f7-9b71-419e-8913-2f663f3e7f34",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773613372,
+        "date_posted": 1773613372,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053096",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "dc5fbbeb-118f-45b0-b442-5c20b20cb8f0",
+        "title": "Asset Management",
+        "active": true,
+        "date_updated": 1773612943,
+        "date_posted": 1773612943,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210724573",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5fbd3aaf-7fed-436b-bb5c-ceb151292627",
+        "title": "Nightshift Trading Assistant",
+        "active": true,
+        "date_updated": 1773612946,
+        "date_posted": 1773612946,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053564",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4974a78e-a07f-4e29-abd6-cc332d3e819c",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773612931,
+        "date_posted": 1773612931,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053574",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clerkie",
+        "id": "b1f0ce7f-c54e-41a7-97a2-a2fa0b5c4855",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1773613705,
+        "date_posted": 1773613705,
+        "url": "http://getfiber.ai/careers?gh_jid=5079727007",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clerkie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3e240303-1bd8-49fe-9fec-7ab413b93e82",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773623769,
+        "date_posted": 1773623769,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053410",
+        "locations": [
+            "Peterborough, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
