@@ -35,40 +35,6 @@
         "sponsorship": "Other"
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Coalition",
-        "id": "b70c7334-2f4e-43c5-b676-e430713cbd61",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753196102,
-        "date_posted": 1753113665,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560711005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Coalition",
-        "id": "b8410e88-84d1-4aea-9b97-aea36b0a5fdd",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1753196181,
-        "date_posted": 1753113312,
-        "url": "https://www.coalitioninc.com/job-posting?gh_jid=4560712005",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Coalition",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1761556250,
         "url": "https://www.coalitioninc.com/job-posting/4560711005",
         "company_name": "Coalition",
@@ -1231,24 +1197,6 @@
         ],
         "company_url": "https://simplify.jobs/c/Expedia",
         "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Clarity Innovations",
-        "id": "000ae1de-ef6c-4970-9032-96be016c3c60",
-        "title": "Junior Information System Security Engineer - Isse",
-        "active": false,
-        "date_updated": 1753119004,
-        "date_posted": 1753119004,
-        "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/4789602007",
-        "locations": [
-            "Reston, VA",
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Clarity-Innovations",
-        "is_visible": true,
         "sponsorship": "Other"
     },
     {
@@ -50566,7 +50514,7 @@
         "company_name": "Cresta",
         "id": "04c01830-5699-406f-80fb-928762e20887",
         "title": "Associate Conversational AI Designer",
-        "active": false,
+        "active": true,
         "date_updated": 1761811635,
         "date_posted": 1761811635,
         "url": "https://job-boards.greenhouse.io/cresta/jobs/4970396008",
@@ -56690,7 +56638,7 @@
         "company_name": "Morgan Stanley",
         "id": "f79fc65f-4fe6-4602-8788-9e7b61ace523",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1760599622,
         "date_posted": 1760599622,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Associate-Software-Engineer_PT-JR021580",
@@ -167543,7 +167491,7 @@
         "company_name": "RTX",
         "id": "24d256ca-f2c4-4169-80d9-b8b52c2c71a5",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1768956837,
         "date_posted": 1768956837,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01791041",
@@ -177762,7 +177710,7 @@
         "company_name": "Sainsbury's",
         "id": "e879b1da-d71b-4f49-b929-500b4268afb5",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1769641968,
         "date_posted": 1769641968,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047401",
@@ -220024,7 +219972,7 @@
         "company_name": "Goldman Sachs",
         "id": "d635ae46-10af-4e94-bcce-26165a497eca",
         "title": "Software Engineer - CRG - Analyst / Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1771888894,
         "date_posted": 1771888894,
         "url": "https://higher.gs.com/roles/163118",
@@ -255428,7 +255376,7 @@
         "company_name": "Sainsbury's",
         "id": "0c95eda0-9f53-43cc-bc90-08f2512282be",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773440298,
         "date_posted": 1773440298,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053351",
@@ -260393,7 +260341,7 @@
         "company_name": "Sainsbury's",
         "id": "cd0174a1-2509-43d2-ac3d-24b12c8afec3",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773756723,
         "date_posted": 1773756723,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053830",
@@ -260762,7 +260710,7 @@
         "company_name": "RTX",
         "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773787551,
         "date_posted": 1773787551,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
@@ -261470,7 +261418,7 @@
         "company_name": "Sainsbury's",
         "id": "4f5f6a23-3e84-4fc1-ba17-e4cfdf5e8e9c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773824983,
         "date_posted": 1773824983,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053937",
@@ -261502,6 +261450,481 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e6c48084-7c98-47eb-95df-7b928dcc318e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843497,
+        "date_posted": 1773843497,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053995",
+        "locations": [
+            "Trowbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "44e4b4cf-034c-463c-a0e9-66d092e095e7",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843633,
+        "date_posted": 1773843633,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053996",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3c2541ba-a28d-407a-8fcf-b76fa354a953",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1773843490,
+        "date_posted": 1773843490,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054008",
+        "locations": [
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "393946cf-2d9f-41cb-a148-f46a7696f660",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843491,
+        "date_posted": 1773843491,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053578",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "30ffbf96-b196-48bd-8dca-0d665044694f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843495,
+        "date_posted": 1773843495,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053952",
+        "locations": [
+            "Winchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sainsbury's",
+        "id": "2a3aa623-926b-4809-bf1b-50cc7eacd7f5",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1773843596,
+        "date_posted": 1773843596,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053651",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cb692c04-c600-4fe2-ac1c-3b9e5752ea7d",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843218,
+        "date_posted": 1773843218,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053577",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "760d8e70-7ef2-4576-b4c2-78e28f4327b5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843221,
+        "date_posted": 1773843221,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053948",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3c625928-02b4-4123-a2db-c2c0a099439b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843219,
+        "date_posted": 1773843219,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053575",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "3852513b-7dd3-447b-a856-bc367d8afac5",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773843217,
+        "date_posted": 1773843217,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054009",
+        "locations": [
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "1ecb1821-bf86-4bb0-83d2-8c97424a8036",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843212,
+        "date_posted": 1773843212,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054012",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0b3822f1-eb23-497b-b92a-f89e3a3faf0b",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773843213,
+        "date_posted": 1773843213,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053960",
+        "locations": [
+            "Southampton, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "d14e601d-8bfe-459f-b2c6-e9e51ae1f7f4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1773845386,
+        "date_posted": 1773845386,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01811717",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1773846411,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton-MA/Associate-Software-Development-Engineer--SDET---IT-Software-Engineers_R0020925",
+        "company_name": "Ascensus",
+        "title": "Associate Software Development Engineer (SDET)",
+        "locations": [
+            "Newton, MA",
+            "Dresher, PA",
+            "Lake Mary, FL",
+            "Boston, MA",
+            "Philadelphia, PA",
+            "Orlando, FL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "9e3b982e-eceb-43c0-bb4a-daf219ca0cb2",
+        "date_posted": 1773846411,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773846579,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71514/software-engineer-%E2%80%93-entry-level/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Software Engineer \u2013 Entry Level",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ac75bda-e493-4231-8308-06948d09837a",
+        "date_posted": 1773846537,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransPerfect",
+        "id": "8c276d15-344d-4c48-bd7b-5258a73edda2",
+        "title": "Junior ESI Analyst",
+        "active": true,
+        "date_updated": 1773845117,
+        "date_posted": 1773845117,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Washington-DC/Junior-ESI-Analyst_R2025-243469",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/TransPerfect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Frazer-Nash Consultancy",
+        "id": "9963857b-58e3-4565-b1c3-2d56454606b1",
+        "title": "Complex Systems Design and Assurance Graduate Engineer",
+        "active": true,
+        "date_updated": 1773846753,
+        "date_posted": 1773846753,
+        "url": "https://kbr.wd5.myworkdayjobs.com/Frazer_Nash_Careers/job/Bristol-United-Kingdom/Complex-Systems-Design-and-Assurance-Graduate-Engineer_R2120627",
+        "locations": [
+            "Bristol, UK",
+            "Exeter, UK",
+            "Dorking, UK",
+            "Manchester, UK",
+            "Orton Southgate, Peterborough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Frazer-Nash-Consultancy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "83526648-4d3f-4fad-ab62-b61fc46d1e85",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773845979,
+        "date_posted": 1773845979,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443448",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "91c8ae21-4dcc-4ed1-811d-1d9572645e13",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773845979,
+        "date_posted": 1773845979,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443447",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "8a976d46-a19d-4466-a1e4-c6a1d9994a67",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1773845960,
+        "date_posted": 1773845960,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/DIAGNOSTIC-TECHNICIAN-I_J2443446",
+        "locations": [
+            "Tampa, FL",
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Konrad Group",
+        "id": "7553023b-466e-4a6c-a382-0087b6fe7877",
+        "title": "Software Developer - Entry Level",
+        "active": true,
+        "date_updated": 1773843544,
+        "date_posted": 1773843544,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7669159003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Konrad-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d972c992-f1c8-4245-860d-20d0f11c6c9d",
+        "title": "Software Engineer 1 - C - C++",
+        "active": true,
+        "date_updated": 1773845387,
+        "date_posted": 1773845387,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Software-Engineer-I---C--C----Onsite-_01825606",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "8df6311f-ad14-4450-b9cd-67957c33abec",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1773845959,
+        "date_posted": 1773845959,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/DIAGNOSTIC-TECHNICIAN-I_J2443444",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Saronic",
+        "id": "a0ba978e-02dd-4444-8208-fdd345f5f6ad",
+        "title": "Senior Perception and Autonomy Engineer",
+        "active": true,
+        "date_updated": 1773843921,
+        "date_posted": 1773843921,
+        "url": "https://jobs.lever.co/saronic/d770926d-1d32-40d2-a43d-7fc4c6fd9350/apply",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "fef78f15-5a46-4d06-af08-fa0c27b0e3e0",
+        "title": "Test Engineering Technician 1",
+        "active": true,
+        "date_updated": 1773845981,
+        "date_posted": 1773845981,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443451",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
