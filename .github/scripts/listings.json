@@ -246333,7 +246333,7 @@
         "company_name": "Sainsbury's",
         "id": "9744824b-d51b-426e-8cd9-5a8e2462709a",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773094045,
         "date_posted": 1773094045,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052625",
@@ -258452,9 +258452,9 @@
         "degrees": []
     },
     {
-        "date_updated": 1773651998,
+        "date_updated": 1773815629,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.baesystems.com/global/en/job/BAE1US122188BREXTERNAL/Software-Engineer-I-Entry-Level",
         "company_name": "BAE Systems",
@@ -258470,9 +258470,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773652227,
+        "date_updated": 1773815629,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://belk.wd1.myworkdayjobs.com/en-US/careers-collegecampus/job/Charlotte-NC---Corporate-Office/June-2026---Retail-Development-Program---Software-Engineering--Front-End_JR-99495-2",
         "company_name": "Belk",
@@ -261343,5 +261343,104 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clipboard Health",
+        "id": "4543bde6-0ce0-47f7-a59f-2e7b53602b47",
+        "title": "Product Operations Associate",
+        "active": true,
+        "date_updated": 1773815097,
+        "date_posted": 1773815097,
+        "url": "https://jobs.ashbyhq.com/clipboard/83b78d23-bed2-41e4-8288-5736a1c7334c/application",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Clipboard-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Arkansas",
+        "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
+        "title": "Graduate Research Assistant - Developer",
+        "active": true,
+        "date_updated": 1773814930,
+        "date_posted": 1773814930,
+        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
+        "locations": [
+            "Little Rock, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "3e16bda3-7d44-4ed9-8f94-7e85417c79b0",
+        "title": "Software Engineer \u2013 Entry Level",
+        "active": true,
+        "date_updated": 1773785212,
+        "date_posted": 1773785212,
+        "url": "https://careers-gdms.icims.com/jobs/71520/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "e4a04cbd-6d64-4a1b-b478-06b12fc73aca",
+        "title": "Software Engineer - Fullstack",
+        "active": true,
+        "date_updated": 1773815951,
+        "date_posted": 1773815951,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/alumni/job/Philadelphia-Pennsylvania/Software-Engineer--Fullstack_REQ348013",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "T-Mobile",
+        "id": "8701f13d-be85-4d1c-81f2-eefb0ff9d377",
+        "title": "Technician - End User Support",
+        "active": true,
+        "date_updated": 1773815964,
+        "date_posted": 1773815964,
+        "url": "https://tmobile.wd1.myworkdayjobs.com/alumni/job/Henrietta-New-York/Technician--End-User-Support_REQ345019-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/T-Mobile",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
