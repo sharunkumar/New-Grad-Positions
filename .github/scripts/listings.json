@@ -25541,7 +25541,7 @@
         "company_name": "Graphcore",
         "id": "9881aa86-eda0-414b-acc4-7cc5e3e43413",
         "title": "2026 Graduate Machine Learning Engineer - Applied AI",
-        "active": false,
+        "active": true,
         "date_updated": 1762385788,
         "date_posted": 1762385788,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8234675002",
@@ -260411,7 +260411,7 @@
         "company_name": "Dominion Energy",
         "id": "c28af01d-5659-441b-b3f6-200a5d65ea90",
         "title": "Associate Engineer/Engineer/Senior Engineer - Electric Transmission Operations Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1773756819,
         "date_posted": 1773756819,
         "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Associate-EngineerEngineerSr_-Engineer-Electric-Transmission-Operations-Analytics-VA-23060/1373988200/?ats=successfactors",
@@ -260530,7 +260530,7 @@
         "company_name": "Vanguard",
         "id": "bd6a1b08-9ffe-44ff-acdb-819753bf1bd8",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773758124,
         "date_posted": 1773758124,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Manchester-United-Kingdom/Application-Engineer---I_174863",
@@ -260644,7 +260644,7 @@
         "company_name": "Sainsbury's",
         "id": "f5cb1556-30f3-42b4-abd6-1017a2938605",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773785624,
         "date_posted": 1773785624,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053914",
@@ -261256,7 +261256,7 @@
         "company_name": "Western Digital",
         "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
         "title": "Early Careers Talent - Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773795973,
         "date_posted": 1773795973,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
@@ -261441,6 +261441,67 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "000327a2-72d9-4a03-ba91-5c44583d0f05",
+        "title": "Simulation Integration Engineer",
+        "active": true,
+        "date_updated": 1773817518,
+        "date_posted": 1773817518,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2026498867-1",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4f5f6a23-3e84-4fc1-ba17-e4cfdf5e8e9c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773824983,
+        "date_posted": 1773824983,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053937",
+        "locations": [
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "8e8ca1e5-7138-44b6-89f1-870d13238ad8",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1773828442,
+        "date_posted": 1773790061,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10226193",
+        "locations": [
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
