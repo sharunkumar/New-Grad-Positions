@@ -1147,24 +1147,6 @@
         "is_visible": false
     },
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia",
-        "id": "b70a274e-bd49-4aa1-9783-b02a85cd35f1",
-        "title": "Security Engineer I",
-        "active": false,
-        "date_updated": 1754416461,
-        "date_posted": 1753168828,
-        "url": "https://expedia.wd5.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Security-Engineer-I_R-96894",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1754190061,
         "url": "https://lifeattiktok.com/search/7532349111480273159?spread=5MWH5CQ",
         "company_name": "TikTok",
@@ -231085,7 +231067,7 @@
         "company_name": "Allegiant Air",
         "id": "f0556938-ec76-4563-a687-39987bbb868b",
         "title": "Planning and Revenue Systems Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772234277,
         "date_posted": 1772234277,
         "url": "https://jobs.lever.co/allegiantair/d76619b4-1dd5-44e7-8966-ba48e2568d07/apply",
@@ -243965,7 +243947,7 @@
         "company_name": "Sainsbury's",
         "id": "ef97d21c-5edc-416e-ae2c-5f0d0e1c51d9",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1772839035,
         "date_posted": 1772839035,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052288",
@@ -258379,9 +258361,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773652450,
+        "date_updated": 1773911559,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Software-Engineer-1_R0000355583",
         "company_name": "Caterpillar",
@@ -258399,9 +258381,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773652692,
+        "date_updated": 1773911559,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-gdms.icims.com/jobs/70002/software-engineer-%E2%80%93-entry-level/job",
         "company_name": "General Dynamics Mission Systems",
@@ -258417,9 +258399,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773652748,
+        "date_updated": 1773911559,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-gdms.icims.com/jobs/71461/junior-software-engineer/job",
         "company_name": "General Dynamics Mission Systems",
@@ -258512,9 +258494,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773654399,
+        "date_updated": 1773911559,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Associate-AI-Engineer_JR35531",
         "company_name": "Allegion",
@@ -261419,7 +261401,7 @@
         "company_name": "Sainsbury's",
         "id": "44e4b4cf-034c-463c-a0e9-66d092e095e7",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773843633,
         "date_posted": 1773843633,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053996",
@@ -261509,7 +261491,7 @@
         "company_name": "Sainsbury's",
         "id": "cb692c04-c600-4fe2-ac1c-3b9e5752ea7d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773843218,
         "date_posted": 1773843218,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053577",
@@ -261581,7 +261563,7 @@
         "company_name": "Sainsbury's",
         "id": "1ecb1821-bf86-4bb0-83d2-8c97424a8036",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773843212,
         "date_posted": 1773843212,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054012",
@@ -261599,7 +261581,7 @@
         "company_name": "Sainsbury's",
         "id": "0b3822f1-eb23-497b-b92a-f89e3a3faf0b",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1773843213,
         "date_posted": 1773843213,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053960",
@@ -262561,7 +262543,7 @@
         "id": "57a687af-ff85-4ed3-b374-765277b55847",
         "title": "Engineer 1 - Software Development",
         "active": true,
-        "date_updated": 1773876727,
+        "date_updated": 1773909444,
         "date_posted": 1773876727,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Tozer/Engineer-I-Software-Development_R953-26",
         "locations": [
@@ -262569,10 +262551,8 @@
         ],
         "company_url": "https://simplify.jobs/c/Microchip-Technology",
         "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
+        "sponsorship": "U.S. Citizenship is Required",
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -263173,7 +263153,7 @@
         "company_name": "Sainsbury's",
         "id": "b68f2bb3-1e3e-4b5f-8735-a798a784dd6b",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773900910,
         "date_posted": 1773900910,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053927",
@@ -263350,5 +263330,285 @@
         "degrees": [
             "Associate's"
         ]
+    },
+    {
+        "date_updated": 1773909733,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Work-At-Home-Illinois/Associate-Software-Development-Engineer--Enterprise-Applications-_R0856858",
+        "company_name": "CVS Health",
+        "title": "Associate Software Development Engineer (Enterprise Applications)",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "c189c34f-7bff-421f-ba82-6c90554b2289",
+        "date_posted": 1773909733,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773909913,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://firstadvantage.applytojob.com/apply/fiN17xh6U2/Associate-Software-Engineer-US-Remote",
+        "company_name": "First Advantage",
+        "title": "Associate Software Engineer",
+        "locations": [
+            "Remote in US"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "5e062e30-2097-4a0a-b4f2-04d055c187ee",
+        "date_posted": 1773909913,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773909984,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71509/junior-embedded-software-engineer-%28cleared%29/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior Embedded Software Engineer (cleared)",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "6c924177-e0eb-493c-bfc1-720c239922aa",
+        "date_posted": 1773909984,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773910108,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Simulation-Software-Engineer---Early-Career_JR-202605912",
+        "company_name": "General Motors",
+        "title": "Simulation Software Engineer - Early Career",
+        "locations": [
+            "Austin, TX",
+            "Mountain View, CA",
+            "Warren, MI"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "843b947f-ac34-46ef-ba37-4ee3f5888791",
+        "date_posted": 1773910108,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773910181,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://giftogram.applytojob.com/apply/SXSlsMILTL/Junior-Full-Stack-Developer-On-Site-NJ",
+        "company_name": "Giftogram",
+        "title": "Junior Full Stack Developer",
+        "locations": [
+            "Whippany, NJ"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "24747dd6-4ac1-418f-a302-24a993d37452",
+        "date_posted": 1773910181,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773910563,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [
+            "Master's"
+        ],
+        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Raytheon-Full-Time---Algorithm-Systems-Engineer-II---Plano--TX--Onsite-_01831054",
+        "company_name": "RTX",
+        "title": "Algorithm Systems Engineer II",
+        "locations": [
+            "Plano, TX"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "46dcc12b-ed84-4ac6-b072-debd93830a74",
+        "date_posted": 1773910563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773910868,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d",
+        "company_name": "Ivo",
+        "title": "Software Engineer, Backend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "23a17097-6dbf-4279-9567-c537ff173380",
+        "date_posted": 1773910868,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1773911116,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
+        "company_name": "Ivo",
+        "title": "Software Engineer, Frontend",
+        "locations": [
+            "San Francisco, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "1ca94190-fd1a-4531-953f-194660778ad9",
+        "date_posted": 1773911116,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nuro",
+        "id": "a215fd25-7d7f-4cd8-98c5-5fa711e25234",
+        "title": "Associate Fleet Technician",
+        "active": true,
+        "date_updated": 1773912241,
+        "date_posted": 1773912241,
+        "url": "https://nuro.ai/careersitem?gh_jid=7442057",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "53e429b9-145d-494d-ad44-5ed6022ecc66",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773911309,
+        "date_posted": 1773911309,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054132",
+        "locations": [
+            "Essex, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "29e68554-97d4-4990-954b-31a116ed56b0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1773911303,
+        "date_posted": 1773911303,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053151",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "295b6657-e177-4ee7-a54a-948e1688c9a2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773911327,
+        "date_posted": 1773911327,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053106",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "5af56699-1cab-419d-b4b4-c6a83aa5f288",
+        "title": "Product Management Analyst",
+        "active": true,
+        "date_updated": 1773913362,
+        "date_posted": 1773913362,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R262337-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "693d81b3-bec7-413e-aab5-9ce87988d13f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773882685,
+        "date_posted": 1773882685,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050481",
+        "locations": [
+            "Woking, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "a8562f6a-59d2-4cd6-9b13-21867cd75d20",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1773911415,
+        "date_posted": 1773911415,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054128",
+        "locations": [
+            "Portsmouth, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
