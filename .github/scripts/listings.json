@@ -35263,7 +35263,7 @@
         "company_name": "Avis Budget Group",
         "id": "d5d7b662-9d2d-4c7b-8158-ade634cbe221",
         "title": "Accelerate Postgraduate Opportunity - Deployed Transformation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1762920814,
         "date_posted": 1762818135,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Deployed-Transformation-Engineer--Post-Graduate-Opportunity-_R0182038",
@@ -263664,7 +263664,7 @@
         "company_name": "Fortive",
         "id": "8e9c02ad-c243-4a6c-80a1-cff79c687a89",
         "title": "Calibration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1773929367,
         "date_posted": 1773929367,
         "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/9246",
@@ -264262,7 +264262,7 @@
         "company_name": "Intuit",
         "id": "54a4c75f-0e8b-4a81-9bc0-baafc6113b85",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773959662,
         "date_posted": 1773959662,
         "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/92964236400",
@@ -265271,6 +265271,130 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Numeral",
+        "id": "d556c74b-3572-47ff-85d9-5bc3a4bbc529",
+        "title": "Product Operations Analyst",
+        "active": true,
+        "date_updated": 1773995670,
+        "date_posted": 1773786095,
+        "url": "https://jobs.ashbyhq.com/numeral/e50e001c-870b-4bc9-b519-9333e762e64b/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Numeral",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dordt University",
+        "id": "6c9f0b71-8f14-41f3-adf4-d112c47ed8ed",
+        "title": "Associate Data Engineer - Data Services",
+        "active": true,
+        "date_updated": 1773997400,
+        "date_posted": 1773997400,
+        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87247",
+        "locations": [
+            "Houston, TX",
+            "Austin, TX",
+            "Dallas, TX",
+            "Raleigh, NC",
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dordt-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "8b9ccf56-5a60-45dc-b5a0-a0a436bb2470",
+        "title": "Assistant Teaching Professor of Data Science",
+        "active": true,
+        "date_updated": 1773999662,
+        "date_posted": 1773999662,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/William--Mary/Assistant-Teaching-Professor-of-Data-Science_JR101068",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "3ba63298-5fab-45e1-827f-1485a5069ab4",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1773999672,
+        "date_posted": 1773999672,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Virginia-Institute-of-Marine-Science/Postdoctoral-Researcher_JR101341",
+        "locations": [
+            "Virginia"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "William & Mary",
+        "id": "ca83556c-e790-4a83-b2ee-010a8ddb7a38",
+        "title": "CGA Fellow",
+        "active": true,
+        "date_updated": 1774002315,
+        "date_posted": 1774002315,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Swem-Library/CGA-Fellow--Technician-_JR101329",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "William & Mary",
+        "id": "623698ea-3710-4d32-a204-482bee0e6eed",
+        "title": "Library Web Developer",
+        "active": true,
+        "date_updated": 1774002483,
+        "date_posted": 1774002483,
+        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Library-Web-Developer_JR101209",
+        "locations": [
+            "Williamsburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/William-And-Mary",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
