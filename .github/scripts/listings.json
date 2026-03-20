@@ -80369,60 +80369,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Five Rings Capital",
-        "id": "3e55e4cd-f701-4981-a9b1-f3de192e3068",
-        "title": "Campus Full Time - Quantitative Trader",
-        "active": false,
-        "date_updated": 1762906276,
-        "date_posted": 1753288163,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4808867008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Five Rings Capital",
-        "id": "8b8ff2d7-f927-45df-b525-fd76949754e8",
-        "title": "Campus Full Time - Quantitative Trader",
-        "active": true,
-        "date_updated": 1762818227,
-        "date_posted": 1753288166,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4808892008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Five Rings Capital",
-        "id": "dba9548e-2c09-4e24-b1c5-470b335f4a13",
-        "title": "Campus Full Time 2026 - Software Developer - London",
-        "active": false,
-        "date_updated": 1761269961,
-        "date_posted": 1753288166,
-        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/4817027008",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Five-Rings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Crowdstrike",
         "id": "2ac51bf3-0b24-48e1-81fb-2a535a16e730",
@@ -164708,24 +164654,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "a1fd0871-80e0-40c6-9967-e1e7a63bbf2a",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1768955611,
-        "date_posted": 1753287190,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4796907007",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ohio State University",
         "id": "1c5a1935-47a7-431e-9f20-581aa71f73f5",
@@ -242182,7 +242110,7 @@
         "company_name": "Highmark Health",
         "id": "e2b15639-7130-4c33-899a-efb1956839e0",
         "title": "Associate Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1772753936,
         "date_posted": 1772753936,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Application-Developer_J277936",
@@ -261019,7 +260947,7 @@
         "company_name": "Leidos",
         "id": "713dca75-dd2d-46be-a770-662b19c2c398",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773798013,
         "date_posted": 1773798013,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00178648-1",
@@ -261638,7 +261566,7 @@
         "company_name": "Jabil",
         "id": "91c8ae21-4dcc-4ed1-811d-1d9572645e13",
         "title": "Test Engineering Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773845979,
         "date_posted": 1773845979,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443447",
@@ -263337,9 +263265,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773910563,
+        "date_updated": 1774018721,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -264258,24 +264186,21 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
+        "category": "Software Engineering",
         "company_name": "Intuit",
         "id": "54a4c75f-0e8b-4a81-9bc0-baafc6113b85",
         "title": "Software Engineer 1",
         "active": false,
-        "date_updated": 1773959662,
+        "date_updated": 1774018150,
         "date_posted": 1773959662,
         "url": "https://jobs.intuit.com/job/san-diego/software-engineer-1/27595/92964236400",
         "locations": [
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
+        "degrees": []
     },
     {
         "source": "Simplify",
@@ -265396,5 +265321,153 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "69b3b524-3151-44d7-97a1-ff9306963ce5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774016255,
+        "date_posted": 1774016255,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054350",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ead8d50d-fdf4-499c-8531-0cbac6ebd8b2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774016086,
+        "date_posted": 1774016086,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054340",
+        "locations": [
+            "Wellington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9995045a-5153-460f-b95d-420282716d89",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774016061,
+        "date_posted": 1774016061,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053802",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin-Madison",
+        "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
+        "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
+        "active": true,
+        "date_updated": 1774015768,
+        "date_posted": 1774015768,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "efbc36b4-8bba-442a-861a-a969864f0f82",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774016307,
+        "date_posted": 1774016307,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054299",
+        "locations": [
+            "Liverpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e5e01b5e-3d15-44d8-ad85-4b827c91625b",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774016054,
+        "date_posted": 1774016054,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054338",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Wisconsin System",
+        "id": "20e96b2e-39e0-49cc-a65a-7bd6b46f5e83",
+        "title": "Institutional Policy Analyst",
+        "active": true,
+        "date_updated": 1774019995,
+        "date_posted": 1774019995,
+        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Stevens-Point-WI/Institutional-Policy-Analyst_JR10008634",
+        "locations": [
+            "Plover, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "5ef15adb-c5d1-41b0-8ea0-f7512616c4b2",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774016086,
+        "date_posted": 1774016086,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054287",
+        "locations": [
+            "Nottingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
