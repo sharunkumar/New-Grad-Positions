@@ -80208,25 +80208,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vail Systems",
-        "id": "4b480e5b-ed83-4021-9b3f-3d6f6d7f4e80",
-        "title": "Software Engineer - IVR",
-        "active": true,
-        "date_updated": 1753418402,
-        "date_posted": 1753418402,
-        "url": "https://jobs.lever.co/vailsys/d2dfca6e-1a51-49a0-8bfe-83316bf7c446/apply",
-        "locations": [
-            "Chicago, IL",
-            "Highland Park, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Vail-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Saronic",
         "id": "64409606-f5fa-447b-b9a8-e7e606d7205f",
@@ -266811,6 +266792,24 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052315",
         "locations": [
             "Tunbridge Wells, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "f14465cd-647e-48d1-9e51-1974ea7e887f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774160117,
+        "date_posted": 1774160117,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054566",
+        "locations": [
+            "Derby, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
