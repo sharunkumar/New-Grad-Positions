@@ -18252,7 +18252,7 @@
         "company_name": "Abnormal Security",
         "id": "9db75355-f86d-4e5f-9f8e-84fdd0745161",
         "title": "Software Engineer 1 - Identity Security",
-        "active": false,
+        "active": true,
         "date_updated": 1760033088,
         "date_posted": 1760033088,
         "url": "https://abnormal.ai/careers/jobs/7491522003?gh_jid=7491522003",
@@ -200307,7 +200307,7 @@
         "company_name": "Goldman Sachs",
         "id": "65bbb6ae-b0b7-461c-abaf-ae8c0a71b8bf",
         "title": "Global Banking & Markets - Public - New York Analyst CVA Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1770851967,
         "date_posted": 1770851967,
         "url": "https://higher.gs.com/roles/162111",
@@ -216416,7 +216416,7 @@
         "company_name": "EquipmentShare",
         "id": "b72b7d26-b0b8-45a4-92b8-0026293f2ecb",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1771467935,
         "date_posted": 1771467935,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=7630584",
@@ -266720,7 +266720,7 @@
         "company_name": "Sainsbury's",
         "id": "effdab1e-b9fa-4cfc-8031-e0395d4fd64e",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774228720,
         "date_posted": 1774228720,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054124",
@@ -267080,7 +267080,7 @@
         "company_name": "Sainsbury's",
         "id": "13db05c1-151f-4138-a4db-38585fcf423f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774275280,
         "date_posted": 1774275280,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054704",
@@ -267914,7 +267914,7 @@
         "company_name": "Sainsbury's",
         "id": "f6302228-96c2-4315-ae04-8831288290bd",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774304149,
         "date_posted": 1774304149,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054768",
@@ -268095,7 +268095,7 @@
         "company_name": "Pine Rest",
         "id": "6c783eb5-ac6a-4794-95df-4b6fccc273e7",
         "title": "Bachelor Level Clinical Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1774306087,
         "date_posted": 1774306087,
         "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Bachelor-Level-Clinical-Coordinator--PHP-Adult--BM-_JR104523",
@@ -268522,6 +268522,91 @@
             "Huntington Beach, CA"
         ],
         "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
+        "title": "Software Engineer TS/SCI Poly",
+        "active": true,
+        "date_updated": 1774318559,
+        "date_posted": 1774318559,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
+        "locations": [
+            "Aurora, CO",
+            "Annapolis Junction, MD",
+            "Alexandria, VA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "ab9a3a31-c7cb-4dd5-9d3d-357f211a1037",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1774319409,
+        "date_posted": 1774319409,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1",
+        "locations": [
+            "Santa Clara, CA",
+            "Westlake Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "86572f6d-7cc1-425d-a248-95218f9edf61",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1774319257,
+        "date_posted": 1774319257,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Firmware-Engineer_2601000",
+        "locations": [
+            "Santa Clara, CA",
+            "Westlake Village, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "db03c5bd-7f19-46fe-a9fb-54b88589315f",
+        "title": "Technologist 1 - Iudc.06",
+        "active": true,
+        "date_updated": 1774275381,
+        "date_posted": 1774275381,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000116189020",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
