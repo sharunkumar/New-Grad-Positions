@@ -2,58 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Palantir",
-        "id": "fd97ae60-01a8-4cee-a8c2-95b9ecdd70cf",
-        "title": "Software Engineer \u2013 New Grad - Infrastructure",
-        "active": true,
-        "date_updated": 1754055703,
-        "date_posted": 1754055703,
-        "url": "https://jobs.lever.co/palantir/9265acce-12cd-4179-8c50-55d15963532b/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Quantinuum",
-        "id": "6adb6a85-61dd-4b56-bd51-24db9fc84062",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754190235,
-        "date_posted": 1754065188,
-        "url": "https://jobs.eu.lever.co/quantinuum/b9f4b023-e796-413e-9af5-cfaf1604b570/apply",
-        "locations": [
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Quantinuum",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Terex",
-        "id": "5c51f5ae-cc65-4ef8-b061-5d8d83699764",
-        "title": "Software Engineer I - 3rd Eye",
-        "active": false,
-        "date_updated": 1754068499,
-        "date_posted": 1754068499,
-        "url": "https://terex.wd1.myworkdayjobs.com/terexcareers/job/USA-TX-Austin/Software-Engineer-I--3rd-Eye_REQ-9369",
-        "locations": [
-            "Austin, TX",
-            "Chattanooga, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Terex",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sentry",
         "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
         "title": "Software Engineer \u2013 New Grad",
@@ -82,91 +30,6 @@
             "San Francisco, CA"
         ],
         "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "ffe18d04-0fee-4c22-92c7-ee69659dc2e0",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1754189775,
-        "date_posted": 1754055562,
-        "url": "https://www.esri.com/careers/4810345007?gh_jid=4810345007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "4cbc04d5-d651-438a-81ec-b82f768a6602",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": true,
-        "date_updated": 1754055697,
-        "date_posted": 1754055697,
-        "url": "https://jobs.lever.co/palantir/d372c805-d0cd-4a10-9522-fbecc78d6f3e/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "09e4f8a6-10a8-498d-aed3-95b61b9e7fbc",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1754189750,
-        "date_posted": 1754055565,
-        "url": "https://www.esri.com/careers/4810344007?gh_jid=4810344007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PJM",
-        "id": "3d340e56-0a69-43ff-9367-8bdd7ddf6b05",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1754055576,
-        "date_posted": 1754055576,
-        "url": "https://pjm.wd5.myworkdayjobs.com/pjmcareers/job/Audubon-PA/Data-Engineer-I--II-_REQ-2025-4047-1",
-        "locations": [
-            "King of Prussia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PJM",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "8b9cd2a3-53ab-41cd-bbd0-c5bdb6e56732",
-        "title": "Software Engineer \u2013 New Grad - Production Infrastructure",
-        "active": true,
-        "date_updated": 1754055704,
-        "date_posted": 1754055704,
-        "url": "https://jobs.lever.co/palantir/3f4dd595-2f57-4b5f-a50a-8d3084641ef8/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
         "is_visible": true,
         "sponsorship": "Other"
     },
@@ -23170,24 +23033,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palantir",
-        "id": "7b0e9437-e5f3-4413-98c1-7ea5c125a2af",
-        "title": "Forward Deployed Software Engineer \u2013 New Grad - UK Government",
-        "active": true,
-        "date_updated": 1761863056,
-        "date_posted": 1754055689,
-        "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Palantir",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Travelers Companies",
         "id": "a70d4715-dfc3-484a-84fe-26d9421e90b6",
@@ -24016,24 +23861,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Datalab USA",
-        "id": "0b46c5ae-11ad-489e-944e-2d4dc26cb682",
-        "title": "Production Programmer \u2013 Entry Level SQL Developer",
-        "active": true,
-        "date_updated": 1754510242,
-        "date_posted": 1754066598,
-        "url": "https://jobs.lever.co/datalabusa/19b74a87-0d5f-4ca1-a218-5dae6004d0ee/apply",
-        "locations": [
-            "Germantown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Datalab-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -78408,24 +78235,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PMG",
-        "id": "8fe37b27-5135-448a-8cad-0288b3498f3b",
-        "title": "Graduate Leadership Program - AI & Software Engineering",
-        "active": true,
-        "date_updated": 1754058477,
-        "date_posted": 1754058477,
-        "url": "https://job-boards.greenhouse.io/pmg/jobs/8033520002",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/PMG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "PennState University",
         "id": "68188134-cafa-4b8d-aa5c-4edf4278eb7c",
         "title": "IT Applications Specialist",
@@ -78455,24 +78264,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PMG",
-        "id": "29e475b1-be98-4267-9d5f-d70bd24eff57",
-        "title": "Graduate Leadership Program - Data Analytics",
-        "active": false,
-        "date_updated": 1754058471,
-        "date_posted": 1754058471,
-        "url": "https://job-boards.greenhouse.io/pmg/jobs/8033513002",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/PMG",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -78534,42 +78325,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Verifone",
-        "id": "f542fca3-9300-464e-a641-e02b189fc349",
-        "title": "Technical Support Representative",
-        "active": false,
-        "date_updated": 1754057511,
-        "date_posted": 1754057511,
-        "url": "https://ats.comparably.com/api/v2/verifone/post/6590796003?gh_jid=6590796003",
-        "locations": [
-            "Ashford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verifone",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "2e17e435-e594-47c6-89d4-9fd698967ff5",
-        "title": "Part time Smeal - Computer Science",
-        "active": false,
-        "date_updated": 1762990018,
-        "date_posted": 1754056011,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time---Smeal--Marketing-Dept---Research-Assistant---Computer-Science_REQ_0000065852-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Goldman Sachs",
         "id": "bc43991f-4c29-44ec-af50-7ae5af9ba063",
         "title": "New Analyst - Engineering",
@@ -78581,62 +78336,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "cc282bf8-6c95-4048-a141-7122834d1c01",
-        "title": "2026 \u2013 Americas - Salt Lake City - Engineering New Analyst",
-        "active": false,
-        "date_updated": 1761847690,
-        "date_posted": 1754072364,
-        "url": "https://higher.gs.com/roles/150842?type=students",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NetraDyne",
-        "id": "c7f3ea2c-49bd-469b-9197-0793fee9c037",
-        "title": "Senior AI Research Engineer",
-        "active": false,
-        "date_updated": 1754070863,
-        "date_posted": 1754070863,
-        "url": "https://www.netradyne.com/company/careers?gh_jid=4520201005",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NetraDyne",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "7f574b25-9303-4131-a329-cf8b670c73d0",
-        "title": "Postdoctoral Associate",
-        "active": false,
-        "date_updated": 1762918467,
-        "date_posted": 1754069907,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/Post-Doctoral-Associate_R100087652",
-        "locations": [
-            "Coral Gables, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -78673,24 +78372,6 @@
             "Hyattsville, MD"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Maryland-College-Park",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "36bf56bc-91ab-43fb-b4c7-9b7121c5f350",
-        "title": "Embedded Firmware Engineer - Embedded Systems",
-        "active": false,
-        "date_updated": 1762446141,
-        "date_posted": 1754068187,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Embedded-Firmware-Engineer_2024-15456",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -78734,60 +78415,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "4ab5afc6-b71e-49e9-951d-1918516153a9",
-        "title": "Postdoctoral Scholar Research Associate",
-        "active": false,
-        "date_updated": 1754064978,
-        "date_posted": 1754064978,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---Health-Sciences-Campus/Postdoctoral-Scholar-Research-Associate_REQ20098741",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "9af75743-2cd1-42b4-93e3-ccff68405dfc",
-        "title": "Postdoctoral Scholar - Research Associate",
-        "active": false,
-        "date_updated": 1754064901,
-        "date_posted": 1754064901,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Scholar---Research-Associate_REQ20161632",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "PIMCO",
-        "id": "7fb02739-552a-4a13-bdbb-a947861d3b86",
-        "title": "Quantitative Research Analyst",
-        "active": false,
-        "date_updated": 1754059590,
-        "date_posted": 1754059590,
-        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/Quantitative-Research-Analyst_R104951-1",
-        "locations": [
-            "Newport Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/PIMCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "54e01f92-58ed-48c5-bcb6-c977295cadbc",
         "title": "Research Assistants",
@@ -78795,43 +78422,6 @@
         "date_updated": 1755956449,
         "date_posted": 1755956449,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistants_REQ_0000063953-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "9bd0f937-080e-400f-aa57-4a3dcc7ff847",
-        "title": "Campus Quantitative Researcher - Full-Time",
-        "active": false,
-        "date_updated": 1754056327,
-        "date_posted": 1754056327,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6904522",
-        "locations": [
-            "London, UK",
-            "Paris, France"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PennState University",
-        "id": "eac8db70-c9b5-4336-aacd-473e34b2745d",
-        "title": "Research Assistant in FAIR Lab - Prof. Hadi Hosseini",
-        "active": false,
-        "date_updated": 1763119261,
-        "date_posted": 1754056127,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-in-FAIR-Lab--Prof-Hadi-Hosseini-_REQ_0000059527-2",
         "locations": [
             "State College, PA"
         ],
@@ -186400,7 +185990,7 @@
         "company_name": "Stryker",
         "id": "30ab6682-d44f-4222-a68a-590ad9dbf142",
         "title": "Data Engineer - Post Market",
-        "active": false,
+        "active": true,
         "date_updated": 1770162568,
         "date_posted": 1770162568,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Data-Engineer---Post-Market_R558424",
@@ -249365,7 +248955,7 @@
         "company_name": "GlobalFoundries",
         "id": "4c0f2e34-6034-4426-acb9-a30b87c8d6de",
         "title": "Silicon Photonics Module Packaging Integration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773267904,
         "date_posted": 1773267904,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Silicon-Photonics-Module-Packaging-Integration-Engineer--2026-New-College-Graduate-_JR-2502070",
@@ -257682,7 +257272,7 @@
         "company_name": "Netsmart",
         "id": "847287d6-dcac-42a2-ade1-9eb146670908",
         "title": "Software Engineer-Programming Knowledge",
-        "active": false,
+        "active": true,
         "date_updated": 1773701222,
         "date_posted": 1773701222,
         "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Great-River-NY/Software-Engineer--Programming-Knowledge-Onsite-Great-River--NY_R015271",
@@ -263964,7 +263554,7 @@
         "company_name": "University of Wisconsin-Madison",
         "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
         "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
-        "active": false,
+        "active": true,
         "date_updated": 1774015768,
         "date_posted": 1774015768,
         "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
@@ -275549,7 +275139,7 @@
         "company_name": "Sainsbury's",
         "id": "d4e0ba0c-b058-4f5d-991a-33ec090bd8c0",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774706842,
         "date_posted": 1774706842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055381",
@@ -275625,7 +275215,7 @@
         "company_name": "Sainsbury's",
         "id": "f64ccfc3-866f-4859-8164-3ae9844b199e",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774706842,
         "date_posted": 1774706842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055379",
@@ -275643,7 +275233,7 @@
         "company_name": "Sainsbury's",
         "id": "f201d4eb-6e5f-4a17-a79b-d8a4cbdc666f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774706842,
         "date_posted": 1774706842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055395",
@@ -276216,7 +275806,7 @@
         "company_name": "Sainsbury's",
         "id": "8c8e2378-4506-4422-b80b-4684a4a65d4c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774735651,
         "date_posted": 1774735651,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055418",
@@ -276367,7 +275957,7 @@
         "company_name": "Sainsbury's",
         "id": "aa91105e-5781-4f02-a2bd-38447dc1702c",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774735649,
         "date_posted": 1774735649,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055449",
@@ -276406,7 +275996,7 @@
         "company_name": "Sainsbury's",
         "id": "b25a5472-562d-45bb-a8b2-702b8b6a238f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774735649,
         "date_posted": 1774735649,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055435",
@@ -276517,5 +276107,43 @@
             "PhD",
             "MD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "442cb2d0-e247-4a9a-9be9-af9751998714",
+        "title": "Fulltime-Systems Engineer 1",
+        "active": true,
+        "date_updated": 1774800884,
+        "date_posted": 1774649170,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-MARLBOROUGH-MA1--1001-Boston-Post-Rd--BLDG-1/XMLNAME-2026-Fulltime-Systems-Engineer-I-Onsite_01820969-1",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Grid",
+        "id": "4f700a91-cd4b-4413-82f7-cbca934c1707",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1774649201,
+        "date_posted": 1774649201,
+        "url": "https://jobs.lever.co/Grid/0059fb33-9429-4edc-8b70-61a7bfb773ef/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Grid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
