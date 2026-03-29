@@ -78976,42 +78976,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Da Vinci",
-        "id": "96187f79-39c8-4510-8fb5-0c4835cab238",
-        "title": "Graduate Quant",
-        "active": false,
-        "date_updated": 1763114402,
-        "date_posted": 1754031421,
-        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4241558101",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Da-Vinci",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Da Vinci",
-        "id": "1a1ea196-40dc-4c27-b754-23f28270e836",
-        "title": "Graduate C++ Software Engineer",
-        "active": false,
-        "date_updated": 1754031403,
-        "date_posted": 1754031403,
-        "url": "https://job-boards.eu.greenhouse.io/davinciderivatives/jobs/4245633101",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Da-Vinci",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Surefire Cyber",
         "id": "19dbf198-5725-453b-97ec-db9bd1ca7cdf",
@@ -95939,7 +95903,7 @@
         "company_name": "Amentum",
         "id": "2ec98c73-9ec9-4d2d-8dc6-67309ced6e65",
         "title": "Entry Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1763970954,
         "date_posted": 1763773319,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer-1_R0149307",
@@ -258418,7 +258382,7 @@
         "company_name": "Moog ",
         "id": "2733ff3e-ab32-404d-b849-512647297d35",
         "title": "Associate Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773698988,
         "date_posted": 1773698988,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Product-Engineer_R-26-16680",
@@ -259210,7 +259174,7 @@
         "company_name": "RTX",
         "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773787551,
         "date_posted": 1773787551,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
@@ -266165,7 +266129,7 @@
         "company_name": "Sainsbury's",
         "id": "9a946cca-b61b-417a-b5c1-853452aee28f",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774275473,
         "date_posted": 1774275473,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054686",
@@ -269102,7 +269066,7 @@
         "company_name": "MillerKnoll",
         "id": "ad4bae74-9ed2-4d05-be7f-fe891477382b",
         "title": "Lifestyles Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774392776,
         "date_posted": 1774392776,
         "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland/Senior-Engineer_JR108037-1",
@@ -269784,7 +269748,7 @@
         "company_name": "RTX",
         "id": "8ffc45ff-9c31-49ad-b88a-3f10193be075",
         "title": "Fulltime Systems Engineer 1 - Modeling and Simulation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1774393253,
         "date_posted": 1774393253,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/XMLNAME-2026-Fulltime-Systems-Engineer-I--Modeling-and-Simulation-Developer---Onsite_01832515",
@@ -272693,7 +272657,7 @@
         "company_name": "Sainsbury's",
         "id": "f555c800-ea95-4954-b42a-10bbce693b97",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774505211,
         "date_posted": 1774505211,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055113",
@@ -273903,7 +273867,7 @@
         "company_name": "Amentum",
         "id": "b3ceda81-1ff6-456f-8343-cd93bff5e4ac",
         "title": "Business System Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774565702,
         "date_posted": 1774565702,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-PA-Pittsburgh/Business-System-Analyst-1_R0157521-1",
@@ -276027,7 +275991,7 @@
         "company_name": "Centene",
         "id": "9d7be4b4-d4bd-4382-9110-7e9270280ddb",
         "title": "IT Data Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774732802,
         "date_posted": 1774648995,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/IT-Data-Analyst-II_1635005",
@@ -276232,7 +276196,7 @@
         "company_name": "Sainsbury's",
         "id": "95f19fc5-294c-48e1-81af-febcb2e83df1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774735651,
         "date_posted": 1774735651,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055426",
@@ -276473,5 +276437,162 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "94618fe1-1700-4218-986a-9b9de7b007a2",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055311",
+        "locations": [
+            "Easton, Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "67f6ae04-0fd2-4b76-89b2-1d046e4a575a",
+        "title": "Program Protection Software Engineer 1 - Program Protection Software Engineer I",
+        "active": true,
+        "date_updated": 1774747560,
+        "date_posted": 1774693503,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Program-Protection-Software-Engineer-I---Onsite--MA-_01834028",
+        "locations": [
+            "Concord, MA",
+            "Tewksbury, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "aa91105e-5781-4f02-a2bd-38447dc1702c",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735649,
+        "date_posted": 1774735649,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055449",
+        "locations": [
+            "Chesterfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corebridge Financial",
+        "id": "2adacecf-3277-4c0c-9acf-5ec46f6809fd",
+        "title": "ERM Business Data Analyst",
+        "active": true,
+        "date_updated": 1774735790,
+        "date_posted": 1774735790,
+        "url": "https://corebridgefinancial.wd1.myworkdayjobs.com/CorebridgeFinancial/job/TX-Houston/ERM-Business-Data-Analyst_JR2600318",
+        "locations": [
+            "Houston, TX",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Corebridge-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b25a5472-562d-45bb-a8b2-702b8b6a238f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735649,
+        "date_posted": 1774735649,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055435",
+        "locations": [
+            "Bury Saint Edmunds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torc Robotics",
+        "id": "8579ed59-aa06-4f4b-986c-008731f00b98",
+        "title": "Software Engineer - I - Metrics for Release Platform",
+        "active": true,
+        "date_updated": 1774649722,
+        "date_posted": 1774649722,
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8464617002",
+        "locations": [
+            "Remote in USA",
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Torc-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9e392ead-ec5d-416e-add5-868387658efe",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1774735650,
+        "date_posted": 1774735650,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055401",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bristol Myers Squibb",
+        "id": "73d732e9-daa8-4b4a-b17d-e46edfbb0e87",
+        "title": "Associate Director - 340B Technical & Methodology Analytics",
+        "active": true,
+        "date_updated": 1774735745,
+        "date_posted": 1774735745,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Director--340B-Technical---Methodology-Analytics_R1599843",
+        "locations": [
+            "Washington, DC",
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
