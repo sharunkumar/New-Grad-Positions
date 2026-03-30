@@ -1,39 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "8052f0a5-610c-4ede-9479-d5c72fd10773",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1754274376,
-        "date_posted": 1754075670,
-        "url": "https://jobs.ashbyhq.com/sentry/143811c1-ec03-458b-9edf-32f002c818f0/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sentry",
-        "id": "a721ada6-fcb0-4048-b53c-5ef7d4052d55",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755270405,
-        "date_posted": 1754075667,
-        "url": "https://jobs.ashbyhq.com/sentry/96c8a4cc-23b9-4f3e-b360-38c1cc248491/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sentry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1755285251,
         "url": "https://lifeattiktok.com/search/7531158600791705874?spread=5MWH5CQ",
         "company_name": "TikTok",
@@ -10527,26 +10493,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ramp",
-        "id": "b5969a01-2e3a-4b19-86db-c82bbe7973c6",
-        "title": "University Grad - Software Engineer - Frontend",
-        "active": false,
-        "date_updated": 1757597488,
-        "date_posted": 1754087225,
-        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "65bdd31a-88b7-4679-886a-64deb5f113dc",
@@ -20363,46 +20309,6 @@
         "date_posted": 1761236989,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DV Trading",
-        "id": "32314f06-2c67-40a5-abe3-6665e42b67cd",
-        "title": "2026 Graduate Software Developer - DV Commodities",
-        "active": false,
-        "date_updated": 1761249396,
-        "date_posted": 1754086272,
-        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4592931005",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DV Trading",
-        "id": "ebce2464-8a88-4bfb-ace3-36495434337a",
-        "title": "2026 Graduate Software Developer - DV Commodities",
-        "active": false,
-        "date_updated": 1761249392,
-        "date_posted": 1754086269,
-        "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4589615005",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/DV-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -37536,7 +37442,7 @@
         "company_name": "Bridgewater Associates",
         "id": "1e0891ed-c472-419d-86a9-380dd2159ae3",
         "title": "Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762470472,
         "date_posted": 1762470472,
         "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8096635002",
@@ -48200,7 +48106,7 @@
         "company_name": "Globus Medical",
         "id": "3ce5edd4-614e-43f5-902a-4dca9d73e4b3",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1761876228,
         "date_posted": 1761876228,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR104165",
@@ -67431,7 +67337,7 @@
         "company_name": "University of Texas - Austin",
         "id": "526e61a0-9dc3-483b-bed0-c73c2ab90591",
         "title": "Postdoctoral Fellow",
-        "active": false,
+        "active": true,
         "date_updated": 1756332460,
         "date_posted": 1756332460,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow_R_00029121",
@@ -78090,24 +77996,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "mthree",
-        "id": "b472f687-ffe6-4a91-9d75-64b2ed163748",
-        "title": "Product Owner",
-        "active": true,
-        "date_updated": 1754348023,
-        "date_posted": 1754089299,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4589432006",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "IMC Trading",
         "id": "cb0d39a3-f48a-4e62-8b19-c44959f79876",
@@ -78120,114 +78008,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/IMC-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "edX",
-        "id": "d712041e-7ad3-4753-bd08-94f19e3014a1",
-        "title": "Multiple Roles - Cyber Security Student Support",
-        "active": false,
-        "date_updated": 1761518545,
-        "date_posted": 1754088567,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751270002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "edX",
-        "id": "23f82e54-18f9-4e39-b8e0-179a1bb6a2d5",
-        "title": "Product Management - Product Management Student Support",
-        "active": false,
-        "date_updated": 1762905774,
-        "date_posted": 1754088567,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751318002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "edX",
-        "id": "89a9cc54-0766-4960-9b8b-57d9b006a604",
-        "title": "Multiple Roles - Web Development Student Support",
-        "active": true,
-        "date_updated": 1762817504,
-        "date_posted": 1754088564,
-        "url": "https://job-boards.greenhouse.io/bootcampinstructionalengagement/jobs/5751369002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EdX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jane Street",
-        "id": "9634b5fa-b788-415d-84b5-76e80c4810c4",
-        "title": "Sales and Trading",
-        "active": false,
-        "date_updated": 1761264021,
-        "date_posted": 1754087299,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/7844500002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jane Street",
-        "id": "416ff952-5880-4c3f-ae72-00ebda5cbc8b",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1761264033,
-        "date_posted": 1754087305,
-        "url": "https://job-boards.greenhouse.io/janestreet/jobs/8040547002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fortinet",
-        "id": "9227e157-44fb-4c0b-85b1-d3998cbf26cb",
-        "title": "New Grad Jobs 2025",
-        "active": false,
-        "date_updated": 1754086890,
-        "date_posted": 1754086890,
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/New_Grad_2019-Ottawa",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortinet",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -78318,24 +78098,6 @@
             "State College, PA"
         ],
         "company_url": "https://simplify.jobs/c/Penn-State",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Goldman Sachs",
-        "id": "bc43991f-4c29-44ec-af50-7ae5af9ba063",
-        "title": "New Analyst - Engineering",
-        "active": false,
-        "date_updated": 1762909276,
-        "date_posted": 1754076873,
-        "url": "https://higher.gs.com/roles/150865?type=students",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -100321,7 +100083,7 @@
         "company_name": "University of Texas - Austin",
         "id": "13b7c776-b6dc-4c75-98d1-5e69dc3770bf",
         "title": "Postdoctoral Fellow - Transmission Electron Microscopy",
-        "active": false,
+        "active": true,
         "date_updated": 1764208295,
         "date_posted": 1764208295,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow---Transmission-Electron-Microscopy--Texas-Materials-Institute--Cockrell-School-of-Engineering_R_00043435",
@@ -152978,7 +152740,7 @@
         "company_name": "Sanofi",
         "id": "0c4f40ae-9864-4484-91e5-624780a43805",
         "title": "Scientist 1 - Data Science",
-        "active": false,
+        "active": true,
         "date_updated": 1768301599,
         "date_posted": 1765652953,
         "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Scientist-I--Data-Science_R2822005-1",
@@ -153473,7 +153235,7 @@
         "company_name": "University of Texas - Austin",
         "id": "c8d2c6a8-870d-4d32-9c28-1e013e1a1f1a",
         "title": "Software Engineering Scientist Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1768345377,
         "date_posted": 1768345377,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/NSW-Software-Engineering-Scientist-Associate_R_00043568",
@@ -158348,7 +158110,7 @@
         "company_name": "The Travelers Companies",
         "id": "386cce7f-7163-4dd6-8e96-72df25d7a9c2",
         "title": "Software Engineer 1 - Aws",
-        "active": true,
+        "active": false,
         "date_updated": 1768519709,
         "date_posted": 1768519709,
         "url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Software-Engineer-I_R-48464",
@@ -179016,7 +178778,7 @@
         "company_name": "Finning",
         "id": "38cf633c-ab48-4592-895d-a0e4b02c4ad7",
         "title": "Mining Engineers \u2013 Recent Graduates",
-        "active": true,
+        "active": false,
         "date_updated": 1769739750,
         "date_posted": 1769739750,
         "url": "https://finning.wd3.myworkdayjobs.com/External/job/Fort-McMurray-AB-CA/Mining-Engineers---Recent-Graduates_R-2025-4693",
@@ -207139,7 +206901,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "72e06b78-4076-4450-a7e2-8595b758e7d5",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1771342673,
         "date_posted": 1771342673,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/GBR-LNDN-25-Walbrook-FL56/Product-Manager---Commercial_JR0304593-1",
@@ -209122,7 +208884,7 @@
         "company_name": "Creation Technologies",
         "id": "d63eedf5-8718-4b0b-80b2-b59131b25b5b",
         "title": "Product Data Management - Pdm - Specialist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771456897,
         "date_posted": 1771456897,
         "url": "https://creationtech.wd1.myworkdayjobs.com/Creation/job/Newark-NY-USA/Product-Data-Management--PDM--Specialist-1_JR6200",
@@ -215095,7 +214857,7 @@
         "company_name": "Latitude AI",
         "id": "a17e8fc3-8bf3-446d-9ac8-7012a5ec8a53",
         "title": "Bench Technician Associate - Greenville - SC",
-        "active": true,
+        "active": false,
         "date_updated": 1771601925,
         "date_posted": 1771601925,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7629654",
@@ -238864,7 +238626,7 @@
         "company_name": "IDEXX",
         "id": "f6bd529c-7b90-41cd-9373-dd7c662bd89a",
         "title": "Data Onboarding Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680108,
         "date_posted": 1772680108,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/London-United-Kingdom/Data-Onboarding-Tech_J-051257",
@@ -245969,7 +245731,7 @@
         "company_name": "Sainsbury's",
         "id": "d8cb8eb0-d22a-4175-874e-513a1c6c50ca",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773151825,
         "date_posted": 1773151825,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052642",
@@ -259295,7 +259057,7 @@
         "company_name": "T-Mobile",
         "id": "e4a04cbd-6d64-4a1b-b478-06b12fc73aca",
         "title": "Software Engineer - Fullstack",
-        "active": false,
+        "active": true,
         "date_updated": 1773815951,
         "date_posted": 1773815951,
         "url": "https://tmobile.wd1.myworkdayjobs.com/alumni/job/Philadelphia-Pennsylvania/Software-Engineer--Fullstack_REQ348013",
@@ -264007,7 +263769,7 @@
         "company_name": "Latitude AI",
         "id": "a56758ed-a68a-4dda-bf75-d133e93e895a",
         "title": "GIS Production Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1774045268,
         "date_posted": 1774045268,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7739363",
@@ -268020,7 +267782,7 @@
         "company_name": "Brigham Young University",
         "id": "e9c9ebbb-f8ef-48a8-865e-091d455fbeba",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774391042,
         "date_posted": 1774391042,
         "url": "https://byu.wd1.myworkdayjobs.com/byu-careers/job/Provo-UT/Research-Assistant--TEMPORARY---part-time-175-hrs-wk-_JR-8648",
@@ -273747,7 +273509,7 @@
         "company_name": "Greenheck Group",
         "id": "40808aa5-b198-4549-b483-4c5b0f4a40f9",
         "title": "Application Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774572719,
         "date_posted": 1774571307,
         "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Remote---Wisconsin/Application-Developer-I_JR103307",
@@ -273867,7 +273629,7 @@
         "company_name": "Micron Technology",
         "id": "eb914efb-9d4b-4125-82ac-0178b19e25ea",
         "title": "New College Grad - HBM Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1774570972,
         "date_posted": 1774570972,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/XMLNAME--New-College-Grad--HBM-Product-Manager_JR94868",
@@ -274026,7 +273788,7 @@
         "company_name": "Wells Fargo",
         "id": "62702c19-6e5c-4e87-9b3d-7ae51ddfe056",
         "title": "Engineering Associate - Java & API Development",
-        "active": false,
+        "active": true,
         "date_updated": 1774570956,
         "date_posted": 1774570956,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CONCORD-CA/Engineering-Associate---Java---API-Development_R-532546",
@@ -275447,7 +275209,7 @@
         "company_name": "Sainsbury's",
         "id": "931a6213-95f8-4f07-860b-1e130ddb0a1f",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774706842,
         "date_posted": 1774706842,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055378",
@@ -275824,7 +275586,7 @@
         "company_name": "Sainsbury's",
         "id": "53235a1c-4d99-4294-aee2-0ff5a491b964",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774735649,
         "date_posted": 1774735649,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054971",
@@ -276142,6 +275904,104 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Grid",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "e5d5daf6-bb3f-4534-aaef-7b1a18c5f7d6",
+        "title": "New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group",
+        "active": true,
+        "date_updated": 1774693983,
+        "date_posted": 1774693983,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR89932-1",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Western Digital",
+        "id": "8da97b87-8bcc-4856-8ba6-31aaa05aa1fd",
+        "title": "Media Tribology Design Engineer",
+        "active": true,
+        "date_updated": 1774810051,
+        "date_posted": 1774810051,
+        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117395868",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Google",
+        "id": "5f51d8c0-103f-4915-ba6d-fcfa5a4fc099",
+        "title": "Product Manager 1 - Youtube Discovery",
+        "active": true,
+        "date_updated": 1774809966,
+        "date_posted": 1774649248,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/136226081504928454",
+        "locations": [
+            "San Bruno, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Susquehanna International Group (SIG)",
+        "id": "fdc3cd2a-7252-4a0a-9875-230e758dcf8e",
+        "title": "Software Developer",
+        "active": true,
+        "date_updated": 1774563083,
+        "date_posted": 1774563083,
+        "url": "https://careers-sig.icims.com/jobs/10687/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Ardmore, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b020dc8b-9746-463b-9561-723d8f9d1b35",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1774822095,
+        "date_posted": 1774822095,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055541",
+        "locations": [
+            "Crawley, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
