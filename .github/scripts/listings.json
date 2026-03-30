@@ -99120,7 +99120,7 @@
         "company_name": "BlackRock",
         "id": "4cc64155-89e1-4bb0-81d8-f160a23bb633",
         "title": "Associate \u2013 Index Fixed Income Algo Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764153426,
         "date_posted": 1764153426,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258025-1",
@@ -136015,7 +136015,7 @@
         "company_name": "AT&T",
         "id": "d280566c-d2e8-4e3c-9ccf-8896d56326d9",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1766075485,
         "date_posted": 1766075485,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Engineering-Technician--Government-_R-93954-1",
@@ -185014,7 +185014,7 @@
         "company_name": "2020 Companies",
         "id": "49b7d9ab-5d39-4eec-b708-3b87b427bd88",
         "title": "Android Sales Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1770132703,
         "date_posted": 1770132703,
         "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Brooklyn-NY/Android-Sales-Expert_REQ_098674",
@@ -193691,7 +193691,7 @@
         "company_name": "Sainsbury's",
         "id": "0939c8d0-69c7-4660-8d5b-5359d1786893",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1770477102,
         "date_posted": 1770477102,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048626",
@@ -222753,7 +222753,7 @@
         "company_name": "Amazon",
         "id": "f9e1443d-acb3-4b05-978a-590a97cc394b",
         "title": "Manager 3 - Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772003421,
         "date_posted": 1772003421,
         "url": "https://amazon.jobs/en/jobs/3163097/manager-iii-software-dev-amz9700792",
@@ -248522,7 +248522,7 @@
         "company_name": "Omnicom Media Group",
         "id": "762777ec-e36b-4284-b4b7-311c6803b528",
         "title": "Analyst - Decisions Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773268269,
         "date_posted": 1773268269,
         "url": "https://job-boards.greenhouse.io/omguk/jobs/5019440007",
@@ -258025,7 +258025,7 @@
         "company_name": "Sainsbury's",
         "id": "9a76f81a-9042-4f44-8b77-f9f7a6418dc2",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1773756721,
         "date_posted": 1773756721,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053789",
@@ -259176,7 +259176,7 @@
         "company_name": "Sainsbury's",
         "id": "30ffbf96-b196-48bd-8dca-0d665044694f",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1773843495,
         "date_posted": 1773843495,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053952",
@@ -261053,9 +261053,9 @@
         ]
     },
     {
-        "date_updated": 1773909733,
+        "date_updated": 1774872476,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Work-At-Home-Illinois/Associate-Software-Development-Engineer--Enterprise-Applications-_R0856858",
         "company_name": "CVS Health",
@@ -265025,7 +265025,7 @@
         "company_name": "Sainsbury's",
         "id": "effdab1e-b9fa-4cfc-8031-e0395d4fd64e",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774228720,
         "date_posted": 1774228720,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054124",
@@ -267435,7 +267435,7 @@
         "company_name": "ABB",
         "id": "110c7016-1aba-4d14-9703-da38d63336ed",
         "title": "Data Analyst Internal Audit",
-        "active": true,
+        "active": false,
         "date_updated": 1774362793,
         "date_posted": 1774362793,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sesto-San-Giovanni-Milano-Italy/Data-Analyst-Internal-Audit_JR00028628-1",
@@ -268372,7 +268372,7 @@
         "company_name": "Ciena",
         "id": "45d3bffd-67a8-4bdb-9235-4ad6a64b123f",
         "title": "Optical Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774391913,
         "date_posted": 1774391913,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Belfast/Optical-Support-Engineer_R030433",
@@ -274484,7 +274484,7 @@
         "company_name": "Sainsbury's",
         "id": "5099665f-dfb8-4fe6-945c-6b36711d3087",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774620469,
         "date_posted": 1774620469,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055242",
@@ -274502,7 +274502,7 @@
         "company_name": "Sainsbury's",
         "id": "23e12c99-ea9d-476f-995a-121799ac3bcf",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774620460,
         "date_posted": 1774620460,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055243",
@@ -275783,7 +275783,7 @@
         "company_name": "Sainsbury's",
         "id": "f4a056c1-c7dd-488b-a3da-ac7238f7fdf5",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1774746461,
         "date_posted": 1774746461,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055456",
@@ -276936,6 +276936,161 @@
             "Saugus, MA"
         ],
         "company_url": "https://simplify.jobs/c/GE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zipline",
+        "id": "fbf40373-ebef-4e0f-aceb-4a55a45c875a",
+        "title": "Field Service and Construction Support Technician",
+        "active": true,
+        "date_updated": 1774844020,
+        "date_posted": 1770334726,
+        "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7621125003",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "f8fbb94a-11c8-4808-ab10-498295d9e157",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1773269866,
+        "date_posted": 1773269866,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Monterey-CA/Data-Scientist_R0235523",
+        "locations": [
+            "Monterey, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1774862402,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22482",
+        "company_name": "Fortinet",
+        "title": "Associate Software Engineer (AI Agent Developer)",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "Devonav",
+        "id": "1b2f0c70-b45d-421c-ac5e-a9eff5d0fd72",
+        "date_posted": 1774862402,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1774862590,
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "degrees": [],
+        "url": "https://www.turningpoint-healthcare.com/careers?gnk=job&gni=8a7885a89d02e553019d1c5d04ba00a1&gns=LinkedIn%2BLimited",
+        "company_name": "TurningPoint Healthcare Solutions",
+        "title": "AI Prompt Designer I",
+        "locations": [
+            "Lake Mary, FL"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "Devonav",
+        "id": "c981fb14-28e9-40df-be47-c84d940ba4bf",
+        "date_posted": 1774862590,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Universal Music Group",
+        "id": "7c645b11-38e6-4fbd-b5ac-e03146eade38",
+        "title": "Analyst \u2013 Insights & Strategy",
+        "active": true,
+        "date_updated": 1774865701,
+        "date_posted": 1774093133,
+        "url": "https://umusic.wd5.myworkdayjobs.com/en-US/UMGUS/job/Santa-Monica-California/Analyst--Insights---Strategy_UMG-25066",
+        "locations": [
+            "Santa Monica, CA",
+            "Philadelphia, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Music-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "4d360504-167e-473c-a651-b02217d50d8d",
+        "title": "Full Stack Developer",
+        "active": true,
+        "date_updated": 1771689839,
+        "date_posted": 1771689839,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Full-Stack-Developer_R0232574",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "date_updated": 1774874563,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://staff-emory.icims.com/jobs/162101/ai-scientist-engineer-i--school-of-medicine%2c-bmi-admin/job",
+        "company_name": "Emory University",
+        "title": "AI Scientist/Engineer I",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "category": "Data Science, AI & Machine Learning",
+        "source": "AlmondCroffle",
+        "id": "d54f3b19-de30-4e0a-a075-7f545910573e",
+        "date_posted": 1774874563,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "6e09fdff-50d8-4403-aa94-9f3a48ec272a",
+        "title": "Research Scientist Graduate - AI-Native Database Systems - PhD",
+        "active": true,
+        "date_updated": 1762922851,
+        "date_posted": 1761912910,
+        "url": "https://jobs.bytedance.com/en/position/7520736818360436999/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
