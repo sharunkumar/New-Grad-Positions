@@ -1,363 +1,5 @@
 [
     {
-        "date_updated": 1754662623,
-        "url": "https://careers.servicenow.com/jobs/744000073378905/associate-systems-engineer/?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73",
-        "company_name": "ServiceNow",
-        "title": "Associate Systems Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "b59cf00f-e020-4e99-bb65-423b0ad83cf7",
-        "date_posted": 1754361546,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1755700487,
-        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6922762EXTERNALENUS/Software-Engineer-I-PAAS",
-        "company_name": "Qualtrics",
-        "title": "Software Engineer I - PAAS",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "e236b6dc-438e-4424-bb93-8929ba220fcf",
-        "date_posted": 1754361660,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1760050002,
-        "url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6580294EXTERNALENUS/Machine-Learning-Engineer",
-        "company_name": "Qualtrics",
-        "title": "Machine Learning Engineer",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "e0a7cfe0-c4a9-42fa-bfd5-fdeb0163dbce",
-        "date_posted": 1754361784,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1754362176,
-        "url": "https://lifeattiktok.com/search/7531158600791705874",
-        "company_name": "TikTok",
-        "title": "Software Engineer (Ads ML Infrastructure) - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "d169b62d-dfea-4e76-9103-019596953ac2",
-        "date_posted": 1754362075,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754362318,
-        "url": "https://lifeattiktok.com/search/7400808756194461961",
-        "company_name": "TikTok",
-        "title": "Product Manager (TikTok-Product-Social and Creation) - 2025 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "50560365-7f64-439b-87ff-b48673f4c07b",
-        "date_posted": 1754362318,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754362635,
-        "url": "https://lifeattiktok.com/search/7532240517976721671",
-        "company_name": "TikTok",
-        "title": "Machine Learning Engineer (Lead Ads Technology) - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "8a5a9e14-d09b-42a7-a44e-b2d9969ecb68",
-        "date_posted": 1754362635,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754362715,
-        "url": "https://lifeattiktok.com/search/7530752375372466439",
-        "company_name": "TikTok",
-        "title": "Backend Software Engineer, Trust and Safety - 2026 Start (BS/MS)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "9c5168c8-5784-41a2-874c-faf45a76055b",
-        "date_posted": 1754362715,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762272094,
-        "url": "https://lifeattiktok.com/search/7532627066714753288",
-        "company_name": "TikTok",
-        "title": "Software Engineer, Music - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "6e7b4c5b-6577-4445-8882-b803b257ac08",
-        "date_posted": 1754362929,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
-        "date_updated": 1754362997,
-        "url": "https://lifeattiktok.com/search/7532457296103295239",
-        "company_name": "TikTok",
-        "title": "Software Engineer (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "34be0f1c-b3fb-4108-800f-a3dbb3241c8f",
-        "date_posted": 1754362997,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754363089,
-        "url": "https://lifeattiktok.com/search/7530765464767826184",
-        "company_name": "TikTok",
-        "title": "Software Development, Engineer in Test (Trust and Safety) - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "ec88212a-1a4b-4885-8b07-8590d0a0011b",
-        "date_posted": 1754363089,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754363173,
-        "url": "https://lifeattiktok.com/search/7532627069594224903",
-        "company_name": "TikTok",
-        "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "bcc17b92-4327-4328-a58d-da0ec0815df9",
-        "date_posted": 1754363173,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763027857,
-        "url": "https://lifeattiktok.com/search/7532631803707738376",
-        "company_name": "TikTok",
-        "title": "Software Engineer, Live-Foundation-Ecosystem - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "cabb3cb1-fec9-4ce4-8d23-3ce8476055ba",
-        "date_posted": 1754363233,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754363304,
-        "url": "https://lifeattiktok.com/search/7530771170938865928",
-        "company_name": "TikTok",
-        "title": "Research Scientist - CV/NLP/Multimodal LLM, Trust and Safety - 2026 Start (BS/MS)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "Simplify",
-        "id": "41573b4d-b3a2-4d26-be9b-fd1c19ab47f9",
-        "date_posted": 1754363304,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754363478,
-        "url": "https://lifeattiktok.com/search/7530759738491226386",
-        "company_name": "TikTok",
-        "title": "Software Engineer, Risk and Response - 2026 Start (BS/ MS)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "caa5914c-9869-444d-b0dd-c5f6ccbb1d16",
-        "date_posted": 1754363478,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762779258,
-        "url": "https://lifeattiktok.com/search/7532626300897937682",
-        "company_name": "TikTok",
-        "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "257a2143-aadf-4c0b-97d3-b78b527e9a4a",
-        "date_posted": 1754363531,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
-        "date_updated": 1754363590,
-        "url": "https://lifeattiktok.com/search/7531161909615593735",
-        "company_name": "TikTok",
-        "title": "Software Engineer (Ads Measurement Signal Technology) - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "b56c9bcf-e609-44bc-8159-1072b0512fd7",
-        "date_posted": 1754363590,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762779112,
-        "url": "https://lifeattiktok.com/search/7532629935644002578",
-        "company_name": "TikTok",
-        "title": "Software Engineer, Short Video - 2026 Start (BS/MS)",
-        "locations": [
-            "Los Angeles, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "d2334f75-6d4d-4fed-a333-2b28f4515603",
-        "date_posted": 1754363658,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
-        "date_updated": 1754363781,
-        "url": "https://jobs.bytedance.com/en/position/7532618536427391240/detail",
-        "company_name": "ByteDance",
-        "title": "3D Graphics Software Engineer (PICO Foundation) - 2026 Start (BS/MS)",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "Simplify",
-        "id": "f358ae65-607c-4558-a2e9-6d379525c602",
-        "date_posted": 1754363781,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763109820,
-        "url": "https://jobs.bytedance.com/en/position/7527836662400026898/detail",
-        "company_name": "ByteDance",
-        "title": "Backend Software Engineer (Customer Service Platform) - 2026 Start (BS/MS)",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "ade01c44-7b80-4f58-b6df-85d702159762",
-        "date_posted": 1754363856,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754364267,
-        "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
-        "company_name": "Ramp",
-        "title": "Software Engineer - Frontend",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b512a3b2-034b-41fd-b8df-fb033998df9e",
-        "date_posted": 1754364267,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754478715,
-        "url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8",
-        "company_name": "Ramp",
-        "title": "Software Engineer - Backend",
-        "locations": [
-            "New York, NY"
-        ],
-        "sponsorship": "Other",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "b754db34-4c23-450f-b881-2c897de087f8",
-        "date_posted": 1754364327,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "e8df5761-a982-4af8-8501-5cc4b128d4b1",
-        "title": "Back End Processing Network Engineer I",
-        "active": false,
-        "date_updated": 1754364097,
-        "date_posted": 1754364097,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/Back-End-Processing-Network-Engineer-I-Portsmouth-RI-Onsite_01784264",
-        "locations": [
-            "Bristol, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1759961567,
         "url": "https://simisinc.applytojob.com/apply/ViiE78Quow/Junior-Software-Developer-Modeling-Simulation",
         "company_name": "SimIS",
@@ -59299,7 +58941,7 @@
         "company_name": "American Express",
         "id": "882c42a5-7f35-4ebb-92e4-da42a6fa1a81",
         "title": "Campus Graduate - Software Engineer II - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1762925165,
         "date_posted": 1759460028,
         "url": "https://aexp.eightfold.ai/careers/job/38270711",
@@ -77391,24 +77033,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/SustainableTalent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "9d6e875f-4f5f-42ad-ba37-3f4fbea231c0",
-        "title": "Software Engineer Graduate - Data Security-US",
-        "active": false,
-        "date_updated": 1754366161,
-        "date_posted": 1754366161,
-        "url": "https://jobs.bytedance.com/en/position/7531118752369740039/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -171352,7 +170976,7 @@
         "company_name": "The Boeing Company",
         "id": "d8207772-fcd6-4fa3-afbb-802bf86850c8",
         "title": "Software Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1769470820,
         "date_posted": 1769470820,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Herndon-VA/Software-Engineers--Associate-or-Experienced-_JR2026491832",
@@ -208239,7 +207863,7 @@
         "company_name": "ING",
         "id": "2b69ad54-7aaf-4beb-a154-559e6b6bc1ef",
         "title": "Fixed Income Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1771429791,
         "date_posted": 1771429791,
         "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/Fixed-Income-Data-Analyst_REQ-10109274-1",
@@ -257920,7 +257544,7 @@
         "company_name": "RTX",
         "id": "1a343bfc-6ccf-446b-9d43-9d1cc831de52",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773787551,
         "date_posted": 1773787551,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineer-I--Onsite-_01829721",
@@ -269441,7 +269065,7 @@
         "company_name": "Brookhaven Lab",
         "id": "b96cb6b7-4d34-4210-8974-484e18a29689",
         "title": "Research Associate Physics",
-        "active": true,
+        "active": false,
         "date_updated": 1774353396,
         "date_posted": 1774085545,
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-Physics_JR102253",
@@ -274447,7 +274071,7 @@
         "company_name": "Wells Fargo",
         "id": "10eef5b8-513a-4db8-a525-1e28e9c697e1",
         "title": "Engineering Associate - Java Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1774649406,
         "date_posted": 1774649406,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Java-Application-Development_R-533218",
@@ -274561,7 +274185,7 @@
         "company_name": "Wells Fargo",
         "id": "b4cdcac4-0da9-4d1f-adeb-6309f9914acc",
         "title": "Engineering Associate - Java API & Microservices Development",
-        "active": true,
+        "active": false,
         "date_updated": 1774649406,
         "date_posted": 1774649406,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Java-API---Microservices-Development_R-533184",
@@ -275782,7 +275406,7 @@
         "company_name": "Wells Fargo",
         "id": "55909c76-31f6-4d2a-83bf-eb63ca081c56",
         "title": "Engineering Associate - Java & UI Technologies",
-        "active": true,
+        "active": false,
         "date_updated": 1774649406,
         "date_posted": 1774649406,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/WEST-DES-MOINES-IA/Engineering-Associate---Java---UI-Technologies_R-533235-1",
@@ -275905,7 +275529,7 @@
         "company_name": "Wells Fargo",
         "id": "197910d6-4d6a-4817-9b34-c085c8b3e774",
         "title": "Engineering Associate - Java Application & Microservices Development",
-        "active": true,
+        "active": false,
         "date_updated": 1774649406,
         "date_posted": 1774649406,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/COLUMBUS-OH/Engineering-Associate---Java-Application---Microservices-Development_R-533294",
@@ -276854,7 +276478,7 @@
         "company_name": "Intel",
         "id": "faa89cde-7be3-4878-a129-cfb337867b99",
         "title": "SOC Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774880878,
         "date_posted": 1774879658,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Design-Verification-Engineer_JR0280834",
@@ -281132,7 +280756,7 @@
         "company_name": "Northrop Grumman",
         "id": "cbbb9e2a-56e3-4fa6-9333-8ae1f1092417",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775005366,
         "date_posted": 1774995009,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/XMLNAME-2026-Associate-Software-Engineer---Bellevue--NE-_R10227907",
@@ -283755,7 +283379,7 @@
         "company_name": "The Bergaila Companies",
         "id": "09a39ce1-904e-4c63-bc98-93ae9b1601d9",
         "title": "SAP Master Data Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775083861,
         "date_posted": 1775081149,
         "url": "https://careers-bergaila.icims.com/jobs/12827/job?mobile=true&needsRedirect=false",
@@ -284123,5 +283747,125 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "41573b4d-b3a2-4d26-be9b-fd1c19ab47f9",
+        "title": "Graduate CV/NLP/Multimodal LLM Research Scientist",
+        "active": true,
+        "date_updated": 1775001311,
+        "date_posted": 1754560403,
+        "url": "https://lifeattiktok.com/search/7530771170938865928",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "8949efe0-4165-4d55-a77a-78a36b3bf30a",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775110861,
+        "date_posted": 1775110071,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055946",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "68399e57-9de5-47ce-a6a5-c37e31cd17ea",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775110861,
+        "date_posted": 1775110067,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055943",
+        "locations": [
+            "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "39e490e9-04e2-48ce-aed2-5de34b4cae97",
+        "title": "Modeling Engineer - Plasma Etch - Machine Learning",
+        "active": true,
+        "date_updated": 1775110861,
+        "date_posted": 1775110153,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Modeling-Engineer---Plasma-Etch--Machine-Learning_R2615879",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Perplexity AI",
+        "id": "0d448d6a-92f4-4eed-bb7d-d10a315544a0",
+        "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
+        "active": true,
+        "date_updated": 1775111285,
+        "date_posted": 1775110180,
+        "url": "https://jobs.ashbyhq.com/Perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5/application",
+        "locations": [
+            "Washington, DC",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Agoda",
+        "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
+        "title": "Supply Analytics Senior Analyst",
+        "active": true,
+        "date_updated": 1775111401,
+        "date_posted": 1773988105,
+        "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Agoda",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "Master's"
+        ]
     }
 ]
