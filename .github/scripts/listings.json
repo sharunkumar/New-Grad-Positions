@@ -229635,7 +229635,7 @@
         "company_name": "Google",
         "id": "51e72308-b3d1-4bf6-9944-346d046b98c6",
         "title": "Product Manager 1 - Ads",
-        "active": true,
+        "active": false,
         "date_updated": 1772530336,
         "date_posted": 1769642005,
         "url": "https://www.google.com/about/careers/applications/jobs/results/120120494773936838",
@@ -251945,7 +251945,7 @@
         "company_name": "IBM",
         "id": "f5c7d23b-688f-4460-8bf8-9c73db57da26",
         "title": "Associate Application Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773641835,
         "date_posted": 1773641835,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87273",
@@ -251972,7 +251972,7 @@
         "company_name": "IBM",
         "id": "a7462ae1-e7bc-4fbc-8989-08806cf9d9ea",
         "title": "Associate AI & Analytics - Data Scientist-Finance Transformation",
-        "active": true,
+        "active": false,
         "date_updated": 1773642129,
         "date_posted": 1773642129,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=97086",
@@ -252077,7 +252077,7 @@
         "company_name": "IBM",
         "id": "90df0a1a-4d7d-412c-bc2d-fc2a229d51ec",
         "title": "Associate Application Developer - Hybrid Cloud and Data",
-        "active": true,
+        "active": false,
         "date_updated": 1773641846,
         "date_posted": 1773641846,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87004",
@@ -256059,7 +256059,7 @@
         "company_name": "The Boeing Company",
         "id": "c9103c39-526a-4a50-90e9-5b692c0f7c81",
         "title": "Associate Software Engineer - Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773874399,
         "date_posted": 1773874399,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Software-Engineer--Developer-_JR2026500043-1",
@@ -258123,7 +258123,7 @@
         "company_name": "State of Montana",
         "id": "c4532b25-a7f3-494e-b9f0-62f9c21ed6f4",
         "title": "Road Profile Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773959673,
         "date_posted": 1773959673,
         "url": "https://mtstatejobs.taleo.net/careersection/200/jobdetail.ftl?job=26140741",
@@ -259073,7 +259073,7 @@
         "company_name": "Dordt University",
         "id": "b1f65bbb-d590-45d3-bfd1-07d56a21e5e2",
         "title": "Associate Data Engineer \u2013 Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1773986640,
         "date_posted": 1773986640,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87015",
@@ -259116,7 +259116,7 @@
         "company_name": "Dordt University",
         "id": "177977a5-4553-4494-a687-01975d51375c",
         "title": "Associate SAP Technical - Entry level",
-        "active": true,
+        "active": false,
         "date_updated": 1773986658,
         "date_posted": 1773986658,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=101517",
@@ -261188,7 +261188,7 @@
         "company_name": "Dordt University",
         "id": "11fe83a7-b87c-49ca-94a3-d179ba81b551",
         "title": "Associate Application Developer - Strategy and Transformation",
-        "active": true,
+        "active": false,
         "date_updated": 1774256585,
         "date_posted": 1774256585,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87005",
@@ -261212,7 +261212,7 @@
         "company_name": "Dordt University",
         "id": "ce8d6ac1-3c56-4bf9-bf89-dcbc5ed3aa96",
         "title": "Associate Application Developer - Business Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1774256580,
         "date_posted": 1774256580,
         "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87003",
@@ -275415,7 +275415,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -276683,7 +276683,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -277326,7 +277326,7 @@
         "company_name": "Cox",
         "id": "3a100059-3cec-44a8-bcd8-87d9259eff4f",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775004644,
         "date_posted": 1774994833,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineer-I_R202675126",
@@ -282987,7 +282987,7 @@
         "company_name": "Sainsbury's",
         "id": "aa6730c8-0731-4bba-9de6-8b74c61409f6",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775255041,
         "date_posted": 1775254033,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054446",
@@ -283046,7 +283046,7 @@
         "company_name": "Sainsbury's",
         "id": "36c7185f-c732-4f93-8cdb-e557377a4e62",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775255941,
         "date_posted": 1775254033,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056121",
@@ -283594,7 +283594,7 @@
         "company_name": "CVS Health",
         "id": "d04937d2-7f37-4a45-90e1-18e4bebd022f",
         "title": "Full Stack Associate Software Development Engineer - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254422,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Full-Stack-Associate-Software-Development-Engineer--Java-_R0866170-1",
@@ -283720,7 +283720,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bfb3a855-b976-43d7-a625-816da53c81e1",
         "title": "Data Scientist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775257381,
         "date_posted": 1775254207,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210728426",
@@ -286086,6 +286086,190 @@
             "Ashford District, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Candescent",
+        "id": "afb3caa4-2889-4c7d-8ca8-6154d1c62c68",
+        "title": "Enterprise Systems Consultant - Salesforce",
+        "active": true,
+        "date_updated": 1775465821,
+        "date_posted": 1775282787,
+        "url": "https://candescent.wd501.myworkdayjobs.com/Hiring/job/US---Georgia---Atlanta-Office/Enterprise-Systems-Consultant---Salesforce_R0001397",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Candescent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "679879b8-462e-4810-b391-25b5e93ef7e7",
+        "title": "Graduate Software Engineer 1 - Mobile - Android",
+        "active": true,
+        "date_updated": 1775471324,
+        "date_posted": 1775466406,
+        "url": "https://university-uber.icims.com/jobs/158037/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "8893a6c1-4994-455f-b5af-d3d07d9b4f3c",
+        "title": "Graduate Software Engineer 1",
+        "active": true,
+        "date_updated": 1775471354,
+        "date_posted": 1775466404,
+        "url": "https://university-uber.icims.com/jobs/158009/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "e7e01b06-d38f-4456-9d3d-5d178800dd9c",
+        "title": "English Language Specialist - Language Specialist - Freelance AI Trainer Project",
+        "active": true,
+        "date_updated": 1775471328,
+        "date_posted": 1775466734,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4832490101",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "8c31e59b-3bb4-458e-af42-2509d858ffd0",
+        "title": "Graduate Software Engineer 1",
+        "active": true,
+        "date_updated": 1775471331,
+        "date_posted": 1775466404,
+        "url": "https://university-uber.icims.com/jobs/158014/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "60fe0cd6-ae9a-46b5-9648-4bc577753ed3",
+        "title": "AI Data Associate - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1775470501,
+        "date_posted": 1775466187,
+        "url": "https://amazon.jobs/en/jobs/3190137/ai-data-associate-french-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Uber",
+        "id": "750526d3-f783-4c66-8d9b-aa4e6d10e4de",
+        "title": "Graduate Software Engineer 1 - Mobile - iOS",
+        "active": true,
+        "date_updated": 1775471429,
+        "date_posted": 1775466409,
+        "url": "https://university-uber.icims.com/jobs/158011/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Uber",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "599f97cc-04c3-4877-aada-a1a6bbfdf8a6",
+        "title": "Systems Engineering Simulator - Integrated Studies Team Member - Software Developer",
+        "active": true,
+        "date_updated": 1775470501,
+        "date_posted": 1775466446,
+        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CLW",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "88845f33-458d-453b-8be2-07d74ab1ec8a",
+        "title": "AI Data Associate - Portuguese - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1775472121,
+        "date_posted": 1775466189,
+        "url": "https://amazon.jobs/en/jobs/10378500/ai-data-associate-portuguese-artificial-general-intelligence",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
