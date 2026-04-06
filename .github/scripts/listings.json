@@ -2,58 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Esri",
-        "id": "9a6f812d-609f-427f-b3b9-df17c9810f03",
-        "title": "Software Developer Engineer I",
-        "active": false,
-        "date_updated": 1754702367,
-        "date_posted": 1754702367,
-        "url": "https://www.esri.com/careers/4818461007?gh_jid=4818461007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Databricks",
-        "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
-        "title": "Software Engineer \u2013 New Grad - Distributed Data Systems - 2025 Start",
-        "active": false,
-        "date_updated": 1754705238,
-        "date_posted": 1754705238,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
-        "locations": [
-            "Bellevue, WA",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Databricks",
-        "id": "6229e804-43a5-47a4-882c-c7bf3dc4968f",
-        "title": "Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1754705218,
-        "date_posted": 1754705218,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
         "title": "Software Engineer I",
@@ -10913,27 +10861,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Databricks",
-        "id": "ea29c605-ae90-4d90-9e3f-3790c81943c8",
-        "title": "Data Scientist \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1758306471,
-        "date_posted": 1754705021,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=6866554002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Databricks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Freeform",
         "id": "75b132b1-c89c-4076-b38e-c454e0eaf28a",
@@ -11282,26 +11209,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Belvedere Trading",
-        "id": "3901b5e1-a5fb-4c05-9738-654a70a6341d",
-        "title": "Software Engineer \u2013 Entry Level 2026",
-        "active": false,
-        "date_updated": 1758357059,
-        "date_posted": 1754707548,
-        "url": "https://jobs.lever.co/belvederetrading/f81a8965-5537-4a4b-aec6-c02dfa51815e/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Adobe",
         "id": "d8d3887c-f0f5-45e9-af46-6c289c90d27f",
@@ -11474,26 +11381,6 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/GM-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Belvedere Trading",
-        "id": "a8a35e5f-1a4d-42b1-ac87-8d42f18d9d76",
-        "title": "Quantitative Trader \u2013 Entry Level 2026",
-        "active": false,
-        "date_updated": 1758371659,
-        "date_posted": 1754707547,
-        "url": "https://jobs.lever.co/belvederetrading/7a15eeab-69ce-489e-bdb6-122dd0360b40/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Belvedere-Trading",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -73584,78 +73471,6 @@
             "Las Cruces, NM"
         ],
         "company_url": "https://simplify.jobs/c/Scientific-Games",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "e0099cb3-65a4-43e5-862d-7fa777f7e96d",
-        "title": "Postdoctoral Researcher - Advanced Scanning/Transmission Electron Microscopy - S/Tem",
-        "active": false,
-        "date_updated": 1754705453,
-        "date_posted": 1754705453,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Researcher---Advanced-Scanning-Transmission-Electron-Microscopy--S-TEM--Development_420917",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "8bcabe02-31f4-4f4b-b2ee-ee012aebb30b",
-        "title": "Technical Support Engineer University Graduate",
-        "active": false,
-        "date_updated": 1762833467,
-        "date_posted": 1754704314,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4715534007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NOV",
-        "id": "0141c0a7-1f09-4b30-956b-1d9545ee5c98",
-        "title": "Service Technician",
-        "active": false,
-        "date_updated": 1754704025,
-        "date_posted": 1754704025,
-        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/29993",
-        "locations": [
-            "Corpus Christi, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/NOV",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AlphaSights",
-        "id": "0485f920-641d-4c62-b891-89f06d38f531",
-        "title": "Graduate Software Engineer",
-        "active": true,
-        "date_updated": 1761834559,
-        "date_posted": 1754680577,
-        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/AlphaSights",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -184454,7 +184269,7 @@
         "company_name": "GE Healthcare",
         "id": "ef640b95-0637-40ba-9222-599c4acc1824",
         "title": "Field Service Engineer 1 - Pcs - Chicago",
-        "active": false,
+        "active": true,
         "date_updated": 1770248499,
         "date_posted": 1770248499,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---PCS---Chicago--IL_R4035432-1",
@@ -260498,7 +260313,7 @@
         "company_name": "Sainsbury's",
         "id": "2aee3072-9d60-46b2-8e0a-9e82147d8286",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774055728,
         "date_posted": 1774055728,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054436",
@@ -266581,7 +266396,7 @@
         "company_name": "GE Healthcare",
         "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774089409,
         "date_posted": 1774089409,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
@@ -274119,7 +273934,7 @@
         "company_name": "University of Southern California",
         "id": "802f4dc8-0f38-46c6-9b26-48f9f1cd444a",
         "title": "Web Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774908371,
         "date_posted": 1774908089,
         "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Web-Developer-I_REQ20173440",
@@ -280927,7 +280742,7 @@
         "company_name": "Sainsbury's",
         "id": "68399e57-9de5-47ce-a6a5-c37e31cd17ea",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775110861,
         "date_posted": 1775110067,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055943",
@@ -282759,7 +282574,7 @@
         "company_name": "Sainsbury's",
         "id": "56e9f1b3-9b01-4a5d-9bde-b2491c0409d6",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775197441,
         "date_posted": 1775196447,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056060",
@@ -285348,7 +285163,7 @@
         "company_name": "Sainsbury's",
         "id": "4654947b-a29e-496f-bb39-1aa1b0b3fd88",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775312461,
         "date_posted": 1775311637,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056160",
@@ -286095,7 +285910,7 @@
         "company_name": "Sainsbury's",
         "id": "d5a15c4f-9afb-4f2d-8ae8-cdf09ba8eb35",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775341441,
         "date_posted": 1775340424,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056231",
@@ -286281,5 +286096,64 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AlphaSights",
+        "id": "0485f920-641d-4c62-b891-89f06d38f531",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1773642029,
+        "date_posted": 1773642029,
+        "url": "https://www.alphasights.com/careers/open-roles?gh_jid=6450783",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AlphaSights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "935522eb-70a8-4d7f-abbe-01fa130ab79b",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775383265,
+        "date_posted": 1775295195,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-HC_R4036677-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "03c461fb-f41e-434f-8de5-c33f0865f65f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775438461,
+        "date_posted": 1775437657,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056257",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
