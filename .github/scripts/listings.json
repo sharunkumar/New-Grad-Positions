@@ -1,74 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "771d2792-5d1c-41f4-aa36-d5fc6bd60af3",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754711609,
-        "date_posted": 1754711609,
-        "url": "https://jobs.ashbyhq.com/Jerry/4dcfcfa6-7d55-40a9-9b9d-d7195ae88fd3/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "bf169a76-72de-42e1-ae62-e464af8b92ea",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1754711084,
-        "date_posted": 1754711084,
-        "url": "https://jobs.ashbyhq.com/Jerry/19d84e98-6a93-4e5b-937d-170f6f36ea46/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SS&C",
-        "id": "ea4d0d87-ebb6-40a8-a09e-ae57b991c344",
-        "title": "Junior AI-Assisted Software Engineer",
-        "active": false,
-        "date_updated": 1754712418,
-        "date_posted": 1754712418,
-        "url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
-        "locations": [
-            "South Orange, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/SSC",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Global Relay",
-        "id": "96d32e79-92f2-46af-9675-a4acc65d81a2",
-        "title": "Junior Software Developer Engineer in Test - C#",
-        "active": false,
-        "date_updated": 1754712043,
-        "date_posted": 1754712043,
-        "url": "https://www.globalrelay.com/careers/jobs?gh_jid=5616305004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Global-Relay",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1763561375,
         "url": "https://www.tesla.com/careers/search/job/247659",
         "company_name": "Tesla",
@@ -46718,7 +46649,7 @@
         "company_name": "GE Healthcare",
         "id": "d6e2d6e8-79b4-478b-b453-9c5ef63ce432",
         "title": "MR Calibration Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1761940627,
         "date_posted": 1761875528,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer-I---Washington-DC-Area_R4030730-1",
@@ -73295,24 +73226,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "840cc9e6-32f2-499c-aaeb-0c2333e7a3b8",
-        "title": "Data Science Graduate - BRIC Risk Measurement - 2026 Start",
-        "active": false,
-        "date_updated": 1754714042,
-        "date_posted": 1754714042,
-        "url": "https://lifeattiktok.com/search/7533770966762064136",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CACI",
         "id": "599e1c10-4202-41e6-97d1-d3623ca5f2bb",
@@ -75862,25 +75775,6 @@
             "Culver City, CA"
         ],
         "company_url": "https://simplify.jobs/c/Fashion-Nova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Resmed",
-        "id": "068fc099-6329-4791-9943-5185c0ae6b84",
-        "title": "Specialist - Technical Product Management",
-        "active": false,
-        "date_updated": 1754712394,
-        "date_posted": 1754712394,
-        "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Peachtree-Corners-GA-United-States/Specialist-Technical-Product-Management-GPM-_JR_042721",
-        "locations": [
-            "Norcross, GA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Resmed",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -206546,7 +206440,7 @@
         "company_name": "Clearer.io",
         "id": "c3855fad-4a08-4830-934a-13bcb746bf82",
         "title": "Associate Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1771485101,
         "date_posted": 1771485101,
         "url": "https://jobs.lever.co/Clearer/530ccee8-a05b-4511-9b0f-4296a8a489ef/apply",
@@ -234125,7 +234019,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "cc3e14b4-edeb-4b61-a1da-a36e1ef1f9ce",
         "title": "Systems Engineer / Software Designer 2 - Reactor Plant Planning Yard Engineering - Software Development Team",
-        "active": true,
+        "active": false,
         "date_updated": 1772676665,
         "date_posted": 1772676665,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SYSTEMS-ENGINEER-SOFTWARE-DESIGNER-2-Virg/1355905300/?ats=successfactors",
@@ -269266,7 +269160,7 @@
         "company_name": "Sun Life",
         "id": "a918b190-4ddb-4653-b9bb-fc038f1696d2",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1774565522,
         "date_posted": 1774565522,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Experienced-Jobs/job/Montreal-Quebec/Data-Scientist_JR00118793",
@@ -280072,7 +279966,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -286150,6 +286044,46 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056257",
         "locations": [
             "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Abbott",
+        "id": "bf2954ae-9537-4ee8-9894-97d9f1e3a399",
+        "title": "System Engineer 1",
+        "active": true,
+        "date_updated": 1775457008,
+        "date_posted": 1775455691,
+        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Pleasanton/System-Engineer-I_31146545",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Abbott",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "45ff5ec4-6f07-4ac9-b79b-b61864eabd6d",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775456641,
+        "date_posted": 1775455632,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056258",
+        "locations": [
+            "Ashford District, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
