@@ -132368,7 +132368,7 @@
         "company_name": "Corning",
         "id": "35e47a88-ffb9-4320-8b26-b37a6cabd1e4",
         "title": "Equipment Technician Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1766161277,
         "date_posted": 1766161277,
         "url": "https://corningjobs.corning.com/job/Phoenix-Equipment-Technician-Trainee-AZ-85353/1351126900/?ats=successfactors",
@@ -185395,7 +185395,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "2794d444-a451-471d-92d4-4e9ec3c41ad4",
         "title": "Associate Product Manager - Craftsman",
-        "active": true,
+        "active": false,
         "date_updated": 1770305131,
         "date_posted": 1770305131,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--CRAFTSMAN-_REQ-1000045166",
@@ -210068,7 +210068,7 @@
         "company_name": "Blink",
         "id": "61063b4d-2112-43d3-8971-a59d08b367e5",
         "title": "Graduate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1771600638,
         "date_posted": 1771600638,
         "url": "https://apply.workable.com/joinblink/j/7DA2C85A24/apply",
@@ -239408,7 +239408,7 @@
         "company_name": "Crowdstrike",
         "id": "4144d115-2df3-4a2d-826d-a730e1e814fb",
         "title": "AI Fraud and Risk Automation Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773097044,
         "date_posted": 1773097044,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/AI-Fraud-and-Risk-Automation-Analyst--Remote-_R27628",
@@ -268114,7 +268114,7 @@
         "company_name": "Sainsbury's",
         "id": "4aecb92d-d495-4f49-83ed-52965177d9d8",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1774515920,
         "date_posted": 1774515920,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054920",
@@ -271238,7 +271238,7 @@
         "company_name": "Twilio",
         "id": "1a3785cc-2b8d-42b6-a369-deda02a5e5a9",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774649823,
         "date_posted": 1774649823,
         "url": "https://job-boards.greenhouse.io/twilio/jobs/7681338",
@@ -272036,7 +272036,7 @@
         "company_name": "Micron Technology",
         "id": "565de239-dee1-4b01-882b-6f8c46e11afb",
         "title": "Senior Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774520854,
         "date_posted": 1774480415,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Engineer--IT-MFG---TPG_JR95009",
@@ -272120,7 +272120,7 @@
         "company_name": "The Boeing Company",
         "id": "1c00d5ff-cd27-48f5-ae7d-585ecfb5863e",
         "title": "Design and Analysis Engineer - Electronic Systems Design & Analy",
-        "active": true,
+        "active": false,
         "date_updated": 1774649317,
         "date_posted": 1774649317,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Design-and-Analysis-Engineer--Electronic-Sys-Design---Analy-_JR2026502918-1",
@@ -276958,7 +276958,7 @@
         "company_name": "The Boeing Company",
         "id": "9b63dd5a-7113-4431-bc0f-68250f98034a",
         "title": "Wire Installation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775004841,
         "date_posted": 1774994939,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Wire-Installation-Engineer_JR2026500059-1",
@@ -280160,7 +280160,7 @@
         "company_name": "RTX",
         "id": "f7033a24-729d-47c0-86ae-710ccdab3c9c",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775086145,
         "date_posted": 1775081362,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/XMLNAME-2026-Systems-Engineer-I---Onsite_01834706",
@@ -285668,7 +285668,7 @@
         "company_name": "Sainsbury's",
         "id": "e0150f47-e5ca-4be9-9f63-00754c9234ee",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775341441,
         "date_posted": 1775340423,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056230",
@@ -286219,7 +286219,7 @@
         "company_name": "Sainsbury's",
         "id": "72100abf-cf3e-4227-9bb7-92e6e55d23c9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775485441,
         "date_posted": 1775484454,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056303",
@@ -286351,7 +286351,7 @@
         "company_name": "Sainsbury's",
         "id": "8fc493ac-0d45-474b-94cf-a96af5ff874d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775485441,
         "date_posted": 1775484453,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056297",
@@ -286816,7 +286816,7 @@
         "company_name": "Primetals Technologies",
         "id": "5f9a2296-9f45-476b-b950-005e1734951f",
         "title": "Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1775516162,
         "date_posted": 1775513275,
         "url": "https://mhicareers.com/job/Orlando-Operations-Specialist,-Monitoring-Center-FL-32809/1381033733/?ats=successfactors",
@@ -287518,5 +287518,159 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "73060319-ef4d-48d6-b5ef-fe3b6366d4d6",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552691,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056367",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "994496ce-b5a7-4e69-a9eb-b70c6f001308",
+        "title": "Senior Engineer - Autonomy - Tactical Behaviors",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1755295103,
+        "url": "https://jobs.lever.co/shieldai/1af75b70-43ff-457b-858b-2935e7c8983a/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Handshake",
+        "id": "594e3770-fcd1-4bc5-ac62-ed97804b6051",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1775555061,
+        "date_posted": 1775484598,
+        "url": "https://jobs.ashbyhq.com/handshake/dd1fd4fc-6f6d-4a3d-8c54-dd91ed48dd70/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Handshake",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intertek",
+        "id": "56bacc67-1bc6-4e45-a5f7-3e4a6bee1d56",
+        "title": "Project Engineer - Safety",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1773796181,
+        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14279",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Intertek",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "971f7dc7-033f-423c-bb56-260378670612",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552690,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056357",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7c8cc608-637e-4a03-bf5a-826bbc6a17c4",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552691,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056358",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "JP Morgan Chase",
+        "id": "51c17f2e-c111-4655-a8ce-8739142d53a7",
+        "title": "Data Management Associate - Markets Chief Data Office",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552807,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210729896",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "44259f3e-4c25-498a-b65f-e1de11faabcd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775555821,
+        "date_posted": 1775552691,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056359",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
