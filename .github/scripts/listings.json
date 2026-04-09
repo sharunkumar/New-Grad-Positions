@@ -1,87 +1,5 @@
 [
     {
-        "date_updated": 1763456612,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "source": "Elisha-Edme",
-        "id": "e6fe73f7-dde0-4fb0-bfaa-04894ee449f2",
-        "date_posted": 1754990483,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754990716,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4164476007?gh_jid=4164476007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Air Dominance & Strike - Flight Software Engineer, Embedded C/C++",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a9a21ff0-2246-44b3-8633-cb218964f107",
-        "date_posted": 1754990716,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1754990871,
-        "url": "https://job-boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007&gh_src=",
-        "company_name": "Anduril Industries",
-        "title": "Software Engineer, Connected Warfare",
-        "locations": [
-            "Costa Mesa, CA"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "5832ef95-34cc-4b52-9a23-d2b9507b739d",
-        "date_posted": 1754990871,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1755872498,
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Work-from-home/Associate-Cloud-Architect_R0619090",
-        "company_name": "CVS Health",
-        "title": "Associate Cloud Architect",
-        "locations": [
-            "Remote, TX"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "9f79d21a-4429-44cd-a2fc-d4b4721f0e65",
-        "date_posted": 1754991209,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1761555444,
-        "url": "https://remodelhealth.com/resources/job/?gh_jid=4880033008",
-        "company_name": "Remodel Health",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "39827fea-c12e-438f-a718-8b6d2c41df51",
-        "date_posted": 1754991338,
-        "company_url": "",
-        "is_visible": true,
-        "degrees": []
-    },
-    {
         "date_updated": 1755223347,
         "url": "https://ssctech.wd1.myworkdayjobs.com/en-US/ssctechnologies/job/Union-NJ/Junior-AI-Assisted-Software-Engineer_R36039",
         "company_name": "SS&C",
@@ -2665,102 +2583,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "938e80f0-9d6e-4399-8180-d4b7b233e44d",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754988034,
-        "date_posted": 1754988034,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999652483007",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "9d71b56b-2f64-4602-857d-71b5474251d3",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754987786,
-        "date_posted": 1754987786,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999651146019",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "6417dd50-8d0b-4c21-bd91-73d7d5ec2d1c",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756120574,
-        "date_posted": 1754987679,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/116232946",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "315c30ed-2818-4ab5-a99f-5d3bfd0db58c",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756120553,
-        "date_posted": 1754987740,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659380716",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "a4c52158-8915-444a-be9e-241b6711f875",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1754987440,
-        "date_posted": 1754987440,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999659489800",
-        "locations": [
-            "Flower Mound, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "date_updated": 1755716125,
@@ -5472,7 +5294,7 @@
         "company_name": "Motorola",
         "id": "e0ff9c5a-7674-4cb1-97f3-f803968a130e",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1756747299,
         "date_posted": 1756747299,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Junior-Software-Engineer_R57369",
@@ -27934,7 +27756,7 @@
         "company_name": "DaVita",
         "id": "31d215b3-a96a-4a4c-81c9-52032bc6c5f8",
         "title": "Associate Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1762997887,
         "date_posted": 1762997887,
         "url": "https://davita.wd1.myworkdayjobs.com/DKC_External/job/05555---Casa-del-Mundo-Office-Denver-HQ/Associate-Product-Manager_R0432323",
@@ -45387,7 +45209,7 @@
         "company_name": "Businessolver",
         "id": "8fa8be23-85e7-490c-8b24-b93996f59b9a",
         "title": "Integrations Analyst 1/2",
-        "active": true,
+        "active": false,
         "date_updated": 1762910337,
         "date_posted": 1761896904,
         "url": "https://www.businessolver.com/careers/openings/?gh_jid=6346161",
@@ -72462,376 +72284,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "62ec4a97-f673-409c-8b84-5968ddc494ab",
-        "title": "Entry Level Business/Data Analyst",
-        "active": true,
-        "date_updated": 1755000878,
-        "date_posted": 1755000878,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/83405990",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "9ae1c070-339a-4d14-9929-92a83b7e82be",
-        "title": "Geospatial Analyst 1",
-        "active": true,
-        "date_updated": 1762910883,
-        "date_posted": 1754998637,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999979191923",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "4dda7272-272f-416e-993e-36fe43e6a8af",
-        "title": "Programmer Analyst-.Net Programmer - US Citizen",
-        "active": true,
-        "date_updated": 1761825755,
-        "date_posted": 1754998668,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/99304832",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "af95ed64-fa18-470f-a774-72e6ad26b2cc",
-        "title": "TSM Consultant",
-        "active": false,
-        "date_updated": 1762911804,
-        "date_posted": 1754996367,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657100498",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "dfc8fd4a-8ffc-4ee8-a527-a116ddeec701",
-        "title": "Systems Engineer Active Directory+DNS+Exchange server",
-        "active": false,
-        "date_updated": 1762908234,
-        "date_posted": 1754996205,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658484486",
-        "locations": [
-            "Uniondale, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "46056ee4-33eb-4bd5-94b0-9c211ad9c9fa",
-        "title": "Java Training and Placement",
-        "active": false,
-        "date_updated": 1762907797,
-        "date_posted": 1754995360,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103866458",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "2ec574d1-1742-4606-ac6f-a8c8cea4a7d5",
-        "title": "Hiring Recent graduated students for full time jobs",
-        "active": true,
-        "date_updated": 1761938849,
-        "date_posted": 1754995374,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/106636129",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "a4e9a3d5-458c-47fa-9423-f9cb7313b8c5",
-        "title": "Salesforce OBIEE ETL Training and Placement",
-        "active": false,
-        "date_updated": 1762910536,
-        "date_posted": 1754995250,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104232823",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "7eb12e17-a02c-4034-9e66-f5f09bd96b60",
-        "title": "Devops/Java/Weblogic training and placement",
-        "active": false,
-        "date_updated": 1761834429,
-        "date_posted": 1754995252,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/103546037",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "1011d053-c9f8-4129-a340-462eef2242fa",
-        "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": false,
-        "date_updated": 1761829719,
-        "date_posted": 1754995282,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/105683018",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "7c21c471-f3ad-4265-a007-8a9363b7e4ab",
-        "title": "OBIEE/Salesforce/Networking training and placement",
-        "active": false,
-        "date_updated": 1761829567,
-        "date_posted": 1754995199,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112846510",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "403e8bed-9790-4580-b371-c45428991615",
-        "title": "Hiring Software Engineer",
-        "active": false,
-        "date_updated": 1761835914,
-        "date_posted": 1754995174,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999658570182",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "71cf4be6-3a6e-4091-a8ba-fbf8ab118a9f",
-        "title": "GIS Specialist - Technician - Levels 1 and 2",
-        "active": true,
-        "date_updated": 1754991748,
-        "date_posted": 1754991748,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/743999987474433",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "80e7e6f0-b080-4961-9f18-3092d9e65266",
-        "title": "Help Desk Technician with Identity Management",
-        "active": false,
-        "date_updated": 1762907900,
-        "date_posted": 1754988179,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657757275",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "d84530a5-832a-4222-8b99-2c62b7e496be",
-        "title": "Identity and Access Management Analyst - Iam",
-        "active": false,
-        "date_updated": 1762909334,
-        "date_posted": 1754988082,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999659810609",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "7c80b8cc-d043-49a5-9f06-8786d8868d66",
-        "title": "Training & Placement on Informatica/ Microstrategy",
-        "active": false,
-        "date_updated": 1761832464,
-        "date_posted": 1754987846,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/92300060",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AG Technologies",
-        "id": "a0ba6855-091a-41e3-854f-a40280d5dee7",
-        "title": "ETL Informatica/OBIEE",
-        "active": false,
-        "date_updated": 1762909907,
-        "date_posted": 1754987712,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104213106",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b18b3506-e44a-480b-9aeb-b7a747708038",
-        "title": "Java Training and Placement",
-        "active": true,
-        "date_updated": 1762910378,
-        "date_posted": 1754987321,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102308948",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "72f07201-45ea-4185-a053-da8110d93e86",
-        "title": "OBIEE/ ETL/ Java job opportunity for OPT/CPT",
-        "active": false,
-        "date_updated": 1761831526,
-        "date_posted": 1754987310,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104090307",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "5ccb32ea-d6bb-4de2-b2d8-7b086895db07",
-        "title": "Hiring OPT/GC",
-        "active": false,
-        "date_updated": 1758375752,
-        "date_posted": 1754987354,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/94667904",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Texas A&M International University",
         "id": "ac40bd53-efdc-494b-8a02-10c8be8ff19e",
         "title": "Undergraduate Research Assistant - Engineering-MSEIP-STEM2",
@@ -84859,7 +84311,7 @@
         "company_name": "Draper",
         "id": "e50d1450-8a91-4a28-ac8c-47efd6bd4176",
         "title": "ASIC/FPGA Hardware Engineer for Cryptographic Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1763660542,
         "date_posted": 1761874249,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Senior-ASIC-FPGA-Hardware-Engineer-for-Cryptographic-Systems_JR001787",
@@ -104147,7 +103599,7 @@
         "company_name": "Draper",
         "id": "5f892575-4f59-41c6-8cc2-03f23770f58a",
         "title": "Microsystems Integration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1764804721,
         "date_posted": 1764804721,
         "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Microsystems-Integration-Engineer_JR000898-1",
@@ -172239,7 +171691,7 @@
         "company_name": "WTW",
         "id": "d96bc170-c24c-46b8-b84e-bb94f9f3b9cc",
         "title": "Early Careers: Investment Analyst - Multiple Locations - 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1761869647,
         "date_posted": 1761869647,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/jobs/job/202506183",
@@ -203454,7 +202906,7 @@
         "company_name": "GE Healthcare",
         "id": "e0c439a3-337d-458d-92a4-a825ff4292be",
         "title": "Field Service Engineer Central FL",
-        "active": false,
+        "active": true,
         "date_updated": 1771370749,
         "date_posted": 1771370749,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Central-FL_R4036192-1",
@@ -231362,7 +230814,7 @@
         "company_name": "Intermountain Healthcare",
         "id": "8e8dabd7-335b-40dc-9398-2265ff5e7683",
         "title": "Data Architect Senior - Clinical",
-        "active": true,
+        "active": false,
         "date_updated": 1772609553,
         "date_posted": 1772609553,
         "url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Lake-Park-Building/Data-Architect-Senior---Clinical_R164238-1",
@@ -238416,7 +237868,7 @@
         "company_name": "Amentum",
         "id": "3a72bba2-57f6-45d5-8cc3-e521a326c6a2",
         "title": "Java or C++ Database Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772842539,
         "date_posted": 1772842539,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Java-or-C---Database-Developer_R0155920",
@@ -247457,7 +246909,7 @@
         "company_name": "Lincoln Financial",
         "id": "970bb27c-c8d0-4f83-a692-cc2b7b5ea11e",
         "title": "Associate \u2013 Application Development ETP",
-        "active": true,
+        "active": false,
         "date_updated": 1773363993,
         "date_posted": 1773363993,
         "url": "https://jobs.lincolnfinancial.com/job/Radnor-Associate,-Application-Development-ETP-PA/1372816000/?ats=successfactors",
@@ -260098,7 +259550,7 @@
         "company_name": "Sainsbury's",
         "id": "64b96703-f3a8-499e-a93b-f83381275bec",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1774084050,
         "date_posted": 1774084050,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054449",
@@ -261835,7 +261287,7 @@
         "company_name": "Mastercard",
         "id": "0ca2ab86-eecb-4aef-99a3-14eed0f6cf55",
         "title": "Senior Specialist - Product Management",
-        "active": true,
+        "active": false,
         "date_updated": 1774307340,
         "date_posted": 1774307340,
         "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-272492-1",
@@ -274331,24 +273783,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "7449686a-f04b-4a12-8e35-0478b4c2f862",
-        "title": "Java Backend Developer - Linux environment",
-        "active": true,
-        "date_updated": 1774949907,
-        "date_posted": 1754997822,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/114682520",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "USM Business Systems",
         "id": "530a8435-9ad4-4ba8-8b05-2cbc6e7532a9",
@@ -274638,26 +274072,6 @@
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/98941869",
         "locations": [
             "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "fb1a0403-fde5-499b-90cc-a9a9cc24d762",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1774958569,
-        "date_posted": 1754987489,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999656593811",
-        "locations": [
-            "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
@@ -276357,46 +275771,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "ee5363a2-3a6a-41df-886d-12a68779124d",
-        "title": "Immediate IT Openings",
-        "active": true,
-        "date_updated": 1774981081,
-        "date_posted": 1754995226,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/104965544",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "3a5d936a-12ed-4194-960e-750f9c6ba742",
-        "title": "Java Developer",
-        "active": true,
-        "date_updated": 1774981081,
-        "date_posted": 1754987781,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113484685",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -282492,7 +281866,7 @@
         "company_name": "Atos",
         "id": "86a3dbd1-2847-4a14-8d48-af6e48facf09",
         "title": "Graduate Data & AI Resource",
-        "active": false,
+        "active": true,
         "date_updated": 1775226748,
         "date_posted": 1775225214,
         "url": "https://jobs.atos.net/job/London-Graduate-D&AI-Resource/1380728433/?ats=successfactors",
@@ -282628,7 +282002,7 @@
         "company_name": "Sainsbury's",
         "id": "aa6730c8-0731-4bba-9de6-8b74c61409f6",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775255041,
         "date_posted": 1775254033,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054446",
@@ -284415,7 +283789,7 @@
         "company_name": "Microchip Technology",
         "id": "5d079718-3490-46a1-b454-655028933380",
         "title": "Engineer 2 - Architecture",
-        "active": false,
+        "active": true,
         "date_updated": 1775297768,
         "date_posted": 1775295625,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/CA---San-Jose---3850-N-First-St/Engineer-II---Architecture_R1200-26",
@@ -285303,7 +284677,7 @@
         "company_name": "Enbridge",
         "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
         "title": "Engineer in Training 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775303669,
         "date_posted": 1775299574,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Engineer-in-Training-I_70734-1",
@@ -287150,7 +286524,7 @@
         "company_name": "Northrop Grumman",
         "id": "d0a36066-9f3f-4a2d-bc40-9841f363e4d1",
         "title": "Associate Software Engineer / Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775516166,
         "date_posted": 1775513304,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/ALHU12/XMLNAME-2026-Associate-Software-Engineer---2026-Software-Engineer---Huntsville-AL_R10228553",
@@ -287231,7 +286605,7 @@
         "company_name": "Intuit",
         "id": "aa4c9a9d-eedd-4dcc-acf6-13f4493ad0fb",
         "title": "Payments Customer Supportability Professional 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775525193,
         "date_posted": 1775524192,
         "url": "https://jobs.intuit.com/job/tucson/payments-customer-supportability-professional-1/27595/93662567936",
@@ -288521,7 +287895,7 @@
         "company_name": "Flextronics International",
         "id": "22871f50-f6d1-4ae2-b803-b74640527fcb",
         "title": "Debug Technician-8",
-        "active": true,
+        "active": false,
         "date_updated": 1775602052,
         "date_posted": 1775599563,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TN-Memphis/Debug-Technician-8_WD218670",
@@ -288617,7 +287991,7 @@
         "company_name": "Flextronics International",
         "id": "ece11eec-a7aa-4909-967a-65b94e703e8e",
         "title": "Repair Technician 1 - 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775602082,
         "date_posted": 1775599563,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TN-Memphis/Repair-Technicain-1_WD218667",
@@ -290213,7 +289587,7 @@
         "company_name": "Arizona State University",
         "id": "cb9d705a-03f9-4a73-87fe-bc1c120595a7",
         "title": "Investment Operations and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775690592,
         "date_posted": 1775685859,
         "url": "https://asuep.wd5.myworkdayjobs.com/ASUEP/job/Scottsdale-AZ/Investment-Analyst_R1340",
@@ -291051,5 +290425,100 @@
             "Associate's",
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "FlexGen",
+        "id": "a6c340fe-19a1-4d55-a7ee-1ba9444c7afe",
+        "title": "Integration Engineer",
+        "active": true,
+        "date_updated": 1775723314,
+        "date_posted": 1775167772,
+        "url": "https://ats.rippling.com/external-job-board/jobs/9c254570-11f0-478c-a6cd-63b1337910d6",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/FlexGen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "bcf47f6e-7b7e-4f04-a1ad-bc9432cb1bc9",
+        "title": "Field Service Engineer 1",
+        "active": true,
+        "date_updated": 1775729467,
+        "date_posted": 1775696855,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---CT--MR_R4038740-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Crusoe",
+        "id": "5b855ce3-073b-483b-b073-3ea130392628",
+        "title": "Associate Systems Software Engineer",
+        "active": true,
+        "date_updated": 1775727551,
+        "date_posted": 1762300207,
+        "url": "https://jobs.ashbyhq.com/Crusoe/39e3cfc5-c0fd-44ad-b5de-ffde8080c099/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Crusoe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "ac4fcabd-1425-4ccf-a254-aeb025b53a19",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775728989,
+        "date_posted": 1775725802,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056585",
+        "locations": [
+            "Croydon, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "e776f154-c3dd-439a-ab39-6220077fde44",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1775729293,
+        "date_posted": 1775599785,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-I_R_1478882",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
