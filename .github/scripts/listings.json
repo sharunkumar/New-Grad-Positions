@@ -2,23 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Boston Scientific",
-        "id": "50db7037-287c-460f-a7d6-ce1abcb89b9c",
-        "title": "Software Engineer I - Engineering - Development",
-        "active": false,
-        "date_updated": 1755270603,
-        "date_posted": 1755062669,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602803102071",
-        "locations": [
-            "Roseville, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Apex Fintech Solutions",
         "id": "9d74aeea-fa25-46c6-af6f-3d20a6065b64",
         "title": "Software Engineer I - Aldp",
@@ -2084,24 +2067,6 @@
         "degrees": [
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b436d340-b5eb-4419-a709-6af74ee13256",
-        "title": "Hiring Entry Level Software Engineer",
-        "active": true,
-        "date_updated": 1756202139,
-        "date_posted": 1755063903,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/743999655719751",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "date_updated": 1755716125,
@@ -70068,299 +70033,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "a2712825-962a-44c5-aa98-cb60c2aad3b1",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761801989,
-        "date_posted": 1755059267,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104778382",
-        "locations": [
-            "Pasadena, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "458f3ca0-ed67-45c1-aac0-89b4c40c1f78",
-        "title": "Desktop Technician",
-        "active": false,
-        "date_updated": 1755063280,
-        "date_posted": 1755063280,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99604327",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "US Tech Solutions",
-        "id": "307117ed-d295-4342-8f4e-95f53ab79c2a",
-        "title": "IT Help Desk Support",
-        "active": false,
-        "date_updated": 1755064209,
-        "date_posted": 1755064209,
-        "url": "https://jobs.smartrecruiters.com/USTechSolutions2/107756651",
-        "locations": [
-            "Woodland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/US-Tech-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Avance Consulting",
-        "id": "28a5c53d-72a2-4086-9f70-36517c40365a",
-        "title": "Technology Analyst - Cocoa",
-        "active": false,
-        "date_updated": 1755064163,
-        "date_posted": 1755064163,
-        "url": "https://jobs.smartrecruiters.com/AvanceConsultingServices2/84052389",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Avance-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "8fabfa5f-2c9b-4111-8ce4-67fdd3a331fe",
-        "title": "Desktop Support Technician",
-        "active": false,
-        "date_updated": 1762909974,
-        "date_posted": 1755063576,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/116276913",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "5d57262c-3b1e-43f5-b89a-e9342256d318",
-        "title": "Deskside Support Representative Distributed Client Services",
-        "active": false,
-        "date_updated": 1762906845,
-        "date_posted": 1755063246,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101588736",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "1b8f4167-e4fd-42fa-bfce-d15af549ac2b",
-        "title": "Inperson Interview for Help Desk Support in Columbus Ohio",
-        "active": false,
-        "date_updated": 1762907574,
-        "date_posted": 1755062627,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/115528124",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "9edd4e0f-a9d9-4be0-bda0-5170774dcac6",
-        "title": "Seismic Imaging Analyst - Subsurface Imaging team - Research and Software Development teams",
-        "active": false,
-        "date_updated": 1755062486,
-        "date_posted": 1755062486,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Seismic-Imaging-Analyst_JR100663",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "e245a1e2-65c7-49f3-843e-f3d361ff8bd4",
-        "title": "Java Informatica MicroStrategy Training",
-        "active": true,
-        "date_updated": 1762909340,
-        "date_posted": 1755062419,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/95501978",
-        "locations": [
-            "Chesterfield, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "b1f346c8-dec2-4d79-a9a7-47bbd3bb02f1",
-        "title": "System Administrator/ Java Training and Placement",
-        "active": false,
-        "date_updated": 1762910609,
-        "date_posted": 1755062407,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/102120503",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "f4e48d96-7488-40c3-9854-9f56d12b5d4d",
-        "title": "Devops/Java/Weblogic training and placement",
-        "active": false,
-        "date_updated": 1761834593,
-        "date_posted": 1755062388,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/112610441",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "ceb3e9c2-12c0-4f9a-96ae-afa9c7f1ff86",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1761940866,
-        "date_posted": 1755059595,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658293052",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Prosidian Consulting",
-        "id": "045e0545-9791-468b-a3f0-2822c23b5eea",
-        "title": "GIS Analyst - Environmental Consulting and Management Services",
-        "active": false,
-        "date_updated": 1755059165,
-        "date_posted": 1755059165,
-        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/744000028638835",
-        "locations": [
-            "Tallahassee, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "0893304d-61f7-48b1-87a6-3a75db7ca309",
-        "title": "IT Support",
-        "active": false,
-        "date_updated": 1755058623,
-        "date_posted": 1755058623,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/98900920",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "7db9bede-df56-44d1-92a1-66e92d3dfc34",
-        "title": "Helpdesk VDI",
-        "active": false,
-        "date_updated": 1762906771,
-        "date_posted": 1755056986,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999655844940",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "360 IT Professionals",
-        "id": "9cd14636-63bf-4525-86df-209165ff5be5",
-        "title": "Help Desk Support Identity Access Management",
-        "active": false,
-        "date_updated": 1762909713,
-        "date_posted": 1755056325,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999657805407",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Carnegie Mellon University",
         "id": "2e5bd688-5460-4a7a-9612-ce2a34423c75",
         "title": "Research Assistant - College of Engineering - Department of Chemical Engineering",
@@ -81310,7 +80982,7 @@
         "company_name": "Apple",
         "id": "81aa0136-3adc-4ba4-860c-0e4db3d442ea",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763514507,
         "date_posted": 1763514507,
         "url": "https://jobs.apple.com/en-us/details/200619236",
@@ -81436,7 +81108,7 @@
         "company_name": "Apple",
         "id": "25a85892-5b38-4bdf-af39-3e37ebbfa917",
         "title": "Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763514529,
         "date_posted": 1763514529,
         "url": "https://jobs.apple.com/en-us/details/200619242",
@@ -128787,24 +128459,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "87a5253c-2be1-41ed-bd53-8e86b363015c",
-        "title": "SAP ERP Analyst",
-        "active": false,
-        "date_updated": 1755062456,
-        "date_posted": 1755062456,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658533708",
-        "locations": [
-            "Holland, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Molina Healthcare",
         "id": "da1365fc-7761-4369-95f9-25e6e780a98d",
         "title": "Analyst \u2013 Risk & Quality Reporting - Remote TX",
@@ -168831,7 +168485,7 @@
         "company_name": "L3Harris Technologies",
         "id": "12f5d498-44a6-4a5d-9faa-485b4400a694",
         "title": "Engineering Technician B",
-        "active": true,
+        "active": false,
         "date_updated": 1769641877,
         "date_posted": 1769641877,
         "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-B-UT-84116/1360100600/?ats=successfactors",
@@ -212219,7 +211873,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "994c7dea-1b93-4530-9438-b0ec84225bcb",
         "title": "Manager \u2013 Analytics Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1771893137,
         "date_posted": 1771893137,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Manager---Analytics-Engineer_R-0000160543-1",
@@ -244220,7 +243874,7 @@
         "company_name": "Microsoft",
         "id": "72b73ccb-433f-4beb-a158-bb79319be5b0",
         "title": "Applied Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1773354269,
         "date_posted": 1773354269,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556638831",
@@ -255509,7 +255163,7 @@
         "company_name": "University of Arkansas",
         "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
         "title": "Graduate Assistant - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773959293,
         "date_posted": 1773959293,
         "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-1",
@@ -256149,7 +255803,7 @@
         "company_name": "University of Arkansas",
         "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
         "title": "Graduate Assistant - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1773961919,
         "date_posted": 1773961919,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-2",
@@ -264534,7 +264188,7 @@
         "company_name": "Enbridge",
         "id": "ca5423ad-f2b2-4c1d-ae39-5337afec216c",
         "title": "Pipeline Risk Assessment EIT 1",
-        "active": true,
+        "active": false,
         "date_updated": 1774478233,
         "date_posted": 1774478233,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Salt-Lake-City-UT-USA/Pipeline-Risk-Assessment-EIT-I_70702",
@@ -265402,7 +265056,7 @@
         "company_name": "Intel",
         "id": "e54e1312-e3f5-43a6-8538-716bbb05c8ec",
         "title": "Development Tools Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774510367,
         "date_posted": 1774510367,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Development-Tools-Software-Engineer_JR0282258",
@@ -272097,26 +271751,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "360 IT Professionals",
-        "id": "aca0ec69-cbe0-45aa-a3ae-a48c44558d9d",
-        "title": "Data Analyst",
-        "active": true,
-        "date_updated": 1774956961,
-        "date_posted": 1755059568,
-        "url": "https://jobs.smartrecruiters.com/360ITProfessionals1/743999658971678",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/360-IT-Professionals",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Eurofins",
         "id": "47752918-d8c9-476d-8ca5-45608096e7c1",
@@ -273147,26 +272781,6 @@
         "url": "https://jobs.smartrecruiters.com/AGTechnologies1/113046600",
         "locations": [
             "Bay Shore, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/AG-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AG Technologies",
-        "id": "0e199a5d-3608-47d3-a12c-d37d2fc83bba",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1774953761,
-        "date_posted": 1755058741,
-        "url": "https://jobs.smartrecruiters.com/AGTechnologies1/108479454",
-        "locations": [
-            "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/AG-Technologies",
         "is_visible": true,
@@ -279499,7 +279113,7 @@
         "company_name": "Medtronic",
         "id": "bd4c895c-d945-4517-bb3b-0d114f1b9de8",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775197893,
         "date_posted": 1775196522,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I---Lafayette_R62770",
@@ -280080,7 +279694,7 @@
         "company_name": "AbbVie",
         "id": "e6ba5661-d7ee-4e05-a180-f3ac7c72a838",
         "title": "Associate Scientist 2 - Data Engineering - Biotherapeutics and Genetic Medicine",
-        "active": true,
+        "active": false,
         "date_updated": 1775255584,
         "date_posted": 1775253847,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012451380",
@@ -280292,7 +279906,7 @@
         "company_name": "RTX",
         "id": "4fc9c031-6827-4d36-aabd-84f48d482be7",
         "title": "Raytheon Full Time - Software Effectors Engineer I",
-        "active": true,
+        "active": false,
         "date_updated": 1775256122,
         "date_posted": 1775254060,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713",
@@ -282776,7 +282390,7 @@
         "company_name": "Enbridge",
         "id": "32677a39-f1eb-4718-9e7e-f44a0cb1d8fb",
         "title": "Engineer in Training 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775303669,
         "date_posted": 1775299574,
         "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/North-York-ON-CAN/Engineer-in-Training-I_70734-1",
@@ -284226,7 +283840,7 @@
         "company_name": "RTX",
         "id": "cdeee33a-95b8-4657-8800-2e296ae8a8e3",
         "title": "Software Engineer 1 - EOIR Advanced Products and Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775517138,
         "date_posted": 1775513288,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Software-Engineer-I---EOIR-Advanced-Products-and-Solutions_01835754",
@@ -286522,7 +286136,7 @@
         "company_name": "Cisco",
         "id": "fbf5a24d-a457-49f8-8d8e-4c06fbd47dd1",
         "title": "Software Engineer Front-End 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775612215,
         "date_posted": 1775610602,
         "url": "https://careers.cisco.com/global/en/job/2010725",
@@ -288249,7 +287863,7 @@
         "company_name": "State of Nebraska",
         "id": "2c29d60d-04b5-4e2f-9ea0-93f0cb0563de",
         "title": "Statistical Analyst 2",
-        "active": true,
+        "active": false,
         "date_updated": 1775688380,
         "date_posted": 1775686097,
         "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Statistical-Analyst-II_JR2026-00024182",
@@ -289176,7 +288790,7 @@
         "company_name": "Sainsbury's",
         "id": "edbe5a7c-fdbc-4377-90df-4e5b71e98309",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772431,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056699",
@@ -289240,7 +288854,7 @@
         "company_name": "Ameren",
         "id": "c506876d-013c-49aa-818c-b3fb648dce0a",
         "title": "Senior Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775774797,
         "date_posted": 1775772299,
         "url": "https://ameren.wd1.myworkdayjobs.com/External/job/Decatur-IL/Data-Analyst--Associate--Data-Analyst--Senior-_033139",
@@ -289321,7 +288935,7 @@
         "company_name": "Vanguard",
         "id": "dce0c374-1ab3-4f72-b4b5-a95c098791d5",
         "title": "Application Engineer - I - PI Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1775774169,
         "date_posted": 1775772467,
         "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Malvern-PA/Application-Engineer---I---PI-Tech_171220",
@@ -290481,6 +290095,45 @@
             "Brighton, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "25ac2b37-a149-4b03-b823-b3655e741ece",
+        "title": "Raytheon Full Time",
+        "active": true,
+        "date_updated": 1775802886,
+        "date_posted": 1775801197,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713-1",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uplifter",
+        "id": "6b56e690-dbcc-487f-8e75-d04ccec4fb1f",
+        "title": "Product Specialist",
+        "active": true,
+        "date_updated": 1775803035,
+        "date_posted": 1775802223,
+        "url": "https://job-boards.greenhouse.io/uplifter/jobs/4215254009",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Uplifter",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
