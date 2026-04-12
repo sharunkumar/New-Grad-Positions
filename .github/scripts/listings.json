@@ -1,39 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlueCross BlueShield of Tennessee",
-        "id": "833d9a34-ab07-4ae2-83cc-7a6c49a138f6",
-        "title": "Associate Software Engineer I",
-        "active": false,
-        "date_updated": 1755205120,
-        "date_posted": 1755205120,
-        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-46776",
-        "locations": [
-            "Chattanooga, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "14de31b0-7cfe-4974-b496-09085c6b6b80",
-        "title": "Entry Level Software Engineer - Developer",
-        "active": false,
-        "date_updated": 1755220981,
-        "date_posted": 1755220981,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer---Developer_JR2025462883",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1761831242,
         "url": "https://www.amazon.jobs/en/jobs/3054843/robotics-systems-engineer-amazon-robotics-deployment-engineering",
         "company_name": "Amazon",
@@ -10773,26 +10739,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "78d2b8a7-dbfd-4431-bcf7-4a0bd151c057",
-        "title": "Software Development Engineer 1 - Mobile Apps Engineering",
-        "active": false,
-        "date_updated": 1758384406,
-        "date_posted": 1755201965,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-iOS,-Mobile-Apps-Engineering-NY-11714/1271275900/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -45949,24 +45895,6 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "Artech Information System",
-        "id": "acd1bc9a-5589-4f14-81e0-2f4e4945b224",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911368,
-        "date_posted": 1755208084,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658443476",
-        "locations": [
-            "Eagan, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
         "id": "9ff4fcc4-f397-4ce4-a78c-69126976b66a",
         "title": "Desktop Support",
         "active": false,
@@ -68166,204 +68094,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "c465e8cd-2f1a-4dda-a6e6-e6ad6a0e68d1",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755208286,
-        "date_posted": 1755208286,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656872908",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "52041574-3c09-4285-8c2e-38365dc3a470",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911039,
-        "date_posted": 1755208286,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656595193",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "970a23a6-e818-414c-873e-454602c1368a",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1762910309,
-        "date_posted": 1755208669,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653568185",
-        "locations": [
-            "Langley, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "3f696f88-e863-47ef-b8e0-9e8671362f6d",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1762908528,
-        "date_posted": 1755208684,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653434789",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "ec1dbcfc-84ea-4663-9450-c8505a804b89",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762906017,
-        "date_posted": 1755208365,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656020516",
-        "locations": [
-            "Bothell, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "d71bb3ce-49cc-4658-bbbb-dc0ebc3b34fc",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755208258,
-        "date_posted": 1755208258,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656873467",
-        "locations": [
-            "Abbotsford, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "d145a2d5-5bd6-4719-a57c-4990a4d6a35a",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755208247,
-        "date_posted": 1755208247,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656874066",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "8eb668fa-a795-40a5-9f81-c2bd033aa1bb",
-        "title": "Desktop Support Representative",
-        "active": false,
-        "date_updated": 1762911376,
-        "date_posted": 1755208322,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999656422613",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "4297c2a9-524b-48a5-bcb1-c82686b4a2aa",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1761940982,
-        "date_posted": 1755208078,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999658552822",
-        "locations": [
-            "Lubbock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "952658eb-edb9-4609-b0a3-d25aa63a956a",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762906081,
-        "date_posted": 1755207819,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999659587753",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Midmark ",
-        "id": "fa60239f-8762-4fa5-97cc-6cca8c531f64",
-        "title": "Health IT Technical Support Specialist 1",
-        "active": false,
-        "date_updated": 1762921227,
-        "date_posted": 1755207180,
-        "url": "https://hcor.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4005",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Midmark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Alice L. Walton School of Medicine",
         "id": "d47d80db-5498-4dbd-8d6b-2f5203f8b8e9",
@@ -68376,43 +68106,6 @@
             "Bentonville, AR"
         ],
         "company_url": "https://simplify.jobs/c/Alice-L-Walton-School-Of-Medicine",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RF-SMART",
-        "id": "ae620330-7096-4744-ac83-a0a15656c922",
-        "title": "Python Developer 1",
-        "active": false,
-        "date_updated": 1762817144,
-        "date_posted": 1755206727,
-        "url": "https://job-boards.greenhouse.io/rfsmart/jobs/4880498008",
-        "locations": [
-            "Highlands Ranch, CO",
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/f006a158-9398-482e-9a19-a635e79862ae",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ultima Genomics",
-        "id": "9d12a281-275d-47e8-bc7f-24faf8ead7ec",
-        "title": "Field Service Engineer I - Development Program",
-        "active": false,
-        "date_updated": 1761527323,
-        "date_posted": 1755200011,
-        "url": "https://job-boards.greenhouse.io/ultimagenomics/jobs/5619330004",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/UltimaGenomics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -68437,24 +68130,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Jump Trading",
-        "id": "c0656e26-7f38-48ca-8cdf-cf46155edb5b",
-        "title": "Campus Quantitative Trader - Full-Time",
-        "active": false,
-        "date_updated": 1756991974,
-        "date_posted": 1755197196,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7157477",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Jump-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -147293,26 +146968,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arc Institute",
-        "id": "b058797c-22c2-4592-904a-83271b42c612",
-        "title": "Machine Learning Research Scientist - Hsu & Konermann Labs",
-        "active": false,
-        "date_updated": 1768444920,
-        "date_posted": 1755203718,
-        "url": "https://job-boards.greenhouse.io/arcinstitute/jobs/5618816004",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arc-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Abbott",
         "id": "0461cfca-7905-471a-8e48-b70da63849d6",
@@ -159415,27 +159070,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stantec",
-        "id": "a2a7f5de-ed9c-4ab3-ba46-72744d41c746",
-        "title": "Project Geologist",
-        "active": false,
-        "date_updated": 1756202186,
-        "date_posted": 1755201160,
-        "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1001842",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Stantec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -270211,26 +269845,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artech Information System",
-        "id": "daabdaa7-4503-4644-a91f-e1097beafd08",
-        "title": "Visual Analytics Associate/Data Analytics",
-        "active": true,
-        "date_updated": 1774953198,
-        "date_posted": 1755208652,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999653695615",
-        "locations": [
-            "Escondido, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "BCforward",
         "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
@@ -280970,7 +280584,7 @@
         "company_name": "Sainsbury's",
         "id": "d5a15c4f-9afb-4f2d-8ae8-cdf09ba8eb35",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775341441,
         "date_posted": 1775340424,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056231",
@@ -282372,7 +281986,7 @@
         "company_name": "Sainsbury's",
         "id": "5898d9c3-4ff1-459e-817a-2d696bf03f83",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1775516941,
         "date_posted": 1775513218,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056347",
@@ -284673,7 +284287,7 @@
         "company_name": "First American",
         "id": "0403de42-2e0a-41b3-bc13-7c756ff470a1",
         "title": "GIS - Geo Spatial Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775612061,
         "date_posted": 1775610384,
         "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-Oregon-Salem/Remote-GIS---Geo-Spatial-Analyst_R055778",
@@ -290760,7 +290374,7 @@
         "company_name": "Sainsbury's",
         "id": "a0499443-db3f-4d03-b183-fb2e26c9a0d1",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916422,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056865",
@@ -290778,7 +290392,7 @@
         "company_name": "Sainsbury's",
         "id": "03040eb1-4ed3-46c9-889f-0c6915a8e512",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916421,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056870",
@@ -290796,7 +290410,7 @@
         "company_name": "Sainsbury's",
         "id": "b6bb1205-b24b-4ad2-b0a3-91ee2dd70ff9",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916421,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056687",
@@ -290853,7 +290467,7 @@
         "company_name": "Sainsbury's",
         "id": "46aa45b5-4701-4ccb-8ba1-e6df6c3758b6",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1775917988,
         "date_posted": 1775916421,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056379",
@@ -291003,5 +290617,185 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "75fa6d5c-d26f-480e-8aae-4aa230d0542e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945243,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056917",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "406998f9-4252-40c9-819b-ec37ec5f5435",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056922",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "261b148f-f61b-4086-8c8b-0d0cec7c9856",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056925",
+        "locations": [
+            "Workington, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "7c43e323-dedb-42c2-9639-eb57087f71f0",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056921",
+        "locations": [
+            "Basingstoke, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "6635fd63-6e46-4246-89c3-ca1054540dd0",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056918",
+        "locations": [
+            "Harlow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "646fea7b-08f3-4a4c-9ca5-5e5f01db62fd",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056923",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "19987bd4-1881-45ab-81cd-68b436f11278",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945234,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056915",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0eab17b2-2e11-497b-bdf8-e7f700078d1f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945232,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056916",
+        "locations": [
+            "Dundee, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "0088c65a-a161-468d-8422-b11fb2e4786e",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056924",
+        "locations": [
+            "Canterbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "878cce86-1805-4d78-9584-c3e591124a97",
+        "title": "Trading Assistant",
+        "active": false,
+        "date_updated": 1775946253,
+        "date_posted": 1775945231,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056901",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
