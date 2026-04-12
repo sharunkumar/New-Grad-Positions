@@ -79449,7 +79449,7 @@
         "company_name": "Apple",
         "id": "d82b22f9-83b0-415c-90c6-39be9aa6b6fb",
         "title": "Formal Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763514186,
         "date_posted": 1763514186,
         "url": "https://jobs.apple.com/en-us/details/200593173",
@@ -81418,7 +81418,7 @@
         "company_name": "Cisco",
         "id": "752cc127-39ae-4bed-977a-4fcbab271df8",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664416,
         "date_posted": 1763664416,
         "url": "https://careers.cisco.com/global/en/job/2001076",
@@ -190159,7 +190159,7 @@
         "company_name": "L3Harris Technologies",
         "id": "752d281f-5581-463b-8c7b-5d218747bb4c",
         "title": "Conformal Coating Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1770851650,
         "date_posted": 1770851650,
         "url": "https://jobs.l3harris.com/job/Camden-Conformal-Coating-Specialist-NJ-08103/1363983700/?ats=successfactors",
@@ -280584,7 +280584,7 @@
         "company_name": "Sainsbury's",
         "id": "d5a15c4f-9afb-4f2d-8ae8-cdf09ba8eb35",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1775341441,
         "date_posted": 1775340424,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056231",
@@ -281482,7 +281482,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "d1777343-8038-42f8-8889-ca669475b13a",
         "title": "Electromechanical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775515741,
         "date_posted": 1775513254,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-ELECTROMECHANICAL-1-Virg/1379702500/?ats=successfactors",
@@ -282474,7 +282474,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "84b6198f-720f-4bfc-a607-0ee4761a5b44",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775542681,
         "date_posted": 1775542026,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPER-1-Virg/1379799800/?ats=successfactors",
@@ -284506,7 +284506,7 @@
         "company_name": "Leonardo",
         "id": "380138cf-0530-454c-a92f-c3404b7bc626",
         "title": "Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775640241,
         "date_posted": 1775639117,
         "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Analytics-Engineer_R0028015",
@@ -290797,5 +290797,61 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "fb8eb01f-7ad4-4126-bab1-e4a751a844f4",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1775974874,
+        "date_posted": 1775974030,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056928",
+        "locations": [
+            "Gloucester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Warner Bros.",
+        "id": "269d6830-ae46-4832-9885-3113813196d0",
+        "title": "NCAA Digital Product Management Post Grad",
+        "active": true,
+        "date_updated": 1775974874,
+        "date_posted": 1775974048,
+        "url": "https://warnerbros.wd5.myworkdayjobs.com/global/job/GA-Atlanta-1050-Techwood-Drive-NW/NCAA-Digital-Post-Grad---Product-Management_R000104539-2",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Bros",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "01787816-8966-4027-a6ce-b97e50dfa2b8",
+        "title": "UiPath Robotic Process Automation Developer Associate",
+        "active": true,
+        "date_updated": 1775975218,
+        "date_posted": 1775973903,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ218022",
+        "locations": [
+            "Shreveport, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
