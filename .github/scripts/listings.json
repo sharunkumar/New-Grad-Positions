@@ -1,22 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "5af2dd1a-d134-4c11-ae93-26803d4c2933",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1755588287,
-        "date_posted": 1755315906,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/85076586336",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": false,
-        "sponsorship": "Other"
-    },
-    {
         "date_updated": 1760394738,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
         "company_name": "Harris",
@@ -44712,24 +44695,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "59cf1ebc-2530-4081-90ef-db050a16afb9",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1755318886,
-        "date_posted": 1755318886,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99778231",
-        "locations": [
-            "Ann Arbor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sportradar",
         "id": "dbdf3e46-b50a-433d-b827-a3712a466289",
@@ -44994,24 +44959,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/The-Campbells-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "9ff4fcc4-f397-4ce4-a78c-69126976b66a",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911815,
-        "date_posted": 1755317054,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/103397444",
-        "locations": [
-            "Columbia, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -49671,7 +49618,7 @@
         "company_name": "CACI",
         "id": "78f19a26-effa-4b9a-91b6-69cd1b5fd7b2",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761992337,
         "date_posted": 1761992337,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-IL-Lisle/Software-Engineer_318790",
@@ -65332,204 +65279,6 @@
             "St. Petersburg, FL"
         ],
         "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "f4f0d251-d66d-45f1-bfb2-93352ae6ddf2",
-        "title": "Deskside Support Representative",
-        "active": false,
-        "date_updated": 1755318589,
-        "date_posted": 1755318589,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/106532726",
-        "locations": [
-            "Decatur, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artech Information System",
-        "id": "f6c1997a-465a-426e-8e34-0bff8527b912",
-        "title": "SAS Programmer",
-        "active": true,
-        "date_updated": 1755318045,
-        "date_posted": 1755318045,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/79517833",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "27e6aed0-5047-4c98-80ef-b9d12980030d",
-        "title": "Desk Side Support",
-        "active": false,
-        "date_updated": 1762911467,
-        "date_posted": 1755317995,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/100933828",
-        "locations": [
-            "Dubuque, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "8a277bdf-ab72-4367-a274-e3468d9081d6",
-        "title": "Desk side Support Representative",
-        "active": false,
-        "date_updated": 1761802842,
-        "date_posted": 1755317622,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99785674",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "e968a436-a8ae-49c9-80c2-776553e9ff1b",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802096,
-        "date_posted": 1755317409,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104996472",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "830cd95f-7cfb-4a10-bf51-6bc4a47459b6",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802370,
-        "date_posted": 1755317054,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/104037481",
-        "locations": [
-            "Decatur, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "adb73bce-1414-4f50-889d-3aa3320a48b7",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1762911892,
-        "date_posted": 1755316839,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/106664042",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Artech Information System",
-        "id": "ad4324fd-73fb-43ea-8d25-984b3f1dd74a",
-        "title": "POS Analyst",
-        "active": false,
-        "date_updated": 1762908443,
-        "date_posted": 1755316849,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/99305177",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Artech Information System",
-        "id": "f161859c-5a64-4d2e-baf1-ff4e3cf317b3",
-        "title": "Network Engineer 1",
-        "active": false,
-        "date_updated": 1755316552,
-        "date_posted": 1755316552,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/743999650885073",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "4fcb6759-dc1f-4228-a8bc-8fe6bb3c8620",
-        "title": "Desktop Support",
-        "active": false,
-        "date_updated": 1762911223,
-        "date_posted": 1755316131,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/101096539",
-        "locations": [
-            "Dubuque, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Artech Information System",
-        "id": "6138f0e1-da7e-4a3c-b1f6-d832c0c868cc",
-        "title": "Deskside Support",
-        "active": false,
-        "date_updated": 1761802010,
-        "date_posted": 1755315621,
-        "url": "https://jobs.smartrecruiters.com/ArtechInformationSystemLLC/108853477",
-        "locations": [
-            "Middlesex, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Artech-Information-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -250944,7 +250693,7 @@
         "company_name": "Cisco",
         "id": "a36cbd7f-5da5-4313-8f57-e11698c480c6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773959637,
         "date_posted": 1773959637,
         "url": "https://careers.cisco.com/global/en/job/2011256",
@@ -256929,7 +256678,7 @@
         "company_name": "BlackRock",
         "id": "468f8ce7-8037-43e9-bc53-d357948d58ae",
         "title": "Data Operations - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1774393014,
         "date_posted": 1774393014,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Data-Operations--Associate_R261650",
@@ -272313,7 +272062,7 @@
         "company_name": "Franklin Templeton",
         "id": "7bf31ab8-bc49-419e-a312-2f85fc476b06",
         "title": "Investment Associate - Quantitative Research - FT Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1775085042,
         "date_posted": 1775081371,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_862786-2",
@@ -274124,7 +273873,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "f7827f7c-b85c-4160-9665-84a02ff2aead",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167770,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/62d525f8-42a0-416f-b7a5-47209fb8009d/application",
@@ -274183,7 +273932,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "abbe343d-1020-44f2-b0fb-8715ebc77df4",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167770,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/b3a7c953-3807-4b2a-8124-1788295047d9/application",
@@ -274221,7 +273970,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "940f515c-544c-41cd-aa4f-2f29402a4adc",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775169541,
         "date_posted": 1775167770,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/06dae664-9781-4fe7-81fa-a55f3da50cca/application",
@@ -274434,7 +274183,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "e1483d51-606e-4c44-ae9f-c64d63f4bc01",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775170621,
         "date_posted": 1775167769,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/e786b68d-b24e-4a75-9c0b-68b98ecd1549/application",
@@ -278526,7 +278275,7 @@
         "company_name": "Uber",
         "id": "8c31e59b-3bb4-458e-af42-2509d858ffd0",
         "title": "Graduate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775471331,
         "date_posted": 1775466404,
         "url": "https://university-uber.icims.com/jobs/158014/job?mobile=true&needsRedirect=false",
@@ -288626,5 +288375,41 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southwest Airlines",
+        "id": "534ed7fe-6398-41a2-be71-63407c531361",
+        "title": "Associate Technical Data Manager",
+        "active": true,
+        "date_updated": 1776061456,
+        "date_posted": 1776060461,
+        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Technical-Data-Manager_R-2026-66885",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e77cc972-b2a7-4fb5-9de9-a1181efc08f5",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776061456,
+        "date_posted": 1776060416,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400056984",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
