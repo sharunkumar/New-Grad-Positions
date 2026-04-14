@@ -1,117 +1,5 @@
 [
     {
-        "date_updated": 1760394738,
-        "url": "https://harriscomputer.wd3.myworkdayjobs.com/en-US/1/job/Virginia-United-States/Junior-Computational-Linguist_R0031051-4",
-        "company_name": "Harris",
-        "title": "Junior Computational Linguist",
-        "locations": [
-            "VA",
-            "WI",
-            "AZ",
-            "TN",
-            "MI",
-            "MA",
-            "MO",
-            "CO",
-            "NM",
-            "Remote, London, UK"
-        ],
-        "sponsorship": "Other",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "228b40ec-8006-4f43-9de2-653954ed72fa",
-        "date_posted": 1755418299,
-        "company_url": "",
-        "is_visible": false,
-        "category": "Data Science, AI & Machine Learning",
-        "degrees": []
-    },
-    {
-        "date_updated": 1755700410,
-        "url": "https://l2tmediallc.applytojob.com/apply/b2dvJrHuSV/Junior-Digital-Media-Data-Analyst",
-        "company_name": "L2TMedia",
-        "title": "Junior Digital Media Data Analyst",
-        "locations": [
-            "Evanston, IL"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "b13d57c3-c943-4cc3-af4a-6a8a7f2152f1",
-        "date_posted": 1755418371,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1755700504,
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Burbank-CA-USA/Associate-Data-Analyst_10128347",
-        "company_name": "Disney",
-        "title": "Associate Data Analyst",
-        "locations": [
-            "Burbank, CA"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "4d0534a6-6d5b-46eb-b84d-35cb4a1559d2",
-        "date_posted": 1755418438,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1759961462,
-        "url": "https://apply.workable.com/qodeworld/j/5718A36818/",
-        "company_name": "qode.world",
-        "title": "Junior Software Developer",
-        "locations": [
-            "New Jersey, NJ"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "a0e98c0f-757e-4b61-8f0a-a48adafcaceb",
-        "date_posted": 1755418638,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1756201343,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---Vermont---Essex-Junction/Manufacturing-Software-Engineer--Test-Program-Applications---Automation--2026-New-College-Graduate_JR-2502329",
-        "company_name": "GlobalFoundries",
-        "title": "Manufacturing Software Engineer, Test Program Applications & Automation",
-        "locations": [
-            "Essex Junction, VT"
-        ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "source": "AlmondCroffle",
-        "id": "4271b0fc-3586-43e3-8ed5-6cb096c013ca",
-        "date_posted": 1755418718,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
-        "date_updated": 1756731511,
-        "url": "https://jobs.baesystems.com/global/en/job/BAE1US115338BREXTERNAL/Junior-Software-Engineer",
-        "company_name": "BAE Systems",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Hill AFB, UT"
-        ],
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "source": "AlmondCroffle",
-        "id": "36561c35-450e-4662-a8c2-84cd99283ea8",
-        "date_posted": 1755418805,
-        "company_url": "",
-        "is_visible": false,
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
@@ -16622,7 +16510,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "2c40466c-9807-4564-b790-fc5981e2c872",
         "title": "Junior Software Engineer - ",
-        "active": false,
+        "active": true,
         "date_updated": 1761505342,
         "date_posted": 1761505342,
         "url": "https://careers-gdms.icims.com/jobs/68513/job?mobile=true&needsRedirect=false",
@@ -136529,7 +136417,7 @@
         "company_name": "Rolls-Royce",
         "id": "9c1af1cf-5442-4e42-9fa8-678b254dc38e",
         "title": "Electronics Technician - Metrology / Electronics technician - Metrology",
-        "active": true,
+        "active": false,
         "date_updated": 1767915839,
         "date_posted": 1767915839,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Lachine/Technicien-en-lectronique---Mtrologie---Electronics-technician---Metrology_JR6148542",
@@ -189781,7 +189669,7 @@
         "company_name": "Ferrovial",
         "id": "a3d8c8bd-4a68-482c-945c-a45bae51e90a",
         "title": "Traffic and Revenue Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770940304,
         "date_posted": 1770940304,
         "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Dallas/Traffic---Revenue-Engineer_JR16147",
@@ -196228,7 +196116,7 @@
         "company_name": "GE Healthcare",
         "id": "e0c439a3-337d-458d-92a4-a825ff4292be",
         "title": "Field Service Engineer Central FL",
-        "active": false,
+        "active": true,
         "date_updated": 1771370749,
         "date_posted": 1771370749,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-Central-FL_R4036192-1",
@@ -213005,7 +212893,7 @@
         "company_name": "IDEXX",
         "id": "df3ed117-991b-4a65-8003-2c38d125785c",
         "title": "Data Conversions Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1772063479,
         "date_posted": 1772063479,
         "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Virtual-United-States/Data-Conversions-Technician_J-051787-1",
@@ -235508,7 +235396,7 @@
         "company_name": "Redwood Credit Union",
         "id": "1b0fb6cf-5fa0-411f-b245-1fe0c1bd6959",
         "title": "Automation Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773191379,
         "date_posted": 1773191379,
         "url": "https://jobs.lever.co/redwoodcu/bbc25562-46bb-409f-9a75-5c2d6ee28522/apply",
@@ -249539,9 +249427,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1773909913,
+        "date_updated": 1776158504,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://firstadvantage.applytojob.com/apply/fiN17xh6U2/Associate-Software-Engineer-US-Remote",
         "company_name": "First Advantage",
@@ -258685,7 +258573,7 @@
         "company_name": "GE Healthcare",
         "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774089409,
         "date_posted": 1774089409,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
@@ -264328,7 +264216,7 @@
         "company_name": "Micron Technology",
         "id": "e5d5daf6-bb3f-4534-aaef-7b1a18c5f7d6",
         "title": "New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group",
-        "active": true,
+        "active": false,
         "date_updated": 1774693983,
         "date_posted": 1774693983,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR89932-1",
@@ -264946,7 +264834,7 @@
         "company_name": "GE Healthcare",
         "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774693218,
         "date_posted": 1774693218,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
@@ -265334,7 +265222,7 @@
         "company_name": "Daikin Applied",
         "id": "801992fe-ac31-4e16-9e50-88bfd694bc33",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774649252,
         "date_posted": 1774649252,
         "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Product-Engineer_R000396-2",
@@ -268412,7 +268300,7 @@
         "company_name": "2020 Companies",
         "id": "5b762817-3f35-4219-8f33-c11d7464a86f",
         "title": "Android Sales Expert",
-        "active": true,
+        "active": false,
         "date_updated": 1774981621,
         "date_posted": 1772839207,
         "url": "https://2020companies.wd1.myworkdayjobs.com/external_careers/job/Spring-TX/Android-Sales-Expert_REQ_100031",
@@ -268799,7 +268687,7 @@
         "company_name": "Liberty Mutual",
         "id": "f6e118e6-1ef7-4ce7-881c-9e70e6666094",
         "title": "Analyst - Data Science - Earnix Design",
-        "active": true,
+        "active": false,
         "date_updated": 1775000341,
         "date_posted": 1774573603,
         "url": "https://careers-libertymutual.icims.com/jobs/74991/job?mobile=true&needsRedirect=false",
@@ -272833,7 +272721,7 @@
         "company_name": "GE Healthcare",
         "id": "7dd821db-bbd1-4e35-8fa2-d75c89d87bc6",
         "title": "Field Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775120130,
         "date_posted": 1775110012,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Surgery-Imaging--New-Mexico-_R4037493-1",
@@ -273738,7 +273626,7 @@
         "company_name": "Johnson Controls",
         "id": "1de12a27-3e28-4ca4-84dc-2e18ee15b93b",
         "title": "Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775169185,
         "date_posted": 1775167857,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Electronics-Technician--onsite-_WD30263577",
@@ -276846,7 +276734,7 @@
         "company_name": "GE Healthcare",
         "id": "630b30e3-52a6-484f-8be3-f5fb7a80f33b",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1775296362,
         "date_posted": 1775295222,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4035192-2",
@@ -277188,7 +277076,7 @@
         "company_name": "GE Healthcare",
         "id": "37af37dd-c844-4cad-aa52-3c95edc25c59",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775298166,
         "date_posted": 1775295241,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Long-Island--NY_R4031346",
@@ -277306,7 +277194,7 @@
         "company_name": "Daikin Applied",
         "id": "aa6e3cd6-6a4f-4b6c-948b-29c1f8091829",
         "title": "Controls Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775302921,
         "date_posted": 1775300312,
         "url": "https://daikinapplied.wd1.myworkdayjobs.com/Daikin-Careers/job/Staunton-VA-24402/Controls-Engineer_R001833-1",
@@ -278692,7 +278580,7 @@
         "company_name": "GE Healthcare",
         "id": "afa59863-bc71-45c6-9234-1179162718d5",
         "title": "MR Calibration Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775470789,
         "date_posted": 1775295204,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/MR-Calibration-Engineer_R4037522-1",
@@ -283369,7 +283257,7 @@
         "company_name": "RTX",
         "id": "1c805bec-f75c-4223-a130-0a8976de8121",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775698114,
         "date_posted": 1775696912,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Software-Engineer-I---Onsite_01833632",
@@ -284054,7 +283942,7 @@
         "company_name": "Hastings Direct",
         "id": "b882a636-a0c4-4277-b221-f534b404dae9",
         "title": "Junior Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775774352,
         "date_posted": 1775772389,
         "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Leicester--Hybrid/Junior-Automation-Engineer_60013259-1",
@@ -284678,7 +284566,7 @@
         "company_name": "Northrop Grumman",
         "id": "8a3d39b6-9898-4072-9d38-0a504d2a1338",
         "title": "Engineer Test/Principal Engineer Test",
-        "active": true,
+        "active": false,
         "date_updated": 1775775071,
         "date_posted": 1775772598,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Azusa/Engineer-Test-Principal-Engineer-Test--Level-2-3-_R10229055",
@@ -285696,7 +285584,7 @@
         "company_name": "Rolls-Royce",
         "id": "8f9040cb-fec2-4a8f-959d-b3c21d67f480",
         "title": "Radiographer",
-        "active": true,
+        "active": false,
         "date_updated": 1775816338,
         "date_posted": 1775743535,
         "url": "https://rollsroyce.wd3.myworkdayjobs.com/professional/job/Bristol/Radiographer_JR6146514-2",
@@ -288486,9 +288374,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776071644,
+        "date_updated": 1776158504,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Junior-Software-Engineer--Web-Developer-Programmer-_R2601262",
         "company_name": "ICF",
@@ -288558,9 +288446,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776072100,
+        "date_updated": 1776158504,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/careers/job/Charlotte-NC/Associate-Data-Engineer---AML_R0113286",
         "company_name": "Truist",
@@ -288740,9 +288628,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776074136,
+        "date_updated": 1776158504,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.lever.co/inductiveautomation/9d6b7b24-4329-4e13-a29a-2b847ce2b1f9",
         "company_name": "Inductive Automation",
@@ -289204,7 +289092,7 @@
         "company_name": "Bird Construction",
         "id": "eb924fbd-f05a-47f0-8bd5-d6351f818086",
         "title": "Radiation Protection Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776078798,
         "date_posted": 1775900669,
         "url": "https://bird.wd3.myworkdayjobs.com/BirdConstructionCareers/job/Port-Hope-ON/Radiation-Protection-Technician_JR-8544",
@@ -289600,7 +289488,7 @@
         "company_name": "Sainsbury's",
         "id": "0490c41b-0563-4734-9257-a4ef9b37d62d",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776120499,
         "date_posted": 1776118029,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057114",
@@ -291069,5 +290957,244 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "date_updated": 1776158287,
+        "sponsorship": "U.S. Citizenship is Required",
+        "active": true,
+        "degrees": [],
+        "url": "https://careers-gdms.icims.com/jobs/71965/junior-rust-embedded-software-engineer-%28cleared%29/job",
+        "company_name": "General Dynamics Mission Systems",
+        "title": "Junior RUST Embedded Software Engineer (cleared)",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "a52b4099-20f1-41db-9dbd-1fe719629c8d",
+        "date_posted": 1776158287,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Varian",
+        "id": "e79eb342-408f-410b-9044-b4f38f0fa32e",
+        "title": "Service Engineer",
+        "active": true,
+        "date_updated": 1776159397,
+        "date_posted": 1775901787,
+        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CEY-BO/Service-Engineer---Hardware-Velindre-NHS-Trust_R-22320-1",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "de7c3cf1-1448-4280-8ebd-5f3a36d02895",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1776159194,
+        "date_posted": 1772147334,
+        "url": "https://careers-gdms.icims.com/jobs/71172/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Dedham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "3bb1dfa6-67ce-43e8-ac2c-9a2f6db90492",
+        "title": "Engineering Leadership Program Engineer - Computer Science/Software",
+        "active": true,
+        "date_updated": 1776159194,
+        "date_posted": 1774304208,
+        "url": "https://careers-gdms.icims.com/jobs/71601/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RevenueCat",
+        "id": "158a3ce4-5e85-4259-93be-875f310be28b",
+        "title": "Developer Support Engineer",
+        "active": true,
+        "date_updated": 1776159698,
+        "date_posted": 1773900586,
+        "url": "https://jobs.ashbyhq.com/revenuecat/b81fe0a9-a48f-417c-badb-c916844bf2f6/application",
+        "locations": [
+            "Remote in USA",
+            "La Ronge, SK, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RevenueCat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "c65d444c-ba74-4d44-bb44-285e864becef",
+        "title": "Electrical Engineer - Subsystems",
+        "active": true,
+        "date_updated": 1776159510,
+        "date_posted": 1773297773,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Electrical---Subsystems_R10225727",
+        "locations": [
+            "Palmdale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "e31ec248-f0b2-4254-9a42-418a614ad15f",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776162069,
+        "date_posted": 1776157450,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057088",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "810be529-d966-4d79-9059-433a82698651",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776162069,
+        "date_posted": 1776157450,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057093",
+        "locations": [
+            "Withernsea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parsons",
+        "id": "07092134-b8e1-4e50-b6d9-feb62a757412",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1776162069,
+        "date_posted": 1775901382,
+        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---IL-Schaumburg/Junior-Full-Stack-Developer_R179262-2",
+        "locations": [
+            "Hoffman Estates, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Parsons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bowhead",
+        "id": "3c0cdadf-b1aa-47f0-9555-750e8deb7498",
+        "title": "Data Analyst/Data Engineer 1",
+        "active": true,
+        "date_updated": 1776162336,
+        "date_posted": 1775858585,
+        "url": "https://bowheadcareers-uicalaska.icims.com/jobs/25010/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Prince George's County, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Bowhead",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Edgestream",
+        "id": "8d0a5dfb-f535-41f1-a065-9752e2bff41a",
+        "title": "Quantitative Software Engineer",
+        "active": true,
+        "date_updated": 1776161170,
+        "date_posted": 1761874355,
+        "url": "https://www.edgestreamlp.com/career?gh_jid=4163341003",
+        "locations": [
+            "Princeton, NJ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Edgestream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rockwell Automation",
+        "id": "16adba7b-c5fe-4737-bb4a-628a86ba3e19",
+        "title": "Firmware Engineer",
+        "active": true,
+        "date_updated": 1776161889,
+        "date_posted": 1775901836,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mequon-Wisconsin-United-States/Firmware-Engineer_R26-720",
+        "locations": [
+            "Mequon, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
