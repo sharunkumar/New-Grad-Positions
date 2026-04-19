@@ -1,86 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "d8749eca-e9d4-4014-87e5-253cf8d840b1",
-        "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": false,
-        "date_updated": 1755848537,
-        "date_posted": 1755848537,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192943-1",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "de9c535c-9de3-4b5a-befd-6a72f6f83500",
-        "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": false,
-        "date_updated": 1755848329,
-        "date_posted": 1755848329,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192926",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "ce72f687-0643-43a5-9527-4d892c6faea2",
-        "title": "Mechanical/Hardware Engineer I Graduate",
-        "active": false,
-        "date_updated": 1755850660,
-        "date_posted": 1755850660,
-        "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Chippewa-Falls-Wisconsin-United-States-of-America/Mechanical-Hardware-Engineer-I-Graduate_1192929-1",
-        "locations": [
-            "Eau Claire, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "date_updated": 1756413244,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Spring-Texas-United-States-of-America/Data-Science-Graduate_1192963",
-        "company_name": "Hewlett Packard Enterprise",
-        "title": "Data Science Graduate",
-        "locations": [
-            "Spring, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "b1ec662b-d28d-4923-9b4b-1d1e62a35143",
-        "date_posted": 1755867604,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "date_updated": 1756201405,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -39766,24 +39685,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fujitsu",
-        "id": "e432c917-23ba-4d89-af57-8d975861e913",
-        "title": "Service Desk Agent - Pb",
-        "active": false,
-        "date_updated": 1755848382,
-        "date_posted": 1755848382,
-        "url": "https://edzt.fa.em4.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/26402",
-        "locations": [
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Fujitsu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PennState University",
         "id": "c8620422-a002-4f17-baf2-1a7acc5b4e5c",
@@ -62988,26 +62889,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "0686730f-5d35-438b-9745-60e0e744adff",
-        "title": "Student Researcher",
-        "active": false,
-        "date_updated": 1755865076,
-        "date_posted": 1755865076,
-        "url": "https://jobs.bytedance.com/en/position/7538943251756910856/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
