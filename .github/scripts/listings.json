@@ -170330,7 +170330,7 @@
         "company_name": "SpaceX",
         "id": "11300faa-161b-483b-9520-12054a5957e6",
         "title": "Full Stack Software Engineer - Top Secret Clearance",
-        "active": false,
+        "active": true,
         "date_updated": 1770103404,
         "date_posted": 1770103404,
         "url": "https://boards.greenhouse.io/spacex/jobs/8397609002",
@@ -245921,7 +245921,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -260514,7 +260514,7 @@
         "company_name": "Dominion Energy",
         "id": "a9f6517c-114e-4575-8417-fa1be7b540cc",
         "title": "Electric Distribution Planning Modeling Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774620577,
         "date_posted": 1774620577,
         "url": "https://careers.dominionenergy.com/job/RICHMOND-Electric-Distribution-Planning-Modeling-Engineer-VA-23219/1377336800/?ats=successfactors",
@@ -262925,7 +262925,7 @@
         "company_name": "Zipline",
         "id": "fbf40373-ebef-4e0f-aceb-4a55a45c875a",
         "title": "Field Service and Construction Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774844020,
         "date_posted": 1770334726,
         "url": "https://www.flyzipline.com/careers/open-roles?gh_jid=7621125003",
@@ -280693,7 +280693,7 @@
         "company_name": "Deluxe",
         "id": "49105cce-b020-4594-a4d1-ab0441eea186",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775687950,
         "date_posted": 1775685876,
         "url": "https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/New-York-NY-USA/Data-Scientist-1_260475WD-1",
@@ -281089,7 +281089,7 @@
         "company_name": "City of Austin",
         "id": "f9ca433c-dc93-467b-a6b0-429d53b1ec4f",
         "title": "Electric Power Grid - Geospatial Information System - Electric Power Grid",
-        "active": true,
+        "active": false,
         "date_updated": 1775745970,
         "date_posted": 1775743759,
         "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/System-Control-Center-SCC/Electric-Power-Grid--EPG--Geospatial-Information-System--GIS--Analyst-I_JR103382-1",
@@ -290290,7 +290290,7 @@
         "company_name": "Cerity Partners",
         "id": "636ccc47-f922-4bb8-b72e-52a35cdc75f6",
         "title": "Trading Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776245051,
         "date_posted": 1776244782,
         "url": "https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/Louisville-KY/Trading-Associate_R633",
@@ -292680,9 +292680,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776339542,
+        "date_updated": 1776663853,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/Associate-Software-Engineer_R2601302",
         "company_name": "ICF",
@@ -292734,9 +292734,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776340276,
+        "date_updated": 1776663853,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [
             "Master's"
         ],
@@ -292757,9 +292757,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776340698,
+        "date_updated": 1776663853,
         "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://apply.workable.com/optisigns-inc/j/EB560EFFD4/",
         "company_name": "OptiSigns",
@@ -292894,9 +292894,9 @@
         ]
     },
     {
-        "date_updated": 1776350076,
+        "date_updated": 1776663853,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://dish.jibeapply.com/jobs/98189",
         "company_name": "EchoStar",
@@ -295300,7 +295300,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -298077,7 +298077,7 @@
         "company_name": "Sainsbury's",
         "id": "2aa0219d-b1bd-45df-92ce-069504d77703",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776503161,
         "date_posted": 1776502998,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057651",
@@ -298455,7 +298455,7 @@
         "company_name": "Sainsbury's",
         "id": "ae4ea2a1-fad4-4e94-8546-8821c64956f1",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776607741,
         "date_posted": 1776607594,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057761",
@@ -298647,5 +298647,123 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cisco",
+        "id": "6b1c62fa-8361-4ac7-9660-9d5f2e5aeb8e",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776588919,
+        "date_posted": 1776157613,
+        "url": "https://careers.cisco.com/global/en/job/2011789",
+        "locations": [
+            "Research Triangle, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "date_updated": 1776665945,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://blentech.applytojob.com/apply/jIPpwTc2bl/Software-Engineer-I",
+        "company_name": "Blentech Corporation",
+        "title": "Software Engineer I",
+        "locations": [
+            "Santa Rosa, CA"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "888c32f4-b10b-4ceb-b230-ea639f89d930",
+        "date_posted": 1776665945,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1776666108,
+        "sponsorship": "Other",
+        "active": true,
+        "degrees": [],
+        "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5111912007?gh_jid=5111912007",
+        "company_name": "TransMarket Group",
+        "title": "Junior Software Engineer",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "category": "Software Engineering",
+        "source": "AlmondCroffle",
+        "id": "05be55c6-2c63-435c-8a78-0845e89d8a99",
+        "date_posted": 1776666108,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "fd0a91ad-d738-4017-8dfb-6709b43759f2",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1776665162,
+        "date_posted": 1776665044,
+        "url": "https://jobs.smartrecruiters.com/Visa/744000121657362",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "1ebee2fb-eb8a-47ae-9436-b4655564fab6",
+        "title": "R&D Product Engineering Support-Agile Analysis",
+        "active": true,
+        "date_updated": 1776665341,
+        "date_posted": 1776665274,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Chippewa-Falls-Wisconsin-United-States-of-America/R-D-Product-Engineering-Support-Agile-Analysis_1205262",
+        "locations": [
+            "Eau Claire, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "859fa85e-ab8c-4ddd-812a-eea28fbe4fbc",
+        "title": "Security Software Engineer",
+        "active": true,
+        "date_updated": 1776665701,
+        "date_posted": 1765927490,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8306251002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
