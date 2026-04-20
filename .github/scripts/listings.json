@@ -1,156 +1,5 @@
 [
     {
-        "date_updated": 1755890178,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://nodalexchange.pinpointhq.com/postings/7dfa5f35-8585-4681-bad7-5f26b87bdc47",
-        "company_name": "Nodal",
-        "title": "Software Engineer",
-        "locations": [
-            "Tysons Corner, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "7ff83263-7d64-47e0-8724-0c0e039c3419",
-        "date_posted": 1755890178,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Connected",
-        "id": "a9ccc1fd-d50f-40c1-964c-2f11a4961bda",
-        "title": "Machine Learning Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1755903055,
-        "date_posted": 1755903055,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=8133318002",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Connected",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "91d06938-3be8-427a-bb3b-7586cc4d0dcf",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1756120767,
-        "date_posted": 1755906812,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R158632",
-        "locations": [
-            "San Francisco, CA",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Harvey",
-        "id": "ce0000af-49cf-4e07-ba5d-fcde698721b7",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761843461,
-        "date_posted": 1755906591,
-        "url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b/application",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Harvey",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "9140651d-f2e6-400d-ba0a-70c7f7c71031",
-        "title": "Optical Network Embedded Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1755908269,
-        "date_posted": 1755908269,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Optical-Network-Embedded-Software-Engineer---New-Grad_R028715",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SMX",
-        "id": "6b23b60f-9363-461b-bbe4-6b34cb94b487",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1755909353,
-        "date_posted": 1755909353,
-        "url": "https://www.smxtech.com/careers/?gh_jid=6689584003",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Smx",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1762271954,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3",
-        "company_name": "Zip",
-        "title": "Software Engineer",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "573f981f-3318-4edf-9a8b-b5398fce3299",
-        "date_posted": 1755912096,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1760944337,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career",
-        "company_name": "Apple",
-        "title": "Accessibility Engineer, IS&T",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "unvibingcode",
-        "id": "43c0929e-32b2-4d37-ad4e-8c0c6fec385b",
-        "date_posted": 1755912117,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1756303771,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -62644,24 +62493,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "58caf5c1-ae84-486f-bfcd-54681c95c17a",
-        "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - CV/Multimodal",
-        "active": false,
-        "date_updated": 1755891518,
-        "date_posted": 1755891518,
-        "url": "https://lifeattiktok.com/search/7377874164580010267",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "97b3870b-63df-47e9-a967-0c0921c0f9e9",
         "title": "Research Scientist Graduate - Video Quality Analysis&Coding Strategy - 2026 Start",
@@ -62673,57 +62504,6 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "InfStones",
-        "id": "ccbf62c1-15bd-432a-b7aa-64a12dee5c51",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1755906056,
-        "date_posted": 1755906056,
-        "url": "https://jobs.lever.co/infstones/95904c76-451d-44e9-917c-f74c82f41bdf/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/InfStones",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Caterpillar Inc.",
-        "id": "4a8db4fd-b670-4b06-8c95-32697af21d2b",
-        "title": "Engineering Rotational Development Program - Product Development Track - ERDP",
-        "active": false,
-        "date_updated": 1762908591,
-        "date_posted": 1755904528,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Mossville-Illinois/XMLNAME-2026-Engineering-Rotational-Development-Program---Product-Development-Track--ERDP-_R0000320874",
-        "locations": [
-            "Urbana, IL",
-            "Peoria, IL",
-            "Houston, TX",
-            "Flanagan, IL",
-            "McDonough, GA",
-            "Fargo, ND",
-            "Greenwood, SC",
-            "Rapid City, SD",
-            "Durant, OK",
-            "Brooklyn Park, MN",
-            "Clayton, NC",
-            "Fort Worth, TX",
-            "West Lafayette, IN",
-            "Decatur, IL",
-            "Sanford, NC",
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -90208,26 +89988,6 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Veryable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "West Virginia University",
-        "id": "200fbf15-4c8b-4d7e-b556-6d614363faa5",
-        "title": "Lecturer",
-        "active": false,
-        "date_updated": 1762919220,
-        "date_posted": 1755890098,
-        "url": "https://wvu.taleo.net/careersection/faculty/jobdetail.ftl?job=25826",
-        "locations": [
-            "Morgantown, WV",
-            "Berkeley Springs, WV",
-            "Beckley, WV"
-        ],
-        "company_url": "https://simplify.jobs/c/West-Virginia-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -191162,7 +190922,7 @@
         "company_name": "Goldman Sachs",
         "id": "42937147-601a-4fbc-975c-775aea412b40",
         "title": "Asset & Wealth Management - Wealth Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1771172483,
         "date_posted": 1770938205,
         "url": "https://higher.gs.com/roles/162295",
@@ -218584,7 +218344,7 @@
         "company_name": "BlackRock",
         "id": "6351ded1-378a-4a57-af64-a7a02aa2d651",
         "title": "Associate Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772495556,
         "date_posted": 1772495556,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/LO9-London---Drapers-Gardens/Associate--Application-Engineer_R260695",
@@ -258294,7 +258054,7 @@
         "company_name": "Smithfield Foods",
         "id": "3fa708f8-0bc9-414b-ac30-5e78572c2c1a",
         "title": "Associate R&D Technologist",
-        "active": false,
+        "active": true,
         "date_updated": 1774508140,
         "date_posted": 1774508140,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-R-D-Technologist_R-2026-3114",
@@ -261960,7 +261720,7 @@
         "company_name": "Sainsbury's",
         "id": "9e392ead-ec5d-416e-add5-868387658efe",
         "title": "Trading Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1774735650,
         "date_posted": 1774735650,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055401",
@@ -290413,7 +290173,7 @@
         "company_name": "Sainsbury's",
         "id": "512026f3-95cd-4fc7-9704-2d525c0fcacd",
         "title": "Trading Assistant - Shift",
-        "active": false,
+        "active": true,
         "date_updated": 1776234619,
         "date_posted": 1776233204,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057250",
@@ -292831,7 +292591,7 @@
         "company_name": "Cisco",
         "id": "d13824fa-a600-41bb-bfde-87089cad7974",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776334583,
         "date_posted": 1772724286,
         "url": "https://careers.cisco.com/global/en/job/2006629",
@@ -298659,7 +298419,7 @@
         "company_name": "Sainsbury's",
         "id": "fa1599cc-d133-48a4-b7e6-220764336f26",
         "title": "Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776607741,
         "date_posted": 1776607592,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057198",
@@ -298677,7 +298437,7 @@
         "company_name": "Sainsbury's",
         "id": "b7a87d0b-8ed4-42fb-b0f4-fc5cb2ce54eb",
         "title": "Trading Assistant - Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1776607741,
         "date_posted": 1776607594,
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057746",
@@ -298774,6 +298534,114 @@
         "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057714",
         "locations": [
             "Midlothian, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "b53035ef-4803-44b5-aba9-2bdee56e6ec8",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776589561,
+        "date_posted": 1776589429,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057736",
+        "locations": [
+            "Blackpool, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "4e6cdfef-c851-4c77-ae16-f26e94d92acb",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776636541,
+        "date_posted": 1776636388,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057785",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "042aa518-a56b-4482-b2e0-4e417ebb9545",
+        "title": "Trading Assistant",
+        "active": true,
+        "date_updated": 1776636541,
+        "date_posted": 1776636387,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057769",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "cf4a4d8d-b720-471f-bdcd-c876db3b440f",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776636541,
+        "date_posted": 1776636386,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057372",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "9a88e7fe-4ba8-4efb-9f31-1aca06c51a30",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776636541,
+        "date_posted": 1776636389,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057784",
+        "locations": [
+            "York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sainsburys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Sainsbury's",
+        "id": "2e1813ef-de1e-4a3d-9e7d-de6eb518f730",
+        "title": "Trading Assistant - Shift",
+        "active": true,
+        "date_updated": 1776647341,
+        "date_posted": 1776647216,
+        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400057789",
+        "locations": [
+            "Chesterfield, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
