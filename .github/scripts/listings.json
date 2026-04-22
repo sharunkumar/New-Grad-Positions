@@ -1,60 +1,5 @@
 [
     {
-        "date_updated": 1756303771,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-System-Engineer---New-College-Grad-2025_JR2001318",
-        "company_name": "NVIDIA",
-        "title": "AI System Engineer",
-        "locations": [
-            "Santa Clara, CA",
-            "Redmond, WA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "414c6571-d06d-44e7-948c-4c5de3852a0d",
-        "date_posted": 1756110970,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1756942893,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/5628852004",
-        "company_name": "Lucid Software",
-        "title": "Junior Frontend Engineer, airfocus",
-        "locations": [
-            "Hamburg, DE"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1c05e666-373c-4781-beed-494338a2489e",
-        "date_posted": 1756111175,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1764679827,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.lever.co/life/99fdfce1-f0d6-48f8-8ad8-b22b4d6561bf",
-        "company_name": "YouVersion",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Edmond, OK"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "4d488c7c-f9ed-4332-9ead-14752708070d",
-        "date_posted": 1756111332,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "RTX",
@@ -47880,7 +47825,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "aca2cbca-71c0-435f-83b5-d07623be4c1a",
         "title": "ARLIS Artificial Intelligence Research Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1760833192,
         "date_posted": 1760833192,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/ARLIS-Artificial-Intelligence-Research-Professional_JR101775",
@@ -61757,24 +61702,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital Health",
-        "id": "7bdbfbca-c59f-4ff6-9ad7-5850f1ef34d5",
-        "title": "IT Clinical App Systems Analyst 1 - Rmc",
-        "active": false,
-        "date_updated": 1762922502,
-        "date_posted": 1756128421,
-        "url": "https://capitalhealth.wd1.myworkdayjobs.com/CapitalHealthCareers/job/Pennington-NJ/IT-Clinical-App-Sys-Analyst-I_JR106251-1",
-        "locations": [
-            "Lawrence Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -186959,7 +186886,7 @@
         "company_name": "mthree",
         "id": "65d1fcad-faa0-460b-84d6-bc84cff9511d",
         "title": "Junior Software Developer - London - Bournemouth",
-        "active": true,
+        "active": false,
         "date_updated": 1770939512,
         "date_posted": 1770939512,
         "url": "https://mthree.com/careers/job/?gh_jid=4654059006",
@@ -211697,7 +211624,7 @@
         "company_name": "Connection",
         "id": "0eca49b9-0851-4500-ad80-94a7d07e4e0b",
         "title": "Product Data Editor - Product Data",
-        "active": true,
+        "active": false,
         "date_updated": 1772147202,
         "date_posted": 1772147202,
         "url": "https://careers-connection.icims.com/jobs/10118/job?mobile=true&needsRedirect=false",
@@ -216868,7 +216795,7 @@
         "company_name": "mthree",
         "id": "58294ebc-0e76-4093-bcd9-c7171129309e",
         "title": "C++ Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1772465471,
         "date_posted": 1772465471,
         "url": "https://mthree.com/careers/job/?gh_jid=4576333006",
@@ -226355,7 +226282,7 @@
         "company_name": "Moog ",
         "id": "9b729f9b-fc1c-4ad8-89f7-fb53d2eab51f",
         "title": "Associate Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772790409,
         "date_posted": 1772494382,
         "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Associate-Development-Engineer_R-26-16395-1",
@@ -257616,7 +257543,7 @@
         "company_name": "Flextronics International",
         "id": "2aed7f1f-d571-44fa-85b8-a51a144ee9bf",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1774515868,
         "date_posted": 1772148446,
         "url": "https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-TX-Austin/Engineering-Technician-2_WD214128",
@@ -266802,7 +266729,7 @@
         "company_name": "TikTok",
         "id": "fece5fd6-9c42-4deb-bdfa-b8b637288448",
         "title": "Product Manager Graduate - TikTok Product Product Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1775006101,
         "date_posted": 1775006017,
         "url": "https://lifeattiktok.com/search/7533248755841485063",
@@ -268117,7 +268044,7 @@
         "company_name": "Fortinet",
         "id": "e78c4335-933f-4f16-93a1-18e9dc5fb4c1",
         "title": "Applied AI Engineer \u2013 PhD New Graduate - AI Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1775037618,
         "date_posted": 1770851900,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22124",
@@ -269000,7 +268927,7 @@
         "company_name": "Definity Financial",
         "id": "0595032f-5209-401e-a86b-18bdff8db170",
         "title": "Specialist - Data Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1775084041,
         "date_posted": 1775081274,
         "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8986",
@@ -269799,7 +269726,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "a94fc300-8fc2-4984-9a37-b49c6a6daa9c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1775122561,
         "date_posted": 1773353643,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004529",
@@ -271495,7 +271422,7 @@
         "company_name": "Stryker",
         "id": "e2f7235b-7610-405a-86f9-b77cba2b2c2d",
         "title": "Associate Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1775208601,
         "date_posted": 1772667992,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Associate-Installation-Technician---Tampa--FL_R561340",
@@ -279706,7 +279633,7 @@
         "company_name": "Nordstrom",
         "id": "6a967213-7701-45d0-a560-2eaa2bcc3e70",
         "title": "Associate Designer - Women's Apparel - Nordstrom Label",
-        "active": true,
+        "active": false,
         "date_updated": 1775690022,
         "date_posted": 1775686230,
         "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Assoc-Designer--Women-s-Apparel--Nordstrom-Label_R-827450",
@@ -283353,7 +283280,7 @@
         "company_name": "NewDay",
         "id": "e24f777c-3b1d-40ef-b265-20c6834dbf6e",
         "title": "Full Stack Developer - PHP & React",
-        "active": true,
+        "active": false,
         "date_updated": 1775860212,
         "date_posted": 1775858672,
         "url": "https://newday.wd3.myworkdayjobs.com/NewDay/job/Bournemouth/Junior-Developer---PHP---REACT-_JR0548",
@@ -286517,7 +286444,7 @@
         "company_name": "CDW Corporation",
         "id": "98967d05-776c-4468-85a2-a80f4b07d8e5",
         "title": "Software Engineer 1 - Frontend",
-        "active": true,
+        "active": false,
         "date_updated": 1776120579,
         "date_posted": 1776117988,
         "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Frontend_R26_00001465",
@@ -286616,7 +286543,7 @@
         "company_name": "CDW Corporation",
         "id": "6b113274-3cb5-45ac-98f6-a0c60391cf05",
         "title": "Software Engineer 1 - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1776120444,
         "date_posted": 1776117988,
         "url": "https://cdw.wd5.myworkdayjobs.com/careers/job/Virtual---Illinois/Software-Engineer-I---Backend_R26_00001466",
@@ -289735,7 +289662,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "6eea2a63-b8fe-40cf-8ee6-ff3a11d1309a",
         "title": "Consultant - Digital Marketing Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776245051,
         "date_posted": 1775858888,
         "url": "https://lplfinancial.wd1.myworkdayjobs.com/External/job/Fort-MillCharlotte/Consultant--Digital-Marketing-Data-Analyst_R-049652",
@@ -292513,7 +292440,7 @@
         "company_name": "Nucor",
         "id": "c0a475ee-0277-41bd-a7ba-58b8ae900cec",
         "title": "Tensile Lab Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1776377161,
         "date_posted": 1776377125,
         "url": "https://jobs.nucor.com/job/Darlington-Tensile-Lab-Technician-SC-29540/1382953900/?ats=successfactors",
@@ -297123,7 +297050,7 @@
         "company_name": "Johnson & Johnson",
         "id": "a993c9fa-c935-4d16-91df-f7c2fe6410c7",
         "title": "Research and Development Leadership Development Program - Rdldp - 2026 Full-Time PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1776523142,
         "date_posted": 1776523042,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Research-and-Development-Leadership-Development-Program--RDLDP---2026-Full-Time-PhD_R-051292",
@@ -300850,7 +300777,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "75997427-8e44-42cc-9eb4-0da8a52c495c",
         "title": "Product Management Specialist - Diablo Tools",
-        "active": true,
+        "active": false,
         "date_updated": 1776780541,
         "date_posted": 1776780413,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000122026477",
@@ -302080,6 +302007,169 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "5557ca5c-dd8c-4a30-b165-0900c9504d64",
+        "title": "C++ Software Engineer",
+        "active": true,
+        "date_updated": 1776847861,
+        "date_posted": 1776521641,
+        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer_R53008",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vishay Intertechnology",
+        "id": "6b2ace10-68a9-45ae-a2f7-1df4d9eb1094",
+        "title": "Associate Engineer",
+        "active": true,
+        "date_updated": 1776848581,
+        "date_posted": 1776522017,
+        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Marshall-MN/Associate-Engineer_JR-14225",
+        "locations": [
+            "Marshall, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ekho",
+        "id": "87a1e957-52f8-454d-a246-892773aa65ff",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1776849121,
+        "date_posted": 1773440814,
+        "url": "https://jobs.ashbyhq.com/Ekho/c328cbe8-6d54-4e55-858b-5f2f2845ee1e/application",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekho",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Smith+Nephew",
+        "id": "b9a0a2bb-b8cf-4eb9-9d24-b2824c6e1a1d",
+        "title": "Associate Product Manager - Platform AI",
+        "active": true,
+        "date_updated": 1776851101,
+        "date_posted": 1776521684,
+        "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Senior-Marketing-Manager--Global-Platform-Robotics--Pittsburgh--PA-_R86564",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smith-Nephew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BTI Solutions",
+        "id": "bf6c5564-ad15-41e7-ab90-9a7e4921b260",
+        "title": "Korean Bilingual AMR Engineer TL",
+        "active": true,
+        "date_updated": 1776851339,
+        "date_posted": 1775081386,
+        "url": "https://btisolutions.wd12.myworkdayjobs.com/External/job/Queen-Creek-AZ/Korean-Bilingual-Mechanical-Engineer----TL----Queen-Creek----AZ_JR101583-1",
+        "locations": [
+            "Gilbert, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/BTI-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "f0865c39-c2d0-4de6-9758-7218853be989",
+        "title": "Software Engineer 1 Intern",
+        "active": true,
+        "date_updated": 1776851906,
+        "date_posted": 1775052369,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10004645",
+        "locations": [
+            "Des Moines, IA",
+            "Richmond, VA",
+            "Reno, NV",
+            "Sioux City, IA",
+            "Davenport, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Osmo",
+        "id": "ee92740f-893e-4133-9e34-30e68947b5ba",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1776851887,
+        "date_posted": 1776723687,
+        "url": "https://jobs.ashbyhq.com/osmo/1e28ca2a-fb4b-4324-a08b-d5499c5cdf95/application",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Osmo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "8830ec1a-2eba-4554-892e-b63e37c7da62",
+        "title": "C++ Software Engineer",
+        "active": true,
+        "date_updated": 1776849661,
+        "date_posted": 1776505436,
+        "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer_R53008-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
