@@ -61814,24 +61814,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "8ef14bc1-dc0d-4382-a505-75a002f977ba",
-        "title": "Seismology Postdoctoral Fellow",
-        "active": true,
-        "date_updated": 1756102012,
-        "date_posted": 1756102012,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "NCR Voyix",
         "id": "987bcf77-27ad-4307-9da0-2b309e715957",
@@ -234837,7 +234819,7 @@
         "company_name": "RTX",
         "id": "614327c5-9f3d-419b-8861-f1485588c673",
         "title": "Embedded Cybersecurity Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773270288,
         "date_posted": 1773270288,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Cybersecurity-Software-Engineer-I--Onsite-_01829680",
@@ -236980,7 +236962,7 @@
         "company_name": "Genuine Parts Company",
         "id": "c649691d-feec-49b4-ac5d-10a40947c3a4",
         "title": "PIM Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1773357152,
         "date_posted": 1773357152,
         "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/PIM-Data-Analyst_R26_0000004892",
@@ -255242,7 +255224,7 @@
         "company_name": "Brookhaven Lab",
         "id": "b96cb6b7-4d34-4210-8974-484e18a29689",
         "title": "Research Associate Physics",
-        "active": true,
+        "active": false,
         "date_updated": 1774353396,
         "date_posted": 1774085545,
         "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-Physics_JR102253",
@@ -271513,7 +271495,7 @@
         "company_name": "Stryker",
         "id": "e2f7235b-7610-405a-86f9-b77cba2b2c2d",
         "title": "Associate Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1775208601,
         "date_posted": 1772667992,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tampa-Florida/Associate-Installation-Technician---Tampa--FL_R561340",
@@ -277902,7 +277884,7 @@
         "company_name": "WEC Energy Group",
         "id": "ed7f11b8-1c7c-4971-9b9e-afc64d2284a1",
         "title": "Gas System Associate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775602621,
         "date_posted": 1775599745,
         "url": "https://careers.wecenergygroup.com/Wisconsin_Public_Service/job/Green-Bay-Gas-System-Associate-Analyst-WI-54307-9001/1380058900/?ats=successfactors",
@@ -287411,7 +287393,7 @@
         "company_name": "City of Charlotte",
         "id": "4eb70f86-cc5b-45a6-b222-d6875194e89a",
         "title": "1&T Data Analytics Specialist Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1776121221,
         "date_posted": 1776118088,
         "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/Charlotte-Mecklenburg-Government-Center/I-T-Data-Analytics-Specialist-Senior_JR103583",
@@ -294456,7 +294438,7 @@
         "company_name": "LabCorp",
         "id": "8a2647ab-a5b0-4e67-ba38-b6736b236eef",
         "title": "Enterprise Data Architect-Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776463921,
         "date_posted": 1776463858,
         "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Enterprise-Data-Architect-Level-1_2527549",
@@ -297001,7 +296983,7 @@
         "company_name": "RTX",
         "id": "b2f97101-0809-4835-bdd7-d62829cf944d",
         "title": "Software Engineer 1 - Space and RF Sensors",
-        "active": true,
+        "active": false,
         "date_updated": 1776529489,
         "date_posted": 1776524717,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Full-time---Software-Engineer-I---Space-and-RF-Sensors----Onsite_01838274",
@@ -302078,6 +302060,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "8ef14bc1-dc0d-4382-a505-75a002f977ba",
+        "title": "Seismology Postdoctoral Fellow",
+        "active": true,
+        "date_updated": 1776505861,
+        "date_posted": 1776505687,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Seismology-Postdoctoral-Fellow_R_00028107",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
