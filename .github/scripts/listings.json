@@ -2,35 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Google",
-        "id": "bfb08a93-2f42-4862-9976-1e856142142e",
-        "title": "Software Engineer \u2013 Early Career - PhD - AI/Machine Learning",
-        "active": false,
-        "date_updated": 1756217343,
-        "date_posted": 1756217343,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/122258040807137990",
-        "locations": [
-            "Madison, WI",
-            "Seattle, WA",
-            "Raleigh, NC",
-            "San Bruno, CA",
-            "Durham, NC",
-            "Kirkland, WA",
-            "NYC",
-            "Sunnyvale, CA",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Auto Club Enterprises",
         "id": "f72fa606-2f32-48c0-8bf0-e811de019826",
         "title": "Entry Level Data Scientist",
@@ -189,26 +160,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "489d499d-b69d-43b3-91d0-d3337a013ded",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1756221388,
-        "date_posted": 1756221388,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566097",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -15649,7 +15600,7 @@
         "company_name": "Amentum",
         "id": "037965da-859d-4532-a3b3-45dc8fd6220f",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1761501704,
         "date_posted": 1761501704,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148259",
@@ -29876,7 +29827,7 @@
         "company_name": "Hudson River Trading",
         "id": "abe441e7-1235-4e24-bd86-7bf7472d2ea4",
         "title": "Hardware Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762909950,
         "date_posted": 1762537755,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7141895",
@@ -84012,7 +83963,7 @@
         "company_name": "True Anomaly",
         "id": "10e143cf-443b-4ec0-b99d-2a6a5836d626",
         "title": "Front End Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1764153721,
         "date_posted": 1764153721,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992058007",
@@ -126149,7 +126100,7 @@
         "company_name": "Skyscanner",
         "id": "2c4739c6-11c7-4cb3-af94-8ba4ae8bcaf1",
         "title": "Software Engineering and Teaching Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1767630094,
         "date_posted": 1767630094,
         "url": "http://www.skyscanner.net/jobs/job/7496222?gh_jid=7496222",
@@ -130450,7 +130401,7 @@
         "company_name": "JP Morgan Chase",
         "id": "3cad6a57-e14d-46e2-8c53-25d1fab7367f",
         "title": "Mydata Reporting Analytics Solutions - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1767827969,
         "date_posted": 1767827969,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210695999",
@@ -175103,7 +175054,7 @@
         "company_name": "Daktronics",
         "id": "92ba7c39-20cd-47f8-898a-6f49e46e6406",
         "title": "Game Day Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1770332679,
         "date_posted": 1770332679,
         "url": "https://careers-daktronics.icims.com/jobs/7200/job?mobile=true&needsRedirect=false",
@@ -183786,7 +183737,7 @@
         "company_name": "Genentech",
         "id": "f2e42b05-e4fb-470d-8603-248ae56f24a2",
         "title": "Senior ML Scientist - Scientific Reasoning Models - AI for Drug Discovery",
-        "active": false,
+        "active": true,
         "date_updated": 1770851815,
         "date_posted": 1770851815,
         "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/New-York-City/Senior---Principal-Machine-Learning-Scientist--Scientific-Reasoning-Models_202602-103618",
@@ -187748,7 +187699,7 @@
         "company_name": "Latitude AI",
         "id": "55f2f604-8d91-47e4-8f99-02c927efbb3f",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1770997302,
         "date_posted": 1770997302,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7611153",
@@ -190846,7 +190797,7 @@
         "company_name": "Northrop Grumman",
         "id": "1fe357ba-97e2-4687-a8ca-20c8fd8648ee",
         "title": "U105 Sensors & Systems Technician - Electronics Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771312642,
         "date_posted": 1771312642,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/U105-Sensors---Systems-Technician--Electronics-Technician-_R10221728-1",
@@ -237622,7 +237573,7 @@
         "company_name": "Revantage Corporate Services",
         "id": "270b01f8-4cc0-4fac-96b9-c74351ed1a47",
         "title": "Analyst \u2013 Junior Quantitative Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1773414448,
         "date_posted": 1773414448,
         "url": "https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---USA/Analyst--Junior-Quantitative-Developer_JR102973",
@@ -244626,7 +244577,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -251466,7 +251417,7 @@
         "company_name": "Collectors",
         "id": "d4fbecd4-6b7c-4516-be1c-5d0fbbb865b6",
         "title": "Trading Card Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1774316121,
         "date_posted": 1774316121,
         "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Trading-Card-Specialist_JR104497",
@@ -253012,7 +252963,7 @@
         "company_name": "Amentum",
         "id": "0a2ffbd1-f05a-4c5d-a0e8-1ceda340bd7d",
         "title": "Entry Level Software Engineer/Software Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1774392496,
         "date_posted": 1774392496,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0157213",
@@ -253270,7 +253221,7 @@
         "company_name": "RAB Lighting",
         "id": "aa7adf18-02b5-4dd0-b165-1ad37a36f874",
         "title": "Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1774390797,
         "date_posted": 1774390797,
         "url": "https://job-boards.greenhouse.io/rab/jobs/7743321",
@@ -257091,7 +257042,7 @@
         "company_name": "Google",
         "id": "830ca860-2e17-4177-8ee0-87e64c546f25",
         "title": "Product Manager 1 - Translate and Transcribe - XR Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1774534923,
         "date_posted": 1774534923,
         "url": "https://www.google.com/about/careers/applications/jobs/results/94231076695614150",
@@ -266349,7 +266300,7 @@
         "company_name": "Clearwater Analytics",
         "id": "53cbcbb4-ec4c-4331-9dc9-a34cb8f1b92e",
         "title": "Financial Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775005741,
         "date_posted": 1774994955,
         "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---Edinburgh/Financial-Data-Analyst_R11715",
@@ -279925,7 +279876,7 @@
         "company_name": "Viridien",
         "id": "7835b7c0-0e00-472e-92ca-7423f0b3cb04",
         "title": "Spectral Geologist",
-        "active": true,
+        "active": false,
         "date_updated": 1775745376,
         "date_posted": 1775743743,
         "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Spectral-Geologist_JR101241-1",
@@ -286088,7 +286039,7 @@
         "company_name": "Intuit",
         "id": "1d8f5d26-3697-4454-a205-893d2555111a",
         "title": "AI Scientist 2",
-        "active": false,
+        "active": true,
         "date_updated": 1776119754,
         "date_posted": 1776118196,
         "url": "https://jobs.intuit.com/job/atlanta/ai-scientist-2/27595/87369441664",
@@ -288231,7 +288182,7 @@
         "company_name": "Amentum",
         "id": "4fec9ed4-51ce-41d9-b857-f592ed5ff4a6",
         "title": "Entry Level Software Engineer/Software Tester",
-        "active": true,
+        "active": false,
         "date_updated": 1776206713,
         "date_posted": 1776204534,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer-Software-Tester_R0159211",
@@ -289821,7 +289772,7 @@
         "company_name": "Valmet",
         "id": "efe34e1a-66af-4b48-bb37-5269e10c26b5",
         "title": "Process Gas Chromatography Methods Chemist",
-        "active": true,
+        "active": false,
         "date_updated": 1776293832,
         "date_posted": 1776290991,
         "url": "https://valmet.wd103.myworkdayjobs.com/external/job/Houston-TX/Biological-Chemical-Scientist-Engineer_R52571",
@@ -292835,7 +292786,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "3c631b90-c47e-4144-be8e-84de51db3512",
         "title": "Data Scientist 1 - FIS University Program",
-        "active": true,
+        "active": false,
         "date_updated": 1776378415,
         "date_posted": 1776377346,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-ATL-201-STE-900/Data-Scientist-I--FIS-University-Program_JR0306451",
@@ -293333,7 +293284,7 @@
         "company_name": "Elanco",
         "id": "aee4bfd5-a584-484b-9da5-83c31b725215",
         "title": "IT Analyst - Associate Product Manager - Supply Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1776417843,
         "date_posted": 1776417561,
         "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/UK---Speke/Analyst-IT--Assoc-Product-Manager--Supply-Optimization_R0025520",
@@ -294005,7 +293956,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -298736,7 +298687,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "0459eb3b-f53f-4347-bea0-83341c53051a",
         "title": "Enterprise Modeling and Simulation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776723836,
         "date_posted": 1776723367,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Enterprise-Modeling-and-Simulation-Engineer_R015146",
@@ -298779,7 +298730,7 @@
         "company_name": "Autodesk",
         "id": "d08ddac6-280e-4e06-b5c5-daa47aa7b84e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "date_updated": 1776724774,
         "date_posted": 1776723511,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/California-USA---Remote/Software-Engineer_26WD96719-2",
@@ -299271,7 +299222,7 @@
         "company_name": "Leidos",
         "id": "2f3dad84-faec-4e00-bbee-282cfd2af350",
         "title": "Electronics Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1776733931,
         "date_posted": 1776733737,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Lynnwood-WA/Electronics-Technologist_R-00181325",
@@ -301766,7 +301717,7 @@
         "company_name": "Goodwin",
         "id": "b740b2dd-f707-47be-b5bb-585d0f02a4d5",
         "title": "Associate AI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776895921,
         "date_posted": 1776895537,
         "url": "https://goodwinprocter.wd5.myworkdayjobs.com/en-US/External_Careers/job/San-Francisco/Associate-AI-Developer_R04198",
@@ -302207,7 +302158,7 @@
         "company_name": "ADT",
         "id": "3d0b5c71-06b9-41fd-bab2-81aecf2693d7",
         "title": "Digital Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895686,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020030",
@@ -303206,5 +303157,165 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "STR",
+        "id": "c3b4fe80-6415-4687-9bde-c72f31712dca",
+        "title": "Associate Researcher",
+        "active": true,
+        "date_updated": 1776954241,
+        "date_posted": 1776954067,
+        "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4674339006",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/STR",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "7b384245-614f-4eb9-8f22-7fd3b4340e9b",
+        "title": "Product Functional Test Technology Engineer",
+        "active": true,
+        "date_updated": 1776953161,
+        "date_posted": 1776953026,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2425374",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "3cb5b2ff-fc02-4ec5-8fb4-bfda30eda813",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1776953976,
+        "date_posted": 1776953243,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124240-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Electronic Arts",
+        "id": "399524ef-9e24-4ebd-ae91-4af397d55fc1",
+        "title": "Reverse Engineer Anti-Cheat",
+        "active": true,
+        "date_updated": 1776953920,
+        "date_posted": 1776953271,
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Reverse-Engineer-Anti-Cheat/213132",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Electronic-Arts",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nordstrom",
+        "id": "68f613e8-9bcf-40fa-b59b-52c2a15af755",
+        "title": "Engineer 1 - Misc Team",
+        "active": false,
+        "date_updated": 1776953521,
+        "date_posted": 1776953342,
+        "url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers/job/Seattle-WA/Engineer-1---MISC-Team--Hybrid---Seattle--WA-_R-822693",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nordstrom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "f1d42b6e-fb07-42d6-abcc-b76b0445ce01",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1776953928,
+        "date_posted": 1776953297,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/London-United-Kingdom/PGIM-Credit---Investment-Analyst_R-124240",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Little Caesars Enterprises",
+        "id": "6b5e04ab-2563-4bef-a6f8-5250fccf9859",
+        "title": "Data Analyst",
+        "active": false,
+        "date_updated": 1776953341,
+        "date_posted": 1776953189,
+        "url": "https://ilitch.wd5.myworkdayjobs.com/lc/job/Detroit-MI/Data-Analyst---Finance_R8719",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Little-Caesars",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "BlackRock",
+        "id": "0dccebc3-2c5a-4e29-bd15-68b66e7295d0",
+        "title": "AI Product Manager - Associate - Aladdin AI",
+        "active": true,
+        "date_updated": 1776953889,
+        "date_posted": 1776953198,
+        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/New-York-NY/AI-Product-Manager--Associate---Aladdin-AI_R263783",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackRock",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
