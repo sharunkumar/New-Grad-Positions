@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Generac",
-        "id": "890edfa5-bc35-461a-9e4c-8d1e4e5fd9ff",
-        "title": "Hardware Engineer I",
-        "active": false,
-        "date_updated": 1756401652,
-        "date_posted": 1756401652,
-        "url": "https://generac.wd5.myworkdayjobs.com/en-US/external/job/Waukesha-WI---USA/Hardware-Engineer-I_JR8765-1",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Generac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1757727143,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -6338,27 +6318,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EvenUp",
-        "id": "56403aeb-9d47-4609-aa35-427e2f7f2e9a",
-        "title": "Early Career Data Scientist/Economist",
-        "active": false,
-        "date_updated": 1756404206,
-        "date_posted": 1756404206,
-        "url": "https://jobs.ashbyhq.com/evenup/4d950939-05ca-4f9c-be90-aca7f25cdfff/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/a3893f84-8200-4d5f-aad7-2ff0d6d670dc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
         ]
     },
     {
@@ -59889,42 +59848,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Chicago",
-        "id": "6b77e624-c9f5-461e-bbaf-74539d548d74",
-        "title": "Predoctoral Scholar",
-        "active": false,
-        "date_updated": 1756402844,
-        "date_posted": 1756402844,
-        "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Predoctoral-Scholar_JR31330",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Chicago",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dematic",
-        "id": "d684437b-9352-48d1-8e32-aa0957dbe000",
-        "title": "AMR Systems Engineer",
-        "active": false,
-        "date_updated": 1762821243,
-        "date_posted": 1756399626,
-        "url": "https://kiongroup.wd3.myworkdayjobs.com/kion_scs/job/Grand-Rapids-MI-United-States/AMR-Systems-Engineer_JR-0079899-1",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dematic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Analog Devices",
         "id": "1a52abb5-297a-484b-afe5-2909506285f3",
@@ -61899,24 +61822,6 @@
         "date_updated": 1761868630,
         "date_posted": 1761868630,
         "url": "https://lifeattiktok.com/search/7533023909790501138",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "e1f9f14d-1ffd-4469-b6ad-b476b4d55152",
-        "title": "Research Scientist Graduate - TikTok Recommendation-Agentic AI - 2026 Start",
-        "active": true,
-        "date_updated": 1756397675,
-        "date_posted": 1756397675,
-        "url": "https://lifeattiktok.com/search/7523144222812408071",
         "locations": [
             "San Jose, CA"
         ],
