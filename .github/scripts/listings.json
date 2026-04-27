@@ -1,121 +1,5 @@
 [
     {
-        "date_updated": 1756499638,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.metacareers.com/jobs/1455625889019477",
-        "company_name": "Meta",
-        "title": "Research Scientist Intern, Anisotropic Optics and Photonics (PhD)",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "category": "Hardware Engineering",
-        "source": "AlmondCroffle",
-        "id": "59e1749c-e866-4cbc-9b4a-ed2d221db6ec",
-        "date_posted": 1756499299,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "0b92737d-70a3-4db5-b31c-4cb752879f91",
-        "title": "Associate \u2013 New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1756505796,
-        "date_posted": 1756505796,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223330",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Viavi Solutions",
-        "id": "413f9259-1976-4806-b0d6-77770586e422",
-        "title": "Software Development Engineer I - C/C++ - Enterprise Network Performance and Cybersecurity Analytics Platform",
-        "active": false,
-        "date_updated": 1756508005,
-        "date_posted": 1756508005,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Minnetonka-MN-USA/Software-Development-Engineer-I--C-C------Enterprise-Network-Performance-and-Cybersecurity-Analytics-Platform_250003665-1",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "ae299101-f673-4a96-87ff-2115d79846c1",
-        "title": "Firmware Engineer \u2013 Early Career - AI/ML Focus",
-        "active": false,
-        "date_updated": 1756509146,
-        "date_posted": 1756509146,
-        "url": "https://seagatecareers.com/job/Longmont-Firmware-Engineer-Early-Career-(AIML-Focus)-CO-80501/1321668700/?ats=successfactors",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "4b2b81c8-a1ed-4052-aae0-2f7ee004699c",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1756512846,
-        "date_posted": 1756512846,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1441970",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "8da2822c-c728-4f81-ab3d-76079d41f02d",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1759329426,
-        "date_posted": 1756512642,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1442223",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Nutanix",
@@ -1242,27 +1126,6 @@
         "date_posted": 1756981921,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Travelers Companies",
-        "id": "12b4518e-ad12-41d5-af9e-6b93e9efd9a8",
-        "title": "Software Engineer I - Legal & Compliance",
-        "active": false,
-        "date_updated": 1756992949,
-        "date_posted": 1756511024,
-        "url": "https://travelers.wd5.myworkdayjobs.com/External/job/MN---St-Paul/Software-Engineer-I---Legal---Compliance_R-45918",
-        "locations": [
-            "Hartford, CT",
-            "St Paul, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Travelers",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -59289,24 +59152,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Appian",
-        "id": "3932ae17-41dd-43d1-acac-66914fc049f4",
-        "title": "Information Security Engineer",
-        "active": false,
-        "date_updated": 1757449773,
-        "date_posted": 1756511221,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7201603",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Adventist Health",
         "id": "860bf326-053a-434e-b1b3-171e5d333fb6",
         "title": "Epic Certified Systems Analyst 1 - Clindoc & Stork",
@@ -59318,25 +59163,6 @@
             "Roseville, CA"
         ],
         "company_url": "https://simplify.jobs/c/Adventist-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Barr",
-        "id": "514737ed-d896-46ce-a102-cad582df7504",
-        "title": "Environmental Technician/Engineer \u2013 Entry Level - Air Quality Focus",
-        "active": false,
-        "date_updated": 1756505934,
-        "date_posted": 1756505934,
-        "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Edina-MN/Environmental-Technician-Engineer---Entry-Level---Air-Quality-Focus--Hybrid-_R-101828",
-        "locations": [
-            "Hopkins, MN",
-            "Gilbert, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Barr",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -63109,24 +62935,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/ICEMarkets",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Fashion Nova",
-        "id": "d11ea750-a619-47d9-b28a-0f3de20a74c2",
-        "title": "Product Development & Production Coordinator - Lingerie & Swim",
-        "active": false,
-        "date_updated": 1761514241,
-        "date_posted": 1756506651,
-        "url": "https://job-boards.greenhouse.io/fashionnova/jobs/7210945",
-        "locations": [
-            "Culver City, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Fashion-Nova",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -129305,27 +129113,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Appian",
-        "id": "3608ddea-bb31-4be6-a415-d862b86c4116",
-        "title": "Associate Technical Consultant",
-        "active": false,
-        "date_updated": 1767828918,
-        "date_posted": 1756513151,
-        "url": "https://job-boards.greenhouse.io/appian/jobs/7201580",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Appian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
