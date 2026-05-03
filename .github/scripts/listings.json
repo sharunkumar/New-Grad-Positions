@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1759378176,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.careers.microsoft.com/global/en/share/1869347",
-        "company_name": "Microsoft",
-        "title": "Software Engineer - Fullstack",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "thereevemenezes",
-        "id": "14eac50f-40b5-40f7-8fca-eeb4b15c56a1",
-        "date_posted": 1757075740,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1761835686,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -305146,7 +305128,7 @@
         "company_name": "Cox",
         "id": "4db65d2a-2365-4241-9741-99b84131ee67",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777472316,
         "date_posted": 1777471621,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineer-I_R202676423",
