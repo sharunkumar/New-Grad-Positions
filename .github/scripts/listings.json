@@ -2,246 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "6e14a783-e5c6-43f4-97d0-83e2db840795",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757015797,
-        "date_posted": 1757015797,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/095ecb99-75f7-4f82-bac7-45fa2db917c6/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ICF",
-        "id": "d000a238-f90b-4c63-bfb9-69725e027ef3",
-        "title": "Data Scientist \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1761835609,
-        "date_posted": 1757025768,
-        "url": "https://icf.wd5.myworkdayjobs.com/en-US/ICFExternal_Career_Site/job/Reston-VA/Data-Scientist--Entry-Level-_R2502152",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/750f50d0-c3f8-4334-822f-fb70fa81b529",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Altice USA",
-        "id": "2667bcdd-a309-4376-a0ef-736453f4c541",
-        "title": "Software Dev Engineer I",
-        "active": false,
-        "date_updated": 1757030938,
-        "date_posted": 1757030938,
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors",
-        "locations": [
-            "Plainview, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Altice-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Choice Hotels",
-        "id": "ba31781a-7e59-4cf5-a9ac-df7cb28ae143",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1757033029,
-        "date_posted": 1757033029,
-        "url": "https://choicehotels.wd5.myworkdayjobs.com/External/job/Scottsdale-AZ---Technology--Digital-Commerce-Center/Software-Engineer-1_R20274",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Choice-Hotels",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "qode.world",
-        "id": "64ec080a-e86a-454e-8ec9-8879164fae86",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1757035197,
-        "date_posted": 1757035197,
-        "url": "https://apply.workable.com/qodeworld/j/5E96914ADB/apply",
-        "locations": [
-            "Tampa, FL",
-            "Jackson Township, NJ",
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Qode-World",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aflac",
-        "id": "6e331d09-8412-461c-9326-14091f9ae7de",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757077337,
-        "date_posted": 1757036054,
-        "url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors",
-        "locations": [
-            "Columbus, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Aflac",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ellipsis Labs",
-        "id": "04f4153d-3ef4-4c63-95fc-17771cca2eec",
-        "title": "Software Engineer \u2013 Intern & New Grad",
-        "active": false,
-        "date_updated": 1757036984,
-        "date_posted": 1757036984,
-        "url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ellipsis-Labs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "38a259d5-f441-49c5-b9dd-4dc53890afba",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757038355,
-        "date_posted": 1757038355,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202566492",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Chewy",
-        "id": "077c0a28-ea27-4f9b-a4ae-426c784bce0a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757037954,
-        "date_posted": 1757037954,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7195601",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Chewy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Valkyrie Trading",
-        "id": "67a851ea-8525-4f41-aaf5-9512b3d00fd1",
-        "title": "Junior Quantitative Researcher",
-        "active": false,
-        "date_updated": 1757039060,
-        "date_posted": 1757039060,
-        "url": "https://jobs.lever.co/valkyrietrading/6ba65cc5-53ec-4c92-ac98-dbc3326c75ab/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Valkyrie Trading",
-        "id": "70e4d8e9-e161-4ec1-b005-7d639916db29",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1757041770,
-        "date_posted": 1757041770,
-        "url": "https://jobs.lever.co/valkyrietrading/b9907031-0625-49f9-9fbe-7b5618e3640c/apply",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Valkyrie-Trading",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "04aa6768-9420-4e85-b3da-8bc7941f61c8",
-        "title": "Fullstack Web Application Software Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1757041766,
-        "date_posted": 1757041766,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Fullstack-Web-Application-Software-Engineer---Entry-Level_316797",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Adobe",
         "id": "32a96099-ef28-4059-8655-a22c8e1e4733",
         "title": "2026 University Graduate - Software Engineer",
@@ -259,26 +19,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "4098078f-4134-4979-b41f-7dabd027c11e",
-        "title": "Entry Level Software Engineer-Test & Verification",
-        "active": false,
-        "date_updated": 1757021587,
-        "date_posted": 1757021587,
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Kent-WA/Entry-Level-Software-Engineer-Test---Verification_JR2025468499-2",
-        "locations": [
-            "Kent, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -1411,26 +1151,6 @@
         "is_visible": true,
         "sponsorship": "Does Not Offer Sponsorship",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "OffDeal",
-        "id": "ec2ac102-621a-441e-a40d-c2e78d929bcc",
-        "title": "Founding Full Stack Engineer",
-        "active": false,
-        "date_updated": 1757493150,
-        "date_posted": 1757022331,
-        "url": "https://jobs.ashbyhq.com/offdeal/92b99c6b-e4e1-4e18-8a21-01b341cd1a1a/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/OffDeal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1757507941,
@@ -3870,26 +3590,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Freeform",
-        "id": "75b132b1-c89c-4076-b38e-c454e0eaf28a",
-        "title": "Software Engineer \u2013 New Grad January 2026",
-        "active": false,
-        "date_updated": 1758307649,
-        "date_posted": 1757037746,
-        "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7004129003",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/FreeformFuture",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Kodiak Robotics",
         "id": "b3d163ed-b500-4876-97f8-02cdebbde835",
         "title": "Autonomy/AI Software Engineer-Early Career",
@@ -4255,28 +3955,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "WhatNot",
-        "id": "38cca989-4499-494a-9df9-4b012d5d184a",
-        "title": "Software Engineer \u2013 2026 New Grad",
-        "active": false,
-        "date_updated": 1758377502,
-        "date_posted": 1757023972,
-        "url": "https://jobs.ashbyhq.com/whatnot/bc8f8c7f-2c4c-4f43-a238-953568c101b8/application",
-        "locations": [
-            "SF",
-            "LA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/WhatNot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "PathAI",
         "id": "c02dfa55-86e8-4965-9800-7ea301501001",
@@ -4557,28 +4235,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lennar Corporation",
-        "id": "ca8a35db-e6f3-4eed-b520-d279fa43f2d4",
-        "title": "Future Builders Recent College Grad Program - Software Engineering",
-        "active": false,
-        "date_updated": 1758583328,
-        "date_posted": 1757025704,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Software-Engineering_R25_0000003694",
-        "locations": [
-            "Bentonville, AR",
-            "Miami, FL",
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1758585351,
@@ -4876,28 +4532,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lennar Corporation",
-        "id": "cb635c69-f2fd-45ce-bed2-f689cf5baadc",
-        "title": "Future Builders Recent College Grad Program - Data Engineering",
-        "active": false,
-        "date_updated": 1758644906,
-        "date_posted": 1757025701,
-        "url": "https://lennar.wd1.myworkdayjobs.com/Lennar_Jobs/job/LEN---Miami-FL---Corporate/Future-Builders-RCG-Program---Data-Engineering_R25_0000003696",
-        "locations": [
-            "Bentonville, AR",
-            "Miami, FL",
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lennar-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -13955,24 +13589,6 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Vatic Investments",
-        "id": "23894828-e082-4590-b0bf-b6af86ba42b1",
-        "title": "Quantitative Researcher \u2013 2026 Grads - Full Time",
-        "active": false,
-        "date_updated": 1761496243,
-        "date_posted": 1757031791,
-        "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/53549",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Vatic-Investments",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -56858,24 +56474,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "American Bureau of Shipping",
-        "id": "9e918d3c-98d6-4dc7-8a7b-b4144fd1bf12",
-        "title": "Digital Engineering Rotational Aspire",
-        "active": true,
-        "date_updated": 1758373948,
-        "date_posted": 1757035227,
-        "url": "https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3499",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Bureau-Of-Shipping",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Magnite",
         "id": "d1eaf661-ad19-40e8-b7c9-35822574a422",
         "title": "Engineer \u2013 Entry Level RUST Developer",
@@ -56947,42 +56545,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wellington Management",
-        "id": "20b4da37-00a0-47df-94da-0183dd7cc7b4",
-        "title": "Technology Associate \u2013 Graduate",
-        "active": true,
-        "date_updated": 1763131793,
-        "date_posted": 1757038985,
-        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Technology-Associate-Programme--Graduate---2025_R92580-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wellington",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "b2ceda87-b93c-49a3-b4f1-995482450acd",
-        "title": "Quantitative Research",
-        "active": false,
-        "date_updated": 1761510897,
-        "date_posted": 1757038682,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210663778",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CACI",
         "id": "aeaf7c68-3d57-43d6-8565-5e94bd7d4b16",
@@ -56995,24 +56557,6 @@
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lightspeed Systems",
-        "id": "9abeb25a-ca0f-4b08-a326-a6c7375369ab",
-        "title": "Customer Technical Support Specialist",
-        "active": false,
-        "date_updated": 1758225312,
-        "date_posted": 1757037736,
-        "url": "https://job-boards.greenhouse.io/lightspeedsystems/jobs/6967806003",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Lightspeed-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -57037,24 +56581,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Point72",
-        "id": "1ac64e34-2cdd-436b-895a-9c43aa179149",
-        "title": "2026 Cubist Quant Academy - Developers",
-        "active": false,
-        "date_updated": 1762916676,
-        "date_posted": 1757030566,
-        "url": "https://boards.greenhouse.io/point72/jobs/8153488002",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Hewlett Packard Enterprise",
         "id": "88030d33-d8a2-4cc7-887f-b932e6fe080a",
@@ -57072,24 +56598,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Goldman Sachs",
-        "id": "f5535fe7-fd09-4029-9208-63340b70d422",
-        "title": "Analyst Program - FICC and Equities - Sales and Trading",
-        "active": false,
-        "date_updated": 1762937232,
-        "date_posted": 1757025282,
-        "url": "https://higher.gs.com/roles/153178?type=students",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Goldman-Sachs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -309982,5 +309490,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wellington Management",
+        "id": "20b4da37-00a0-47df-94da-0183dd7cc7b4",
+        "title": "Technology Associate \u2013 Graduate",
+        "active": true,
+        "date_updated": 1777710484,
+        "date_posted": 1776523592,
+        "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Technology-Associate-Programme--Graduate---2025_R92580-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellington-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
