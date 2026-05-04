@@ -1,183 +1,5 @@
 [
     {
-        "date_updated": 1757101807,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/decagon/2a435dd5-1212-42bb-ae5a-d7432902acd2",
-        "company_name": "Decagon",
-        "title": "Software Engineer - New Grad",
-        "locations": [
-            "San Francisco",
-            "New York"
-        ],
-        "category": "Software Engineering",
-        "source": "monicapearce",
-        "id": "fe817911-2a56-4f82-8cd1-c4d560ebac8f",
-        "date_posted": 1757101807,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Verisk",
-        "id": "61c189a1-2969-4b12-96d6-bfc94f7a1fd9",
-        "title": "Junior Data Scientist",
-        "active": false,
-        "date_updated": 1757111018,
-        "date_posted": 1757111018,
-        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/1920",
-        "locations": [
-            "London, UK",
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Verisk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "LexisNexis Risk Solutions",
-        "id": "c93300ae-86b9-4433-993a-03a0e316ed71",
-        "title": "Aspire Tech Graduate Security Engineer I",
-        "active": false,
-        "date_updated": 1761830280,
-        "date_posted": 1757113543,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Aspire-Tech-Graduate-Security-Engineer-I_R101084",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LexisNexis-Risk-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Bumble",
-        "id": "7c4ad6e4-ec7b-4352-b201-7a1dda598aa1",
-        "title": "New Grad - Jr. Software Engineer",
-        "active": false,
-        "date_updated": 1757114201,
-        "date_posted": 1757114201,
-        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110/apply",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Bumble",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "f92a2963-37d7-49a6-9354-0b4fb0ddc238",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757115593,
-        "date_posted": 1757115593,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/fef3f366-d14d-4a29-9a83-a3a99f9dfcbc/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "7771b2aa-d6b1-4c3c-b809-6068e52be6fa",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757115592,
-        "date_posted": 1757115592,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/82b3f656-b7a6-4abd-a35b-876d4c6e2a11/application",
-        "locations": [
-            "Palo Alto, CA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EBSCO",
-        "id": "67745353-ef49-4446-9e3d-36d4010722f9",
-        "title": "Software Dev Engineer I",
-        "active": false,
-        "date_updated": 1757116763,
-        "date_posted": 1757116763,
-        "url": "https://careers-ebscoind.icims.com/jobs/1834/job",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/EBSCO",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "7534ac59-3411-4797-88e4-23ee489ce62f",
-        "title": "Entry Level Java and Python Software Engineer",
-        "active": false,
-        "date_updated": 1757310408,
-        "date_posted": 1757118218,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Entry-Level-Java-and-Python-Software-Engineer_316729",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "d0811db1-ec47-4cb1-8b04-bd837aa97c50",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757119025,
-        "date_posted": 1757119025,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineer-I_R202566673",
-        "locations": [
-            "Draper, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Boom Supersonic",
@@ -3496,27 +3318,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Verkada",
-        "id": "83fbef63-5130-4b6e-9d70-c158753adeed",
-        "title": "Embedded Software Engineer \u2013 University Graduate 2026",
-        "active": false,
-        "date_updated": 1758314484,
-        "date_posted": 1757122525,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835669007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Other",
         "company_name": "Sev1Tech",
         "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
@@ -3572,27 +3373,6 @@
         "is_visible": true,
         "sponsorship": "U.S. Citizenship is Required",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Verkada",
-        "id": "5ebdc12b-1fa5-4a99-aa76-6e5db5368ff8",
-        "title": "Frontend Software Engineer \u2013 University Graduate 2026",
-        "active": false,
-        "date_updated": 1758321868,
-        "date_posted": 1757122520,
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4855439007",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Verkada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -3754,27 +3534,6 @@
             "Kennesaw, GA"
         ],
         "company_url": "https://simplify.jobs/c/Copeland",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Decagon",
-        "id": "3028cdea-b3ff-4483-b94a-856891810dcf",
-        "title": "Agent Software Engineer \u2013 New Grad - 2026 Start",
-        "active": false,
-        "date_updated": 1758361453,
-        "date_posted": 1757117107,
-        "url": "https://jobs.ashbyhq.com/decagon/95a4707d-1def-481a-bb78-38a4b22b6891/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Decagon",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -14323,24 +14082,6 @@
             "Suffolk, VA"
         ],
         "company_url": "https://simplify.jobs/c/BryceTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "1265b420-ce89-46db-9fb1-c97bcbddbc1a",
-        "title": "Product Engineer 1 - User Assistance - Workflow Manager",
-        "active": false,
-        "date_updated": 1761937106,
-        "date_posted": 1757114330,
-        "url": "https://www.esri.com/careers/4847546007?gh_jid=4847546007",
-        "locations": [
-            "West Redlands, Redlands, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -56086,170 +55827,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASM Global",
-        "id": "05671a11-b2f3-4d7b-9ab3-d1bf6f3a9626",
-        "title": "IT Assistant - IT Team",
-        "active": false,
-        "date_updated": 1757126594,
-        "date_posted": 1757126594,
-        "url": "https://asmglobal.wd1.myworkdayjobs.com/careers/job/Superdome-New-Orleans/IT-Assistant_R100116553",
-        "locations": [
-            "New Orleans, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Badger Meter",
-        "id": "5b4cb914-a9f8-4275-bb9f-ee04ec090480",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1762915043,
-        "date_posted": 1757119180,
-        "url": "https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/Milwaukee-WI/Systems-Engineer_4003",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Badger-Meter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Wintermute",
-        "id": "d21a3c57-f745-430d-9748-5e56972a09cd",
-        "title": "Graduate Algorithmic Trader",
-        "active": false,
-        "date_updated": 1762928936,
-        "date_posted": 1757118775,
-        "url": "https://jobs.lever.co/wintermute-trading/06eb85da-c5b3-4e49-a906-8ac0f3452517/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wintermute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "bcfe163b-98e9-467b-823e-12b718a5f712",
-        "title": "Graduate Digital Analyst",
-        "active": false,
-        "date_updated": 1757118528,
-        "date_posted": 1757118528,
-        "url": "https://apply.workable.com/grayce/j/68B5EB27DB/apply",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ACCO Engineered Systems",
-        "id": "bd0ad303-00b7-45de-8712-91eaa8d48e07",
-        "title": "Systems Software Engineer 2",
-        "active": false,
-        "date_updated": 1762917078,
-        "date_posted": 1757116752,
-        "url": "https://ekkt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/6338",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/ACCO-Engineered-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akuna Capital",
-        "id": "88f6eacc-4d74-4dfb-b7bf-0f4d10966a36",
-        "title": "Software Engineer - Entry-Level - C++",
-        "active": false,
-        "date_updated": 1757116683,
-        "date_posted": 1757116683,
-        "url": "https://www.akunacapital.com/job-details?gh_jid=6926191",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Akuna-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Point72",
-        "id": "b8c5e8a2-c811-4671-a23a-33a8901d9f67",
-        "title": "Cubist Quant Academy - Researchers",
-        "active": false,
-        "date_updated": 1762905008,
-        "date_posted": 1757116201,
-        "url": "https://boards.greenhouse.io/point72/jobs/7045943002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Point72",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Grayce",
-        "id": "e2e5c732-74ed-4912-b925-4a0549da9dd3",
-        "title": "Graduate Cyber Security Analyst",
-        "active": false,
-        "date_updated": 1761861411,
-        "date_posted": 1757115737,
-        "url": "https://apply.workable.com/grayce/j/2B9BD53825/apply",
-        "locations": [
-            "Winchester, UK",
-            "Southampton, UK",
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "E2 Optics",
-        "id": "53da7465-1e53-452a-9bde-c9f9ad668cf0",
-        "title": "Data Center Infrastructure Technician",
-        "active": false,
-        "date_updated": 1758035237,
-        "date_posted": 1757112128,
-        "url": "https://jobs.lever.co/e2optics/8e18ce36-0437-46c0-96f8-8d019a333f67/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/E2-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ohio State University",
         "id": "325b1b86-1e65-4032-8fea-c5729d2e9346",
@@ -56298,42 +55875,6 @@
             "Crawley, UK"
         ],
         "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "cefaa0a9-dbe6-4fa6-899e-6ad4ab301ef1",
-        "title": "Vehicle Integration & Test",
-        "active": false,
-        "date_updated": 1761503462,
-        "date_posted": 1757110325,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/6972976003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Varda-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas - Austin",
-        "id": "65563218-7573-4d44-97ad-be967e30013e",
-        "title": "R&D Machine Learning Engineer - Engineering Scientist Associate",
-        "active": false,
-        "date_updated": 1757110045,
-        "date_posted": 1757110045,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/R-D-Machine-Learning-Engineer--Engineering-Scientist-Associate-_R_00041479",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -117249,24 +116790,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Endurance Lift Solutions",
-        "id": "156fbb22-101d-4be2-a006-1672eed62175",
-        "title": "ESP Shop Technician",
-        "active": false,
-        "date_updated": 1757110084,
-        "date_posted": 1757110084,
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/2449757",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/277ab406-217f-45ac-b285-f48603ac23d5",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -220881,7 +220404,7 @@
         "company_name": "Allstate Insurance Company",
         "id": "c493c31e-172c-4f7b-865a-0bc3b9de0fbc",
         "title": "Applied Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772753293,
         "date_posted": 1772753293,
         "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1",
@@ -309339,5 +308862,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Testlio",
+        "id": "cd218df1-f792-49c8-a221-64af3ff15f82",
+        "title": "Freelancer Software Tester - Android TV",
+        "active": true,
+        "date_updated": 1777846861,
+        "date_posted": 1777846711,
+        "url": "https://job-boards.greenhouse.io/testlio/jobs/7868772",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Testlio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enbridge",
+        "id": "a16b92cc-70eb-4894-b73a-79073b23ed57",
+        "title": "Engineer in Training 1 - Data Intelligence & Decision Support",
+        "active": true,
+        "date_updated": 1777846138,
+        "date_posted": 1777845890,
+        "url": "https://enbridge.wd3.myworkdayjobs.com/enbridge_careers/job/Houston-TX-USA/Engineer-in-Training-I_71266-1",
+        "locations": [
+            "Houston, TX",
+            "Calgary, AB, Canada",
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Enbridge",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
