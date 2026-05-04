@@ -252173,7 +252173,7 @@
         "company_name": "The Boeing Company",
         "id": "9bb0f352-a5f8-4d33-90de-5a7811efdf29",
         "title": "Wire Design and Install Engineer - Electrical/Electronic Installation Design",
-        "active": true,
+        "active": false,
         "date_updated": 1774507890,
         "date_posted": 1774507890,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer--Electrical-Electronic-Installation-Design-_JR2026492086-1",
@@ -295383,7 +295383,7 @@
         "company_name": "Pfizer",
         "id": "f062f839-26ca-48ee-91cf-491116f4749e",
         "title": "Postdoctoral Fellow Generative AI for Antibody Drug Conjugate Discovery",
-        "active": true,
+        "active": false,
         "date_updated": 1776781171,
         "date_posted": 1776780750,
         "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Washington--Bothell/Postdoctoral-Fellow-Generative-AI-for-Antibody-Drug-Conjugate-Discovery_4955427",
@@ -297558,7 +297558,7 @@
         "company_name": "ADT",
         "id": "3d0b5c71-06b9-41fd-bab2-81aecf2693d7",
         "title": "Digital Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776896117,
         "date_posted": 1776895686,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020030",
@@ -302381,7 +302381,7 @@
         "company_name": "The Boeing Company",
         "id": "35033bd8-6d74-4cdf-b375-94626763131f",
         "title": "Wire Design & Install Engineer - Electrical/Electronic Installation Design",
-        "active": true,
+        "active": false,
         "date_updated": 1777330801,
         "date_posted": 1777327676,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer--Electrical-Electronic-Installation-Design-_JR2026492086",
@@ -303319,7 +303319,7 @@
         "company_name": "Autodesk",
         "id": "fb66e03c-1b0b-470a-a521-ee379af5a328",
         "title": "Mobile Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1777385341,
         "date_posted": 1777385190,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/AMER---Canada---British-Columbia---Vancouver---Bentall-Centre/Mobile-Software-Developer_26WD97481",
@@ -304895,7 +304895,7 @@
         "company_name": "Microsoft",
         "id": "11c42976-6f0b-452d-89b9-5c0cf9f7e5e5",
         "title": "Software Engineer AI Data Platform - CoreAI",
-        "active": true,
+        "active": false,
         "date_updated": 1777501273,
         "date_posted": 1777500415,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556861742",
@@ -308901,6 +308901,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amgen",
+        "id": "dc8c54fe-dddb-4a44-8859-3f98f0dfa076",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1777874985,
+        "date_posted": 1777874707,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---IL---Deerfield/Data-Scientist_R-239041",
+        "locations": [
+            "Highland Park, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
