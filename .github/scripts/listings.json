@@ -1,23 +1,5 @@
 [
     {
-        "date_updated": 1757353619,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://epic.avature.net/Careers/FolderDetail/Infrastructure-Engineer/23505",
-        "company_name": "Epic",
-        "title": "Infrastructure Engineer",
-        "locations": [
-            "Madison, WI"
-        ],
-        "category": "Software Engineering",
-        "source": "mtlogs",
-        "id": "c660f891-9a0b-4c58-9515-f470876c9a1d",
-        "date_posted": 1757353619,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Cox",
@@ -252,45 +234,6 @@
         "date_posted": 1757401128,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figma",
-        "id": "3bea35c7-6895-4566-a81a-32705074a380",
-        "title": "Early Career - Data Scientist",
-        "active": false,
-        "date_updated": 1762506254,
-        "date_posted": 1757356297,
-        "url": "https://boards.greenhouse.io/figma/jobs/5615025004",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Figma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Securities",
-        "id": "fe55aa52-32ab-4e10-a95a-0c2e4389fa20",
-        "title": "Machine Learning Engineer I",
-        "active": false,
-        "date_updated": 1757358863,
-        "date_posted": 1757358863,
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Securities",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "date_updated": 1758672100,
@@ -11006,7 +10949,7 @@
         "company_name": "Promise",
         "id": "f490ebdd-aaae-4bdf-af52-b3974fbf71b1",
         "title": "Software Engineer \u2013 New Grad - Forward Deployed AI",
-        "active": true,
+        "active": false,
         "date_updated": 1761467767,
         "date_posted": 1761467767,
         "url": "https://jobs.ashbyhq.com/Promise/f0a30718-faf0-4a34-8759-0d6335fa365a/application",
@@ -55587,42 +55530,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "L3Harris Technologies",
-        "id": "6ed51101-a2af-4b33-a2af-1400ecd70bc9",
-        "title": "Associate Data Architect - Herndon - VA",
-        "active": false,
-        "date_updated": 1762940014,
-        "date_posted": 1757357167,
-        "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Data-Architect-(Herndon,-VA)-VA-20171/1311924000/?ats=successfactors",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "InterSystems",
-        "id": "07df9103-e761-40a3-972a-97306359ef68",
-        "title": "Core Development Program",
-        "active": false,
-        "date_updated": 1762911864,
-        "date_posted": 1757355848,
-        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=6667825003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Viavi Solutions",
         "id": "b9fb4fdd-ce8d-4692-bf84-7de3a2eea2bd",
@@ -67946,7 +67853,7 @@
         "company_name": "Apple",
         "id": "8f161277-15b0-4c06-9f11-8202b154a633",
         "title": "Applied ML Engineer AI/ML Evaluation & Simulation",
-        "active": false,
+        "active": true,
         "date_updated": 1763514559,
         "date_posted": 1763514559,
         "url": "https://jobs.apple.com/en-us/details/200616700",
@@ -73020,24 +72927,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Early-Warning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Slice (slicelife.com)",
-        "id": "a6a3e049-7705-4778-b661-940154f9d584",
-        "title": "Software Developer",
-        "active": true,
-        "date_updated": 1763716845,
-        "date_posted": 1757356848,
-        "url": "https://slice.careers/careers-listing?gh_jid=7228672",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Slicelife",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -160719,7 +160608,7 @@
         "company_name": "NVIDIA",
         "id": "a60cd3b5-3242-40c3-9d6a-b40533ef2ef7",
         "title": "ASIC Clocks Design Engineer \u2013 New College Grad 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1769816115,
         "date_posted": 1769816115,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Clocks-Design-Engineer---New-College-Grad-2026_JR2012417",
@@ -170270,7 +170159,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "d1a0056e-ca55-4ae3-b6bd-27b37efdc3a5",
         "title": "Associate Linux/Window Engineer - Platform Services",
-        "active": true,
+        "active": false,
         "date_updated": 1770332868,
         "date_posted": 1770332868,
         "url": "https://careers-sig.icims.com/jobs/9204/job?mobile=true&needsRedirect=false",
@@ -183793,7 +183682,7 @@
         "company_name": "Argo Group",
         "id": "2cc2e4cd-af37-4174-8f2e-afe8293763cb",
         "title": "Product Management Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1771025973,
         "date_posted": 1771025973,
         "url": "https://brookfield.wd5.myworkdayjobs.com/bpandc/job/US-MO---Springfield/Product-Management-Analyst-I_R2048421",
@@ -218435,7 +218324,7 @@
         "company_name": "Globus Medical",
         "id": "5f97452d-0967-4e5f-8591-3a06f82194b5",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1772680637,
         "date_posted": 1772680637,
         "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Associate-Product-Manager_JR105687",
@@ -261591,7 +261480,7 @@
         "company_name": "CACI",
         "id": "f50900c1-f7ea-4836-a39f-5a4f4b2220bd",
         "title": "AI Prompt Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775004841,
         "date_posted": 1774995071,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-VA-Ashburn/AI-Prompt-Engineer_324104",
@@ -263791,7 +263680,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "fb50c289-b77d-4de1-89fa-82341316f4c4",
         "title": "Associate Product Manager - Data & Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1775086194,
         "date_posted": 1775081205,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Ohio/Associate-Product-Manager--Data---Insights-_R111371",
@@ -265053,7 +264942,7 @@
         "company_name": "Western Digital",
         "id": "c69dde31-2275-4d50-a316-1617f6558993",
         "title": "AI and Metrology Development Engineer - Magnetic Recording Head",
-        "active": true,
+        "active": false,
         "date_updated": 1775169376,
         "date_posted": 1775167422,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000118431918",
@@ -268720,7 +268609,7 @@
         "company_name": "Johnson Controls",
         "id": "28795922-760d-4edc-9e5e-d7908a921479",
         "title": "Equipment Systems Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1775303717,
         "date_posted": 1775297859,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/San-Antonio-Texas-United-States-of-America/Equipment-Systems-Application-Engineer--hybrid-_WD30265395",
@@ -278685,7 +278574,7 @@
         "company_name": "SS&C",
         "id": "7cc5dcc0-efc9-4d31-8b58-d0599d673700",
         "title": "Trading Operations & Onboarding Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775860212,
         "date_posted": 1775858752,
         "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Denver-CO/Trading-Operations---Onboarding-Associate_R42099",
@@ -286539,7 +286428,7 @@
         "company_name": "BNY",
         "id": "cf7f1e7a-aa08-4643-b22f-8b0f3c6e6557",
         "title": "Loans Administrator and Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776330541,
         "date_posted": 1776330399,
         "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/71082",
@@ -297326,7 +297215,7 @@
         "company_name": "Cummins",
         "id": "208ff3c4-a3c3-40fa-923c-fb895ee350d2",
         "title": "Senior Sales Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776895921,
         "date_posted": 1776895469,
         "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2428680",
@@ -298151,7 +298040,7 @@
         "company_name": "Loblaw Companies",
         "id": "51e3c205-d03c-40a9-8a1c-bc5fff59efa9",
         "title": "Analyst \u2013 Strategy and Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1776906541,
         "date_posted": 1776906493,
         "url": "https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Analyst---Strategy-and-Analytics_R2000658246",
@@ -302781,7 +302670,7 @@
         "company_name": "Amentum",
         "id": "d5d13d37-bdf3-4439-a4fd-7c688e49e307",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777338542,
         "date_posted": 1777338400,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0160036",
@@ -304302,7 +304191,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "956a21e3-ed97-42d7-b0b7-dd4ccdc4acb9",
         "title": "Junior Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777454101,
         "date_posted": 1777327694,
         "url": "https://careers-gdms.icims.com/jobs/72233/job?mobile=true&needsRedirect=false",
@@ -307863,7 +307752,7 @@
         "company_name": "UAP",
         "id": "c6a6c21a-809b-4704-8f53-aed14103adf5",
         "title": "Product Management Administration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777673161,
         "date_posted": 1777673089,
         "url": "https://jobs.smartrecruiters.com/UAPInc/744000124164609",
@@ -308326,7 +308215,7 @@
         "company_name": "Applied Materials",
         "id": "00367de3-b6c4-4a06-ae1f-bae8ed1f6355",
         "title": "Data Scientist New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1777674051,
         "date_posted": 1777673212,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-NCG---Data-Scientist--Masters-_R2618394",
@@ -309445,7 +309334,7 @@
         "company_name": "PNC Financial Services",
         "id": "8c778653-d9cc-4d35-b54e-8d9dd45de381",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777933749,
         "date_posted": 1777932616,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Software-Engineer-Associate_R221596",
@@ -310432,7 +310321,7 @@
         "company_name": "The New York Times",
         "id": "8a8c05d5-dfa5-477c-9dda-85ead19ecc86",
         "title": "Scoop Core Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777990631,
         "date_posted": 1777990335,
         "url": "https://job-boards.greenhouse.io/thenewyorktimes/jobs/4692121005",
@@ -311040,7 +310929,7 @@
         "company_name": "Trane Technologies",
         "id": "96923740-19d7-44c5-8845-e455de85b4c3",
         "title": "Finance Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778019662,
         "date_posted": 1778018892,
         "url": "https://careers.tranetechnologies.com/global/en/job/JR-4060",
@@ -311261,7 +311150,7 @@
         "company_name": "Ochsner Health",
         "id": "3a9478ac-6f63-47ff-b1f9-6f7793e2549f",
         "title": "AI Agent Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778020201,
         "date_posted": 1778019050,
         "url": "https://ochsner.wd1.myworkdayjobs.com/ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/AI-Agent-Engineer_REQ_00262736",
@@ -311639,7 +311528,7 @@
         "company_name": "ISYS Technologies",
         "id": "30f53880-73b4-4e1c-9b60-4ec99f07caa6",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1778029561,
         "date_posted": 1778029560,
         "url": "https://careers-i2xisys.icims.com/jobs/14954/job?mobile=true&needsRedirect=false",
@@ -311809,7 +311698,7 @@
         "company_name": "Columbia Sportswear Company",
         "id": "7cae1f9f-9366-41d1-9b13-08f11ba842bc",
         "title": "Product Line Management Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778058898,
         "date_posted": 1777712509,
         "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Merchandising-Coordinator_R-020435-1",
@@ -311830,7 +311719,7 @@
         "company_name": "Columbia Sportswear Company",
         "id": "97c985e7-9a2d-4bfd-84c2-51d8d60e56dc",
         "title": "Product Line Management Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778059687,
         "date_posted": 1777712551,
         "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Merchandising-Coordinator_R-020435-2",
@@ -311943,6 +311832,1054 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "95b731ae-1581-4df4-9ac2-1f88a1d9250f",
+        "title": "SoC Physical Design Engineer - Static Timing Analysis",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076647,
+        "url": "https://jobs.apple.com/en-us/details/200657915",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "263fff8c-612f-47d5-9407-e25a11cd1449",
+        "title": "Integration Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076684,
+        "url": "https://jobs.apple.com/en-us/details/200657280",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1a3243a9-9ea1-4acd-9ee3-518dfb70d1ac",
+        "title": "Cellular Power Optimization Software Engineer - Wireless Technologies & Ecosystems",
+        "active": true,
+        "date_updated": 1778078881,
+        "date_posted": 1778076664,
+        "url": "https://jobs.apple.com/en-us/details/200657658",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1349cd18-f708-4feb-adeb-517cacc5b19e",
+        "title": "Graphics Software Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076652,
+        "url": "https://jobs.apple.com/en-us/details/200657664",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "5a950ebc-9b3a-416e-88d1-be7db4bd5560",
+        "title": "SoC Physical Design Engineer - Top Level",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076859,
+        "url": "https://jobs.apple.com/en-us/details/200645433",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "29855b2e-45ab-4b63-9d6c-cbf3e2b8a02b",
+        "title": "Custom CAD Engineer",
+        "active": true,
+        "date_updated": 1778078565,
+        "date_posted": 1778076634,
+        "url": "https://jobs.apple.com/en-us/details/200658102",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SharkNinja",
+        "id": "b8824a00-3c3d-46c1-af7a-0a97be69f47e",
+        "title": "Electrical Safety Technician",
+        "active": true,
+        "date_updated": 1778078701,
+        "date_posted": 1778077142,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4678216006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "a5e1bb7f-602a-459d-84dc-63a10f8c96b4",
+        "title": "Silicon Validation Software Engineer - High Speed IO Validation",
+        "active": true,
+        "date_updated": 1778078521,
+        "date_posted": 1778076912,
+        "url": "https://jobs.apple.com/en-us/details/200640564",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "0c3f2c07-b054-47b3-8223-4ce68564ee62",
+        "title": "Display Panel Design Engineer",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076770,
+        "url": "https://jobs.apple.com/en-us/details/200652286",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "de20aa23-c071-412c-9292-45c9c8870739",
+        "title": "SoC Power Analysis and Optimization Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076682,
+        "url": "https://jobs.apple.com/en-us/details/200657339",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "d60f850d-7350-4e1b-97c9-ef64464bfca1",
+        "title": "Software Engineer - Core OS Telemetry - Coreos",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076757,
+        "url": "https://jobs.apple.com/en-us/details/200652765",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "87589d29-288c-48e9-8684-65f46e19cdef",
+        "title": "GPU Top Level Physical Design Engineer",
+        "active": true,
+        "date_updated": 1778078660,
+        "date_posted": 1778076863,
+        "url": "https://jobs.apple.com/en-us/details/200644458",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "816b6401-29da-4109-981f-7fba192d31cc",
+        "title": "SoC Firmware Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076702,
+        "url": "https://jobs.apple.com/en-us/details/200656978",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "44ad3abf-d094-4790-bad6-39ec34b6b3be",
+        "title": "SoC DFT Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076696,
+        "url": "https://jobs.apple.com/en-us/details/200657231",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "20d1f5cf-da4b-445f-9c6e-5cd202f68269",
+        "title": "GPU Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076831,
+        "url": "https://jobs.apple.com/en-us/details/200646522",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1cfbfff8-f45c-4061-8a8e-a632897cc33c",
+        "title": "Software Engineer: SoC System Stress Validation",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076731,
+        "url": "https://jobs.apple.com/en-us/details/200653699",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "0ca7985f-5ec0-4044-bda7-7d3eac557d1c",
+        "title": "Formal Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076676,
+        "url": "https://jobs.apple.com/en-us/details/200657422",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "f98c0759-276e-4d24-9a4c-5956f3e3e69a",
+        "title": "Wireless Radio Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076623,
+        "url": "https://jobs.apple.com/en-us/details/200657445",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "f046a9cb-8083-4407-88de-2db7bed064d0",
+        "title": "Wireless FPGA Prototype Design Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076561,
+        "url": "https://jobs.apple.com/en-us/details/200628011",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "e174a40b-6a20-4756-b96b-d18ff3f64d45",
+        "title": "GPU DFT Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076685,
+        "url": "https://jobs.apple.com/en-us/details/200657281",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "b57de501-e8e9-4ecb-9937-ef7599f891c6",
+        "title": "SoC Full Chip DV Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076693,
+        "url": "https://jobs.apple.com/en-us/details/200657237",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "b3173fac-1a04-4aae-bb50-9e405a8eac6f",
+        "title": "Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1778078416,
+        "date_posted": 1778076589,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/Diagnostic-Technician-I---401_J2449181-1",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "652b38fc-56e5-4a83-8756-16ff6e0186cf",
+        "title": "GPU Top Level Physical Design Engineer",
+        "active": true,
+        "date_updated": 1778078562,
+        "date_posted": 1778076745,
+        "url": "https://jobs.apple.com/en-us/details/200645609",
+        "locations": [
+            "Lafayette, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "53119c55-96f6-43ef-ba62-1809e83256c6",
+        "title": "SoC Power Flow Methodology Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076681,
+        "url": "https://jobs.apple.com/en-us/details/200657338",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "48ce14ac-c9b2-4fae-811a-27fa8ce8c6c4",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076661,
+        "url": "https://jobs.apple.com/en-us/details/200657740",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "47cea56c-43db-4c64-b2ee-ce42bdfb21e6",
+        "title": "Cellular Protocol Stack Developer - Wireless Technologies & Ecosystems",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076742,
+        "url": "https://jobs.apple.com/en-us/details/200645181",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "3d85d453-a4c2-40ea-a88b-0ed6c7e0682c",
+        "title": "SoC DFT DV Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076692,
+        "url": "https://jobs.apple.com/en-us/details/200657230",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "2cef1aaf-437f-4fe0-a0a4-af857ac8fa9b",
+        "title": "Silicon Validation Software Engineer - High Speed IO Validation",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076672,
+        "url": "https://jobs.apple.com/en-us/details/200657428",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "2ac6c189-0631-40b5-b0c0-41e3c0601cf0",
+        "title": "SoC DFT Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076693,
+        "url": "https://jobs.apple.com/en-us/details/200657229",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "1a6a18d4-6804-44f9-81df-a545c51719c9",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076691,
+        "url": "https://jobs.apple.com/en-us/details/200657248",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "State Street",
+        "id": "f777beb2-0e74-49a6-a71a-92d41707bb55",
+        "title": "Software Engineer Senior Associate",
+        "active": true,
+        "date_updated": 1778078071,
+        "date_posted": 1778076536,
+        "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Burlington-Massachusetts/Software-Engineer--Senior-Associate_R-789664",
+        "locations": [
+            "Burlington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/State-Street",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "ec981225-bf87-4582-b0ae-2e61729df6f2",
+        "title": "Silicon Prototyping Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076663,
+        "url": "https://jobs.apple.com/en-us/details/200628731",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AT&T",
+        "id": "384dbb85-6692-46b4-9f4c-922de400dc68",
+        "title": "Android OS Engineer & SCRUM Master - Government",
+        "active": true,
+        "date_updated": 1778076541,
+        "date_posted": 1778076403,
+        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Android-OS-Engineer---SCRUM-Master--Government-_R-109146",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ATT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "69412fef-e387-4dbf-83c5-6877b72476a9",
+        "title": "Language Experience Engineer - Services Engineering",
+        "active": true,
+        "date_updated": 1778076541,
+        "date_posted": 1778076507,
+        "url": "https://jobs.apple.com/en-us/details/200661224",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "6567ddd5-24e2-49ce-aeaa-7c7d64299713",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076689,
+        "url": "https://jobs.apple.com/en-us/details/200657243",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "30dd04bf-43de-4369-be6d-23e4caf9a29b",
+        "title": "Graphics Software Engineer",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076873,
+        "url": "https://jobs.apple.com/en-us/details/200642848",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "a27902e8-559f-4746-9d65-5123c904dbc4",
+        "title": "SoC Physical Design Engineer - Static Timing Analysis",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076626,
+        "url": "https://jobs.apple.com/en-us/details/200658152",
+        "locations": [
+            "Beaverton, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9f3e57bc-8073-4d6e-b327-05dbf59da8fd",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076635,
+        "url": "https://jobs.apple.com/en-us/details/200657986",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "9d37fe24-2fb9-4173-bb44-a136a6b79970",
+        "title": "Wi-Fi Software Engineer - Wireless Technologies & Ecosystems",
+        "active": true,
+        "date_updated": 1778078701,
+        "date_posted": 1778076518,
+        "url": "https://jobs.apple.com/en-us/details/200646833",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "746bb3be-a5aa-4167-9ec8-544500967491",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076699,
+        "url": "https://jobs.apple.com/en-us/details/200657034",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Guidehouse",
+        "id": "4a1e8da7-cdd6-441c-b44f-3303f155d225",
+        "title": "Junior AI/ML Software Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076578,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Junior-AI-ML-Software-Engineer_39068-1",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "414276f4-158a-4af9-96e7-fc362e319f92",
+        "title": "Camera Framework Tooling Engineer - Photo Capture - Camera & Photos",
+        "active": true,
+        "date_updated": 1778078341,
+        "date_posted": 1778076799,
+        "url": "https://jobs.apple.com/en-us/details/200649648",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "2df0d44a-46c2-4457-a83f-be58471fcd4b",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076685,
+        "url": "https://jobs.apple.com/en-us/details/200657224",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "19652798-bb95-499f-8355-7187c4a5174f",
+        "title": "Cellular Layer1 Control Software Development Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076714,
+        "url": "https://jobs.apple.com/en-us/details/200656120",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "001d35e8-14d9-4f49-8b3e-855e610a39b5",
+        "title": "SoC Physical Design Engineer - Place and Route",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076634,
+        "url": "https://jobs.apple.com/en-us/details/200658151",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "cc07e63b-ac37-458d-83b1-c40ed9af146f",
+        "title": "ASIC Design and Integration Engineer \u2013 Silicon Security",
+        "active": true,
+        "date_updated": 1778078632,
+        "date_posted": 1778076753,
+        "url": "https://jobs.apple.com/en-us/details/200652710",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "bda8e644-cbbf-4bf8-9a2b-14157ea1cb43",
+        "title": "Finder and Files Application Engineer",
+        "active": true,
+        "date_updated": 1778078881,
+        "date_posted": 1778076871,
+        "url": "https://jobs.apple.com/en-us/details/200643671",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "8ea1d084-8670-4e69-b561-09e10b0f1d7a",
+        "title": "Silicon Validation Software Engineer: Video Encoder/Compression Validation",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076654,
+        "url": "https://jobs.apple.com/en-us/details/200657940",
+        "locations": [
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "7fd1cc9f-008c-4e2d-8aa7-c385692515b1",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076696,
+        "url": "https://jobs.apple.com/en-us/details/200657001",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "081fc89d-8feb-4fab-83b3-53d2eeb9214d",
+        "title": "GPU Physical Design Engineer",
+        "active": true,
+        "date_updated": 1778078652,
+        "date_posted": 1778076697,
+        "url": "https://jobs.apple.com/en-us/details/200657130",
+        "locations": [
+            "Lafayette, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "cf5a0fc8-1393-4d7c-8827-a12280866dd3",
+        "title": "Integration Engineer",
+        "active": true,
+        "date_updated": 1778078161,
+        "date_posted": 1778076709,
+        "url": "https://jobs.apple.com/en-us/details/200656979",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apple",
+        "id": "ac5c66d7-30dd-4494-81be-30be987310f2",
+        "title": "Machine Learning",
+        "active": true,
+        "date_updated": 1778077982,
+        "date_posted": 1778076529,
+        "url": "https://jobs.apple.com/en-us/details/200659555",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
