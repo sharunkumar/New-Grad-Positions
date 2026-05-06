@@ -43209,7 +43209,7 @@
         "company_name": "JP Morgan Chase",
         "id": "c2aed4f1-df7b-4af4-b34e-4b3bc59c2339",
         "title": "Quant Model Risk Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1762436878,
         "date_posted": 1761165029,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210679051",
@@ -69432,7 +69432,7 @@
         "company_name": "Cisco",
         "id": "c19579ac-cc84-4455-96e5-f56733ea0be3",
         "title": "Software Engineer Backend/Platform Systems 1",
-        "active": true,
+        "active": false,
         "date_updated": 1763664376,
         "date_posted": 1763664376,
         "url": "https://careers.cisco.com/global/en/job/2000046",
@@ -124477,7 +124477,7 @@
         "company_name": "Northrop Grumman",
         "id": "b1e998d0-8aa2-4ecb-9efe-7a369780d460",
         "title": "Space Payload 1&T \u2013 Engineer/Principal Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1767744669,
         "date_posted": 1767744669,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Space-Payload-I-T---Engineer-Principal-Engineer_R10218297",
@@ -176943,7 +176943,7 @@
         "company_name": "WTW",
         "id": "2fe7e0f5-7c0b-4c14-b3e5-6606b6e5dab9",
         "title": "Investment Analyst - Real Assets",
-        "active": true,
+        "active": false,
         "date_updated": 1770765369,
         "date_posted": 1770765369,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202600812",
@@ -179379,7 +179379,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "b381e038-9ea2-41b2-94c6-735d7bb3d281",
         "title": "Nuclear Analysis Tech C",
-        "active": true,
+        "active": false,
         "date_updated": 1770851415,
         "date_posted": 1770851415,
         "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Nuclear-Analysis-Tech-C-NC/1363999600/?ats=successfactors",
@@ -204519,7 +204519,7 @@
         "company_name": "DAT Freight & Analytics",
         "id": "aec3af92-d016-4183-bd0e-eb58484ab9bb",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772063107,
         "date_posted": 1772063107,
         "url": "https://careers.dat.com/jobs/5721169004?gh_jid=5721169004",
@@ -261295,7 +261295,7 @@
         "company_name": "BlackRock",
         "id": "7e5d832a-861a-4e32-9a26-8e5850ba5ea6",
         "title": "Associate LDI Technology",
-        "active": false,
+        "active": true,
         "date_updated": 1775005284,
         "date_posted": 1774995057,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Associate--LDI-Technology--Algo-Engineer----Fixed-Income-Solutions_R262255",
@@ -262629,7 +262629,7 @@
         "company_name": "Uline",
         "id": "3d68a30a-72e2-4ba4-a0c2-7a8131abf8e8",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775035621,
         "date_posted": 1775035094,
         "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R262681-1",
@@ -263371,7 +263371,7 @@
         "company_name": "RELX",
         "id": "29682ec8-d0e7-4dd5-8c45-281a52fd8883",
         "title": "Associate Product Manager - Data & Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1775084316,
         "date_posted": 1775081195,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Home-based-Ohio/Associate-Product-Manager--Data---Insights-_R111371-1",
@@ -274783,7 +274783,7 @@
         "company_name": "Google",
         "id": "2a29fd32-df63-4e6d-bd2c-03f8d0a8e8bd",
         "title": "Product Manager 1 - XR Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1775698155,
         "date_posted": 1775696968,
         "url": "https://www.google.com/about/careers/applications/jobs/results/138689101367780038",
@@ -276978,7 +276978,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
-        "id": "065c3327-c2a5-45a2-a491-9aaaf0af1379",
+        "id": "b37868be-64a9-494d-ab2b-bd0ec39f94ae",
         "title": "Intermediate Systems Engineer - Applications Team",
         "active": true,
         "date_updated": 1775814133,
@@ -292698,7 +292698,7 @@
         "company_name": "TikTok",
         "id": "77aa9848-628c-4453-9ecf-56ca0d0b14f4",
         "title": "Backend Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776676501,
         "date_posted": 1776676328,
         "url": "https://lifeattiktok.com/search/7629632305942432053",
@@ -304524,7 +304524,7 @@
         "company_name": "Verisk",
         "id": "1e186e9f-f8a4-41e1-b3e2-49d4d293fd9f",
         "title": "Data Scientist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777501212,
         "date_posted": 1777500430,
         "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3746",
@@ -306253,7 +306253,7 @@
         "company_name": "Google",
         "id": "ea858da4-06fd-4327-a76a-000d4508890f",
         "title": "ASIC RTL Design Engineer \u2013 PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1777586761,
         "date_posted": 1777586624,
         "url": "https://www.google.com/about/careers/applications/jobs/results/82341646221353670",
@@ -309489,7 +309489,7 @@
         "company_name": "EliseAI",
         "id": "89574762-f733-4d05-8893-ce3c0f49b3b9",
         "title": "Product Operations Analyst - Healthcare",
-        "active": true,
+        "active": false,
         "date_updated": 1777933441,
         "date_posted": 1777932556,
         "url": "https://jobs.ashbyhq.com/EliseAI/de036859-bf94-461a-bada-8c95d582ef0c/application",
@@ -309895,7 +309895,7 @@
         "company_name": "Plaid",
         "id": "07ba56c7-a7c3-4b22-a28e-f451a51de693",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777943341,
         "date_posted": 1777943267,
         "url": "https://jobs.ashbyhq.com/plaid/a62002c2-8f7b-43ea-b08d-b18986eae4e2/application",
@@ -311440,7 +311440,7 @@
         "company_name": "Sophos",
         "id": "2ae4a380-780a-45e9-9c89-6d2d4c83a1a8",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778018954,
         "date_posted": 1778018765,
         "url": "https://jobs.lever.co/sophos/823862d0-06ae-423a-8b6c-7354e47c0311/apply",
@@ -311740,5 +311740,210 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "96ab7b4f-0521-42f4-9131-1f640c06d82a",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1778058901,
+        "date_posted": 1778058896,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R263733-1",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Pleasant Prairie, WI",
+            "Morton Grove, IL",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Radiance Technologies",
+        "id": "a7cba364-c7a7-489b-8cfd-b95168bb9ddd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1778060161,
+        "date_posted": 1776895564,
+        "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Stennis-Space-Center-MS/Software-Engineer_HR102134-1",
+        "locations": [
+            "John C. Stennis Space Center, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Radiance-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "7f31309d-ae96-4145-926a-c3d8e788e90c",
+        "title": "Customer Engineer 1",
+        "active": true,
+        "date_updated": 1778058462,
+        "date_posted": 1774573796,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265198",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "7cae1f9f-9366-41d1-9b13-08f11ba842bc",
+        "title": "Product Line Management Specialist 1",
+        "active": true,
+        "date_updated": 1778058898,
+        "date_posted": 1777712509,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/Columbia_Career_Site/job/Portland-Oregon-United-States-of-America/Product-Merchandising-Coordinator_R-020435-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Columbia Sportswear Company",
+        "id": "97c985e7-9a2d-4bfd-84c2-51d8d60e56dc",
+        "title": "Product Line Management Specialist 1",
+        "active": true,
+        "date_updated": 1778059687,
+        "date_posted": 1777712551,
+        "url": "https://columbiasportswearcompany.wd5.myworkdayjobs.com/en-US/CSC_Careers/job/Portland-Oregon-United-States-of-America/Product-Merchandising-Coordinator_R-020435-2",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Columbia-Sportswear-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "984e6460-82ce-4615-9ded-bfefb4dd9057",
+        "title": "AI Data Associate - Artificial General Intelligence Data Services",
+        "active": true,
+        "date_updated": 1778058493,
+        "date_posted": 1778058082,
+        "url": "https://amazon.jobs/en/jobs/10406474/ai-data-associate-with-dutch-artificial-general-intelligence-data-services",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quest Global",
+        "id": "b92ca74a-3834-417d-b6fc-70832593695f",
+        "title": "Test Witness Technician",
+        "active": true,
+        "date_updated": 1778060062,
+        "date_posted": 1777385351,
+        "url": "https://careers.quest-global.com/global/en/job/P-118137",
+        "locations": [
+            "East Windsor, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Quest-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "92a664e3-9513-4946-a33b-3d7b2403dfe6",
+        "title": "Supplier Development Engineer - Reliability - Starlink",
+        "active": true,
+        "date_updated": 1778076541,
+        "date_posted": 1778076368,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8533955002",
+        "locations": [
+            "Bastrop, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "730477dc-023e-4e21-aa1a-3fa0813bafb5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1778076541,
+        "date_posted": 1778076367,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R62290",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Expedia Group",
+        "id": "ef5c0e01-5160-4a10-8260-f4e6ddc1dd25",
+        "title": "Data Scientist 1 - Analytics",
+        "active": true,
+        "date_updated": 1778076565,
+        "date_posted": 1778076315,
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Data-Scientist-I--Analytics_R-105457-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Expedia-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
