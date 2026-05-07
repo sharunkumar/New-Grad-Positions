@@ -1,247 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "244f393c-0175-416b-9508-c052f8313587",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1757397047,
-        "date_posted": 1757397047,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R157571",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "date_updated": 1759953554,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "http://amazon.jobs/en/jobs/3071644/security-engineer-aws-global-services-security",
-        "company_name": "Amazon",
-        "title": "Security Engineer",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7008175b-a348-4881-b7e5-84de3e4da747",
-        "date_posted": 1757401128,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758672100,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.arm.com/job/austin/graduate-software-applications-engineer/33099/85831486416",
-        "company_name": "Arm Limited",
-        "title": "Graduate Software Applications Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "926863f0-8c2d-4e12-af66-fb8bd5e29053",
-        "date_posted": 1757401240,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759961324,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/bumbleinc/6cc32636-4671-4838-a6b7-2dd16b97c110",
-        "company_name": "Bumble Engineering",
-        "title": "Jr. Software Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3217003d-557d-4f6c-99dd-68f9cdf7c3ab",
-        "date_posted": 1757401305,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757727568,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Technology-Development-Program-Associate---February-2026_R218758-1",
-        "company_name": "Capital One",
-        "title": "Technology Development Program Associate",
-        "locations": [
-            "McLean, VA",
-            "Richmond, VA",
-            "Plano, TX"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "db6b2270-09fd-4711-a9f1-fd02df611769",
-        "date_posted": 1757401457,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759378323,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.disneycareers.com/en/job/-/-/391/85823385568",
-        "company_name": "Disney",
-        "title": "Software Engineer I",
-        "locations": [
-            "Glendale, CA",
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c66df321-c70e-4dd8-a07e-d8b153c3cba6",
-        "date_posted": 1757401533,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759961311,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.publicisgroupe.com/jobs/121504",
-        "company_name": "Epsilon",
-        "title": "Associate, Software Engineer",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "f4d67ceb-c267-4832-bf7c-e3b2e8664359",
-        "date_posted": 1757401647,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759961295,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.publicisgroupe.com/jobs/121511",
-        "company_name": "Epsilon",
-        "title": "Associate, Software Engineer",
-        "locations": [
-            "Irving, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "53729385-feaf-42a4-b150-83e912af8b00",
-        "date_posted": 1757401706,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1757401781,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/verkada/jobs/4835616007",
-        "company_name": "Verkada",
-        "title": "Backend Software Engineer",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "65dcd485-a8ab-4e12-9b60-98e3253226c6",
-        "date_posted": 1757401781,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761557632,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://ms.wd5.myworkdayjobs.com/en-US/external/job/New-York-New-York-United-States-of-America/Machine-Learning-Research-Associate-Program---PhD_JR020171",
-        "company_name": "Morgan Stanley",
-        "title": "Machine Learning Research Associate Program - PhD",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "a9cbfe13-e4b3-45bf-ad1c-d6e0248ca431",
-        "date_posted": 1757401905,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757402522,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/boomsupersonic/jobs/5643300004",
-        "company_name": "Boom",
-        "title": "Data Scientist, New Grad",
-        "locations": [
-            "Denver, CO"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Simplify",
-        "id": "334d37bc-3d6a-45e7-94d0-690093ebb59c",
-        "date_posted": 1757402522,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1757402619,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.jahnelgroup.com/apply.html?gh_jid=4160702007",
-        "company_name": "Jahnel Group",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Schenectady, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "b4e4100e-3d59-43c2-93dd-0569d081e5c8",
-        "date_posted": 1757402619,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762411909,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-peraton.icims.com/jobs/158538/software-engineering-%28ignite-innovator-pgm%29%2c-associate--herndon-or-blacksburg%2c-va/job",
-        "company_name": "Peraton",
-        "title": "Software Engineering (Ignite Innovator Pgm)",
-        "locations": [
-            "Herndon, VA",
-            "Blacksburg, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a1a71fa0-4d3a-49d0-8c39-742ca3d20ae8",
-        "date_posted": 1757404344,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Visa",
         "id": "04bb0203-4590-48c4-934a-94bb90df933a",
@@ -55252,25 +55011,6 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NXP Semiconductors",
-        "id": "12a2a915-3217-4a04-8989-1d89bd94f205",
-        "title": "Entry Level Design \u2013 December 2025 and May 2026 Grads - Verification - And Validation Engineers",
-        "active": false,
-        "date_updated": 1761845457,
-        "date_posted": 1757404802,
-        "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Entry-Level-Design--Verification--and-Validation-Engineers---December-2025-and-May-2026-Grads_R-10060019",
-        "locations": [
-            "Austin, TX",
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/NXP-Semiconductors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -304735,7 +304475,7 @@
         "company_name": "PG&E",
         "id": "066f6838-38bd-47c8-b703-7a354e40e564",
         "title": "Data Science/Engineer - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500204,
         "url": "https://careers.pge.com/job/Oakland-Data-ScienceEngineer,-Associate-CA-94612/1386702900/?ats=successfactors",
@@ -313430,7 +313170,7 @@
         "company_name": "Q2",
         "id": "753733bb-3038-4669-8c97-e0a8f4671463",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778105356,
         "date_posted": 1778105172,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12499",
@@ -313910,6 +313650,80 @@
             "Brampton, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Loblaw-Companies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "f062cd77-bfb9-43cc-947d-1518a860c9db",
+        "title": "Metrology & Calibration Technicians \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1778134141,
+        "date_posted": 1778134077,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Metrology---Calibration-Technicians--Associate-or-Mid-Level-_JR2026507092-1",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Boeing Company",
+        "id": "7e70be5d-fdbc-40a6-ad5c-8ff7c7776eb5",
+        "title": "Metrology & Calibration Technicians \u2013 Associate or Mid-Level",
+        "active": true,
+        "date_updated": 1778134141,
+        "date_posted": 1778134067,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Seattle-WA/Metrology---Calibration-Technicians--Associate-or-Mid-Level-_JR2026507092",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nissan Global",
+        "id": "24ce730c-0a41-4a33-b597-9c79c886dc75",
+        "title": "Associate Analyst",
+        "active": true,
+        "date_updated": 1778133961,
+        "date_posted": 1778133890,
+        "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Associate-Analyst_R00202703-2",
+        "locations": [
+            "Franklin, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nissan-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Helsing",
+        "id": "0721e26e-4b8a-49f9-9cdd-4ccfe8d68fa9",
+        "title": "Production Technician",
+        "active": true,
+        "date_updated": 1778141521,
+        "date_posted": 1776175845,
+        "url": "https://helsing.ai/jobs/4839991101?gh_jid=4839991101",
+        "locations": [
+            "Exeter, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Helsing",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
