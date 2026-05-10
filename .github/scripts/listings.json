@@ -2,69 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Sun Life",
-        "id": "2033c21e-54e5-415d-a102-70d1e64a23b8",
-        "title": "Student \u2013 Junior Software Engineer",
-        "active": false,
-        "date_updated": 1757695085,
-        "date_posted": 1757695085,
-        "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Software-Engineer--Winter-2026-_JR00114373",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Sun-Life",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "b4b13a9d-d220-4bc3-9994-434aa0a31122",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1757695544,
-        "date_posted": 1757695544,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97727",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "0414920e-9a7a-46e6-967c-320c1b558953",
-        "title": "Software Development Engineer I",
-        "active": false,
-        "date_updated": 1757695543,
-        "date_posted": 1757695543,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Software-Development-Engineer-I_R-97728-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Alphataraxia",
         "id": "ca019c65-43a2-44cb-9cfa-5d0348684d94",
         "title": "Software Engineer \u2013 New Grad",
@@ -52267,79 +52204,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "5af10211-101d-4630-84bb-aeee9939f616",
-        "title": "Product Manager Graduate - PhD",
-        "active": false,
-        "date_updated": 1761846094,
-        "date_posted": 1757698721,
-        "url": "https://lifeattiktok.com/search/7546336514033764626",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cresta",
-        "id": "1863a011-3ff2-4937-b849-d6e148688e23",
-        "title": "Embedded Expert - Saas Software - Contact Center",
-        "active": false,
-        "date_updated": 1757696976,
-        "date_posted": 1757696976,
-        "url": "https://job-boards.greenhouse.io/cresta/jobs/4919163008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cresta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Susquehanna International Group (SIG)",
-        "id": "12260c33-1851-4e59-8af1-e395ca5e83cf",
-        "title": "Software Developer Graduate",
-        "active": false,
-        "date_updated": 1763131290,
-        "date_posted": 1757695151,
-        "url": "https://careers-sig.icims.com/jobs/9823/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Susquehanna",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Astreya",
-        "id": "e542d5bd-d914-4755-bd8f-f70404770840",
-        "title": "Field Services Technician 1",
-        "active": false,
-        "date_updated": 1762924088,
-        "date_posted": 1757685699,
-        "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Seattle-WA/Field-Services-Technician-I_R0013195",
-        "locations": [
-            "Seattle, WA",
-            "Kirkland, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Astreya",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "61784648-dbde-46c2-a8e1-3a2309c1db58",
@@ -67132,7 +66996,7 @@
         "company_name": "Cisco",
         "id": "d429909a-8374-4fde-afa9-c1fb684e2b9d",
         "title": "Software Engineer 2 - Full Stack and Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1763664387,
         "date_posted": 1763664387,
         "url": "https://careers.cisco.com/global/en/job/2000127",
