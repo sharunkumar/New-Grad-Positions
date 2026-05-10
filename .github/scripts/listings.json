@@ -1,59 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "7f173f22-a3e4-4f68-8261-66e127ed0707",
-        "title": "2026 University Graduate - Data Scientist",
-        "active": false,
-        "date_updated": 1761835801,
-        "date_posted": 1757651574,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158866",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "65bdd31a-88b7-4679-886a-64deb5f113dc",
-        "title": "2026 University Graduate - Data Scientist",
-        "active": false,
-        "date_updated": 1761559679,
-        "date_posted": 1757661263,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158623",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "04ad3078-79a3-4f41-9175-b679f60ca7aa",
-        "title": "2026 University Graduate - Data Scientist",
-        "active": false,
-        "date_updated": 1761835883,
-        "date_posted": 1757661251,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Data-Scientist_R158865",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1757667963,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -1968,29 +1914,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PathAI",
-        "id": "c02dfa55-86e8-4965-9800-7ea301501001",
-        "title": "Machine Learning Engineer 1/2/3",
-        "active": true,
-        "date_updated": 1758388097,
-        "date_posted": 1757648115,
-        "url": "https://www.pathai.com/careers/8062963002?gh_jid=8062963002",
-        "locations": [
-            "Boston, MA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PathAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -298127,7 +298050,7 @@
         "company_name": "Bank of Montreal",
         "id": "ca4dd8f2-d00e-424b-bd90-059ab441d097",
         "title": "Robot Process Automation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1777327782,
         "date_posted": 1777327527,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314",
@@ -298170,7 +298093,7 @@
         "company_name": "Bank of Montreal",
         "id": "dce58ffb-cfcb-4247-b5b1-1f800e509b1f",
         "title": "Robot Process Automation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1777327738,
         "date_posted": 1777327471,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Chicago-IL-USA/Robot--Process-Automation-Developer--New-or-Recent-Graduate-_R260011314-1",
@@ -307401,7 +307324,7 @@
         "company_name": "Corteva",
         "id": "70f9e298-df51-4f02-9bd5-0e3411150e01",
         "title": "Statistics Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778019874,
         "date_posted": 1778019006,
         "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Iowa-United-States/Statistics-Research-Scientist_246621W",
@@ -307541,7 +307464,7 @@
         "company_name": "Corteva",
         "id": "aec8032d-2a9a-4b53-8b6a-88e9f76ea770",
         "title": "Statistics Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1778019879,
         "date_posted": 1778019004,
         "url": "https://corteva.wd5.myworkdayjobs.com/en-US/ctp/job/Iowa-United-States/Statistics-Research-Scientist_246621W-1",
