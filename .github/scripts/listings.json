@@ -1,59 +1,5 @@
 [
     {
-        "date_updated": 1757667963,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.janestreet.com/join-jane-street/position/8053215002/",
-        "company_name": "Jane Street",
-        "title": "Cybersecurity Analyst",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "538b9ba7-eafb-4e4c-9d6b-fdfab046b379",
-        "date_posted": 1757667963,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758126557,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729",
-        "company_name": "Nordstrom",
-        "title": "Engineer 1 - Full Stack, Store POS+",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "a48c0369-b4c6-428f-8b24-11678660c772",
-        "date_posted": 1757668082,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758584670,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/eliseai/1ffbd278-a5fe-443c-984f-521d61a97353",
-        "company_name": "EliseAI",
-        "title": "Software Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "e9aa375c-d8f2-4256-afc1-a49556ef4fe9",
-        "date_posted": 1757668156,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Sun Life",
@@ -52394,24 +52340,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "EXL",
-        "id": "e88bbbdc-fd59-4e93-97cc-e530f2e9e7ba",
-        "title": "Service Desk Analyst",
-        "active": false,
-        "date_updated": 1761507863,
-        "date_posted": 1757677398,
-        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/4526",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/EXL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "61784648-dbde-46c2-a8e1-3a2309c1db58",
@@ -82523,7 +82451,7 @@
         "company_name": "Adobe",
         "id": "5e6f3e61-40fe-4700-8251-5e1ada720bd8",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764642513,
         "date_posted": 1764642513,
         "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R159512",
@@ -264398,7 +264326,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "025be0de-f3a3-4b10-b605-ea3f0e828697",
         "title": "Security Labs Research Engineer \u2013 Graduate Program",
-        "active": true,
+        "active": false,
         "date_updated": 1775299501,
         "date_posted": 1775299457,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Security-Labs-Research-Engineer---Graduate-Program_1192992",
@@ -307863,7 +307791,7 @@
         "company_name": "The Boeing Company",
         "id": "36b5e8d3-874f-4963-925c-d218fb31fbb8",
         "title": "Integration System Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778029741,
         "date_posted": 1778029706,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Everett-WA/Integration-System-Engineer--Associate-or-Experienced-Level-_JR2026498853",
@@ -307923,7 +307851,7 @@
         "company_name": "The Boeing Company",
         "id": "15373121-dd33-48dd-b5d2-2a961a33e211",
         "title": "Integration System Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778029741,
         "date_posted": 1778029715,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Integration-System-Engineer--Associate-or-Experienced-Level-_JR2026498853-1",
