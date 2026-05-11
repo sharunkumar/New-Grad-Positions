@@ -2,123 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Alphataraxia",
-        "id": "ca019c65-43a2-44cb-9cfa-5d0348684d94",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761845287,
-        "date_posted": 1757721450,
-        "url": "https://job-boards.greenhouse.io/alphataraxia/jobs/4875669007",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Alphataraxia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Strive Health",
-        "id": "13c5772b-50de-4d60-ae45-3012585915d5",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757723715,
-        "date_posted": 1757723715,
-        "url": "https://job-boards.greenhouse.io/strivehealth/jobs/4601284006",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Strive-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "ed276201-e267-4d79-b7d9-93e599b2a9db",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757727238,
-        "date_posted": 1757727238,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/d54013d8-4a78-4d9d-bd03-c49ca28b31c5/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "fc663241-b323-42be-8eb7-61d5630089e1",
-        "title": "Embedded Linux Software Engineer I",
-        "active": false,
-        "date_updated": 1762779380,
-        "date_posted": 1757728253,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AllTrails",
-        "id": "b3c80fe1-d839-482f-aa36-e8840e4b63e8",
-        "title": "Software Engineer I - Fullstack - Trail Data",
-        "active": false,
-        "date_updated": 1757729051,
-        "date_posted": 1757729051,
-        "url": "https://jobs.lever.co/alltrails/eedd7a84-9fa6-4653-9ea6-1475ed813568/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AllTrails",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peraton",
-        "id": "7aaed7bd-cc81-4a44-a1f0-5f65ede1de5e",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1757728949,
-        "date_posted": 1757728949,
-        "url": "https://careers-peraton.icims.com/jobs/159132/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "King George County, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
         "title": "Software Engineer I",
@@ -2318,24 +2201,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bombora",
-        "id": "a9b5eb62-ac85-4d24-98da-e3279e2d9474",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1761556325,
-        "date_posted": 1757715792,
-        "url": "https://bombora.com/about/bombora-careers?gh_jid=8167665002",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Bombora",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -52133,60 +51998,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Peraton",
-        "id": "f1f74c42-0f34-43c3-9d8e-c82d83acd14d",
-        "title": "Systems Administrator - Associate",
-        "active": false,
-        "date_updated": 1757729157,
-        "date_posted": 1757729157,
-        "url": "https://careers-peraton.icims.com/jobs/153402/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Fort Huachuca, Sierra Vista, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Virginia",
-        "id": "610ddcd9-59b8-49c0-8bb1-0b86a4103b58",
-        "title": "Audio-Visual Assistant - Student Wage",
-        "active": false,
-        "date_updated": 1757720967,
-        "date_posted": 1757720967,
-        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Audio-Visual-Assistant--Student-Wage-_R0075472",
-        "locations": [
-            "Charlottesville, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Black Box",
-        "id": "4c796074-7ca5-4baf-8337-97c4b7709e73",
-        "title": "Fiber Optic Technician",
-        "active": false,
-        "date_updated": 1758131563,
-        "date_posted": 1757704370,
-        "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5515",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Black-Box",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rockwell Automation",
         "id": "f7576122-4bf4-4353-a50b-ef3448852bc1",
         "title": "Technical Support Engineer",
@@ -96503,24 +96314,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Blarney Castle Oil",
-        "id": "3dabf3fa-56cb-4626-a1d7-45c6307008f1",
-        "title": "Customer Service Associate",
-        "active": false,
-        "date_updated": 1765592292,
-        "date_posted": 1757713578,
-        "url": "https://careers-blarneycastleoil.icims.com/jobs/15661/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blarney-Castle-Oil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Crusoe",
         "id": "034f709b-58af-4008-baa6-119592d3a24a",
@@ -111995,24 +111788,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Emerson Electric",
-        "id": "2a70c5fc-1e65-4a36-be54-b5f965a2a2e8",
-        "title": "Hardware Analog Engineer",
-        "active": false,
-        "date_updated": 1757727233,
-        "date_posted": 1757727233,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/25024108",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ERM",
         "id": "e72753a1-a211-4f5e-a4f9-45d2cc82cf31",
@@ -126638,24 +126413,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Acts",
-        "id": "129f62f7-ecdc-47b0-8945-414033024e52",
-        "title": "Licensed Practical Nurse - LPN",
-        "active": false,
-        "date_updated": 1768178952,
-        "date_posted": 1757721040,
-        "url": "https://careers-actslife.icims.com/jobs/17536/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Acts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Accenture",
         "id": "f8c8734f-8fa2-47ca-949a-b72b1e8d1bf2",
@@ -130744,26 +130501,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Advocates",
-        "id": "85987423-03ab-4e1c-baf1-f02e1054a7ae",
-        "title": "Direct Care Staff - Female Only",
-        "active": false,
-        "date_updated": 1768386836,
-        "date_posted": 1757721029,
-        "url": "https://careers-advocatesinc.icims.com/jobs/12572/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Grimes, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -167437,24 +167174,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Peraton",
-        "id": "a8c3ea34-c051-434a-8817-bccdf2d17c6c",
-        "title": "Technician 1 - Electronic",
-        "active": true,
-        "date_updated": 1770371754,
-        "date_posted": 1757726812,
-        "url": "https://careers-peraton.icims.com/jobs/158058/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Topeka, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -263826,7 +263545,7 @@
         "company_name": "University of Chicago",
         "id": "294980b2-d9dd-43cd-a8b8-023cbd30e16e",
         "title": "Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775294821,
         "date_posted": 1775294621,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR32400",
@@ -268726,7 +268445,7 @@
         "company_name": "Madewell",
         "id": "d36557df-ada0-43ad-bdf8-133ece448c81",
         "title": "Assistant Pattern Maker - Denim Bottoms",
-        "active": true,
+        "active": false,
         "date_updated": 1775604601,
         "date_posted": 1775599598,
         "url": "https://jcrew.wd1.myworkdayjobs.com/madewellcareers/job/New-York-NY-USA-Headquarters/Assistant-Pattern-Maker---Denim-Bottoms_123905",
@@ -306066,7 +305785,7 @@
         "company_name": "General Motors",
         "id": "1867969a-db0e-4b61-bcfe-810cf5e1f73c",
         "title": "Machine Learning Engineer - AI Inference Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1777944061,
         "date_posted": 1777943397,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103",
