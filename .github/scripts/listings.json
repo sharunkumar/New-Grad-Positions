@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jerry",
-        "id": "d39c7c03-0622-4ee2-8652-8efd67fe77c2",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1757741129,
-        "date_posted": 1757741129,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/7ff90ae2-69a9-49ca-82c9-be9a4005c4de/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "RTX",
         "id": "16f0ad67-8a00-460b-886e-d1fea299b724",
         "title": "Software Engineer I",
@@ -51944,24 +51924,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Blackhawk Network Holdings",
-        "id": "260c08d4-9eab-4cd7-bbfc-696e8b5ebcd5",
-        "title": "Software Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1757746563,
-        "date_posted": 1757746563,
-        "url": "https://careers-blackhawknetwork.icims.com/jobs/24806/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "American Express",
         "id": "12fd6548-a259-4799-8ff7-a33c0a6bacaa",
         "title": "Software Engineer - Java - Enterprise Architecture",
@@ -51973,24 +51935,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Premier Health",
-        "id": "b36ded55-8e55-4855-8080-74859e375576",
-        "title": "ERP Programmer/Analyst - Information Technology",
-        "active": false,
-        "date_updated": 1761941554,
-        "date_posted": 1757740024,
-        "url": "https://premierhealth.eightfold.ai/careers/job/790311934140",
-        "locations": [
-            "Dayton, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Premier-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -95013,25 +94957,6 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "ed7eb73d-a797-437b-8640-ba6c9f727f5e",
-        "title": "X Memes and Headline Commentary Tutor",
-        "active": false,
-        "date_updated": 1765506513,
-        "date_posted": 1757740412,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/4876463007",
-        "locations": [
-            "Palo Alto, CA",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -154819,7 +154744,7 @@
         "company_name": "Revefi",
         "id": "a47f3349-a43d-42e4-8ec0-5b96d3b6cc42",
         "title": "Software Engineer \u2013 New Graduate - Seattle",
-        "active": true,
+        "active": false,
         "date_updated": 1769757343,
         "date_posted": 1769757343,
         "url": "https://jobs.lever.co/revefi/de6bd0b5-2308-435f-bb94-b418c57e7048/apply",
@@ -216317,7 +216242,7 @@
         "company_name": "The Boeing Company",
         "id": "2c2f0c87-ec6d-4b36-9126-185a4b56b7ca",
         "title": "Data Analytics Quality Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772755918,
         "date_posted": 1772755918,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714-1",
@@ -263545,7 +263470,7 @@
         "company_name": "University of Chicago",
         "id": "294980b2-d9dd-43cd-a8b8-023cbd30e16e",
         "title": "Research Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1775294821,
         "date_posted": 1775294621,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Research-Analyst_JR32400",
@@ -297782,7 +297707,7 @@
         "company_name": "Xcel Energy",
         "id": "c603ccf5-35a5-41c7-80a6-3d97f5995bf4",
         "title": "Associate Data Scientist - Load Forecasting",
-        "active": true,
+        "active": false,
         "date_updated": 1777330983,
         "date_posted": 1777327762,
         "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/Associate-Data-Scientist---Load-Forecasting_JR113724-1",
@@ -301554,7 +301479,7 @@
         "company_name": "The Boeing Company",
         "id": "ccfdf12f-b7a2-49c7-a873-070e101d9f76",
         "title": "Data Analytics Quality Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777587841,
         "date_posted": 1777586961,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Quality-Engineer--Associate-or-Mid-Level-_JR2025475714",
@@ -302189,7 +302114,7 @@
         "company_name": "RTX",
         "id": "653a1d0e-b434-431a-8f3d-c0e4c41cbfb5",
         "title": "Software Engineer 1 - Space and Radio Frequency Sensors",
-        "active": true,
+        "active": false,
         "date_updated": 1777587972,
         "date_posted": 1777587046,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/XMLNAME-2026-Raytheon-Full-Time--Software-Engineer-I---Space-and-RF-Sensors--Onsite-_01842399",
@@ -305344,7 +305269,7 @@
         "company_name": "Uber",
         "id": "52b4a5cd-723b-4c98-988e-1502023df40a",
         "title": "Graduate PhD Software Engineer 2 - AV Labs",
-        "active": true,
+        "active": false,
         "date_updated": 1777933289,
         "date_posted": 1777932427,
         "url": "https://university-uber.icims.com/jobs/159120/job?mobile=true&needsRedirect=false",
@@ -305444,7 +305369,7 @@
         "company_name": "RTX",
         "id": "9947b1d0-46d1-4aee-bdf3-f9122df0503b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933929,
         "date_posted": 1777932676,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/XMLNAME-2026--Raytheon-Full-Time--Software-Engineer-I---Onsite-_01842968",
@@ -305585,7 +305510,7 @@
         "company_name": "RTX",
         "id": "f1e94307-e3b5-4a4e-b7c4-d5a2347366ef",
         "title": "Software Tools Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933890,
         "date_posted": 1777932674,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Tools-Engineer-I---Onsite-_01834400",
@@ -305688,7 +305613,7 @@
         "company_name": "TD Bank",
         "id": "6651c421-002f-486e-9b77-fe5355a8754c",
         "title": "Data Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777943571,
         "date_posted": 1777943424,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Data-Engineer_R_1486096",
@@ -311274,7 +311199,7 @@
         "company_name": "Highmark Health",
         "id": "07a75816-463e-4966-843e-e58dbb80d5b6",
         "title": "Data Solutions Analyst Associate - Medicaid Clinical Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1778193884,
         "date_posted": 1778191589,
         "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst---Medicaid-Clinical-Reporting_J280721",
@@ -313340,5 +313265,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "30c3335f-cd91-4d95-a18e-b910683cd5d3",
+        "title": "GPU System and Scheduling Architect New Grad",
+        "active": true,
+        "date_updated": 1778479886,
+        "date_posted": 1778479738,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-System-and-Scheduling-Architect---New-College-Grad-2026_JR2016691-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Spotify",
+        "id": "3e73dec1-88b2-4a53-be1a-a3dc74f82056",
+        "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
+        "active": true,
+        "date_updated": 1778479902,
+        "date_posted": 1778479497,
+        "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Spotify",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American University",
+        "id": "3dd62cce-9871-4482-97f8-598e91edb803",
+        "title": "Research Assistant Data Scientist and Engineer",
+        "active": true,
+        "date_updated": 1778479807,
+        "date_posted": 1778479531,
+        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Part-Time-Research-Assistant-Data-Scientist-and-Engineer_R4229",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
