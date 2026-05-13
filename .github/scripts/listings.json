@@ -1,24 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "3bdc08a6-567f-4f30-97f0-01943c42a7e9",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "date_updated": 1760818378,
-        "date_posted": 1757919076,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7313083003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "date_updated": 1762779347,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -51867,27 +51848,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Gartner",
-        "id": "27b84e99-ba2b-44a1-9ac7-40ad9d296814",
-        "title": "Data Analyst - Insights and Product Analytics",
-        "active": true,
-        "date_updated": 1758379287,
-        "date_posted": 1757917526,
-        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Data-Analyst---2026-graduates_103573",
-        "locations": [
-            "Stamford, CT",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Gartner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Sev1Tech",
         "id": "a228d4b8-ec7a-43de-9126-473f5c2901d8",
         "title": "Configuration and Data Management Analyst",
@@ -56412,24 +56372,6 @@
             "Trowbridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wiltshire-Farm-Foods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lynker",
-        "id": "c861e26b-61c1-4664-8a6e-06b18f42ed35",
-        "title": "Drafter 1",
-        "active": false,
-        "date_updated": 1763161715,
-        "date_posted": 1757918147,
-        "url": "https://careers-lynker.icims.com/jobs/1466/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "John C. Stennis Space Center, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Lynker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -98571,24 +98513,6 @@
             "Fort Campbell, KY"
         ],
         "company_url": "https://simplify.jobs/c/Vetcor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "S:US",
-        "id": "1b5d3b69-67e4-479a-9695-419cdbb88228",
-        "title": "Direct Support Professional",
-        "active": false,
-        "date_updated": 1765880943,
-        "date_posted": 1757922609,
-        "url": "https://careeropportunity-sus.icims.com/jobs/17500/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bloomington, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/S-US",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -227932,7 +227856,7 @@
         "company_name": "Pima County",
         "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
         "title": "Data Analyst 1 - Justice Services",
-        "active": true,
+        "active": false,
         "date_updated": 1773385457,
         "date_posted": 1773385457,
         "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
@@ -235535,7 +235459,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -284872,7 +284796,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -289734,7 +289658,7 @@
         "company_name": "Q2",
         "id": "0415d6b1-e379-4e3f-b251-1167c86829b6",
         "title": "Intermediate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776725101,
         "date_posted": 1776723642,
         "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Intermediate-Software-Engineer_REQ-12361-1",
@@ -305195,7 +305119,7 @@
         "company_name": "ONEOK",
         "id": "0c1330bf-ceb2-4e3f-9515-79ab6b07dc65",
         "title": "GIS Professional 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777933673,
         "date_posted": 1777932591,
         "url": "https://oneok.wd1.myworkdayjobs.com/ONEOK/job/Tulsa-OK/GIS-Professional-I_R7877",
@@ -308790,7 +308714,7 @@
         "company_name": "Autodesk",
         "id": "87586c93-81a2-483c-b887-fc3dd8cf41fa",
         "title": "Software Developer - Consumption Platform - Backend Services",
-        "active": true,
+        "active": false,
         "date_updated": 1778105521,
         "date_posted": 1778105368,
         "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Toronto-ON-CAN/Software-Developer_25WD91160",
@@ -314251,7 +314175,7 @@
         "company_name": "RTX",
         "id": "319045c7-3055-4e84-9b09-2783c4a0d0b1",
         "title": "System Integration Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778538570,
         "date_posted": 1778537337,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/System-Integration-Software-Engineer-I--Onsite-_01822583-2",
