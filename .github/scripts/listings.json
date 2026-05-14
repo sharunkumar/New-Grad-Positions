@@ -50981,96 +50981,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Carter's",
-        "id": "e664db1c-f8a5-48a7-908f-d809fe9d00d1",
-        "title": "Product Development and Commercialization Coordinator - Executive Development Program",
-        "active": false,
-        "date_updated": 1758011239,
-        "date_posted": 1758011239,
-        "url": "https://carters.wd1.myworkdayjobs.com/en-US/CartersCareers/job/Atlanta-GA/PDC-Coordinator--June-2026-EDP_JR47764",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carters",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AVEVA",
-        "id": "1b489b27-2d5a-4c95-a2ba-a0fa04d9b730",
-        "title": "Artificial Intelligence Graduate",
-        "active": false,
-        "date_updated": 1762931258,
-        "date_posted": 1757996725,
-        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Artificial-Intelligence-Graduate--US_R011630",
-        "locations": [
-            "Lake Forest, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AVEVA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "c00ec55d-5f57-480a-b1ff-dad5ae7a2433",
-        "title": "Student Researcher - Seed Multimodality & World Model - RL + Streaming Video Understanding",
-        "active": false,
-        "date_updated": 1757996512,
-        "date_posted": 1757996512,
-        "url": "https://jobs.bytedance.com/en/position/7549329038884768007/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "2fb7e4e6-ed8d-4af7-a6d6-d335b0639fc1",
-        "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
-        "active": false,
-        "date_updated": 1757996510,
-        "date_posted": 1757996510,
-        "url": "https://jobs.bytedance.com/en/position/7549290849889995016/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "06bf351e-d9fd-4300-8a92-d6f8ef8be04b",
-        "title": "Student Researcher - Seed Vision - Multimodal Video Generation",
-        "active": false,
-        "date_updated": 1762939929,
-        "date_posted": 1757996509,
-        "url": "https://jobs.bytedance.com/en/position/7549296431607302418/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ASM Global",
         "id": "acfb24c6-f8da-4cd2-b55c-c5511c069089",
@@ -77404,24 +77314,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KCI Technologies",
-        "id": "09b1175f-1fa8-4598-8077-efb8f7abc506",
-        "title": "CE Data Coordinator",
-        "active": false,
-        "date_updated": 1764286682,
-        "date_posted": 1758004029,
-        "url": "https://careers-kci.icims.com/jobs/7220/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/KCI-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "William Blair",
         "id": "0e820fc5-e397-4823-ab37-30fa89b0c301",
@@ -100006,24 +99898,6 @@
             "Mountain View, CA"
         ],
         "company_url": "https://simplify.jobs/c/LinkedIn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AmTrust Financial",
-        "id": "ce547041-ca8f-4f1c-9d79-b7217550ad93",
-        "title": "Technology Operations Specialist 1",
-        "active": false,
-        "date_updated": 1766013163,
-        "date_posted": 1758007090,
-        "url": "https://careers-amtrustgroup.icims.com/jobs/19657/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -237182,7 +237056,7 @@
         "company_name": "Cisco",
         "id": "a36cbd7f-5da5-4313-8f57-e11698c480c6",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773959637,
         "date_posted": 1773959637,
         "url": "https://careers.cisco.com/global/en/job/2011256",
@@ -279750,7 +279624,7 @@
         "company_name": "Pfizer",
         "id": "31cb65fd-2d32-469c-b78b-14bf83e89289",
         "title": "Associate Data Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776295543,
         "date_posted": 1776291011,
         "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Massachusetts---Andover/Associate-Data-Systems-Engineer_4955130",
@@ -304235,7 +304109,7 @@
         "company_name": "Vermeer",
         "id": "b6bc7cd6-3ff6-4af1-a706-3472fab665f7",
         "title": "Data Analyst 1 - Lifecycle",
-        "active": true,
+        "active": false,
         "date_updated": 1777933091,
         "date_posted": 1777932449,
         "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Global-Parts-Distribution-Center-Front-Office/Data-Analyst-I---Lifecycle_REQ-21221-2",
@@ -305806,7 +305680,7 @@
         "company_name": "Magna",
         "id": "57304977-cf60-477a-8592-5de68e44261d",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778019843,
         "date_posted": 1778019037,
         "url": "https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Troy-Michigan-US/Senior-Engineer_R00238869-1",
@@ -310037,7 +309911,7 @@
         "company_name": "Woodward Governor",
         "id": "f29b0854-9fc8-4fd0-b2e5-62d7ef7f2e12",
         "title": "Analytics and Master Data Management - Master Data Management - Analyst I",
-        "active": true,
+        "active": false,
         "date_updated": 1778191561,
         "date_posted": 1778191516,
         "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/Analytics-and-Master-Data-Management--MDM--Analyst-I_JR111078",
@@ -310659,7 +310533,7 @@
         "company_name": "RTX",
         "id": "ecd42cd9-2e5c-4b58-b00e-c37e33d6691a",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778193687,
         "date_posted": 1778191810,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01834725",
@@ -311212,7 +311086,7 @@
         "company_name": "Microchip Technology",
         "id": "4c100868-e669-4dce-ac3d-8e5537b9f54f",
         "title": "Engineer 1 - IT Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1778202889,
         "date_posted": 1778202480,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I--IT-Systems_R1207-26",
@@ -312293,7 +312167,7 @@
         "company_name": "Regeneron Pharmaceuticals",
         "id": "5c6d9c84-9ff3-4a34-b77a-4fa1a8edcd09",
         "title": "Process Development Engineer 1 - OT Data Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778323416,
         "date_posted": 1776521851,
         "url": "https://regeneron.wd1.myworkdayjobs.com/en-US/Careers/job/TARRYTOWN/Process-Development-Engineer-II--OT-Data-Management_R45553",
@@ -312528,7 +312402,7 @@
         "company_name": "Nationwide",
         "id": "187d0d13-56e1-4739-83c6-fb544c8db785",
         "title": "Entry Level Software Engineer - Software Engineer - Java",
-        "active": true,
+        "active": false,
         "date_updated": 1778220749,
         "date_posted": 1778220315,
         "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer---Entry-Level---Java--Angular--or-Python_098039",
@@ -312663,7 +312537,7 @@
         "company_name": "The Boeing Company",
         "id": "ad32f749-fdd4-4de6-a8c0-79a5548d6bcb",
         "title": "Entry Level Software Engineer-Simulation - Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1778508541,
         "date_posted": 1778508538,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468-1",
@@ -312724,7 +312598,7 @@
         "company_name": "The Boeing Company",
         "id": "00a721e4-6bb3-4f4f-b60c-4d790f6004d2",
         "title": "Entry Level Software Engineer-Simulation - Simulation",
-        "active": true,
+        "active": false,
         "date_updated": 1778508541,
         "date_posted": 1778508524,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Software-Engineer-Simulation--Simulation-_JR2026508468",
@@ -316772,5 +316646,84 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "OpenEye",
+        "id": "a472ac52-6384-4a55-892f-5569bc9136c1",
+        "title": "Software Engineer 2",
+        "active": true,
+        "date_updated": 1778739442,
+        "date_posted": 1778738901,
+        "url": "https://job-boards.greenhouse.io/openeye/jobs/8549022002",
+        "locations": [
+            "Liberty Lake, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/OpenEye",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SHI International ",
+        "id": "2947db38-fb43-414f-b7c9-47c822d0cf92",
+        "title": "Associate Analytics Engineer - Data & Visualization",
+        "active": true,
+        "date_updated": 1778739121,
+        "date_posted": 1778738776,
+        "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Austin-TX-USA/Associate-Analytics-Engineer---Data---Visualization_JR3060",
+        "locations": [
+            "Austin, TX",
+            "Somerset County, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/SHI-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sompo International Holdings",
+        "id": "d5abc3f7-4d23-4a19-923b-9743ddc3b28d",
+        "title": "Machine Learning Engineer 1",
+        "active": true,
+        "date_updated": 1778739598,
+        "date_posted": 1778738718,
+        "url": "https://endurance.wd103.myworkdayjobs.com/SompoInternational/job/Conshohocken-Pennsylvania/Machine-Learning-Engineer-I_R4012",
+        "locations": [
+            "Conshohocken, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sompo-International-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "6145bb59-e401-4dc3-9fe3-21e332862edf",
+        "title": "Systems Software Engineer",
+        "active": true,
+        "date_updated": 1778739481,
+        "date_posted": 1778739399,
+        "url": "https://jobs.apple.com/en-us/details/200663092",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
