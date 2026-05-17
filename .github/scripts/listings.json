@@ -23,26 +23,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Other",
-        "company_name": "Sev1Tech",
-        "id": "934d1e0c-f228-47ab-8b00-95646a0bf185",
-        "title": "Cybersecurity Engineer 1",
-        "active": false,
-        "date_updated": 1758315728,
-        "date_posted": 1758307494,
-        "url": "https://careers-sev1tech.icims.com/jobs/9201/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "North Charleston, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Sev1Tech",
         "id": "68efc7ef-3cf2-4f53-921a-79d5887bee54",
@@ -42954,7 +42934,7 @@
         "company_name": "Wellington Management",
         "id": "09ef607f-0684-46ec-b8cd-15f653854974",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1760153596,
         "date_posted": 1760153596,
         "url": "https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Investment-Analyst_R92755-2",
@@ -48941,24 +48921,6 @@
             "Suffolk, VA"
         ],
         "company_url": "https://simplify.jobs/c/Falconwood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sylvera",
-        "id": "25b9c7b0-6872-4532-81a2-db26edc5f899",
-        "title": "Lidar Technician - Months FTC",
-        "active": false,
-        "date_updated": 1758724463,
-        "date_posted": 1758303210,
-        "url": "https://jobs.lever.co/sylvera/e642adb7-573e-4818-9d38-9bcb07bd8b86/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sylvera",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -315052,7 +315014,7 @@
         "company_name": "Dust",
         "id": "2a0aa6f5-9b75-48e1-a811-a18f8de42de4",
         "title": "AI Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778746861,
         "date_posted": 1772417514,
         "url": "https://jobs.ashbyhq.com/dust/24b8c0ad-9cc5-4c64-8b78-caa57ca4b08e/application",
@@ -318550,6 +318512,26 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "3bbe2af6-887c-4489-a3de-e915addbc9d4",
+        "title": "GIS Production Analyst",
+        "active": true,
+        "date_updated": 1779027301,
+        "date_posted": 1779027191,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/7936103",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
