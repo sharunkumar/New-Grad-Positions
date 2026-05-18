@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "67fa64e7-3c68-4c8c-b75d-63378d42a6d4",
-        "title": "2026 University Graduate - Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1758341642,
-        "date_posted": 1758341642,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Machine-Learning-Engineer_R160134",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "ab8f47e0-d4cb-4316-89da-a7386c3b8deb",
-        "title": "Software Engineer 1 - Engineering - Core App - Retention - Automation - React - NodeJS - TypeScript - AWS - Python - Docker - CI/CD - Redis - Postgres - DynamoDB - Clickhouse - AI/ML",
-        "active": false,
-        "date_updated": 1758343111,
-        "date_posted": 1758343111,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/42f3759f-eaa8-4b31-93ba-f6d206d0df3f/application",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Greater Toronto Area, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "EverCommerce",
         "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
@@ -72915,7 +72871,7 @@
         "company_name": "BlackRock",
         "id": "4cc64155-89e1-4bb0-81d8-f160a23bb633",
         "title": "Associate \u2013 Index Fixed Income Algo Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1764153426,
         "date_posted": 1764153426,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258025-1",
@@ -277767,7 +277723,7 @@
         "company_name": "Northrop Grumman",
         "id": "eaf0b2d8-5417-4f09-a05c-498446659384",
         "title": "Software Engineer / Principal Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776294041,
         "date_posted": 1776290901,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/Software-Engineer---Principal-Software-Engineer_R10229285",
@@ -302914,7 +302870,7 @@
         "company_name": "Latitude AI",
         "id": "3706f95b-384b-4b2f-8a06-2ef7f0375f2b",
         "title": "GIS Production Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1777989781,
         "date_posted": 1777989716,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7893857",
@@ -308001,7 +307957,7 @@
         "company_name": "Morgan Stanley",
         "id": "adb9ab7d-ad39-4f97-9040-6a55af01d28a",
         "title": "Investment Management - Trading Assistant - Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778192461,
         "date_posted": 1778191676,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/London-United-Kingdom/Investment-Management---Trading-Assistant---Analyst_JR036766",
@@ -308269,7 +308225,7 @@
         "company_name": "CIBC",
         "id": "270962c9-3274-43e2-83bb-d9c630b6b805",
         "title": "Developer \u2013 Marketing Technology Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1778191561,
         "date_posted": 1778191519,
         "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/Developer--Marketing-Technology-Solutions_2610173-1",
@@ -311143,7 +311099,7 @@
         "company_name": "Intel",
         "id": "6e8c11b2-b77c-4286-b649-c05d47b2ee69",
         "title": "Power and Performance Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778538799,
         "date_posted": 1778537352,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Power-and-Performance-Engineer_JR0283718-1",
@@ -314915,7 +314871,7 @@
         "company_name": "Manulife Financial",
         "id": "fd2652f1-32ea-4597-9f9d-cb735e2abe5a",
         "title": "Associate Applied AI Engineer - GenAI Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1778796361,
         "date_posted": 1778796275,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Associate-Applied-AI-Engineer---GenAI-Systems_JR26031551",
@@ -315680,7 +315636,7 @@
         "company_name": "Harris Computer",
         "id": "e23d6ad4-2b48-4045-8f83-dda377d7df2c",
         "title": "Junior AI Specialist - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1778797441,
         "date_posted": 1778796564,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---UK/Junior-AI-Specialist_R0043886",
@@ -317531,7 +317487,7 @@
         "company_name": "Exclusive Networks",
         "id": "2bde9acf-af97-42cf-8f41-4da73b0d035b",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778912101,
         "date_posted": 1778911591,
         "url": "https://exclusivenetworks.wd103.myworkdayjobs.com/Exclusive-Networks-Career/job/London/Data-Analyst_JR1913-1",
@@ -318206,6 +318162,62 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altice USA",
+        "id": "207d3092-7bc7-454d-b32e-aaea097143cf",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1779084541,
+        "date_posted": 1779084434,
+        "url": "https://www.optimumcareers.com/job/Long-Island-City-Data-Analyst-(70002877)-NY-11101/1391154800/?ats=successfactors",
+        "locations": [
+            "Long Island City, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Altice-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "3e28ce6e-1005-4cd7-b423-8f680a64fe66",
+        "title": "German Translator - AI Trainer",
+        "active": true,
+        "date_updated": 1779093181,
+        "date_posted": 1774574444,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4651788101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Invisible Technologies AI",
+        "id": "da453920-8fb6-4684-a7c5-4d6a106f6244",
+        "title": "German Speaker - AI Trainer Project",
+        "active": true,
+        "date_updated": 1779097321,
+        "date_posted": 1774574443,
+        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650955101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
