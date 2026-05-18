@@ -25706,7 +25706,7 @@
         "company_name": "Rogers Behavioral Health",
         "id": "78c6bbf3-f3b8-4d88-a30b-6788e0b54ae8",
         "title": "Therapist-IOP/PHP Outpatient",
-        "active": false,
+        "active": true,
         "date_updated": 1762298749,
         "date_posted": 1762298749,
         "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP-Outpatient_R5142",
@@ -107288,7 +107288,7 @@
         "company_name": "Vertiv",
         "id": "5d6bc4d7-269a-441a-bcaf-79da0348f237",
         "title": "ERS NETA Electrical Testing Technician - Boise",
-        "active": true,
+        "active": false,
         "date_updated": 1766185618,
         "date_posted": 1766185618,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20259423",
@@ -120994,7 +120994,7 @@
         "company_name": "Trepp",
         "id": "8727eaac-79c3-4675-817b-18dff2d79733",
         "title": "Client Success Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1767920657,
         "date_posted": 1767920657,
         "url": "https://www.trepp.com/joining-trepp?gh_jid=7524006",
@@ -188630,7 +188630,7 @@
         "company_name": "Salesforce",
         "id": "9c9d72e2-4773-4a77-b5c5-5776ba645c14",
         "title": "Software Engineering AMTS/MTS \u2013 College Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1771640186,
         "date_posted": 1771640186,
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1",
@@ -211092,7 +211092,7 @@
         "company_name": "Stryker",
         "id": "99ffeecb-8a1d-418c-98b1-14ae87e80bac",
         "title": "Associate Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1772680387,
         "date_posted": 1772680387,
         "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Des-Moines-Iowa/Associate-Installation-Technician---Des-Moines--IA---Omaha--NE_R559950",
@@ -224526,7 +224526,7 @@
         "company_name": "Thermo Fisher Scientific",
         "id": "867f40e8-601c-4694-8986-c3ce494837e4",
         "title": "Supply Chain Master Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1773390138,
         "date_posted": 1773269713,
         "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Covingham-Swindon-United-Kingdom/SAP-Manufacturing-Master-Data-Analyst---Planning---Execution_R-01344792-1",
@@ -272607,9 +272607,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776072412,
+        "date_updated": 1779101419,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://careers-gdms.icims.com/jobs/71922/junior-embedded-software-engineer-%28cleared%29/job",
         "company_name": "General Dynamics Mission Systems",
@@ -275888,7 +275888,7 @@
         "company_name": "Thorlabs",
         "id": "5f48f6a9-4c17-4ab3-b04b-cdfcc6b4772f",
         "title": "Engineering Technician 1 Product Development",
-        "active": true,
+        "active": false,
         "date_updated": 1776208574,
         "date_posted": 1776204561,
         "url": "https://apply.workable.com/thorlabs/j/9A690D357A/apply",
@@ -283193,7 +283193,7 @@
         "company_name": "Applied Materials",
         "id": "f0409dea-a331-46f3-a8cb-41bc69e9eac7",
         "title": "Global Product Support - Early in Career",
-        "active": false,
+        "active": true,
         "date_updated": 1776526022,
         "date_posted": 1776525931,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--Early-in-Career-_R2616983",
@@ -285695,7 +285695,7 @@
         "company_name": "Moss",
         "id": "062bf53b-43c0-4cb8-91f1-b9bdcc1e1142",
         "title": "AI Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776694322,
         "date_posted": 1776694266,
         "url": "https://jobs.ashbyhq.com/moss/88fdfa31-feec-4f32-85f1-0d2f34433069/application",
@@ -299319,7 +299319,7 @@
         "company_name": "Anduril",
         "id": "bc0afe9e-41a1-411b-bab5-7b70463a5630",
         "title": "Software Engineer - Mission Autonomy",
-        "active": true,
+        "active": false,
         "date_updated": 1777598101,
         "date_posted": 1771285125,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5050735007",
@@ -299932,9 +299932,9 @@
         ]
     },
     {
-        "date_updated": 1777635520,
+        "date_updated": 1779101419,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/speechify/jobs/5981069004",
         "company_name": "Speechify",
@@ -300643,7 +300643,7 @@
         "company_name": "Stewart",
         "id": "10021b9f-628a-4250-aa29-4b9dbcbfbd86",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1777674686,
         "date_posted": 1777673320,
         "url": "https://stewart.wd1.myworkdayjobs.com/External/job/USA-MI-Plymouth---40600-Ann-Arbor-Rd/Software-Engineer-I_JR107742",
@@ -305860,7 +305860,7 @@
         "company_name": "The Boeing Company",
         "id": "ec6478c6-ada6-4c7d-ba44-7e12a3e20c5d",
         "title": "Metrology Test & Evaluation Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778106389,
         "date_posted": 1778105393,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seattle-WA/Metrology-Test---Evaluation-Engineer--Associate-or-Mid-Level-_JR2026508077-2",
@@ -307163,9 +307163,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778157577,
+        "date_updated": 1779101419,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--Full-Stack-Developer_R0237571",
         "company_name": "Booz Allen",
@@ -311034,7 +311034,7 @@
         "company_name": "Autodesk",
         "id": "a2be5271-896c-4231-a6f0-4e3b3cfa8c52",
         "title": "Researcher Associate - Design and Manufacturing",
-        "active": true,
+        "active": false,
         "date_updated": 1778539001,
         "date_posted": 1778537359,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Associate-Researcher--Design-and-Manufacturing_26WD98040-1",
@@ -311341,7 +311341,7 @@
         "company_name": "NVIDIA",
         "id": "76d1071c-8da4-43c1-8ea3-64c0ce8311fd",
         "title": "Systems Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1778548460,
         "date_posted": 1778548125,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083",
@@ -313088,7 +313088,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
-        "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
+        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
         "active": true,
         "date_updated": 1778720941,
@@ -315014,7 +315014,7 @@
         "company_name": "Wells Fargo",
         "id": "46448df5-20d4-4e8e-a06b-ac7316ebfea1",
         "title": "Engineering Associate - Applications - Data & AI",
-        "active": false,
+        "active": true,
         "date_updated": 1778797441,
         "date_posted": 1778796570,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/Engineering-Associate---Applications--Data---AI_R-545962",
@@ -316425,7 +316425,7 @@
         "company_name": "Snap Finance",
         "id": "ef6899e4-9bed-4082-b6f3-dddb70c0b809",
         "title": "Full-Stack Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1778854290,
         "date_posted": 1778853901,
         "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Full---Stack-Developer-I_R-2775-1",
@@ -316483,7 +316483,7 @@
         "company_name": "Carrier Global",
         "id": "c65f6fe1-cb3b-47d4-9969-4de3d2a696b1",
         "title": "Mobile Application Developer - Smart Home",
-        "active": false,
+        "active": true,
         "date_updated": 1778854321,
         "date_posted": 1778854236,
         "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Smart-Home_30205643",
@@ -316541,7 +316541,7 @@
         "company_name": "Vizient ",
         "id": "6eaf5826-ab81-46e0-9b9f-79aa58417280",
         "title": "Associate AI/ML Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778854141,
         "date_posted": 1778854125,
         "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Edina-MN-55435/Associate-AI-ML-Engineer_33536R",
@@ -317272,7 +317272,7 @@
         "company_name": "RTX",
         "id": "0692d532-864f-4426-b404-78aade4947a7",
         "title": "Quality Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1778884056,
         "date_posted": 1778883151,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-CHULA-VISTA-B107--850-Lagoon-Dr--BLDG-107-Mail-Zone-1-C/Quality-Technican--Onsite-_01845163",
@@ -318221,5 +318221,222 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Materials",
+        "id": "9cafad48-b6a9-4421-a9fc-e18cc9bf6b5f",
+        "title": "Global Product Support Engineer New Grad",
+        "active": true,
+        "date_updated": 1779095810,
+        "date_posted": 1779095533,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Global-Product-Support--GPS--Engineer-New-College-Grad---Masters-Degree--Santa-Clara--CA-_R2619290",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University - College Station",
+        "id": "cdf8178e-b459-481f-ba44-abc42b8a0894",
+        "title": "Research Program Aide",
+        "active": true,
+        "date_updated": 1779113161,
+        "date_posted": 1779113061,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External/job/College-Station-TX/Research-Program-Aide_R-093298-1",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-College-Station",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pine Rest",
+        "id": "996f1161-ee9d-4ce0-adcb-5648aae51613",
+        "title": "Partial Hospitalization Program Unit Coordinator - Child & Adolescent",
+        "active": true,
+        "date_updated": 1779114143,
+        "date_posted": 1779113196,
+        "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Unit-Coordinator--PHP-Child---Adolescent--Full-Time_JR104819",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Pine-Rest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M University System",
+        "id": "27d5da4f-461c-46a7-9d4f-d5e9d0215791",
+        "title": "Research Program Aide",
+        "active": true,
+        "date_updated": 1779113161,
+        "date_posted": 1779113065,
+        "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/College-Station-TX/Research-Program-Aide_R-093298",
+        "locations": [
+            "College Station, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-University-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "705dea55-88f1-40a0-812c-657c4ad80ff9",
+        "title": "Radio Frequency Engineer",
+        "active": true,
+        "date_updated": 1779114114,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Norfolk/RF-Engineer_R0158365",
+        "locations": [
+            "Norfolk, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "fb3eaa17-6ceb-4198-8542-301544503fb1",
+        "title": "Software Engineer - Multiple Positions Available",
+        "active": true,
+        "date_updated": 1779114421,
+        "date_posted": 1779113098,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210745917",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "6f259ceb-7fa5-4335-acb6-9c569b25a13d",
+        "title": "Junior Software Engineer for Naval Research Technology",
+        "active": true,
+        "date_updated": 1779114242,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Junior-Software-Engineer-for-Naval-Research-Technology_R0161491-1",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "d29dfc6f-0843-457f-833e-51401c4ef53c",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1779113521,
+        "date_posted": 1779113429,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer_R0161488",
+        "locations": [
+            "Fredericksburg, VA",
+            "Dahlgren, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Memorial Sloan Kettering Cancer Center",
+        "id": "d1e02ec5-08ec-4409-b8fc-19917068a9c4",
+        "title": "Advanced Dermatological Imaging and Data Analytics Fellow",
+        "active": true,
+        "date_updated": 1779113376,
+        "date_posted": 1779113137,
+        "url": "https://msk.wd108.myworkdayjobs.com/MSKCC_Careers_Primary/job/New-York-NY/Postdoctoral-Fellow-Position-in-Advanced-Dermatological-Imaging-and-Data-Analytics_97005",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Memorial-Sloan-Kettering-Cancer-Center",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kimley-Horn",
+        "id": "74ba12de-f5e8-4cd2-b1f1-a5caa8bf3b19",
+        "title": "Software Analyst - Smart City Software - Traffic Systems",
+        "active": true,
+        "date_updated": 1779113161,
+        "date_posted": 1779113024,
+        "url": "https://careers-kimley-horn.icims.com/jobs/23941/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Kimley-Horn",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Franklin Templeton",
+        "id": "2685d633-11b4-4a94-b44f-659a364200b5",
+        "title": "Quantitative Research Associate",
+        "active": true,
+        "date_updated": 1779114242,
+        "date_posted": 1779113423,
+        "url": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/London-United-Kingdom/Quantitative-Research-Associate_867805",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
