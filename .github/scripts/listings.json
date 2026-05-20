@@ -1,247 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "EverCommerce",
-        "id": "a75ec43d-b108-4783-98ad-6bdc20a33da3",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1758519444,
-        "date_posted": 1758519444,
-        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote-Ontario/Junior-Software-Engineer_R-105466",
-        "locations": [
-            "Ontario, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1759961935,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Scientist-I_R101296-1",
-        "company_name": "RELX",
-        "title": "Data Scientist I - (DSAP)",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "95173864-37c8-495b-8361-c039cc4ac3bd",
-        "date_posted": 1758520100,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1764252808,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://job-boards.greenhouse.io/capstoneinvestmentadvisors/jobs/8176351002",
-        "company_name": "Capstone",
-        "title": "Associate, Quantitative Developer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "e130d8b5-1f21-405b-8a50-7f34426b6fbb",
-        "date_posted": 1758520324,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762901585,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-PaaS-Associate-Site-Reliability-Engineer_R106050-1",
-        "company_name": "Tencent",
-        "title": "Cloud PaaS Associate Site Reliability Engineer",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1c1d3241-2193-4c9e-8dfa-129c0561c806",
-        "date_posted": 1758520696,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759961235,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/New-York-New-York/XMLNAME-2026-Full-Time-Analyst-Rotational-Program---Software-Engineering_R_1446300",
-        "company_name": "TD",
-        "title": "Analyst Rotational Program \u2013 Software Engineering",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "90091db6-7c6b-4447-ad4a-aaacd0b94f6b",
-        "date_posted": 1758520879,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1760049592,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://ovative.wd12.myworkdayjobs.com/en-US/ovative/job/Minneapolis/Analyst--Data---Software-Engineering---January-2026-Start-Date_JR100120",
-        "company_name": "Ovative Group",
-        "title": "Analyst, Data & Software Engineering",
-        "locations": [
-            "Minneapolis, MN",
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "df511fe2-266d-45db-ae0c-7a8aa81d1ae5",
-        "date_posted": 1758520959,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758521109,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/muonspace/jobs/4911755007",
-        "company_name": "Muon",
-        "title": "Software Engineer",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "23ce7da7-6d58-4b26-b60d-46b512fff49e",
-        "date_posted": 1758521109,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758671997,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/lambda/1147c640-8d1b-4e92-8d39-63982f3f88d7",
-        "company_name": "Lambda",
-        "title": "Cloud Support Engineer I (Support Response)",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d11d4c32-f80b-48f5-af2b-4bde147b19ab",
-        "date_posted": 1758521252,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1758521306,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/siftstack/da9e9490-4156-4390-b9ed-54e215c894b6",
-        "company_name": "Sift",
-        "title": "Software Engineer",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "bd8d311b-b9da-426e-a442-d47ea733ccca",
-        "date_posted": 1758521306,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1758521442,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/Ogden-UT/Data-Ai-Engineer-Intern_R-103685",
-        "company_name": "Jade Global",
-        "title": "Data/Ai Engineer Intern",
-        "locations": [
-            "Ogden, UT"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "1385d241-f2ef-45d8-aec4-777c79fdcbb3",
-        "date_posted": 1758521442,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761560682,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://aig.wd1.myworkdayjobs.com/early_careers/job/NC-Charlotte/XMLNAME-2026---Early-Career---Technology---Analyst---United-States--Jersey-City--NJ--or-Charlotte--NC-_JR2504979",
-        "company_name": "AIG",
-        "title": "Technology \u2013 Analyst",
-        "locations": [
-            "Charlotte, NC",
-            "Jersey City, NJ"
-        ],
-        "category": "Other",
-        "source": "AlmondCroffle",
-        "id": "be42a889-64f3-4933-92ae-f8b96064a126",
-        "date_posted": 1758522491,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762473348,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://costar.wd1.myworkdayjobs.com/confidential/job/US-CA-San-Diego/Associate-Software-Engineer---San-Diego--CA_R37014-1",
-        "company_name": "CoStar Group",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3399e593-3844-4433-b1a0-9e0b1c421661",
-        "date_posted": 1758522723,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "a41739a3-848f-4a02-8eb6-7ef9dcf6dec2",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1758524469,
-        "date_posted": 1758524469,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HMD31-Annapolis-MD-2551-Riva-Road---Annapolis-MD-21401-7435-USA/Software-Engineer-I--Onsite-_01790428",
-        "locations": [
-            "Annapolis, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1758585351,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
@@ -48358,24 +48116,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Blackhawk Network Holdings",
-        "id": "feade417-cbfb-420b-9579-535c6189c89f",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1762741599,
-        "date_posted": 1758521560,
-        "url": "https://careers-blackhawknetwork.icims.com/jobs/24807/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coppell, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Blackhawk-Network-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -120836,7 +120576,7 @@
         "company_name": "The Boeing Company",
         "id": "2cdb25dd-7fc7-48c6-8f99-3ee8c0e74b5b",
         "title": "Atmospheric Scientist \u2013 Associate or Mid-Level",
-        "active": true,
+        "active": false,
         "date_updated": 1767916038,
         "date_posted": 1767916038,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kirtland-AFB-NM/Atmospheric-Scientist--Associate-or-Mid-Level-_JR2026490878-1",
@@ -198691,7 +198431,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "f1be74bf-e2fc-41d9-a8c1-10fe3a42d88f",
         "title": "Engineer Test Operations 1",
-        "active": false,
+        "active": true,
         "date_updated": 1772147459,
         "date_posted": 1772147459,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368364900/?ats=successfactors",
@@ -224369,7 +224109,7 @@
         "company_name": "Secureframe",
         "id": "3f94d282-4523-424c-8450-0e34874128ab",
         "title": "Graduate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773364658,
         "date_posted": 1773364658,
         "url": "https://jobs.lever.co/secureframe/29ff0477-faeb-44d6-abb3-8e894fc92a22/apply",
@@ -290612,7 +290352,7 @@
         "company_name": "ABB",
         "id": "2b881d70-0752-4108-b038-1f6e98c00e97",
         "title": "R&D Testing and Lab Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776897248,
         "date_posted": 1776895791,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/R-D-Testing---Lab-Specialist_JR00031405",
@@ -291652,7 +291392,7 @@
         "company_name": "Julius AI",
         "id": "0be43d4b-d1c9-409d-b930-fe414e14441e",
         "title": "Software Engineer \u2013 New Grad - Product",
-        "active": false,
+        "active": true,
         "date_updated": 1776982861,
         "date_posted": 1776982123,
         "url": "https://jobs.ashbyhq.com/julius/83d88b90-1b7f-476c-a0e8-10b1cb71639e/application",
@@ -295421,7 +295161,7 @@
         "company_name": "Comcast",
         "id": "c3a225c7-2966-4c42-9728-1f5f55f47aca",
         "title": "Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777356541,
         "date_posted": 1777356443,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Support-Engineer---FreeWheel_R435453",
@@ -300262,7 +300002,7 @@
         "company_name": "Guidewire",
         "id": "8c6f8dcc-e695-4ff3-9710-283bfc82ed13",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777627229,
         "date_posted": 1776809199,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Exton-PA/Senior-Software-Engineer_JR_14101",
@@ -302991,7 +302731,7 @@
         "company_name": "The Boeing Company",
         "id": "8aa2bb01-7d1b-4e68-9bca-2f9baa91049e",
         "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
-        "active": true,
+        "active": false,
         "date_updated": 1778019842,
         "date_posted": 1778019009,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074",
@@ -303622,7 +303362,7 @@
         "company_name": "The Boeing Company",
         "id": "e4abcfdd-a3ad-497d-9158-322929a985ae",
         "title": "Associate and Experienced Software Engineers - Secure Network & Protocols",
-        "active": true,
+        "active": false,
         "date_updated": 1778019842,
         "date_posted": 1778019031,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Associate-and-Experienced-Software-Engineers---Secure-Network---Protocols_JR2026509074-1",
@@ -311471,7 +311211,7 @@
         "company_name": "NiSource",
         "id": "0a13e314-5d09-4444-8b64-1a63a6df234a",
         "title": "GIS Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778594941,
         "date_posted": 1778594917,
         "url": "https://nisource.wd1.myworkdayjobs.com/NiSource/job/Chester-VA-Op-Ctr/GIS-Technician-1_R00942388-1",
@@ -311494,7 +311234,7 @@
         "company_name": "Ohio State University",
         "id": "0108f4eb-98f0-43dc-a867-ca221acdd6c5",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778594761,
         "date_posted": 1778594674,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150916-1",
@@ -311618,7 +311358,7 @@
         "company_name": "Ohio State University",
         "id": "f13e5dad-dffc-459a-b9e7-4b56576235d4",
         "title": "Research Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778594761,
         "date_posted": 1778594674,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Research-Technician_R150918-1",
@@ -313474,7 +313214,7 @@
         "company_name": "Medtronic",
         "id": "f6624a4c-4cf4-48df-a904-c137f7072bb4",
         "title": "Software Engineer 1 - Cardiac Rhythm Management",
-        "active": true,
+        "active": false,
         "date_updated": 1778710321,
         "date_posted": 1778709860,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R63656",
@@ -313916,7 +313656,7 @@
         "company_name": "Ercot",
         "id": "165ce6ce-562f-4e6e-8f46-8a49ef64bd80",
         "title": "Market Operations Engineer/Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778710022,
         "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Market-Operations-Engineer-Analyst_R2269",
@@ -319142,7 +318882,7 @@
         "company_name": "Guidewire",
         "id": "988675a2-1934-4661-952d-ccdb2c340a0a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779153150,
         "date_posted": 1779152890,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---Exton-PA/Senior-Software-Engineer_JR_14101",
@@ -320644,6 +320384,128 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Centific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Manulife Financial",
+        "id": "be215c19-96ea-4dc1-ba55-5ff0c97fdf68",
+        "title": "Associate AI Engineer",
+        "active": true,
+        "date_updated": 1779257161,
+        "date_posted": 1779257110,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-AI-Engineer_JR26050435-1",
+        "locations": [
+            "Boston, MA",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Edwards Lifesciences",
+        "id": "bd2912bb-72a8-4163-9316-e1fcdd8e156e",
+        "title": "Technical Product Manager Associate",
+        "active": true,
+        "date_updated": 1779257534,
+        "date_posted": 1779257150,
+        "url": "https://edwards.wd5.myworkdayjobs.com/edwardscareers/job/USA---California--Irvine/Associate-Technical-Product-Manager_Req-48100",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Lifesciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nationwide",
+        "id": "29d2f1cc-5034-456b-8156-f161c5bed4a2",
+        "title": "Senior Investment Analyst - Private Placements",
+        "active": true,
+        "date_updated": 1779257161,
+        "date_posted": 1779257133,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Senior-Investment-Analyst--Private-Placements_098224",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nationwide",
+        "id": "8f29c864-bfbe-413d-878f-5d3e580cee77",
+        "title": "Investment Analyst Mezz/Equity Asset Management",
+        "active": true,
+        "date_updated": 1779257526,
+        "date_posted": 1779257132,
+        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-One-Nationwide-Plaza/Investment-Analyst---Mezz-Equity-Asset-Management-2_098269",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nationwide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "c97f6b90-f006-4119-bfab-a04eb9b92560",
+        "title": "Natural Gas GIS Technologist 1",
+        "active": true,
+        "date_updated": 1779257384,
+        "date_posted": 1779257128,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Technologist-I_R39790",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "684c01a1-1150-43b2-81a8-aaf6e5bd06db",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1779267241,
+        "date_posted": 1779142027,
+        "url": "https://careers-gdms.icims.com/jobs/72592/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Brooklyn, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
