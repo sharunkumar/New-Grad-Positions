@@ -2,42 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "d592e898-680a-4be8-99f5-718021b9ebe4",
-        "title": "Data Scientist New College Grad - Multiple Teams",
-        "active": false,
-        "date_updated": 1761837593,
-        "date_posted": 1758894862,
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Data-Scientist-New-College-Grad---Bachelors-Degree--Santa-Clara--CA-_R2517338",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Parafin",
-        "id": "252c9ea7-ac6c-4a87-923b-861477e510c1",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761845546,
-        "date_posted": 1758910882,
-        "url": "https://jobs.ashbyhq.com/parafin/ced48a0b-f5ed-491a-ae38-2301fb881bd9/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Parafin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "RELX",
         "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
         "title": "Data Engineer 1 - Insurance Industry",
@@ -45585,42 +45549,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "afd8ecd7-a370-4e3d-a50a-8feed296f951",
-        "title": "Engineering Technician - Cables",
-        "active": false,
-        "date_updated": 1761843948,
-        "date_posted": 1758912167,
-        "url": "https://jobs.l3harris.com/job/Palm-Bay-Engineering-Technician-Cables-FL-32905/1329649400/?ats=successfactors",
-        "locations": [
-            "Palm Bay, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "c8564698-7223-4471-bb35-24e6047a4826",
-        "title": "Prototype Team Engineer 6 Month Term",
-        "active": false,
-        "date_updated": 1761853760,
-        "date_posted": 1758911175,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Prototype-Team-Engineer-6-Month-Term/211154",
-        "locations": [
-            "Minnesota"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Santa Fe College",
         "id": "352d5d81-a8e4-4138-8087-4c05be87ee0f",
@@ -45658,44 +45586,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "b8831359-0b2d-4563-9132-33be3adcf067",
-        "title": "Information Systems - IT - Cyber Engineer & Data Science",
-        "active": true,
-        "date_updated": 1762908972,
-        "date_posted": 1758905353,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113582",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "9e2e84e4-e8ea-4482-afd1-c71e3c6f4e2b",
-        "title": "Test Development Engineer",
-        "active": false,
-        "date_updated": 1758904277,
-        "date_posted": 1758904277,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-NC-Durham/Test-Development-Engineer_R256376",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Albers Aerospace",
         "id": "6660b1f2-83c1-4348-8abd-d566557dfa27",
         "title": "Assistant Data Engineer Technician",
@@ -45707,24 +45597,6 @@
             "Beavercreek, OH"
         ],
         "company_url": "https://simplify.jobs/c/Albers-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "AeroVironment",
-        "id": "2b7c0bee-7664-43fe-bda4-d3f3de930683",
-        "title": "Product Engineer 2",
-        "active": false,
-        "date_updated": 1762920692,
-        "date_posted": 1758899545,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Petaluma-CA/Product-Engineer-II_5953",
-        "locations": [
-            "Petaluma, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -321829,7 +321701,7 @@
         "company_name": "1Password",
         "id": "67958d6f-434a-4f0b-a49f-4d18ca26c30f",
         "title": "Junior Developer - Trust Platforms",
-        "active": true,
+        "active": false,
         "date_updated": 1779488408,
         "date_posted": 1779487748,
         "url": "https://jobs.ashbyhq.com/1password/f9d5a90c-5778-40a6-9f2b-4847ae70ef4d/application",
@@ -321850,7 +321722,7 @@
         "company_name": "Curtiss-Wright Corporation",
         "id": "12198594-d663-4188-b59f-6a28f9c49008",
         "title": "Production Test Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1779487934,
         "date_posted": 1779487754,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/US-PA-Newtown-TTC/Production-Test-Tech_JR12180-1",
