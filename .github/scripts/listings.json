@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "30e1689b-a597-4661-a040-f1c4dcd2780e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1761832099,
-        "date_posted": 1758887825,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01796448",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pinterest",
-        "id": "ce347210-20fa-4d89-8d05-49da3d06ab0c",
-        "title": "Software Engineer University Grad",
-        "active": false,
-        "date_updated": 1759329675,
-        "date_posted": 1758887132,
-        "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012",
-        "locations": [
-            "Palo Alto, CA",
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Pinterest",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Applied Materials",
         "id": "d592e898-680a-4be8-99f5-718021b9ebe4",
@@ -7831,24 +7793,6 @@
         "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application",
         "locations": [
             "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra",
-        "id": "6b15ca10-3cd5-4765-9e64-4234045a3ebd",
-        "title": "Software Engineer \u2013 New Grad - Agent",
-        "active": false,
-        "date_updated": 1758883246,
-        "date_posted": 1758883246,
-        "url": "https://jobs.ashbyhq.com/Sierra/0ff928f7-cca0-4d2b-ae64-c07277ff5252/application",
-        "locations": [
-            "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sierra",
         "is_visible": true,
@@ -45872,24 +45816,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Lilt",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ce51faac-fb30-4edf-bc48-f259e7722688",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1758882197,
-        "date_posted": 1758882197,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400022693",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -311328,7 +311254,7 @@
         "company_name": "Chicago Trading Company",
         "id": "a9975ad6-0479-484d-aab7-a4954b90b534",
         "title": "Associate C++ Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778708881,
         "date_posted": 1778623688,
         "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4687435005",
