@@ -2,48 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Adobe",
-        "id": "d1517900-3538-42df-a98c-a73fbc21f4d9",
-        "title": "University Graduate Software Engineer - Software Engineering",
-        "active": false,
-        "date_updated": 1758831790,
-        "date_posted": 1758831790,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-University-Graduate---Software-Engineer_R158638",
-        "locations": [
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra Nevada Coporation",
-        "id": "0a75db21-80f7-4a24-9ae0-0b85ce2dcc1f",
-        "title": "Software Engineer 1 - Agile Software Development - Mission Solutions and Technologies",
-        "active": false,
-        "date_updated": 1758831367,
-        "date_posted": 1758831367,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I_R0028548",
-        "locations": [
-            "Southern Pines, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Coporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Visa",
         "id": "e274ce25-eeee-40fb-8cb8-8365a8f21afa",
         "title": "Junior Software Engineer - Java Engineering",
@@ -8111,24 +8069,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sierra",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "1211d1bc-be36-4737-aaea-5c2ee25fb78a",
-        "title": "Software Engineer 1 Gameplay Services",
-        "active": false,
-        "date_updated": 1761935534,
-        "date_posted": 1758856519,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I-Gameplay-Services/210946",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -46174,50 +46114,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "SpaceX",
-        "id": "43dc6903-f0c9-4192-a4dd-06a7a01de1d9",
-        "title": "Software Engineer - Starshield",
-        "active": false,
-        "date_updated": 1761874006,
-        "date_posted": 1758832006,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8184586002",
-        "locations": [
-            "West Athens, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Berkshire Hathaway Energy",
-        "id": "53e969c0-785a-4b1d-91dc-11f8856a4261",
-        "title": "Sys & Development Analyst 1/2/3/Sr",
-        "active": false,
-        "date_updated": 1761475402,
-        "date_posted": 1758830174,
-        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003650",
-        "locations": [
-            "Salt Lake City, UT",
-            "Las Vegas, NV",
-            "Des Moines, IA",
-            "Richmond, VA",
-            "Reno, NV",
-            "Omaha, NE",
-            "Sioux City, IA",
-            "Portland, OR",
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Mohawk",
         "id": "27951589-9d4c-41f0-9bf0-414901cb9f4f",
@@ -46254,24 +46150,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Denso",
-        "id": "f3eb19c9-2f51-4db0-a69e-7bd03396abc1",
-        "title": "Data Scientist 1",
-        "active": false,
-        "date_updated": 1758830125,
-        "date_posted": 1758830125,
-        "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/22360",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Denso",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "University of Virginia",
         "id": "da630270-4a75-44b2-bfe2-84428884f7df",
@@ -46284,24 +46162,6 @@
             "Charlottesville, VA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Virginia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M International University",
-        "id": "5853769c-b215-46e5-a3b2-d12e4db53463",
-        "title": "Graduate Research Assistant - Engineering NSF CAP",
-        "active": false,
-        "date_updated": 1758830013,
-        "date_posted": 1758830013,
-        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Graduate-Research-Assistant--Engineering--NSF-CAP-_R-087560-1",
-        "locations": [
-            "Laredo, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -229254,7 +229114,7 @@
         "company_name": "Cleveland-Cliffs",
         "id": "f0a21be2-fbc6-4306-bdc2-a6cc49705a40",
         "title": "Associate IT Applications Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773789088,
         "date_posted": 1773789088,
         "url": "https://aksteel.wd1.myworkdayjobs.com/careers/job/Burns-Harbor/Associate-IT-Applications-Engineer_R12287",
@@ -271052,7 +270912,7 @@
         "company_name": "Hyundai Motor Company",
         "id": "ef8631ab-b59b-4a90-9ce3-c3d823049ddd",
         "title": "OTA Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776080169,
         "date_posted": 1776070901,
         "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-OTA-Software-Engineer-MI-48198/1367623900/?ats=successfactors",
@@ -271109,7 +270969,7 @@
         "company_name": "Hyundai Motor Company",
         "id": "7f6bd1bb-512b-41f4-b125-ef2f45ea9a92",
         "title": "OTA Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776080169,
         "date_posted": 1776070900,
         "url": "https://careers-americas.hyundai.com/hatci/job/Superior-Charter-Township-OTA-Software-Engineer-MI-48198/1367618800/?ats=successfactors",
@@ -312986,7 +312846,7 @@
         "company_name": "Teranet",
         "id": "3dfbfafd-5bfd-4770-b409-d21a66d6b0eb",
         "title": "Java/Angular Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778796670,
         "date_posted": 1778796274,
         "url": "https://tera.wd3.myworkdayjobs.com/TERANET/job/Toronto/Java-Angular-Developer_R004735",
@@ -322997,6 +322857,27 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Captivation",
+        "id": "5ae34582-a936-4638-a6b7-1452ac6dea22",
+        "title": "Software Engineer 1 - Linux/HPC/Bash/Python/Docker/Gitlab/CI/CD",
+        "active": true,
+        "date_updated": 1779584941,
+        "date_posted": 1779584886,
+        "url": "https://job-boards.greenhouse.io/captivation/jobs/5230024008",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Captivation",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
