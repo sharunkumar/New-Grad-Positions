@@ -1,104 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Esri",
-        "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
-        "title": "Software Development Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759115094,
-        "date_posted": 1758963633,
-        "url": "https://www.esri.com/careers/4921407007?gh_jid=4921407007",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Esri",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "fd937607-7e79-43de-9b55-4cea6245ccfd",
-        "title": "Associate - New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1758966993,
-        "date_posted": 1758966993,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R223351",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "d619d9ac-95a4-4ed4-9b3b-907a08573838",
-        "title": "Associate - New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1758966966,
-        "date_posted": 1758966966,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226562",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "af467e2e-2ade-425c-9ab9-238d3e605bf2",
-        "title": "Associate - New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1758966995,
-        "date_posted": 1758966995,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer---New-Grad_R223357",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "1e7a6a27-4b9f-4e7d-92f0-555244c980ab",
-        "title": "Associate - New Grad - Software Engineer",
-        "active": false,
-        "date_updated": 1758966968,
-        "date_posted": 1758966968,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R226563",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "expedia group",
         "id": "8263f802-80bc-43ec-8c4a-f041b5293a00",
@@ -45211,29 +45113,6 @@
             "Ambler, PA"
         ],
         "company_url": "https://simplify.jobs/c/Newrez",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "JP Morgan Chase",
-        "id": "eb73775c-7e2a-4b64-be95-1f5557870cef",
-        "title": "2026 Data Science Analyst Program - Full-Time Analyst",
-        "active": false,
-        "date_updated": 1761270960,
-        "date_posted": 1758961513,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210646415",
-        "locations": [
-            "Plano, TX",
-            "Chicago, IL",
-            "Columbus, OH",
-            "NYC",
-            "Wilmington, DE",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -103784,24 +103663,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Advocates",
-        "id": "21d051df-c55b-4cf0-a56b-75beeb3d9375",
-        "title": "Direct Service Worker",
-        "active": false,
-        "date_updated": 1767177863,
-        "date_posted": 1758961940,
-        "url": "https://careers-advocatesinc.icims.com/jobs/12496/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pontiac, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Brookhaven Lab",
         "id": "d5dd2efe-52b5-4004-936c-2ec42b50cf90",
@@ -160905,7 +160766,7 @@
         "company_name": "NVIDIA",
         "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
         "title": "ASIC Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770333984,
         "date_posted": 1770333984,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
@@ -238032,7 +237893,7 @@
         "company_name": "BlackRock",
         "id": "468f8ce7-8037-43e9-bc53-d357948d58ae",
         "title": "Data Operations - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1774393014,
         "date_posted": 1774393014,
         "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/Edinburgh-Scotland/Data-Operations--Associate_R261650",
@@ -269978,9 +269839,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1776073191,
+        "date_updated": 1779698908,
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://cai.wd5.myworkdayjobs.com/en-US/computer_aid/job/FL-CLIENT-STATE/Junior-Data-Engineer_R7496",
         "company_name": "CAI",
@@ -288208,9 +288069,9 @@
         ]
     },
     {
-        "date_updated": 1776937023,
+        "date_updated": 1779698908,
         "sponsorship": "Other",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://jobs.ashbyhq.com/gumloop/a1a881a6-3743-4f03-ab55-3a46297a764b",
         "company_name": "Gumloop",
@@ -300712,7 +300573,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "383bd4aa-699b-40bd-9858-3e8b2860fb62",
         "title": "CAD Design Engineer Associate - Electric Power",
-        "active": true,
+        "active": false,
         "date_updated": 1778020327,
         "date_posted": 1778018805,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Associate-CAD-Design-Engineer---Electric-Power_R0000367370",
@@ -304390,9 +304251,9 @@
         "is_visible": true
     },
     {
-        "date_updated": 1778157356,
+        "date_updated": 1779698908,
         "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
+        "active": false,
         "degrees": [],
         "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5157066008",
         "company_name": "General Matter",
@@ -321967,7 +321828,7 @@
         "company_name": "RTX",
         "id": "509f18a0-f3db-4632-8167-ec761b4e8e0e",
         "title": "Systems Engineer 1 - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1779498606,
         "date_posted": 1779498472,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Fulltime--Systems-Engineer-I---Onsite-McKinney--Texas_01822465",
@@ -322187,6 +322048,68 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/Captivation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "39b8fc3c-d27c-43ca-95de-868d5a97ab5b",
+        "title": "Artificial Intelligence Data Associate - Artificial General Intelligence",
+        "active": true,
+        "date_updated": 1779689536,
+        "date_posted": 1779689120,
+        "url": "https://amazon.jobs/en/jobs/10422803/ai-data-associate-dutch-artificial-general-intelligence",
+        "locations": [
+            "London, UK",
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Florida Institute of Technology",
+        "id": "fee94ca5-ffa5-46ca-903d-63ca764ff883",
+        "title": "Research Assistant-Data Analysis-Project Data Management-Dashboard Development",
+        "active": true,
+        "date_updated": 1779689161,
+        "date_posted": 1779689139,
+        "url": "https://floridatech.wd5.myworkdayjobs.com/FloridaTechCareers/job/Florida-Institute-of-Technology/Research-Assistant-Data-Analysis-Project-Data-Management-Dashboard-Development_R8512",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Florida-Institute-Of-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "457f9565-5a65-4e2d-a839-903e2a05ac6b",
+        "title": "Systems Engineer - Networking",
+        "active": true,
+        "date_updated": 1779689161,
+        "date_posted": 1779689131,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/Systems-Engineer---Networking_JR-2601903",
+        "locations": [
+            "Austin, TX",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
