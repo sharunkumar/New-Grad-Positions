@@ -1,147 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RELX",
-        "id": "2a719855-a2c9-4ae1-b551-fafd01505cd6",
-        "title": "Data Engineer 1 - Insurance Industry",
-        "active": false,
-        "date_updated": 1758914436,
-        "date_posted": 1758914436,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Data-Engineer-I_R100031-1",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ardent",
-        "id": "0792f38f-5a91-4853-8e4b-717325737b5d",
-        "title": "Junior Developer Consultant - Geospatial Software Development",
-        "active": false,
-        "date_updated": 1758916693,
-        "date_posted": 1758916693,
-        "url": "https://boards.greenhouse.io/ardentmc/jobs/7278159",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ardent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Gauntlet Networks",
-        "id": "623f45db-6ae9-4795-981f-a40286a0be77",
-        "title": "Quant Research Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1758915902,
-        "date_posted": 1758915902,
-        "url": "https://jobs.lever.co/gauntlet/05622c55-52bf-47a9-8d88-e83d70fc5bad/apply",
-        "locations": [
-            "SF",
-            "LA",
-            "NYC",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Gauntlet-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Other",
-        "company_name": "Honeywell",
-        "id": "dc74fdfc-2bcb-4674-b746-cf16c638657e",
-        "title": "Cyber Security Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1758917815,
-        "date_posted": 1758917815,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116423",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Honeywell",
-        "id": "ceed0c46-ccd3-428d-9010-bd6e9fa2e40a",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759115072,
-        "date_posted": 1758917853,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/116510",
-        "locations": [
-            "Fort Mill, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "99165227-b6cf-49f7-a17c-dee1b2d38f26",
-        "title": "Flight Controls Hardware Engineer 1 - Flight Control Systems",
-        "active": false,
-        "date_updated": 1758917756,
-        "date_posted": 1758917756,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119199",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "HoneyWell",
-        "id": "5148b5c6-7613-4b2f-ba5a-fc4be1aaa8ae",
-        "title": "Software Engineer I",
-        "active": false,
-        "date_updated": 1759115037,
-        "date_posted": 1758917678,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/jobs/job/119931",
-        "locations": [
-            "Clearwater, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Esri",
         "id": "b0b7796d-2614-4865-9124-29f6822e6e1d",
@@ -7741,24 +7600,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra",
-        "id": "c2ffb3b2-22e0-41d7-8934-d7c650198ad4",
-        "title": "Software Engineer \u2013 New Grad - Agent",
-        "active": false,
-        "date_updated": 1758922368,
-        "date_posted": 1758922368,
-        "url": "https://jobs.ashbyhq.com/Sierra/ce2ae656-714c-4a6c-a020-fe418f868075/application",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -45399,24 +45240,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Milwaukee Tool",
-        "id": "6e5bfe40-71a4-4c53-89fc-ea0baabe5689",
-        "title": "Repair Tech 2",
-        "active": false,
-        "date_updated": 1761864779,
-        "date_posted": 1758925467,
-        "url": "https://tti.wd1.myworkdayjobs.com/en-US/Milwaukee/job/Greenwood-IN/Repair-Tech-2_R66704",
-        "locations": [
-            "Greenwood, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Milwaukee-Tool",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Red Ventures",
         "id": "616767b4-62ce-4140-93d3-d09b3837a73e",
@@ -45453,42 +45276,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Honeywell",
-        "id": "a23fdf0e-c567-4630-b3f5-a462d704b84b",
-        "title": "Information Systems \u2013 Recent Grad/Full Time - IT - Cyber Engineer & Data Science",
-        "active": true,
-        "date_updated": 1762919780,
-        "date_posted": 1758917886,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113580",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "9e7cd9bf-5d5d-4d6f-8ef8-5e8d1288dc77",
-        "title": "Systems Engineering",
-        "active": true,
-        "date_updated": 1762916452,
-        "date_posted": 1758917889,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113416",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Honeywell",
         "id": "79848b28-4d6f-4d6d-9366-a7808ce4707b",
@@ -45506,46 +45293,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "53f96be7-6abf-408f-8ded-cd0e89672e9f",
-        "title": "Embedded Engineer",
-        "active": true,
-        "date_updated": 1762918101,
-        "date_posted": 1758917883,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113458",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "f5734e77-c330-4ef1-8c85-75ed43627876",
-        "title": "Verification Engineer - New College Grad",
-        "active": false,
-        "date_updated": 1763050302,
-        "date_posted": 1758917435,
-        "url": "https://careers-rambus.icims.com/jobs/22368/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Carrboro, NC",
-            "San Jose, CA",
-            "Westlake Village, CA",
-            "Hillsboro, OR",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -51311,24 +51058,6 @@
             "Westlake Village, CA",
             "Hillsboro, OR",
             "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Rambus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rambus",
-        "id": "0cfe7c26-d415-4540-bf34-ef209a6d8bd9",
-        "title": "AMTS Verification Engineering",
-        "active": false,
-        "date_updated": 1763161803,
-        "date_posted": 1758917445,
-        "url": "https://careers-rambus.icims.com/jobs/22322/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Rambus",
         "is_visible": true,
@@ -256741,7 +256470,7 @@
         "company_name": "Magnite",
         "id": "dc70d998-d220-458f-9677-ee8713b651c9",
         "title": "Engineer 1 - Automation and Custom Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1775256021,
         "date_posted": 1775253990,
         "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I--Automation-and-Custom-Applications_R-01288",
@@ -290161,7 +289890,7 @@
         "company_name": "Northumbria University",
         "id": "bdc0a0d6-e899-4815-963c-144ad2bfb399",
         "title": "KTP Associate: Software and Analytics Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1777021450,
         "date_posted": 1777021254,
         "url": "https://fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4035",
@@ -299152,7 +298881,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "SOCOTEC Global",
-        "id": "c4ef73cb-4c47-4f54-a1e8-12a0e7aa3b9f",
+        "id": "23f03407-c56c-4d56-a091-ac0717e7ec6b",
         "title": "Applied AI Engineer",
         "active": true,
         "date_updated": 1777903921,
