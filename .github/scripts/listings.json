@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "8ff03fb4-7ad5-4b9d-afd7-6014e3031149",
-        "title": "Engineer 1: Summer 2026 \u2013 Senior Full Stack Cloud Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1759043106,
-        "date_posted": 1759043106,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/PW102-Middletown-Aircraft-Rd-PO-Box-611-Middletown-CT-06457-USA/Engineer-I--Summer-2026---Sr-Full-Stack-Cloud-Engineer--Remote-_01794400",
-        "locations": [
-            "Middletown, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759167333,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -44733,24 +44713,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Jane-Street",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "cba3f10a-54b4-46e8-b274-6000b2fccc5a",
-        "title": "General Hire \u2013 Machine Learning Engineer Graduate - TikTok Recommendation",
-        "active": true,
-        "date_updated": 1761860421,
-        "date_posted": 1759037698,
-        "url": "https://lifeattiktok.com/search/7518139910798215442",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -199729,7 +199691,7 @@
         "company_name": "The Boeing Company",
         "id": "115f0882-ed90-4534-84d8-8e36b60ec0c4",
         "title": "Spacecraft Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1772277407,
         "date_posted": 1772149881,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026498434-1",
@@ -270504,7 +270466,7 @@
         "company_name": "Fiserv",
         "id": "7d95fb50-9917-4e04-8588-c2db3fd32be9",
         "title": "Android Systems Engineer - Core Payments",
-        "active": true,
+        "active": false,
         "date_updated": 1776119591,
         "date_posted": 1776118069,
         "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-Systems-Engineer---Core-Payments_R-10370875-1",
@@ -284897,7 +284859,7 @@
         "company_name": "Danaher Corporation",
         "id": "f4f1b4ba-000b-4a98-90ac-865cda3498f5",
         "title": "Field Service Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776810061,
         "date_posted": 1776809172,
         "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Philadelphia-Pennsylvania-United-States/Field-Service-Engineer---Philadelphia--PA--Surrounding-Areas-NJ-NY-PA-_R1309019",
@@ -300047,7 +300009,7 @@
         "company_name": "Cencora",
         "id": "e7003a71-bbeb-4d4d-96bb-ac1dfeabbeee",
         "title": "Data Visualization Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778020001,
         "date_posted": 1778019000,
         "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-Idaho/Spec---Data-Visualization-Specialist-I_R267391",
@@ -315381,7 +315343,7 @@
         "company_name": "Wells Fargo",
         "id": "a8162c9c-3599-472d-90f8-4616bd947b26",
         "title": "Engineering Associate - Application Development - Digital Platforms",
-        "active": true,
+        "active": false,
         "date_updated": 1779143581,
         "date_posted": 1779142247,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/COLUMBUS-OH/Engineering-Associate---Application-Development--Digital-Platforms-_R-546648",
@@ -315401,7 +315363,7 @@
         "company_name": "Wells Fargo",
         "id": "e87448e6-9121-43c4-b57f-50457fe05863",
         "title": "Engineering Associate - Application Performance & Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1779143041,
         "date_posted": 1779142247,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Engineering-Associate---Application-Performance---Analysis_R-546618",
@@ -316172,7 +316134,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "0900e6d8-6de4-44cf-ac60-1da0a62d6c20",
         "title": "Test Operations Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779171139,
         "date_posted": 1779170811,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1391944700/?ats=successfactors",
@@ -316816,7 +316778,7 @@
         "company_name": "Wells Fargo",
         "id": "92687862-0857-4a36-99f6-7abde7484e6b",
         "title": "Engineering Associate - Data Engineering & Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1779228673,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Engineering-Associate---Data-Engineering---Analytics_R-547035",
@@ -317334,7 +317296,7 @@
         "company_name": "Wells Fargo",
         "id": "26ba3406-75a5-4333-bc77-6ee6b0599cf1",
         "title": "Engineering Associate - Digital Platform Performance",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1779228673,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/ISELIN-NJ/Engineering-Associate---Digital-Platform-Performance_R-546628",
@@ -321843,5 +321805,30 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hinds Community College",
+        "id": "8727fa7f-1386-4d74-b039-81ec6d28b8b5",
+        "title": "Simulation Center Technician",
+        "active": true,
+        "date_updated": 1779775446,
+        "date_posted": 1779775343,
+        "url": "https://hindscc.wd1.myworkdayjobs.com/HCCExternalCareersSite/job/Nursing-and-Allied-Health-Center/Simulation-Center-technician_REQ-4805",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Hinds-Community-College",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "MD",
+            "Certificate"
+        ]
     }
 ]
