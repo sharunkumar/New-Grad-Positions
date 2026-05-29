@@ -1,68 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "4872a2dd-d3d3-4c32-8149-f247f4721d1c",
-        "title": "Software Engineer 1 - Radar Product Line Team",
-        "active": false,
-        "date_updated": 1759295272,
-        "date_posted": 1759295272,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA801-Marlborough-MA-1001-Boston-Post-Road-Building-2-Marlborough-MA-01752-USA/XMLNAME-2026-Fulltime---Raytheon-Software-Engineer-I--On-site-_01797122",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "cc805687-8699-41cc-bc01-274071e245a2",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759308697,
-        "date_posted": 1759308697,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21907",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "World Kinect",
-        "id": "5339800c-c92f-4acd-a591-d0a1364c0381",
-        "title": "IT Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1759308700,
-        "date_posted": 1759308700,
-        "url": "https://wfscorp.wd5.myworkdayjobs.com/wfscareers/job/MIAMI-FL/IT-Software-Engineer-I_R21906",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/World-Kinect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "AIG",
         "id": "85209eeb-3afb-4ff8-ac06-1876b986f808",
@@ -369,27 +307,6 @@
         "date_posted": 1759411790,
         "company_url": "",
         "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NetImpact Strategies",
-        "id": "ace07096-f936-4feb-977a-eb89db502854",
-        "title": "Junior Full Stack .NET Developer - Multiple Teams",
-        "active": false,
-        "date_updated": 1759448385,
-        "date_posted": 1759293070,
-        "url": "https://careers-netimpactstrategies.icims.com/jobs/3589/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Austin, TX",
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/NetImpact-Strategies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -9041,24 +8958,6 @@
         "date_posted": 1762815508,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seismic",
-        "id": "02fb9964-eeee-492a-adcd-5b1717cc727f",
-        "title": "Data Engineer 1",
-        "active": false,
-        "date_updated": 1762816263,
-        "date_posted": 1759308681,
-        "url": "https://ca-careers-seismic.icims.com/jobs/2053/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Seismic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -43744,24 +43643,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AIG",
-        "id": "d52af68f-bcb6-41ad-9711-cf682cb1053b",
-        "title": "Data Office Analyst - Data Office - Analyst",
-        "active": false,
-        "date_updated": 1762819436,
-        "date_posted": 1759298030,
-        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2026---Early-Career---Data-Office---Analyst---United-States--Atlanta--GA-_JR2505352",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/AIG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Research Innovations",
         "id": "ace7f589-9a14-4032-b9d0-9abd491a3944",
@@ -43781,24 +43662,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "NBCUniversal",
-        "id": "ae02b8d3-1e4a-442d-9d16-d2f94a1c1699",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1759295952,
-        "date_posted": 1759295952,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000084861859",
-        "locations": [
-            "Hammersmith, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "NTT Data",
         "id": "400b582e-0865-472e-87dd-47695a208eac",
         "title": "Digital Technology Engineer",
@@ -43810,24 +43673,6 @@
             "Charlotte, NC"
         ],
         "company_url": "https://simplify.jobs/c/NTT-Data",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AGCO",
-        "id": "f11eb840-dbf9-4307-ac9d-56b96ea6b65a",
-        "title": "IT Systems/Operations Associate",
-        "active": false,
-        "date_updated": 1759293025,
-        "date_posted": 1759293025,
-        "url": "https://careers.agcocorp.com/job/Tremont-IT-SystemsOperations-Associate-IL/1330591400/?ats=successfactors",
-        "locations": [
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/AGCO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -55222,24 +55067,6 @@
             "Lehi, UT"
         ],
         "company_url": "https://simplify.jobs/c/Collective-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AmTrust Financial",
-        "id": "0eba8f3b-12f7-4d6a-88cb-f9de414c352e",
-        "title": "Business Data Analyst 1",
-        "active": false,
-        "date_updated": 1763424669,
-        "date_posted": 1759308080,
-        "url": "https://careers-amtrustgroup.icims.com/jobs/19542/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/AmTrust-Financial",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -83665,26 +83492,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Bernhard",
-        "id": "dc449cec-b3c3-4542-80e8-9b8ca16de746",
-        "title": "Utility Analyst 1",
-        "active": false,
-        "date_updated": 1765322306,
-        "date_posted": 1759310753,
-        "url": "https://careers-enfra.icims.com/jobs/8884/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Baton Rouge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bernhard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
         "id": "843e165a-f7bf-4702-9673-58a73d16094a",
@@ -90500,7 +90307,7 @@
         "company_name": "Qualcomm",
         "id": "15285081-a634-4f80-a6b3-e49ec2525305",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1765815754,
         "date_posted": 1765815754,
         "url": "https://qualcomm.eightfold.ai/careers/job/446715747052",
@@ -125141,24 +124948,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DePaul",
-        "id": "ba57dfb2-cd5a-418b-8813-db7a87e3fa57",
-        "title": "Entitlement Specialist",
-        "active": false,
-        "date_updated": 1768472154,
-        "date_posted": 1759310633,
-        "url": "https://careers-depaul.icims.com/jobs/6409/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/DePaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Terex",
         "id": "9b006257-acbc-4346-b1bd-325cb5c37308",
@@ -129069,25 +128858,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Utah State University",
-        "id": "ea6d824e-1b3c-47f9-b21e-19a2428191f3",
-        "title": "Aggie Creamery Shift Lead Spring",
-        "active": false,
-        "date_updated": 1768645811,
-        "date_posted": 1759309267,
-        "url": "https://careers-usu.icims.com/jobs/9826/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Lincoln, NE",
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Utah-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -194707,7 +194477,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "f1be74bf-e2fc-41d9-a8c1-10fe3a42d88f",
         "title": "Engineer Test Operations 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772147459,
         "date_posted": 1772147459,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-TEST-OPERATIONS-1-Virg/1368364900/?ats=successfactors",
@@ -265440,7 +265210,7 @@
         "company_name": "RTX",
         "id": "25ac2b37-a149-4b03-b823-b3655e741ece",
         "title": "Raytheon Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1775802886,
         "date_posted": 1775801197,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713-1",
@@ -277745,7 +277515,7 @@
         "company_name": "Nidec",
         "id": "8176eea8-0f0a-4a5b-8ab5-8a8a9e1c9671",
         "title": "Testing Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776464216,
         "date_posted": 1776463691,
         "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSACaliforniaRancho-Cordova-CA/Testing-Technician-I_R0015332",
@@ -313390,7 +313160,7 @@
         "company_name": "The Boeing Company",
         "id": "dc7ec6be-f3db-412d-a3ca-479092e0d24c",
         "title": "Quality Systems Specialist - Data Analysis/Visualization & Application",
-        "active": true,
+        "active": false,
         "date_updated": 1778893921,
         "date_posted": 1778893793,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Quality-Systems-Specialist--Data-Analysis-Visualization---Application---Associate-and-Experienced-_JR2026508892-2",
@@ -314014,7 +313784,7 @@
         "company_name": "Edison International",
         "id": "230bb87a-a64d-49da-a7d8-0bc3ae85ef9d",
         "title": "App Software & AI Engineer - Associate Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779055741,
         "date_posted": 1779055628,
         "url": "https://apply.edisoncareers.com/job/Rosemead-App-Software-&-AI-Engineer,-Associate-Specialist-CA-91770-3714/1391656000/?ats=successfactors",
@@ -320598,7 +320368,7 @@
         "company_name": "Cisco",
         "id": "ee2e3b13-7a61-4d16-9baf-ffad6bf6b7ad",
         "title": "Software Engineer Backend/Platform 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779498808,
         "date_posted": 1779498550,
         "url": "https://careers.cisco.com/global/en/job/2011251",
@@ -329562,7 +329332,7 @@
         "company_name": "McGill University",
         "id": "f29468ee-5b41-470d-bdf4-57cb5eea9000",
         "title": "Research Assistant 2",
-        "active": true,
+        "active": false,
         "date_updated": 1779835502,
         "date_posted": 1779746639,
         "url": "https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/McGill-College-2001/Research-Assistant-2_JR0000076757",
@@ -332920,7 +332690,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "97664575-ffa6-4efa-b1c8-baf3e4ff650e",
         "title": "Junior AI Engineer - R&D",
-        "active": true,
+        "active": false,
         "date_updated": 1779961113,
         "date_posted": 1779530056,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/San-Diego---RayzeBio---CA/Junior-AI-Engineer--R-D_R1602337",
