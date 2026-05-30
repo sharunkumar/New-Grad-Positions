@@ -1,77 +1,5 @@
 [
     {
-        "date_updated": 1759961670,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Associate-AI-Engineer_REQ333189",
-        "company_name": "T-Mobile",
-        "title": "Associate AI Engineer",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "c4e18fba-31c4-4899-b7aa-7a87059b3c59",
-        "date_posted": 1759411571,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759961111,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Associate-Embedded-Software-Engineer_R10208121-1",
-        "company_name": "Northrop Grumman",
-        "title": "Associate Embedded Software Engineer",
-        "locations": [
-            "Plymouth, MN"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "fe5a6378-06e4-4aa5-87dd-e41ac938dbcf",
-        "date_posted": 1759411683,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762473316,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8192195002",
-        "company_name": "Anaplan",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "cbe9b0ed-ae7b-4da9-928b-b07db4e00ed9",
-        "date_posted": 1759411745,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762473302,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/anaplan/jobs/8161559002",
-        "company_name": "Anaplan",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "York, UK"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7071ac60-a80d-49cd-b3ac-16f1181510d5",
-        "date_posted": 1759411790,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
@@ -185890,7 +185818,7 @@
         "company_name": "Advanced Energy",
         "id": "471d3f08-9ee1-4b25-be0b-492cd000b735",
         "title": "Electronics Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1771888321,
         "date_posted": 1771888321,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-CO-80525/1367164400/?ats=successfactors",
@@ -295034,7 +294962,7 @@
         "company_name": "The Boeing Company",
         "id": "31ac1bea-e976-40b4-83d2-322d74703e39",
         "title": "ASIC/FPGA Verification Engineer Lead - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777621301,
         "date_posted": 1777327680,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380",
