@@ -42161,24 +42161,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Waters Corporation",
-        "id": "6cd4658f-3a3e-4197-a188-1e10414f8009",
-        "title": "Performance Maintenance Specialist - Liquid Chromatography",
-        "active": false,
-        "date_updated": 1762471365,
-        "date_posted": 1759494587,
-        "url": "https://uscareers-waters.icims.com/jobs/24323/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Jackson Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "55743b4e-9c8e-4370-bc5a-5add4a910268",
@@ -42191,42 +42173,6 @@
             "Bicester, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "InvoiceCloud",
-        "id": "7e926ce4-a972-4488-b8de-c35a4b888387",
-        "title": "Service Desk Analyst 1",
-        "active": false,
-        "date_updated": 1762912216,
-        "date_posted": 1759492087,
-        "url": "http://invoicecloud.net/careers/open-positions?gh_jid=7484343003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/InvoiceCloud",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Good Inside",
-        "id": "a35b38e0-eebb-4d24-b452-b6ea009ec394",
-        "title": "Full Stack Engineer",
-        "active": false,
-        "date_updated": 1760042235,
-        "date_posted": 1759481079,
-        "url": "https://job-boards.greenhouse.io/goodinside/jobs/4928011007",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Good-Inside",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -60813,24 +60759,6 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/Geosyntec-Consultants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yusen Logistics",
-        "id": "87d544ea-2e0b-4424-b70d-d3eba688d8ee",
-        "title": "Business Solutions Data Specialist",
-        "active": false,
-        "date_updated": 1763712730,
-        "date_posted": 1759492043,
-        "url": "https://careers-yusen-logistics.icims.com/jobs/6050/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Yusen-Logistics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -88415,24 +88343,6 @@
             "Tampa, FL"
         ],
         "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Utah State University",
-        "id": "ebc7feb3-17a0-4f49-9cdd-89d6d8fdf83b",
-        "title": "Junior Aggies Academy Caregiver",
-        "active": false,
-        "date_updated": 1765764924,
-        "date_posted": 1759493017,
-        "url": "https://careers-usu.icims.com/jobs/8878/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Ardmore, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Utah-State-University",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
