@@ -1,191 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "7d151dc9-d84b-40aa-9ccb-f5e9acbd5612",
-        "title": "Software Engineer 1 - C/C++ Linux",
-        "active": false,
-        "date_updated": 1759455673,
-        "date_posted": 1759455673,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI201-127-John-Clarke-Road-Middletwn-127-John-Clarke-Road-Suite-3-Middletown-RI-02842-USA/Software-Engineer-I---C-C---Linux--Onsite-_01796278",
-        "locations": [
-            "Newport, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Centene",
-        "id": "724db6f9-bf05-4239-a33c-1010510c9725",
-        "title": "Data Engineer I",
-        "active": false,
-        "date_updated": 1759739501,
-        "date_posted": 1759458571,
-        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Engineer-I_1604624",
-        "locations": [
-            "Remote in MO",
-            "Remote in GA",
-            "Remote in TN",
-            "Remote in FL",
-            "Remote in SC",
-            "Remote in TX",
-            "Remote in NC",
-            "Remote in IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Centene",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "e4ac42f8-203e-4627-9ceb-e35dc8f6bf9a",
-        "title": "Campus Undergraduate Full-Time - Software Engineer 1 - Technology",
-        "active": false,
-        "date_updated": 1759460028,
-        "date_posted": 1759460028,
-        "url": "https://aexp.eightfold.ai/careers/job/38270714",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "975d55af-3f12-4b33-98af-150ba18e288d",
-        "title": "Software Engineer 1 - Technology",
-        "active": false,
-        "date_updated": 1759736908,
-        "date_posted": 1759460030,
-        "url": "https://aexp.eightfold.ai/careers/job/38270703",
-        "locations": [
-            "Plantation, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Trend Health Partners",
-        "id": "1c120349-66b8-4524-bd0e-9fcb0656a802",
-        "title": "Machine Learning Engineer 1",
-        "active": false,
-        "date_updated": 1759459752,
-        "date_posted": 1759459752,
-        "url": "https://jobs.lever.co/Trend-Health-Partners/ed68f037-97d3-4f32-b24a-fa8a544db7db/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Trend-Health-Partners",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "3137eb87-cae1-45ef-a9ee-469a4322ac84",
-        "title": "Software Development Engineer 1 - SEM Engineering",
-        "active": false,
-        "date_updated": 1759461013,
-        "date_posted": 1759461013,
-        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Software-Development-Engineer-I_R-98187-2",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ZipRecruiter",
-        "id": "4e434cf9-2333-442d-9cd9-5a78192d78ea",
-        "title": "Software Engineer \u2013 New Grad - Multiple Teams",
-        "active": false,
-        "date_updated": 1759461653,
-        "date_posted": 1759461653,
-        "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/7203130",
-        "locations": [
-            "Santa Monica, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ZipRecruiter",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Magnite",
-        "id": "c2c02a7e-98db-4154-a198-1e15a9eb779f",
-        "title": "Backend Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1759461148,
-        "date_posted": 1759461148,
-        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/United-Kingdom---Belfast/Backend-Engineer--Entry-Level-_R-01124",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "bb15804d-e44e-4f20-bb96-a1afd5348e1b",
-        "title": "Software Engineer I - Video Platform",
-        "active": false,
-        "date_updated": 1759463804,
-        "date_posted": 1759463804,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8181483002",
-        "locations": [
-            "SF",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Replit",
         "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
@@ -6526,24 +6341,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "WeRide",
-        "id": "446ebd2f-de45-4f48-b2e7-06ae5d156cdc",
-        "title": "New Grads 2026 - Data Engineer",
-        "active": true,
-        "date_updated": 1761835697,
-        "date_posted": 1759461257,
-        "url": "https://jobs.lever.co/weride/7815ebc0-1668-4aa8-b4ba-919f5c3f9622/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/WeRide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WeRide",
         "id": "16ee2336-f35a-4235-8a82-561d46b32693",
         "title": "New Grads 2026 - Data Scientist",
         "active": false,
@@ -6572,24 +6369,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Abnormal-Security",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ciena",
-        "id": "846367bf-8d36-4fd5-8df2-afac73b59c35",
-        "title": "Software Engineer Packet Platform New Grad - Packet Software - Embedded Linux",
-        "active": false,
-        "date_updated": 1761939821,
-        "date_posted": 1759458438,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineer-Packet-Platform---New-Grad_R029135-1",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -8089,24 +7868,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RELX",
-        "id": "47b1f8e4-177f-4d9a-bb7e-3284f530bda3",
-        "title": "Software Engineer 1 - Software Engineering",
-        "active": false,
-        "date_updated": 1762532603,
-        "date_posted": 1759450753,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/UK---London-London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R100132-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "e46ce1fe-4bd7-427a-9959-8cb9070a81e8",
         "title": "Software Engineer I - Entry",
@@ -8911,27 +8672,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Scientific Research Corporation",
-        "id": "ab009c7a-52ce-4339-9af4-6b08040e68a5",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1762905236,
-        "date_posted": 1759447090,
-        "url": "https://careers-scires.icims.com/jobs/10602/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Scientific-Research-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -42863,106 +42603,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Ema",
-        "id": "87a0fc4c-6c66-4eef-a370-14b2d299b7ba",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1759462321,
-        "date_posted": 1759462321,
-        "url": "https://jobs.ashbyhq.com/ema/4e72bce5-730e-461d-9413-a9b97c002eca/application",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Ema",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "882c42a5-7f35-4ebb-92e4-da42a6fa1a81",
-        "title": "Campus Graduate - Software Engineer II - Technology",
-        "active": false,
-        "date_updated": 1762925165,
-        "date_posted": 1759460028,
-        "url": "https://aexp.eightfold.ai/careers/job/38270711",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Wind River",
-        "id": "c38f7512-ba18-4fad-87aa-6d72ef7dd83c",
-        "title": "College Permanent Hire",
-        "active": false,
-        "date_updated": 1761253801,
-        "date_posted": 1759459717,
-        "url": "https://jobs.jobvite.com/windriver/job/o97iyfwQ?nl=1&nl=1&fr=false",
-        "locations": [
-            "Boston, MA",
-            "Troy, MI",
-            "Walnut Creek, CA",
-            "Cupertino, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wind-River",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Legrand",
-        "id": "6ad671a9-9a44-43f7-8ce7-8f2e66b288b4",
-        "title": "Engineering Leadership Development Program",
-        "active": false,
-        "date_updated": 1763131429,
-        "date_posted": 1759459092,
-        "url": "https://jobs-legrand.icims.com/jobs/9538/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Canonsburg, PA",
-            "Hopkins, MN",
-            "Carlsbad, CA",
-            "Groton, CT",
-            "Syracuse, NY",
-            "Wayne, NJ",
-            "Farmington, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Waters Corporation",
-        "id": "95a7652d-a480-4a3f-a806-1a111ccb1741",
-        "title": "Manufacturing Technician 1",
-        "active": false,
-        "date_updated": 1762923907,
-        "date_posted": 1759449667,
-        "url": "https://uscareers-waters.icims.com/jobs/24210/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "New Castle, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Waters-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Window Nation",
         "id": "f9d6be1d-56ed-4551-8005-f186c7c31160",
@@ -42975,25 +42615,6 @@
             "Fulton, MD"
         ],
         "company_url": "https://simplify.jobs/c/Window-Nation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "69ead8e8-1225-4ec6-ac86-d2e6307cf0a5",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1762925448,
-        "date_posted": 1759435673,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/120796",
-        "locations": [
-            "Texarkana, TX",
-            "Paris, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -90139,24 +89760,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Alliance Laundry Systems",
-        "id": "a05d9458-9e10-44ea-b373-d994ba7f8246",
-        "title": "Electro Mechanical Technician 1",
-        "active": false,
-        "date_updated": 1765841191,
-        "date_posted": 1759458343,
-        "url": "https://uscareeropenings-alliancelaundry.icims.com/jobs/10802/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Wisconsin"
-        ],
-        "company_url": "https://simplify.jobs/c/Alliance-Laundry-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Essen Health Care",
         "id": "6d38c3bb-9449-4944-8e2a-ed7589173758",
@@ -91161,24 +90764,6 @@
             "Aldershot, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "URBN",
-        "id": "fa3e3506-4e3c-4b03-b53d-f383eeced249",
-        "title": "Styling Assistant - Styling",
-        "active": false,
-        "date_updated": 1765902113,
-        "date_posted": 1759458359,
-        "url": "https://homeoffice-na-urbn.icims.com/jobs/20780/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/URBN",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -93673,24 +93258,6 @@
             "Waltham, MA"
         ],
         "company_url": "https://simplify.jobs/c/Xometry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "American Vision Partners",
-        "id": "01e5ed0f-50ee-400f-aa03-11806a0e1067",
-        "title": "Bilingual Patient Services Specialist",
-        "active": false,
-        "date_updated": 1766013523,
-        "date_posted": 1759462831,
-        "url": "https://jobs-americanvisionpartners.icims.com/jobs/4690/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Vision-Partners",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -99558,24 +99125,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Christian-Health-Care-Center",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CoralTree Hospitality",
-        "id": "8bbf6e01-29a8-4fba-aa54-484dad22f397",
-        "title": "Night Security",
-        "active": false,
-        "date_updated": 1766656933,
-        "date_posted": 1759462656,
-        "url": "https://careers-coraltreehospitality.icims.com/jobs/10743/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CoralTree-Hospitality",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -120440,26 +119989,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Golden Steps",
-        "id": "f315130e-ac4b-4ff5-aa0e-4c98f871a76e",
-        "title": "Registered Behavior Technician - Registered Behavior Technician",
-        "active": false,
-        "date_updated": 1768300269,
-        "date_posted": 1759462969,
-        "url": "https://careers-goldenstepsaba.icims.com/jobs/1724/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Golden-Steps",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
