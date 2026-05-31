@@ -1,121 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Replit",
-        "id": "94f6899d-56b9-46ea-a8fc-077dcadbc526",
-        "title": "Software Engineer \u2013 New Grad - Summer 2026",
-        "active": false,
-        "date_updated": 1759464573,
-        "date_posted": 1759464573,
-        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc/application",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Replit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "e53e695b-c09a-4c3b-a76c-8c9846f1cf27",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1761832378,
-        "date_posted": 1759471005,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HIA32-Cedar-Rapids-IA-400-Collins-Rd-NE---Cedar-Rapids-IA-52498-0505-USA/Software-Engineer-I--Onsite-_01798004",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wayfair",
-        "id": "ab528634-1079-45f8-a929-c8f05cedc330",
-        "title": "Software Engineer 1 - Early Careers",
-        "active": false,
-        "date_updated": 1759966926,
-        "date_posted": 1759471832,
-        "url": "https://www.wayfair.com/careers/jobs/8106097002?gh_jid=8106097002",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Wayfair",
-        "is_visible": false,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abbott",
-        "id": "10c77412-b7dc-4a78-b892-c261b33cb0e9",
-        "title": "Software Engineer 1 - Digital Health Engineering",
-        "active": false,
-        "date_updated": 1761918566,
-        "date_posted": 1759471560,
-        "url": "https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Sylmar/Software-Engineer-I_31130840-1",
-        "locations": [
-            "Pacoima, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Domino Data Lab",
-        "id": "e9fac06c-a8f6-4e81-a5b3-6ee1c5827e79",
-        "title": "Software Engineer \u2013 New Grad - Campus Recruiting 2026",
-        "active": false,
-        "date_updated": 1759478135,
-        "date_posted": 1759478135,
-        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7275094?gh_jid=7275094",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "dc39f763-3119-4350-9828-43bc93f4a212",
-        "title": "Software Engineer I - Video Platform",
-        "active": false,
-        "date_updated": 1759477730,
-        "date_posted": 1759477730,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8180140002",
-        "locations": [
-            "SF",
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1759501245,
         "sponsorship": "Other",
         "active": true,
@@ -42350,24 +42234,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "AT&T",
-        "id": "de31ce46-f035-4892-933c-401549212358",
-        "title": "Network Engineer I - NE I - Government",
-        "active": false,
-        "date_updated": 1761934269,
-        "date_posted": 1759478842,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Columbia-Maryland/Network-Engineer--NE-I---Government-_R-84958",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "American Express",
         "id": "5f719acf-f06d-4483-be58-455a62c652fa",
         "title": "Campus Graduate Full-Time - 2026 Software Engineer II - Technology",
@@ -42379,115 +42245,6 @@
             "Plantation, FL"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TDS",
-        "id": "15ee18aa-96c7-453a-b7e5-706bbf975d19",
-        "title": "Broadband Technician 1",
-        "active": false,
-        "date_updated": 1762920010,
-        "date_posted": 1759478575,
-        "url": "https://external-telecom-teldta.icims.com/jobs/28080/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Loveland, CO",
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TDS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lynker",
-        "id": "a4855e7d-c777-4a7f-8737-7229164875b9",
-        "title": "Space Observations Scientist and Organizational Liaison",
-        "active": false,
-        "date_updated": 1759477295,
-        "date_posted": 1759477295,
-        "url": "https://careers-lynker.icims.com/jobs/1414/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Lynker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "f023b068-443c-4a3f-a999-a2a15a39b368",
-        "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-        "active": false,
-        "date_updated": 1759476780,
-        "date_posted": 1759476780,
-        "url": "https://jobs.bytedance.com/en/position/7556439896494754066/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "818b6742-1ac3-4971-a101-50412e68b6f8",
-        "title": "Military Fellowship Program: Software Engineer",
-        "active": false,
-        "date_updated": 1759473290,
-        "date_posted": 1759473290,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Military-Fellowship-Program--Software-Engineer_R0028640",
-        "locations": [
-            "Southern Pines, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "5a2914f7-8ff3-4baa-823b-7b31e2b1ef47",
-        "title": "Postdoc \u2013 Machine Learning",
-        "active": false,
-        "date_updated": 1762935670,
-        "date_posted": 1759469307,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/PostDoc---Machine-Learning_JR102052",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Aerospace",
-        "id": "87688fda-5528-468a-ad93-0ceb5fd4165f",
-        "title": "Calibration Technician",
-        "active": false,
-        "date_updated": 1761857680,
-        "date_posted": 1759468338,
-        "url": "https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Cheltenham/Calibration-Technician_R5019505-1",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Aerospace",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -42524,42 +42281,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "aafe2808-1ab8-4470-9c09-1d5943d493e4",
-        "title": "Global Commodities - Automated Trading Strategies - Analyst/Associate",
-        "active": false,
-        "date_updated": 1762919457,
-        "date_posted": 1759467348,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210672895",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "8e4681bc-b6c9-4d01-beaa-cc1ded6e2b9c",
-        "title": "Software Engineer Graduate - Inference Infrastructure - 2026 Start','Phd",
-        "active": false,
-        "date_updated": 1759464380,
-        "date_posted": 1759464380,
-        "url": "https://jobs.bytedance.com/en/position/7556509698578663687/detail",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -161284,7 +161005,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "4ea8fcdf-dd84-4d24-8098-caa377d16368",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770602992,
         "date_posted": 1770602992,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-Virg/1362993700/?ats=successfactors",
@@ -173443,24 +173164,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "5d4cd151-8978-450d-b32b-65eb3b6e6dbd",
-        "title": "Software Engineer 1 Game Server Hosting",
-        "active": false,
-        "date_updated": 1771322265,
-        "date_posted": 1759470056,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-I-Game-Server-Hosting/211063",
-        "locations": [
-            "Kirkland, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -282131,7 +281834,7 @@
         "company_name": "The Boeing Company",
         "id": "65b3f57a-acd4-4c2a-b15f-4e58dc9de499",
         "title": "Missions Systems Software Engineer \u2013 Senior - Embedded",
-        "active": true,
+        "active": false,
         "date_updated": 1776763261,
         "date_posted": 1776763143,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Missions-Systems-Software-Engineer---Embedded--Associate--Experienced--Senior-_JR2026494876-1",
@@ -291517,7 +291220,7 @@
         "company_name": "Welocalize",
         "id": "0f13303e-f2f1-4e7f-b71c-15603aa14803",
         "title": "Data Labeling Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1777453921,
         "date_posted": 1777453889,
         "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638",
@@ -322372,7 +322075,7 @@
         "company_name": "The Boeing Company",
         "id": "117a50cf-788a-4ae9-a9dc-ef9c33f8d89e",
         "title": "Flight Simulation Software Engineers \u2013 Senior",
-        "active": true,
+        "active": false,
         "date_updated": 1779821101,
         "date_posted": 1778943124,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Flight-Simulation-Software-Engineers--Associate--Experienced--and-Senior-_JR2026507695-1",
@@ -327561,7 +327264,7 @@
         "company_name": "TD Bank",
         "id": "282391e2-f54f-4825-b843-7476e460c042",
         "title": "Mobile Software Engineer - Android",
-        "active": true,
+        "active": false,
         "date_updated": 1779837662,
         "date_posted": 1779833533,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Mobile-Software-Engineer---Android_R_1489002",
@@ -331249,7 +330952,7 @@
         "company_name": "Deloitte",
         "id": "28b08161-2aa5-4565-9538-c133a5f2444f",
         "title": "Security Operations / AI Engineer Consultant - Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779956542,
         "date_posted": 1778018903,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultant-SecOps-AI-FDE-Forward-Deployed-Engineer/341059",
