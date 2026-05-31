@@ -1,77 +1,5 @@
 [
     {
-        "date_updated": 1759501245,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-sig.icims.com/jobs/9531/quantitative-strategy-developer---new-grad/job",
-        "company_name": "Susquehanna",
-        "title": "Quantitative Strategy Developer - New Grad",
-        "locations": [
-            "Bala Cynwyd, PA"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "9570f6ba-6a90-474f-8a40-ccb9d227acde",
-        "date_posted": 1759498570,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1759500970,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-        "company_name": "Replit",
-        "title": "Software Engineer - New Grad - Summer 2026",
-        "locations": [
-            "Foster City, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d640e3c7-09f1-40a5-9c7c-9ef074285583",
-        "date_posted": 1759498677,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1759501297,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-sig.icims.com/jobs/9531/job",
-        "company_name": "Susquehanna",
-        "title": "Quantitative Strategy Developer - New Grad",
-        "locations": [
-            "Bala Cynwyd, PA"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "867c89c0-fc78-4143-ba4d-b9a82809f97c",
-        "date_posted": 1759501297,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software Engineering",
-        "company_name": "Northrop Grumman",
-        "id": "cba2a58b-4daf-45a9-8e80-1da0b344ba43",
-        "title": "Software Engineer 1 or 2",
-        "active": false,
-        "date_updated": 1759858467,
-        "date_posted": 1759514814,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-1-or-2_R10209913",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": false,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Medtronic",
@@ -42071,42 +41999,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GHD",
-        "id": "a594a048-2cd4-4441-8845-1122d8f3a2f4",
-        "title": "Graduate Geoscientist",
-        "active": false,
-        "date_updated": 1759514414,
-        "date_posted": 1759514414,
-        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23774",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/GHD",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Domino Data Lab",
-        "id": "4224f942-ddac-4863-939c-b1c0f7be768c",
-        "title": "Forward Deployed Engineer \u2013 New Grad - 2026",
-        "active": false,
-        "date_updated": 1761861881,
-        "date_posted": 1759512604,
-        "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7275081?gh_jid=7275081",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Domino-Data-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cohesity",
         "id": "3fe3d27b-0233-4091-87c7-1f147c8d77f0",
@@ -42119,24 +42011,6 @@
             "Reading, UK"
         ],
         "company_url": "https://simplify.jobs/c/Cohesity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CSL",
-        "id": "097d1a16-1253-48ce-bba4-465fa141f296",
-        "title": "Customer Data Analyst",
-        "active": false,
-        "date_updated": 1761843234,
-        "date_posted": 1759498788,
-        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Seqirus-USA---NJ---Summit/Customer-Data-Analyst_R-262172",
-        "locations": [
-            "Summit, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/CSL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -276034,7 +275908,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -310330,7 +310204,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -323625,7 +323499,7 @@
         "company_name": "Western Digital",
         "id": "cbc6aac8-b358-411d-941e-1be5063055df",
         "title": "Wafer Manufacturing Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1779718197,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
