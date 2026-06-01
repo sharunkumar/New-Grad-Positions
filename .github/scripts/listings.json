@@ -1,48 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "34668e73-8db2-4cf0-ba75-f0af0b7c0d66",
-        "title": "Software Developer \u2013 Early Career",
-        "active": true,
-        "date_updated": 1759600127,
-        "date_posted": 1759600127,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896",
-        "locations": [
-            "Markham, ON, Canada",
-            "Oshawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Belden",
-        "id": "1cdbed4d-36a1-41bd-8f31-920f34589d2e",
-        "title": "Product Management Track: Launch Early Career Leadership Program",
-        "active": false,
-        "date_updated": 1759612975,
-        "date_posted": 1759612975,
-        "url": "https://careers.belden.com/job/Carmel-Product-Management-Track-Launch-Early-Career-Leadership-Program-IN-46032/1325052600/?ats=successfactors",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Belden",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Klaviyo",
         "id": "dbe9ac4a-7404-4101-83ec-c73df2a11f1c",
@@ -15048,7 +15006,7 @@
         "company_name": "Marvell",
         "id": "6d1da156-fa3f-45bb-8d18-d590f33ca578",
         "title": "Systems Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1762907895,
         "date_posted": 1762907895,
         "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Systems-Application-Engineer_2501748-1",
@@ -41346,81 +41304,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Bausch Lomb",
-        "id": "adaf0e6c-d7d6-48c2-a67e-bf3980754f46",
-        "title": "Associate Field Services Engineering Technician - NY State Region",
-        "active": true,
-        "date_updated": 1759613013,
-        "date_posted": 1759613013,
-        "url": "https://careers.bauschlomb.com/job/USA-Remote-Associate-Field-Services-Engineering-Technician-NY-State-Region/826872902/?ats=successfactors",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bausch-Lomb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Coherent ",
-        "id": "1c91d719-f0a3-44eb-a737-252e745c3eee",
-        "title": "Staff Embedded Software Engineer",
-        "active": false,
-        "date_updated": 1761519752,
-        "date_posted": 1759609786,
-        "url": "https://hcwp.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2008892",
-        "locations": [
-            "Horsham, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Coherent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "53c6e897-a1aa-4f2b-850c-e69af788db6a",
-        "title": "Hitch Service Technician",
-        "active": false,
-        "date_updated": 1762909198,
-        "date_posted": 1759608963,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Winnipeg-Manitoba/Hitch-Professional_R230044",
-        "locations": [
-            "Winnipeg, MB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capco",
-        "id": "fda70873-cf62-41b6-8247-f02ed4bc1272",
-        "title": "FAST Configuration Analyst",
-        "active": false,
-        "date_updated": 1759608461,
-        "date_posted": 1759608461,
-        "url": "https://job-boards.greenhouse.io/capco/jobs/7298016",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Capco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Rural King",
         "id": "48816dfd-a924-4aac-8725-76096c2151a4",
@@ -47338,7 +47221,7 @@
         "company_name": "IMC Trading",
         "id": "9e66c025-9200-411d-b042-504d82fe5278",
         "title": "Chi \u2013 Graduate Broker Trader - 2026",
-        "active": true,
+        "active": false,
         "date_updated": 1763162554,
         "date_posted": 1763162554,
         "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4608590101",
@@ -54609,7 +54492,7 @@
         "company_name": "Warner Music",
         "id": "1e0cd02c-a8ef-47cc-ad74-1c813c39d57f",
         "title": "Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1763510875,
         "date_posted": 1763510875,
         "url": "https://jobs.lever.co/wmg/0ddd651b-89b2-4765-8d5b-fde8fb653540/apply",
@@ -82170,24 +82053,6 @@
         "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4873959007",
         "locations": [
             "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "0de23d2f-eec2-4d79-b45a-faa5ffa6c130",
-        "title": "Vehicle Development Engineer 1 - Vehicle Test",
-        "active": false,
-        "date_updated": 1765365740,
-        "date_posted": 1759608209,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4872264007",
-        "locations": [
-            "Newark, CA"
         ],
         "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
@@ -109965,26 +109830,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Davidson Hospitality Group",
-        "id": "4af253c2-61b0-44bf-ad11-a15422ca3543",
-        "title": "Restaurant Host/Hostess",
-        "active": false,
-        "date_updated": 1767695335,
-        "date_posted": 1759610699,
-        "url": "https://careers-davidsonhospitality.icims.com/jobs/22375/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Davidson-Hospitality-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TikTok",
         "id": "d4a0ec97-8911-4aad-b8de-4304a15639e6",
@@ -116435,7 +116280,7 @@
         "company_name": "SpaceX",
         "id": "aa0f147c-eda8-4fe1-9602-36e6289cee71",
         "title": "Full Stack Software Engineer - Starshield",
-        "active": true,
+        "active": false,
         "date_updated": 1768001858,
         "date_posted": 1768001858,
         "url": "https://boards.greenhouse.io/spacex/jobs/8365490002",
@@ -119133,27 +118978,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "FutureCare",
-        "id": "ae51ab62-0f80-4c28-83b3-71b000a84c35",
-        "title": "Licensed Social Worker",
-        "active": false,
-        "date_updated": 1768300235,
-        "date_posted": 1759613008,
-        "url": "https://careers-futurecarehealth.icims.com/jobs/24331/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/FutureCare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -262481,7 +262305,7 @@
         "company_name": "Affirm",
         "id": "95be57b4-1d83-4409-99ed-108781b63bfc",
         "title": "Software Engineer 1 - Full-Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1775776118,
         "date_posted": 1775772443,
         "url": "https://job-boards.greenhouse.io/affirm/jobs/7685236003",
@@ -273556,7 +273380,7 @@
         "company_name": "StepStone Group",
         "id": "1fe4cd03-7f53-4a94-b701-fef8655721e4",
         "title": "Analyst \u2013 Power BI Dashboard Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1776378601,
         "date_posted": 1776377879,
         "url": "https://boards.greenhouse.io/embed/job_app?token=7816312",
@@ -280128,7 +279952,7 @@
         "company_name": "Wolverine World Wide",
         "id": "1a4ed750-f5a7-4230-a18f-8665c8b69c71",
         "title": "Ecommerce Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1776724951,
         "date_posted": 1776723610,
         "url": "https://wwwinc.wd1.myworkdayjobs.com/WWW/job/London/eComm-Trading-Assistant---Saucony_2026-10401",
@@ -280477,7 +280301,7 @@
         "company_name": "MatrixCare",
         "id": "f24d5f84-1e9f-4df4-a05c-531de79fceb3",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776724381,
         "date_posted": 1776723488,
         "url": "https://resmed.wd3.myworkdayjobs.com/MatrixCare_External_Careers/job/Peachtree-Corners-GA-United-States/Associate-Software-Engineer_JR_050428-1",
@@ -286843,7 +286667,7 @@
         "company_name": "GM financial",
         "id": "68fe2cc6-ca0a-4e24-a8ae-0678e6efb562",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777068946,
         "date_posted": 1777068405,
         "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2227",
@@ -295449,7 +295273,7 @@
         "company_name": "LVT",
         "id": "47d7d8f7-67c9-46ed-b62d-5b210c7f9194",
         "title": "Sensor Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1777933981,
         "date_posted": 1776896054,
         "url": "https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5191131008",
@@ -304421,7 +304245,7 @@
         "company_name": "Wyetech",
         "id": "aeaec5a1-81bc-41e5-8d0d-90850e172f05",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778537881,
         "date_posted": 1778536995,
         "url": "https://jobs.lever.co/wyetechllc/0829b20b-e835-4188-8147-4c233a7911c9/apply",
@@ -304749,7 +304573,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "7e908674-62d3-4a7c-aa35-1ed177ae4116",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778538350,
         "date_posted": 1778537235,
         "url": "https://careers-gdms.icims.com/jobs/72530/job?mobile=true&needsRedirect=false",
@@ -315415,7 +315239,7 @@
         "company_name": "Sparksoft",
         "id": "3cf302a2-7600-40f1-959b-b7c9e3aa3c33",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779315661,
         "date_posted": 1779315564,
         "url": "https://job-boards.greenhouse.io/sparksoftcorporation/jobs/5142894007",
@@ -317979,7 +317803,7 @@
         "company_name": "Micron Technology",
         "id": "19974264-b0fe-46a0-97f4-98d75507714d",
         "title": "DRAM Product Reliability Characterization Engineer - DRAM Product Reliability Characterization Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779488560,
         "date_posted": 1779487838,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---DRAM-Product-Reliability-Characterization-Engineer_JR100260",
@@ -320308,7 +320132,7 @@
         "company_name": "Mass General Brigham",
         "id": "3f78698c-70bd-4d7a-be75-aca4c9fad6fc",
         "title": "Research Assistant 1 - Trauma Imaging - Radiology",
-        "active": true,
+        "active": false,
         "date_updated": 1779829562,
         "date_posted": 1778942808,
         "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Research-Assistant-I--Trauma-Imaging--Radiology_RQ4062721",
@@ -321596,7 +321420,7 @@
         "company_name": "Civil & Environmental Consultants",
         "id": "739523c8-d992-42be-b147-e984f216cb34",
         "title": "Geotechnical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779821282,
         "date_posted": 1778162759,
         "url": "https://careers-cecinc.icims.com/jobs/6308/job?mobile=true&needsRedirect=false",
@@ -325701,7 +325525,7 @@
         "company_name": "Leidos",
         "id": "4487e744-9fe5-4ec3-8974-45e80eb8313c",
         "title": "Service Desk Tier 1 Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779871360,
         "date_posted": 1778943230,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/SMIT-Service-Desk-Tier-1-Technican_R-00176498",
@@ -326553,7 +326377,7 @@
         "company_name": "Charles River Associates (CRA)",
         "id": "cd1696c6-b084-4ef2-8691-672ceb6f7fdc",
         "title": "Labor and Employment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779891915,
         "date_posted": 1776780670,
         "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/5065324",
@@ -328956,7 +328780,7 @@
         "company_name": "Rocket Lab USA",
         "id": "922d9374-abce-4aa1-a163-722f3c09cb54",
         "title": "Flight Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779921763,
         "date_posted": 1779920585,
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7734583003",
@@ -330159,7 +329983,7 @@
         "company_name": "Illumio",
         "id": "8a04a3fa-0b4e-449f-86bb-c31c12b8a7e6",
         "title": "AI Research and Automation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1779959530,
         "date_posted": 1776290995,
         "url": "https://jobs.ashbyhq.com/illumio/6ea46003-cf09-4e6a-8fe7-c59d24df0618/application",
@@ -332977,6 +332801,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Motors",
+        "id": "34668e73-8db2-4cf0-ba75-f0af0b7c0d66",
+        "title": "Software Developer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1780035482,
+        "date_posted": 1778946220,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Early-Career_JR-202518896",
+        "locations": [
+            "Markham, ON, Canada",
+            "Oshawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
