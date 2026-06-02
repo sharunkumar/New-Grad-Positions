@@ -1528,13 +1528,6 @@
 <td>13d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
-<td>AI Software Engineer New Grad - Kernel Libraries 🎓</td>
-<td>Santa Clara, CA</td>
-<td><div align="center"><a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Software-Engineer--Kernel-Libraries---New-College-Grad-2026_JR2018472?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/77cf3c94-1e1a-4efd-b31b-b9fcf510eef0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Lila-Sciences?utm_source=GHList&utm_medium=company">Lila Sciences</a></strong></td>
 <td>Software Engineer 1 - Instrument Software</td>
 <td>Cambridge, MA</td>
