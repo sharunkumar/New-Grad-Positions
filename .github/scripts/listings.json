@@ -1,102 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "7d96c0dc-36d6-4e45-afd4-33c4829bf1a6",
-        "title": "Software Engineer \u2013 New College Grad 2025 - CAD Automation",
-        "active": false,
-        "date_updated": 1761559995,
-        "date_posted": 1760072918,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation---New-College-Grad-2025_JR2005867",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "date_updated": 1760085613,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/Machine-Learning-Engineer---AI-Research_JR-202519114",
-        "company_name": "General Motors",
-        "title": "Machine Learning Engineer - AI Research (PhD)",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "0ef9f2b0-3c39-41b5-ac1a-6c54973671cf",
-        "date_posted": 1760085613,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553870,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Santa-Monica-CA-USA/Software-Engineer-I_10131168",
-        "company_name": "The Walt Disney Company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Santa Monica, CA",
-            "Seattle, WA",
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "eed0ea40-7864-4623-9669-cf609126117f",
-        "date_posted": 1760086424,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761333316,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/Santa-ClaraCA/Global-Software-Support-Engineer-I_R2517230",
-        "company_name": "Applied Materials",
-        "title": "Global Software Support Engineer I",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "391102f6-6238-435a-a98a-2ba875a3526d",
-        "date_posted": 1760086742,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Avery Dennison",
-        "id": "a35e1eab-45e3-4fb7-9d5c-f2514f975340",
-        "title": "Firmware Engineering Early Career Program Associate - Hardware Engineering - RFID and IoT",
-        "active": false,
-        "date_updated": 1760086204,
-        "date_posted": 1760086204,
-        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000086898306",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Avery-Dennison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1760086993,
         "sponsorship": "Offers Sponsorship",
         "active": true,
@@ -38438,25 +38341,6 @@
             "Welwyn Garden City, UK"
         ],
         "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MRI Software",
-        "id": "47805469-61d4-44b4-b931-5b3cda4667e7",
-        "title": "Systems Administrator 1",
-        "active": false,
-        "date_updated": 1761941748,
-        "date_posted": 1760085128,
-        "url": "https://mrisoftware.wd501.myworkdayjobs.com/External_CareerSite/job/Cleveland-Ohio-Office/Systems-Administrator-I_R-106102",
-        "locations": [
-            "Cleveland, OH",
-            "Solon, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/MRI-Software",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -284539,7 +284423,7 @@
         "company_name": "CACI",
         "id": "793090f3-86ee-448e-b72c-472cdf644bb3",
         "title": "Electro Optical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1777068541,
         "date_posted": 1777068436,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MT-Belgrade/Electro-Optical-Technician_325338-1",
@@ -330316,7 +330200,7 @@
         "company_name": "Prairie View A&M University",
         "id": "7d6db0bd-a415-4305-8291-fcfa4de1c3c9",
         "title": "Defensive Analyst - Football",
-        "active": true,
+        "active": false,
         "date_updated": 1780351381,
         "date_posted": 1780351364,
         "url": "https://tamus.wd1.myworkdayjobs.com/pvamu_external/job/Prairie-View-TX/Defensive-Analyst--Football-_R-093670-1",
@@ -331694,7 +331578,7 @@
         "company_name": "Texas A&M University System",
         "id": "25b1f7ab-dbe5-442c-8aa4-93cbecdc0a4c",
         "title": "Defensive Analyst - Football",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351510,
         "url": "https://tamus.wd1.myworkdayjobs.com/System-wide_External/job/Prairie-View-TX/Defensive-Analyst--Football-_R-093670",
@@ -333517,7 +333401,7 @@
         "company_name": "Cox",
         "id": "3c8ae416-b608-43d3-99ce-4c7217a30134",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780439400,
         "date_posted": 1780438037,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202676249",
@@ -335208,7 +335092,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": false,
+        "active": true,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -336395,7 +336279,7 @@
         "company_name": "Albertsons",
         "id": "27661236-09ec-450a-b497-537d69be2c72",
         "title": "Entry Level Front End Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780535652,
         "date_posted": 1780535431,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/718813",
@@ -339322,7 +339206,7 @@
         "company_name": "Manulife Financial",
         "id": "11259ab5-d555-45cb-bfd5-2a57860ca9cd",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1780697161,
         "date_posted": 1780697086,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26050445-3",
@@ -340081,7 +339965,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -340146,5 +340030,101 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "ebaeb46d-19f4-4bf7-8078-8585eda12d07",
+        "title": "Engineering Technician - Passive Safety",
+        "active": true,
+        "date_updated": 1780813081,
+        "date_posted": 1780812908,
+        "url": "https://www.tesla.com/careers/search/job/266230",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "b09d7306-4475-4ca5-be47-5b9888b848ec",
+        "title": "Data Labeler",
+        "active": true,
+        "date_updated": 1780813230,
+        "date_posted": 1780812847,
+        "url": "https://www.tesla.com/careers/search/job/260509",
+        "locations": [
+            "Draper, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "632b0835-7cd5-4cf2-8c63-8fc0a9ecbd61",
+        "title": "Cell Test Engineering Technician",
+        "active": true,
+        "date_updated": 1780813311,
+        "date_posted": 1780813246,
+        "url": "https://www.tesla.com/careers/search/job/268483",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "cd77dcd5-5398-4e0e-933c-9a0d9ec1ddc0",
+        "title": "Data Labeler",
+        "active": true,
+        "date_updated": 1780814727,
+        "date_posted": 1780814633,
+        "url": "https://www.tesla.com/careers/search/job/267078",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "49002e77-afe3-4b52-9460-21b71d250681",
+        "title": "Electrical Hardware Validation Engineer - Optimus",
+        "active": true,
+        "date_updated": 1780815781,
+        "date_posted": 1780815780,
+        "url": "https://www.tesla.com/careers/search/job/252030",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
