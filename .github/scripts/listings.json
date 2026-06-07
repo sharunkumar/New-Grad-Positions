@@ -2,45 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "3c4db72d-f1d5-46ef-89dc-50130a6777fa",
-        "title": "Full-Stack Developer - Junior",
-        "active": false,
-        "date_updated": 1760107535,
-        "date_posted": 1760107535,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/Software-Developer_R0226649",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "f9697416-97dc-497c-8c91-2d42df97d6a0",
-        "title": "Software Engineer 1 - Salesforce - Backend Services",
-        "active": false,
-        "date_updated": 1761920092,
-        "date_posted": 1760118596,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-I_R202567898",
-        "locations": [
-            "Carmel, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Esri",
         "id": "259e77f9-44aa-4e06-80df-4f567fee9980",
         "title": "Software Development Engineer 1 - Multiple Teams",
@@ -38221,42 +38182,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "JP Morgan Chase",
-        "id": "eb3c4669-34fa-4134-8e95-c8491cba7844",
-        "title": "Quantitative Research - Energy - Analyst",
-        "active": false,
-        "date_updated": 1761504964,
-        "date_posted": 1760121432,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210661016",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSP",
-        "id": "0f1dac31-533d-4611-a916-19cc7fea03c2",
-        "title": "Digital Innovation Student - Winter 2026 - 8 Months",
-        "active": false,
-        "date_updated": 1761701832,
-        "date_posted": 1760120738,
-        "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/74464",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/WSP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Pace Industries",
         "id": "e20453c8-d0e3-44c9-98af-02fcc5a89a1e",
@@ -38305,24 +38230,6 @@
             "El Segundo, CA"
         ],
         "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Roche",
-        "id": "11d13f4f-9824-48ad-86a8-cf77dfdcd591",
-        "title": "End User \u2013 Workplace & Site Experience - Industrial Placement",
-        "active": false,
-        "date_updated": 1760111953,
-        "date_posted": 1760111953,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/End-User--Workplace---Site-Experience---Industrial-Placement_202509-125051-1",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -84814,24 +84721,6 @@
             "Long Island City, Queens, NY"
         ],
         "company_url": "https://simplify.jobs/c/Brandes-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Advocates",
-        "id": "7989cf37-f46d-41c3-b368-a72b0a3c2152",
-        "title": "Direct Support Staff - Developmental Services",
-        "active": false,
-        "date_updated": 1765623188,
-        "date_posted": 1760111615,
-        "url": "https://careers-advocatesinc.icims.com/jobs/12459/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Advocates",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -239802,7 +239691,7 @@
         "company_name": "GE Healthcare",
         "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774693218,
         "date_posted": 1774693218,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
@@ -263688,7 +263577,7 @@
         "company_name": "GE Healthcare",
         "id": "f830d1a6-1f54-406a-a400-61ea2ef00bf2",
         "title": "Field Service Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776080458,
         "date_posted": 1775901481,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1---Roanoke--VA_R4039147-1",
@@ -306904,7 +306793,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -316673,7 +316562,7 @@
         "company_name": "The Federal Reserve System",
         "id": "e491e331-9f07-40c3-9189-9f3ed1d074ad",
         "title": "Research Assistant",
-        "active": false,
+        "active": true,
         "date_updated": 1779820021,
         "date_posted": 1779528349,
         "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Research-Assistant_R-0000032112-1",
@@ -319901,7 +319790,7 @@
         "company_name": "Leidos",
         "id": "9090d49e-e3a4-442c-8ce4-bbff025bdd6b",
         "title": "Spanish Language-Enabled OSINT Collector - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822362,
         "date_posted": 1779528201,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Spanish-Language-Enabled-OSINT-Collector--Junior-_R-00183347",
@@ -320002,7 +319891,7 @@
         "company_name": "Leidos",
         "id": "70b7fd95-246f-48f2-9401-337d4f57a0fe",
         "title": "Chinese Language-Enabled OSINT Collector - Junior",
-        "active": true,
+        "active": false,
         "date_updated": 1779822362,
         "date_posted": 1778941871,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Cape-Canaveral-FL/Chinese-Language-Enabled-OSINT-Collector--Junior-_R-00183337",
@@ -327871,7 +327760,7 @@
         "company_name": "Howden",
         "id": "ed0cdea7-60b4-4ecf-84ec-32fc477a3b7e",
         "title": "Pricing Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1779961225,
         "date_posted": 1779959682,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Pricing-Graduate_R0015065-1",
@@ -328873,7 +328762,7 @@
         "company_name": "Deluxe Media",
         "id": "70029fc4-6d0b-4b77-8799-2586055944cf",
         "title": "Cinema Projection Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780275138,
         "date_posted": 1780131813,
         "url": "https://bydeluxe.wd5.myworkdayjobs.com/en-US/Deluxe_External/job/US-CA-Burbank/Cinema-Projection-Systems-Engineer_R0016104",
@@ -328893,7 +328782,7 @@
         "company_name": "RTX",
         "id": "e739e2f1-b776-4dd0-a1e8-e2b24a8ac460",
         "title": "Configuration Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780274571,
         "date_posted": 1780139378,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MIDLAND-450--450-Leitz-Rd--BLDG-450/Configuration-Management-Specialist_01840354",
@@ -334788,7 +334677,7 @@
         "company_name": "GE Healthcare",
         "id": "e5fa4799-a260-407a-b0e3-d49579653596",
         "title": "Field Service Engineer 1 Surgery",
-        "active": true,
+        "active": false,
         "date_updated": 1780481215,
         "date_posted": 1780134828,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Surgery---Jackson--TN_R4039686-1",
@@ -335074,7 +334963,7 @@
         "company_name": "Advanced Technology Services",
         "id": "24510c03-3b39-4878-a00a-748b18799aea",
         "title": "Calibration - Metrology Technician l",
-        "active": true,
+        "active": false,
         "date_updated": 1780524913,
         "date_posted": 1777331482,
         "url": "https://job-boards.greenhouse.io/advancedtechnologyservices/jobs/4675951006",
@@ -339554,7 +339443,7 @@
         "company_name": "Abbott",
         "id": "ebcf495e-ffc8-41a2-9ced-68da1c5801e4",
         "title": "Design to Cost Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780747642,
         "date_posted": 1780740902,
         "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---Illinois---Abbott-Park/Design-to-Cost-Engineer_31149181",
@@ -339804,7 +339693,7 @@
         "company_name": "Amcor",
         "id": "b6a9f600-ebf7-487e-b681-373f9aeb39d5",
         "title": "Extrusion Assistant - Hiring Event",
-        "active": true,
+        "active": false,
         "date_updated": 1780751691,
         "date_posted": 1780739918,
         "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/AF-Oshkosh-North-WI/Skilled-Assistant-Operator---6-11-Hiring-Event_REQ_91322",
@@ -339822,7 +339711,7 @@
         "company_name": "Applied Information Sciences",
         "id": "d46b2888-cbda-49ba-96ea-c8e17fca0504",
         "title": "Program Analyst - Program Analysis - Data Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1780748439,
         "date_posted": 1780739790,
         "url": "https://appliedis.wd5.myworkdayjobs.com/ais_careers/job/Client-Site---Alexandria-VA/Program-Analyst_JR2026001186-1",
@@ -340129,5 +340018,61 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "5bf8d0c8-0c92-4a6d-ad96-230620511299",
+        "title": "Assembly/Test 1",
+        "active": true,
+        "date_updated": 1780822487,
+        "date_posted": 1780438267,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-KS-LENEXA-885--15701-W-95Th-St--KIN01-W-95TH-885/Assembly-Test-I_01846876",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amcor",
+        "id": "5c73ece4-2975-4e05-8762-7b79187888e6",
+        "title": "Production Helper",
+        "active": true,
+        "date_updated": 1780822469,
+        "date_posted": 1780134526,
+        "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ACD-Danville-KY/Production-Helper_REQ_87262",
+        "locations": [
+            "Danville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Amcor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CPI Security",
+        "id": "14caba7f-253c-4e45-8d98-a02efa242286",
+        "title": "Residential Installation Technician",
+        "active": true,
+        "date_updated": 1780842094,
+        "date_posted": 1780610924,
+        "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4686954006",
+        "locations": [
+            "Myrtle Beach, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/CPI-Security",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
