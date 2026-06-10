@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AIG",
-        "id": "3986500a-06d8-42a8-bd17-5f4c65ae8d77",
-        "title": "Early Career Analyst - Gen AI - Data Engineering",
-        "active": false,
-        "date_updated": 1760310205,
-        "date_posted": 1760310205,
-        "url": "https://aig.wd1.myworkdayjobs.com/aig/job/GA-Atlanta/XMLNAME-2026-Early-Career---Gen-AI---Data-Engineering-Analyst---United-States--Atlanta--GA--_JR2505609-1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/AIG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1765980595,
         "sponsorship": "Offers Sponsorship",
         "active": false,
@@ -81891,7 +81871,7 @@
         "company_name": "SciTec",
         "id": "4b82692b-c26a-4ef0-a342-fb92e340f1fe",
         "title": "Associate / Staff Mission Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1765494685,
         "date_posted": 1765494685,
         "url": "https://apply.workable.com/scitec/j/301788B4BF/apply",
@@ -148489,7 +148469,7 @@
         "company_name": "RTX",
         "id": "59d53900-aa3d-4750-ab91-8b3f8e1122fa",
         "title": "Electrical ASIC/FPGA Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770162297,
         "date_posted": 1770162297,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Electrical-Engineer-I---ASIC-FPGA_01793226",
@@ -148509,7 +148489,7 @@
         "company_name": "RTX",
         "id": "4723278f-c8a8-49f1-b88d-8dfa631221e3",
         "title": "Embedded Linux Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1770162296,
         "date_posted": 1770162296,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Embedded-Linux-Software-Engineer-I--Onsite-_01793223",
@@ -153679,7 +153659,7 @@
         "company_name": "NVIDIA",
         "id": "8ee26259-5914-4601-981d-94d0d0a886ae",
         "title": "ASIC Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1770333984,
         "date_posted": 1770333984,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2026_JR2012573",
@@ -215932,7 +215912,7 @@
         "company_name": "SpaceX",
         "id": "77aaa47f-dcc6-487c-82cb-532e620a16d7",
         "title": "Software Engineer - Beam Planning - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1773439610,
         "date_posted": 1773439610,
         "url": "https://boards.greenhouse.io/spacex/jobs/8450082002",
@@ -255468,7 +255448,7 @@
         "company_name": "LG Electronics",
         "id": "d191e460-06f5-4dc4-8547-56b47a5400ea",
         "title": "R&D Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1775603881,
         "date_posted": 1775600464,
         "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5178005008",
@@ -259089,7 +259069,7 @@
         "company_name": "Foxglove",
         "id": "5ff5858e-95ec-41f7-9dc0-c4d012d6020e",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1775775627,
         "date_posted": 1775772583,
         "url": "https://jobs.ashbyhq.com/foxglove/def61478-8b86-43e5-b27b-be7b76900449/application",
@@ -260522,7 +260502,7 @@
         "company_name": "Lightcast",
         "id": "043d43df-8571-4629-8395-09add4cf9548",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775860395,
         "date_posted": 1775858805,
         "url": "https://jobs.lever.co/economicmodeling/8522ddb6-f580-4d5d-ba71-2c3b9e7b913f/apply",
@@ -289759,7 +289739,7 @@
         "company_name": "Dairyland Power Cooperative",
         "id": "39ca7707-c444-432c-b2aa-9f6d2957fe52",
         "title": "GIS Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1777621141,
         "date_posted": 1777331003,
         "url": "https://dairynet.wd1.myworkdayjobs.com/DPCcareers/job/La-Crosse-Wisconsin/GIS-Specialist-I_JR100947",
@@ -300190,7 +300170,7 @@
         "company_name": "Spotify",
         "id": "3e73dec1-88b2-4a53-be1a-a3dc74f82056",
         "title": "Machine Learning Engineer 1 - Personalization - Minesweeper",
-        "active": true,
+        "active": false,
         "date_updated": 1778479902,
         "date_posted": 1778479497,
         "url": "https://jobs.lever.co/spotify/fd79c3f5-1b2c-47c0-a3c6-4972b559e1c1/apply",
@@ -305199,7 +305179,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "40c9dfd2-4bd0-45eb-98dc-0a34a7d9e285",
         "title": "Mobile App Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1778797261,
         "date_posted": 1778796539,
         "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Mobile-App-Software-Developer_R_13562-1",
@@ -305520,7 +305500,7 @@
         "company_name": "KLA",
         "id": "47845071-b45b-4818-bd2f-0bdb0db3c2f6",
         "title": "Product Install Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1778796361,
         "date_posted": 1778796356,
         "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Chandler-AZ/Product-Install-Engineer---SWIFT-90--Travel_2635692-1",
@@ -305936,7 +305916,7 @@
         "company_name": "Jabil",
         "id": "632a2206-edcf-40b6-81b4-9853052b150f",
         "title": "Conversions Diagnostic Technician 1 - Server Side",
-        "active": true,
+        "active": false,
         "date_updated": 1778807662,
         "date_posted": 1778807392,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG300-Conversions-Diagnostic-Technician-I---402-Server-Side_J2449238",
@@ -308114,7 +308094,7 @@
         "company_name": "WeRide",
         "id": "c60fbddb-59b7-4fe9-96e9-5051db26fc59",
         "title": "New Grads - General Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1769028036,
         "date_posted": 1769028036,
         "url": "https://jobs.lever.co/weride/94562b95-f574-4a60-bfbf-0cafb5c8ea3d/apply",
@@ -308135,7 +308115,7 @@
         "company_name": "WeRide",
         "id": "59f8db17-8c82-4741-a2d5-802f1b969d2c",
         "title": "New Grads 2026 - Software Engineer - Algorithm",
-        "active": true,
+        "active": false,
         "date_updated": 1769028041,
         "date_posted": 1769028041,
         "url": "https://jobs.lever.co/weride/1dc0209a-f90b-4f1c-a614-75f5b7883e6d/apply",
@@ -308153,7 +308133,7 @@
         "company_name": "WeRide",
         "id": "2258ed49-6db7-4693-8fff-d59b54388302",
         "title": "New Grads - Software Engineer - Computer Vision",
-        "active": true,
+        "active": false,
         "date_updated": 1769028031,
         "date_posted": 1769028031,
         "url": "https://jobs.lever.co/weride/d87ddf51-0def-436f-a178-135481b88f96/apply",
@@ -309112,7 +309092,7 @@
         "company_name": "Cortland",
         "id": "db07f487-15be-49b6-a91a-f56c9d27a0b5",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779152761,
         "date_posted": 1779152739,
         "url": "https://job-boards.greenhouse.io/cortland/jobs/4215693009",
@@ -309253,7 +309233,7 @@
         "company_name": "Symbotic",
         "id": "5c4a7def-1af2-41c3-94ca-2c887fe55ef7",
         "title": "Software Engineer New Grad - Machine Learning Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1779153131,
         "date_posted": 1779152866,
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer---ML-Ops_R6028",
@@ -317474,7 +317454,7 @@
         "company_name": "Apple",
         "id": "06ebaf7f-56cf-4f55-9df5-2524506322cf",
         "title": "CAD Engineer - Physical Design Verification",
-        "active": true,
+        "active": false,
         "date_updated": 1779821101,
         "date_posted": 1778076629,
         "url": "https://jobs.apple.com/en-us/details/200658356",
@@ -321434,7 +321414,7 @@
         "company_name": "Apex Fintech Solutions",
         "id": "2bbd1cef-2113-4e70-b11d-af7ec1d16701",
         "title": "Software Engineer 1 - Aldp",
-        "active": true,
+        "active": false,
         "date_updated": 1779826685,
         "date_posted": 1779401109,
         "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/Software-Engineer-I--ALDP-_JR103501",
@@ -322093,7 +322073,7 @@
         "company_name": "Republic Services",
         "id": "5f21b93c-6d43-4ccd-b7e3-93aa61e4c3f3",
         "title": "Data Scientist 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779844706,
         "date_posted": 1779844181,
         "url": "https://republic.wd5.myworkdayjobs.com/Republic/job/Phoenix-AZ-USA/Data-Scientist-I_R-175645-1",
@@ -323298,7 +323278,7 @@
         "company_name": "TJX",
         "id": "0810d3d3-0a09-4266-9d3e-7449fe85f886",
         "title": "Online Trading Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1779874202,
         "date_posted": 1779873719,
         "url": "https://tjx.wd1.myworkdayjobs.com/tjx_external/job/Watford-HER-WD17-1TX/Online-Trading-Assistant--12-Months-FTC-_REQ122726",
@@ -330381,7 +330361,7 @@
         "company_name": "Albertsons",
         "id": "3a6ce788-9c5a-4ace-b30c-0a40950c8af9",
         "title": "Entry Level Front End Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780383722,
         "date_posted": 1780351759,
         "url": "https://eofd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/717646",
@@ -332291,7 +332271,7 @@
         "company_name": "Granite Construction",
         "id": "75cfca1b-5c5b-457f-a816-661ca2a54a37",
         "title": "Technology Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780439844,
         "date_posted": 1780438211,
         "url": "https://granite.wd1.myworkdayjobs.com/careers/job/Salt-Lake-City-Utah/Utah-Region-Technology-Associate_R0000007553",
@@ -332756,7 +332736,7 @@
         "company_name": "JP Morgan Chase",
         "id": "d5f6bf7c-9169-4eae-b7be-c899ce829212",
         "title": "Data Scientist Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780438697,
         "date_posted": 1780438032,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210746205",
@@ -333905,7 +333885,7 @@
         "company_name": "Charles Schwab",
         "id": "bd381b80-4687-43c3-9fe4-ef2137288973",
         "title": "Mutual Funds Trading Operations - Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1780479181,
         "date_posted": 1780438085,
         "url": "https://career-schwab.icims.com/jobs/122354/job?mobile=true&needsRedirect=false",
@@ -334874,7 +334854,7 @@
         "company_name": "KeyBank",
         "id": "fcecb223-de74-40d5-9fc3-3f0b7ea56f76",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780524687,
         "date_posted": 1780524348,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Associate-Software-Engineer_R-40048",
@@ -335363,7 +335343,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -335404,7 +335384,7 @@
         "company_name": "Forbes",
         "id": "ce0416e9-2073-426c-845d-43f0aad3d4e4",
         "title": "Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1780525544,
         "date_posted": 1775830944,
         "url": "https://job-boards.greenhouse.io/forbes/jobs/5841049004",
@@ -337378,7 +337358,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -337773,7 +337753,7 @@
         "company_name": "Amazon",
         "id": "162d256f-3803-427f-aca8-3966f9efc073",
         "title": "Data Collection Associate - V-Care",
-        "active": true,
+        "active": false,
         "date_updated": 1780668555,
         "date_posted": 1780668404,
         "url": "https://amazon.jobs/en/jobs/10440753/data-collection-associate-v-care",
@@ -337791,7 +337771,7 @@
         "company_name": "Amazon",
         "id": "d41455fd-d52b-4bb1-a1d6-5d36070b45d1",
         "title": "Install Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780697525,
         "date_posted": 1780697184,
         "url": "https://amazon.jobs/en/jobs/10428112/install-technician",
@@ -337889,7 +337869,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "57d5c67b-32fa-43c1-8fad-431a680e807e",
         "title": "Data Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780697525,
         "date_posted": 1780697189,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130569649",
@@ -339161,7 +339141,7 @@
         "company_name": "CPI Security",
         "id": "43395721-7ee3-4dcf-a055-689297c3edbb",
         "title": "Residential Installation Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780794636,
         "date_posted": 1780697232,
         "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4687294006",
@@ -340303,7 +340283,7 @@
         "company_name": "Thomson Reuters",
         "id": "6c3018a5-875d-4209-99cd-66202dfe188c",
         "title": "AI Engineer New Grad - Materia",
-        "active": true,
+        "active": false,
         "date_updated": 1780956799,
         "date_posted": 1780956338,
         "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-States-of-America-New-York-New-York/AI-Engineer--Materia--New-Grad---2026-_JREQ198096-1",
@@ -341576,7 +341556,7 @@
         "company_name": "EOS IT Solutions",
         "id": "0553744e-da0d-430e-9366-897f4008da27",
         "title": "Data Center Repair Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780967341,
         "date_posted": 1780967275,
         "url": "https://eosits.com/company/careers/?gh_jid=8569691002",
@@ -341725,7 +341705,7 @@
         "company_name": "Snap Finance",
         "id": "858cd1c4-c436-43bf-a86d-6e57d52454a4",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780985362,
         "date_posted": 1780985074,
         "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Arizona/Software-Engineer-I_R-2796",
@@ -342266,6 +342246,1172 @@
             "Andover, MA"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Public Service Enterprise Group",
+        "id": "b057bd16-1b4a-4306-8414-57d70ca5935b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042642,
+        "url": "https://jobs.pseg.com/job/Newark-Data-Scientist-NJ-07101/1398268700/?ats=successfactors",
+        "locations": [
+            "Newark, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Public-Service-Enterprise-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "89536b93-d68a-4fd8-8fe6-dd5094f395fb",
+        "title": "Graduate Software Engineer 1",
+        "active": true,
+        "date_updated": 1781043012,
+        "date_posted": 1781042640,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/London-United-Kingdom/Graduate-Software-Engineer-1_176762",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "4d742081-53a9-4a0d-ab2b-32800b7faeb8",
+        "title": "Senior Design Engineer",
+        "active": true,
+        "date_updated": 1781043819,
+        "date_posted": 1781042769,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Santa-Clara/Senior-Staff-Design-Engineer_JR-2602578",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA",
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Western Alliance",
+        "id": "b00373e5-54e1-4446-abe8-08744fbadc47",
+        "title": "Associate Foreign Exchange Sales Trader",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042725,
+        "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Boston-MA/Associate-Foreign-Exchange-Sales-Trader_R13232",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kantar",
+        "id": "fe9a5d14-b182-45d8-a0fc-fe9b5746f888",
+        "title": "Associate Analytics",
+        "active": true,
+        "date_updated": 1781043041,
+        "date_posted": 1781042659,
+        "url": "https://kantar.wd3.myworkdayjobs.com/kantar/job/Atlanta-Perimeter/Associate--Analytics_R101653",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kantar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "9c502fc0-2c84-42be-ae27-4675debe8c98",
+        "title": "Junior Application Engineer",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042722,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Junior-Application-Engineer_R5043352-1",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UTHealth Houston",
+        "id": "abb19bda-dee4-451d-9a99-8179a324d0c5",
+        "title": "App Sys Prog/Sys Analyst Assoc",
+        "active": true,
+        "date_updated": 1781043011,
+        "date_posted": 1781042639,
+        "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7085",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/UTHealth-Houston",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eliyan",
+        "id": "1e6137c8-e394-43c1-91f2-162cacb8337f",
+        "title": "Silicon & Photonics IC Validation - Test & Characterization Engineer",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042659,
+        "url": "https://jobs.lever.co/eliyan/4f033f5a-65ff-413f-b8b3-c24c5aeb7e6b/apply",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Eliyan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Werfen",
+        "id": "8de735cf-7207-4158-8b05-606819a843de",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042732,
+        "url": "https://careers-werfen.icims.com/jobs/10472/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Werfen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "30eb4d2d-e810-4b79-af7d-2d3eae8a12f8",
+        "title": "Software Development Analyst 1",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042726,
+        "url": "https://careers.huntingtoningalls.com/job/Pascagoula-SOFTWARE-DEVELOPMENT-ANALYST-1-Miss/1398284100/?ats=successfactors",
+        "locations": [
+            "Biloxi, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "c7dd8eae-b1be-46ed-84b3-672ff470574c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1781044410,
+        "date_posted": 1781042996,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-E01--2000-E-El-Segundo-Blvd--BLDG-E01/Software-Engineer-I_01845113",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Halma",
+        "id": "756f7f3f-3b5c-438b-9090-47949e1cd7b5",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042870,
+        "url": "https://halma.wd3.myworkdayjobs.com/Halma/job/Abingdon/Field-Service-Engineer_JR26_000528",
+        "locations": [
+            "Derby, UK",
+            "Stoke-on-Trent, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Halma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "6603bf40-09f9-4640-a778-987d6401a5ac",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042888,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072682",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Wolverine World Wide",
+        "id": "b60ab1e1-ac70-4d47-87a0-f8161414a5bd",
+        "title": "Online Trading Assistant",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042939,
+        "url": "https://wwwinc.wd1.myworkdayjobs.com/WWW/job/London/Online-Trading-Assistant---Merrell---12M-FTC_2026-10625",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wolverine-World-Wide",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "724fabe5-f0c8-4a21-b6ee-61ad06ba59a7",
+        "title": "Cybersecurity Analyst 1 - Artificial Intelligence",
+        "active": true,
+        "date_updated": 1781044064,
+        "date_posted": 1781042849,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Cybersecurity-Analyst-I---Artificial-Intelligence_R0030060",
+        "locations": [
+            "Lone Tree, CO",
+            "Sparks, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "908 Devices",
+        "id": "5de4f512-9b0b-4d12-ae38-6f86cecaaeb5",
+        "title": "Technical Service Engineer",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781043691,
+        "url": "https://908devices.com/career?gh_jid=6015435004",
+        "locations": [
+            "Danbury, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/908-devices",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Materion",
+        "id": "1737c2f8-e0b7-46c4-867c-2071a7676aaa",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1781043313,
+        "date_posted": 1781042773,
+        "url": "https://materion.wd5.myworkdayjobs.com/Materion/job/Westford-MA/Product-Engineer_2026-R8332",
+        "locations": [
+            "Westford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Materion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "ISS | Institutional Shareholder Services",
+        "id": "e4c3b9cf-bffb-484d-9f32-1102dea6e9e2",
+        "title": "Index Research & Development Analyst - ESG/Sustainability",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042994,
+        "url": "https://issgovernance.wd1.myworkdayjobs.com/isscareers/job/London-UK/Index-Research---Development-Analyst--ESG-Sustainability-_JR_9870",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ISS-STOXX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "e9b81a8a-c755-4f15-9067-cca59868d339",
+        "title": "Residential Service Technician",
+        "active": true,
+        "date_updated": 1781043811,
+        "date_posted": 1781042766,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020708",
+        "locations": [
+            "Springfield, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Gulfstream",
+        "id": "da44bcd9-b460-43e3-a073-8eb4a778435e",
+        "title": "Aircraft Painter 1",
+        "active": true,
+        "date_updated": 1781043290,
+        "date_posted": 1781042752,
+        "url": "https://careers.gulfstream.com/job/Savannah-Acft-Painter-I-GA-31401/1398155900/?ats=successfactors",
+        "locations": [
+            "Savannah, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Gulfstream",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Maine System",
+        "id": "d863f3ab-0c48-41f5-bc64-bc833eff1b1e",
+        "title": "Postdoctoral Research Associate",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042688,
+        "url": "https://fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2820",
+        "locations": [
+            "Bangor, ME"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Maine-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "de446fba-c793-4a13-afbc-0aa4a0c3ee0e",
+        "title": "Field Service 1 Technician",
+        "active": true,
+        "date_updated": 1781044018,
+        "date_posted": 1781042838,
+        "url": "https://external-canoncareers.icims.com/jobs/34488/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "7062845e-d5c8-4170-bd46-48a76ef0c503",
+        "title": "Tools and Application Developer",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042723,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Tools-and-Application-Developer_R5044181-1",
+        "locations": [
+            "Greenville, SC",
+            "Bengaluru, Karnataka, India",
+            "Sant Cugat del Vall\u00e8s, Barcelona, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UW Health",
+        "id": "466dce99-f1eb-43d6-af31-384820da12f4",
+        "title": "Revenue Cycle Analyst 1",
+        "active": true,
+        "date_updated": 1781044087,
+        "date_posted": 1781042860,
+        "url": "https://eimy.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/48504",
+        "locations": [
+            "Middleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/UW-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AeroVironment",
+        "id": "434c9c80-4456-4305-a84d-3cde82ac73ad",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042949,
+        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/WPAFB/Entry-Level-Software-Engineer_7888",
+        "locations": [
+            "Dayton, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/AeroVironment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "1fab9d95-fb23-4cf7-81a3-5673b074bb9a",
+        "title": "Software Engineer - Software Engineer I",
+        "active": true,
+        "date_updated": 1781044409,
+        "date_posted": 1781042995,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/XMLNAME-2026-Raytheon-Full-Time---Software-Engineer-I---Tucson--AZ--Hybrid-_01848436",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AAA Club Alliance",
+        "id": "c6d53078-6281-4aca-ac2a-f308b8c57196",
+        "title": "Associate Guidewire BillingCenter Developer",
+        "active": true,
+        "date_updated": 1781043220,
+        "date_posted": 1781042734,
+        "url": "https://ace.wd5.myworkdayjobs.com/careers/job/Coppell-TX-Remote/Associate-Guidewire-BillingCenter-Developer_JR202637071",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AAA-Club-Alliance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "5ce68e2e-0a22-457f-92e3-65066069f82e",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042883,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0072681",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bose",
+        "id": "b9fe86b3-9c62-49fa-8137-0d4b93673399",
+        "title": "PCB Solder Technician 1",
+        "active": true,
+        "date_updated": 1781044607,
+        "date_posted": 1781042840,
+        "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Binghamton/Solder-Technician-I_R29023",
+        "locations": [
+            "Binghamton, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Bose",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "b8d19a1b-fe40-4bd1-ad28-7a1d34c85eb5",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781043002,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Huntington-Beach-CA/Entry-Level-Software-Engineer---Developer_JR2026506063-1",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AbbVie",
+        "id": "873a1b68-16d7-4dc8-a08b-f103bb651abe",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1781043188,
+        "date_posted": 1781042726,
+        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013536586",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AbbVie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "77c08508-bc7e-4146-8592-00f57389832f",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1781043313,
+        "date_posted": 1781042765,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3020666",
+        "locations": [
+            "Madison Heights, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "7dc83b5b-57bd-4e45-9be1-ff539d64d16d",
+        "title": "Junior Applications Engineer",
+        "active": true,
+        "date_updated": 1781043165,
+        "date_posted": 1781042719,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Rugby/Junior-Application-Engineer_R5043352-2",
+        "locations": [
+            "Rugby, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cox",
+        "id": "d0da6dfb-12bc-4775-b847-0d07256a65bc",
+        "title": "Entry Level Data Engineer",
+        "active": true,
+        "date_updated": 1781044175,
+        "date_posted": 1781042887,
+        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Engineer-I---11361_R202678512",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Daimler Truck",
+        "id": "458d227a-29f0-42c6-a5d3-71533cbcaade",
+        "title": "Implementation and Coordination Engineer 1",
+        "active": true,
+        "date_updated": 1781043979,
+        "date_posted": 1781042824,
+        "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Implementation-and-Coordination-Engineer-I_DT-18297-1",
+        "locations": [
+            "Portland, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Daimler-Truck",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "43139347-8eba-4241-aae4-918a178525c1",
+        "title": "Engineer New Grad - ASIC Design - Starshield",
+        "active": true,
+        "date_updated": 1781044076,
+        "date_posted": 1781042858,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8583065002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "8f73cb7b-0405-4482-97df-f0487ab256c2",
+        "title": "Data Designer 1",
+        "active": true,
+        "date_updated": 1781043420,
+        "date_posted": 1781042981,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Designer-I_R_1474917",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "WellSky",
+        "id": "556015f7-3453-4e21-9a58-ec1f87daa5d8",
+        "title": "Data Operations Analyst",
+        "active": true,
+        "date_updated": 1781042761,
+        "date_posted": 1781042754,
+        "url": "https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Overland-Park-KS/Data-Operations-Analyst_JR4597",
+        "locations": [
+            "Boston, MA",
+            "Overland Park, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/WellSky",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "9fa3261f-21c2-4784-8835-5cb5660fc109",
+        "title": "Software Engineer 1/2",
+        "active": true,
+        "date_updated": 1781044315,
+        "date_posted": 1781042976,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/GAWR03GC/Engineer-Software-T1-T2_R10235745",
+        "locations": [
+            "Warner Robins, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Entergy",
+        "id": "9f4206b5-342f-4005-83c4-9f6e6b0a21e5",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042852,
+        "url": "https://jobs.entergy.com/job/New-Orleans-Data-Scientist-Loui/1398250100/?ats=successfactors",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Entergy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NOV",
+        "id": "85f7c79b-51f9-41aa-ab27-504e76874c81",
+        "title": "Service Technician - Downhole Tools - Tool Training",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042877,
+        "url": "https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/42067",
+        "locations": [
+            "Clarksburg, WV"
+        ],
+        "company_url": "https://simplify.jobs/c/NOV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Niagara Bottling",
+        "id": "f7046c7e-2d7c-473c-a7bf-76ce9f709273",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1781044346,
+        "date_posted": 1781042985,
+        "url": "https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Corp-Main---Diamond-Bar-CA/Systems-Engineer-I_R54815-1",
+        "locations": [
+            "Walnut, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Niagara-Bottling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of America",
+        "id": "de7c996f-30fb-4606-9f84-5cb0ea6ba29e",
+        "title": "Data Scientist 1 - Fraud Model Governance",
+        "active": true,
+        "date_updated": 1781044308,
+        "date_posted": 1781042979,
+        "url": "https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Data-Scientist-I----Fraud-Model-Governance_26019387",
+        "locations": [
+            "Boston, MA",
+            "Tampa, FL",
+            "Plano, TX",
+            "Newark, NJ",
+            "Chicago, IL",
+            "Charlotte, NC",
+            "Fort Worth, TX",
+            "Phoenix, AZ",
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Bank-Of-America",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PNC Financial Services",
+        "id": "d4f39119-a4b4-4324-8e8f-e86ea1795889",
+        "title": "Senior Reporting Analyst",
+        "active": true,
+        "date_updated": 1781044373,
+        "date_posted": 1781042991,
+        "url": "https://pnc.wd5.myworkdayjobs.com/External/job/Downtown-Orlando---Pine-Street-FL239/Reporting-Analyst-Sr_R224746-1",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Robert Bosch Venture Capital",
+        "id": "c2cf5ed2-2084-49ae-a86e-aba3c2969ed5",
+        "title": "Rotational Development Program - Software Engineer - Power Solutions",
+        "active": true,
+        "date_updated": 1781043313,
+        "date_posted": 1781042812,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131227160",
+        "locations": [
+            "Southfield, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Leonardo",
+        "id": "bb6f1075-27ec-45a1-8205-9dc357c882cd",
+        "title": "Defence Analytics Engineer",
+        "active": true,
+        "date_updated": 1781043313,
+        "date_posted": 1781042768,
+        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---London---Whitehall/Defence-Analytics-Engineer_R0030382",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Leonardo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "ae757f06-5a38-43d3-81dd-beebff28e765",
+        "title": "Entry-Level Software Engineer",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781043013,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Entry-Level-Software-Engineer---Developer_JR2026506063-2",
+        "locations": [
+            "Huntington Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Danaher Corporation",
+        "id": "73ecb617-979e-4f2f-9dbf-ec6a6ee464b1",
+        "title": "Product Engineer 1",
+        "active": true,
+        "date_updated": 1781044069,
+        "date_posted": 1781042856,
+        "url": "https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Pensacola-Florida-United-States/Product-Engineer-I_R1312619",
+        "locations": [
+            "Pensacola, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Danaher-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vertiv",
+        "id": "176e48c7-7797-497a-a4a8-dc98c751e719",
+        "title": "Electrical Testing Technician",
+        "active": true,
+        "date_updated": 1781043880,
+        "date_posted": 1781042786,
+        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20274277",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "16a486bb-7b8b-4623-aa93-8c631c266294",
+        "title": "Associate Computer Systems Analyst - Linux",
+        "active": true,
+        "date_updated": 1781044021,
+        "date_posted": 1781042978,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Melbourne-FL_R10235619",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NVIDIA",
+        "id": "a81209b2-4977-46bc-aab8-0a3f47a2ce3f",
+        "title": "GPU Architect \u2013 New College Grad",
+        "active": true,
+        "date_updated": 1781053946,
+        "date_posted": 1781053717,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architect---New-College-Grad-2026_JR2019445",
+        "locations": [
+            "California",
+            "Santa Clara, CA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "FluidStack",
+        "id": "83145e5f-6fe0-4398-9ced-5ffaed026d6e",
+        "title": "Level 1 Data Center Technician",
+        "active": true,
+        "date_updated": 1781054534,
+        "date_posted": 1781053761,
+        "url": "https://jobs.ashbyhq.com/fluidstack/eddc2d81-1f1e-45e6-ba67-54bc64431a75/application",
+        "locations": [
+            "Lubbock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Fluidstack",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SpaceX",
+        "id": "ab5425fe-34cf-4b24-ace3-73fdb7eb3b44",
+        "title": "Software Engineer - Test Infrastructure - Application Software",
+        "active": true,
+        "date_updated": 1781053741,
+        "date_posted": 1781053721,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8585072002",
+        "locations": [
+            "West Athens, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "1995623f-8e76-4000-a296-e7c737caff44",
+        "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
+        "active": true,
+        "date_updated": 1781053741,
+        "date_posted": 1781053662,
+        "url": "https://kla.wd1.myworkdayjobs.com/search/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711-1",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Internet Brands",
+        "id": "18788f91-db0c-454b-bf56-c658db940ecc",
+        "title": "Associate AI Software Engineer",
+        "active": true,
+        "date_updated": 1781054292,
+        "date_posted": 1781053789,
+        "url": "https://jobs.jobvite.com/internetbrands/job/o5zbAfw9?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KLA Corporation",
+        "id": "4e49b75b-8d0c-4303-9116-f609c29b3324",
+        "title": "Software Engineer - Embedded Software/Firmware Development - Embedded Image Processing",
+        "active": true,
+        "date_updated": 1781053741,
+        "date_posted": 1781053631,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Ann-Arbor-MI/Software-Engineer---Embedded-Software-Firmware-Development---Embedded-Image-Processing--_2636711",
+        "locations": [
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Semtech",
+        "id": "6484f1f6-5a5d-4015-959c-f018f4567aaa",
+        "title": "Field Application Engineer - Semiconductor",
+        "active": true,
+        "date_updated": 1781053561,
+        "date_posted": 1781053517,
+        "url": "https://semtech.wd1.myworkdayjobs.com/SemtechCareers/job/USA---San-Jose-CA/Field-Application-Engineer_REQ3375-1",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Semtech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
