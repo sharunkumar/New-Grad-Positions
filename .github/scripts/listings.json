@@ -84022,7 +84022,7 @@
         "company_name": "Shield AI",
         "id": "9f626991-8396-479f-af83-2f161feb45ad",
         "title": "Production Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1761727211,
         "date_posted": 1761727211,
         "url": "https://jobs.lever.co/shieldai/efe94990-c80b-45b6-949b-71dde71235d2/apply",
@@ -151767,7 +151767,7 @@
         "company_name": "ElevenLabs",
         "id": "2cd12ae6-328a-40e8-8e17-4086d0867044",
         "title": "Full-Stack Engineer - Front-End Leaning",
-        "active": true,
+        "active": false,
         "date_updated": 1770284606,
         "date_posted": 1761876499,
         "url": "https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde/application",
@@ -191954,7 +191954,7 @@
         "company_name": "Amentum",
         "id": "4b830373-a5a7-4d7b-a90d-8ee073dae27d",
         "title": "Configuration and Data Management Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1772235916,
         "date_posted": 1772235916,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-TX-Houston/Configuration-and-Data-Management-Specialist_R0153108-1",
@@ -209382,7 +209382,7 @@
         "company_name": "The Boeing Company",
         "id": "5c0beedb-e9a6-4ed9-833c-0c816e820c8f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773183944,
         "date_posted": 1773183944,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177-1",
@@ -224664,7 +224664,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -302507,7 +302507,7 @@
         "company_name": "Xylem",
         "id": "6e1ab503-d24a-4f56-b0d5-b405d71812c1",
         "title": "RMA Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1778710157,
         "date_posted": 1778710076,
         "url": "https://xylem.wd5.myworkdayjobs.com/en-US/xylem-careers/job/Morrisville-North-Carolina-Office/RMA-Technician_R47596-1",
@@ -327391,7 +327391,7 @@
         "company_name": "Micron Technology",
         "id": "91e88b6e-4599-4579-afc5-ee3cb7fc6c65",
         "title": "Electrical Engineer New Grad - Design Engineer - Pathfinding Design",
-        "active": false,
+        "active": true,
         "date_updated": 1779960026,
         "date_posted": 1779529133,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Folsom-CA/New-College-Grad---Design-Engineer---Pathfinding-Design_JR92326",
@@ -330878,7 +330878,7 @@
         "company_name": "General Motors",
         "id": "95fe52bd-6718-4467-a2b0-76f1071db57d",
         "title": "Software Developer - Test Framework",
-        "active": false,
+        "active": true,
         "date_updated": 1780352904,
         "date_posted": 1780351604,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/Early-Career-Software-Developer---Test-Framework_JR-202612062",
@@ -330920,7 +330920,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -331246,7 +331246,7 @@
         "company_name": "CoStar Group",
         "id": "654a8203-8795-40c6-92f5-76afc4273093",
         "title": "Associate Research Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1780390666,
         "date_posted": 1780134807,
         "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Richmond/Associate-Research-Consultant_R38934",
@@ -331969,7 +331969,7 @@
         "company_name": "GE Vernova",
         "id": "1b2b5b4a-949b-4edb-8037-121231136bed",
         "title": "Configuration Management Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780438987,
         "date_posted": 1780438054,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Engineer---Configuration-Management_R5039305-2",
@@ -332088,7 +332088,7 @@
         "company_name": "AHEAD",
         "id": "2fa4c836-7d24-4820-ae2c-9da8b36fc885",
         "title": "Product Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780439406,
         "date_posted": 1780438087,
         "url": "https://jobs.lever.co/thinkahead/e7ad3413-bcb6-4c19-9632-89ad7b5e5146/apply",
@@ -334564,7 +334564,7 @@
         "company_name": "The Boeing Company",
         "id": "0be4feab-dce5-48d8-9ee9-18a72c189fd9",
         "title": "Entry Level Configuration Management Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780525942,
         "date_posted": 1780524714,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Configuration-Management-Engineer--Associate---Level-1-2_JR2026512830-1",
@@ -335693,7 +335693,7 @@
         "company_name": "EOS IT Solutions",
         "id": "855cf417-5df9-460c-b32b-283c5e2350b6",
         "title": "Graduate Data Centre Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780564254,
         "date_posted": 1780564005,
         "url": "https://eosits.com/company/careers/?gh_jid=8578282002",
@@ -338553,7 +338553,7 @@
         "company_name": "Shield AI",
         "id": "9e16bae3-42bd-4813-b204-92e215b8b529",
         "title": "Engineer 1 - Electrical Integration & Test",
-        "active": true,
+        "active": false,
         "date_updated": 1780708262,
         "date_posted": 1780707976,
         "url": "https://jobs.lever.co/shieldai/49d0cfc6-952f-42b6-ad6c-630597a1780a/apply",
@@ -339645,7 +339645,7 @@
         "company_name": "GE Healthcare",
         "id": "0f965ade-d8a0-42be-a1dd-cc2ff518efb6",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780906751,
         "date_posted": 1780437968,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1--Central-IL-_R4041220-1",
@@ -340673,7 +340673,7 @@
         "company_name": "University of Arkansas",
         "id": "2b58866e-0bee-4fc4-81c4-8bbfbd225c71",
         "title": "AI Researcher - Y. Ramena",
-        "active": true,
+        "active": false,
         "date_updated": 1780956613,
         "date_posted": 1780956240,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-x-2---Y-Ramena_R0086658",
@@ -341299,7 +341299,7 @@
         "company_name": "Medtronic",
         "id": "0c284bcc-c9cc-466b-885c-28792e767178",
         "title": "Associate Product Specialist - Allografts",
-        "active": false,
+        "active": true,
         "date_updated": 1780960236,
         "date_posted": 1780956579,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Allografts--Onsite-_R69128",
@@ -341339,7 +341339,7 @@
         "company_name": "The Boeing Company",
         "id": "68c36b5f-faa2-4c9d-9281-100cac93734f",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780958162,
         "date_posted": 1780956645,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177",
@@ -341665,7 +341665,7 @@
         "company_name": "Guidewire",
         "id": "26c16d82-bbf0-4710-9c0b-056a9c652215",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780967426,
         "date_posted": 1780967182,
         "url": "https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -341685,7 +341685,7 @@
         "company_name": "Guidewire",
         "id": "c63b87e8-84a1-4497-b097-99f150e6b23b",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780985226,
         "date_posted": 1780985153,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---San-Mateo-CA/Software-Engineer---Cloud_JR_14588",
@@ -343417,5 +343417,346 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "9024937e-47a0-43ad-aabc-0be1f2c5cbcb",
+        "title": "Associate Software Engineer - F-22 Pilot Training Simulation",
+        "active": true,
+        "date_updated": 1781071921,
+        "date_posted": 1781071786,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Associate-Software-Engineer---F-22-Pilot-Training-Simulation_JR2026511190-1",
+        "locations": [
+            "St. Louis, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Red Hat",
+        "id": "89a06fb6-ce2f-4407-a53a-6752877ecc5d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1781071741,
+        "date_posted": 1781071709,
+        "url": "https://redhat.wd5.myworkdayjobs.com/jobs/job/Raleigh/Software-Engineer_R-057505",
+        "locations": [
+            "Boston, MA",
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Hat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Boeing Company",
+        "id": "632429bf-dd15-43da-8394-fafe85ed874e",
+        "title": "Associate Software Engineer - F-22 Pilot Training Simulation",
+        "active": true,
+        "date_updated": 1781071921,
+        "date_posted": 1781071784,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Software-Engineer---F-22-Pilot-Training-Simulation_JR2026511190",
+        "locations": [
+            "St. Louis, MO",
+            "Hazelwood, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "2b4c4943-333c-4ff9-b71d-d050acdcd963",
+        "title": "GIS Technologist 1",
+        "active": true,
+        "date_updated": 1781071936,
+        "date_posted": 1781071735,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Cincinnati-OH/GIS-Technologist-I_R40082",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dutch",
+        "id": "183cfb1c-1bc1-441e-bbd0-5f1a5220c9da",
+        "title": "Front-End Engineer - Shopify - Vue.js",
+        "active": true,
+        "date_updated": 1781079481,
+        "date_posted": 1779833225,
+        "url": "https://jobs.lever.co/dutch/bbbd283b-2632-4ad1-8d43-87b072e247c5/apply",
+        "locations": [
+            "Oakland, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dutch",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ElevenLabs",
+        "id": "36feec19-d2ff-4a75-aa63-52340e2b4181",
+        "title": "Full-Stack Engineer - Back-End Leaning",
+        "active": true,
+        "date_updated": 1781080201,
+        "date_posted": 1761896736,
+        "url": "https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f/application",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ElevenLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "281d456a-7a99-4168-bca5-f4afe8dbf3d0",
+        "title": "Module Development Engineer - Advanced Packaging",
+        "active": true,
+        "date_updated": 1781080269,
+        "date_posted": 1780956453,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Module-Development-Engineer--Adv-Packaging-_JR0284566",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Further",
+        "id": "9ff1a230-52f7-4f03-91a4-1263445491ec",
+        "title": "Graduate Leadership Program - AI/Data Engineer",
+        "active": true,
+        "date_updated": 1781083275,
+        "date_posted": 1781083110,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384023002",
+        "locations": [
+            "Cleveland, OH",
+            "Dallas, TX",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Further",
+        "id": "1779c6f7-900e-4cab-8205-1cd90b9853c7",
+        "title": "Entry Level Software Developer \u2013 Graduate Leadership Program",
+        "active": true,
+        "date_updated": 1781083275,
+        "date_posted": 1781083110,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8384012002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fuze Health",
+        "id": "7d8768dc-f8bf-486b-bcea-cb2578964f69",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1781082556,
+        "date_posted": 1781082468,
+        "url": "https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fuze-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Authorium",
+        "id": "4fcc1403-63ec-409f-9fda-0bac3a85749d",
+        "title": "Software Enginner New Grad",
+        "active": true,
+        "date_updated": 1781082870,
+        "date_posted": 1781082372,
+        "url": "https://jobs.ashbyhq.com/Authorium/e9384068-af40-47b2-83cf-ec76fd8b7222/application",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Authorium",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "577dcb97-a713-4148-9c16-5becd2155d62",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781083245,
+        "date_posted": 1781082858,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7621174003",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cerebras",
+        "id": "17ec9274-c605-4514-b596-258398b0ec07",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781083255,
+        "date_posted": 1781082858,
+        "url": "https://boards.greenhouse.io/embed/job_app?token=7731286003",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brink",
+        "id": "6955ffaa-10b0-4234-99e4-81d00fe1ab9d",
+        "title": "ATM Technician",
+        "active": true,
+        "date_updated": 1781082252,
+        "date_posted": 1779527356,
+        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Albany-NY/ATM-Technician_R72778",
+        "locations": [
+            "Albany, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Brink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Confluence Technologies",
+        "id": "5af2268a-ff2d-4b13-b566-d3b9f116ae9c",
+        "title": "Data Engineer Associate - Data Platform - Data Pipelines",
+        "active": true,
+        "date_updated": 1781082868,
+        "date_posted": 1781082374,
+        "url": "https://confluence.pinpointhq.com/en/postings/fcbb93f0-38bb-42ba-8f6e-e0141576d0d7?ats=pinpointhq",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Boston, MA",
+            "Toronto, ON, Canada",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluence-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Confluence Technologies",
+        "id": "42d98db9-45a7-44a3-8523-8592fa082317",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1781082556,
+        "date_posted": 1781082374,
+        "url": "https://confluence.pinpointhq.com/en/postings/08e3100e-587f-49b2-be68-98aec8233668?ats=pinpointhq",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Boston, MA",
+            "Toronto, ON, Canada",
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Confluence-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh & McLennan",
+        "id": "e33227af-dba6-4917-83fe-2c821f05e691",
+        "title": "Enrollment Executive",
+        "active": true,
+        "date_updated": 1781083235,
+        "date_posted": 1781082814,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Mumbai---Times-Square/Enrollment-Executive_R_351117-1",
+        "locations": [
+            "Mumbai, Maharashtra, India",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
