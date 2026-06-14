@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TD Bank",
-        "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
-        "title": "Machine Learning Engineer 1 - Analytics, Insights, & Artificial Intelligence",
-        "active": false,
-        "date_updated": 1761562534,
-        "date_posted": 1760715869,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1451546",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "1c7ef8a6-9671-484a-ad0a-a49cd0017a61",
-        "title": "Software Engineer 1 - Multiple Teams",
-        "active": false,
-        "date_updated": 1760719408,
-        "date_posted": 1760719408,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/9036b899-743b-4106-9357-ef6892405703/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
         "id": "c3667ce0-dab1-4854-9eb2-e84de76af042",
@@ -11559,7 +11521,7 @@
         "company_name": "Leidos",
         "id": "de6e3580-a3fb-4a6a-b4af-bd24bb0e1f6c",
         "title": "PCBA Soldering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1762915565,
         "date_posted": 1762915565,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309",
@@ -34696,42 +34658,6 @@
             "Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Palo Alto Networks",
-        "id": "fcc2a73a-6301-4708-93f9-855f2947458e",
-        "title": "Cortex \u2013 Backend - Software Engineer",
-        "active": false,
-        "date_updated": 1760725739,
-        "date_posted": 1760725739,
-        "url": "https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000088587601",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Palo-Alto-Networks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Standard Aero",
-        "id": "f170b851-5b39-4722-98b2-46a29ef0d856",
-        "title": "ERP Software Developer - Navixa",
-        "active": false,
-        "date_updated": 1762912383,
-        "date_posted": 1760722670,
-        "url": "https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7946",
-        "locations": [
-            "St. John's, NL, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Standard-Aero",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -240451,7 +240377,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1774986841,
         "date_posted": 1774649130,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012380987",
@@ -303417,7 +303343,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -303639,7 +303565,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -318895,7 +318821,7 @@
         "company_name": "Harvard University",
         "id": "8ff9f7a3-dcc0-41fc-921c-3637e2f3a14a",
         "title": "Research Associate - General",
-        "active": false,
+        "active": true,
         "date_updated": 1779826685,
         "date_posted": 1779689072,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990013259557",
@@ -324953,7 +324879,7 @@
         "company_name": "University of Arkansas",
         "id": "b9bcf351-5da5-411a-9194-d85ff25786a8",
         "title": "Graduate Assistant - Information Science",
-        "active": true,
+        "active": false,
         "date_updated": 1779961464,
         "date_posted": 1779527543,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/Graduate-Assistant---Information-Science_R0062021",
@@ -325646,7 +325572,7 @@
         "company_name": "Brink",
         "id": "a999a49c-402d-44ce-b35b-d60c89144761",
         "title": "ATM Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1780274470,
         "date_posted": 1780131751,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Baton-Rouge-LA/ATM-Technician_R72782",
@@ -344426,7 +344352,7 @@
         "company_name": "CAI",
         "id": "8a849022-9763-4117-a1c4-04369a4fe47b",
         "title": "Image Verifier - Neurodiverse Solutions",
-        "active": false,
+        "active": true,
         "date_updated": 1781170299,
         "date_posted": 1781129230,
         "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/PA-CLIENT-STATE/Image-Verifier--Neurodiverse-Solutions_R7277",
@@ -344446,7 +344372,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "81fd3d67-ad59-407d-be3f-f9a0a2079e0d",
         "title": "Research Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781170673,
         "date_posted": 1780927748,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Research-Assistant-I-position_JR97041",
@@ -345275,7 +345201,7 @@
         "company_name": "Western Digital",
         "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168528,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000129015575",
@@ -348468,7 +348394,7 @@
         "company_name": "GE Healthcare",
         "id": "7ea8709d-abf1-41e7-bae5-ca9fe500d00d",
         "title": "Field Service Engineer 1 Nuclear/CT/PETCT",
-        "active": true,
+        "active": false,
         "date_updated": 1781342231,
         "date_posted": 1781215608,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-Nuclear-CT-PETCT---Salt-Lake-City--UT_R4042221-1",
@@ -349012,6 +348938,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Withum",
+        "id": "9b7de8ac-9ec0-4667-b20c-edcde5abe3f0",
+        "title": "Healthcare Claims Analyst",
+        "active": true,
+        "date_updated": 1781427028,
+        "date_posted": 1781426428,
+        "url": "https://job-boards.greenhouse.io/withumsmithbrown/jobs/8459137002",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Withum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
