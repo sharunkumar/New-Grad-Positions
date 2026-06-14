@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Relativity Space",
-        "id": "4eac7c2a-8806-47f7-b8b5-0a246114ef9f",
-        "title": "Avionics Hardware Engineer I",
-        "active": false,
-        "date_updated": 1760696898,
-        "date_posted": 1760696898,
-        "url": "https://boards.greenhouse.io/relativity/jobs/8216139002",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Relativity-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Safran",
-        "id": "95ba2214-0efb-46cc-ad00-4e847dfe8208",
-        "title": "Junior Full-Stack Software Engineer - Geospatial AI",
-        "active": false,
-        "date_updated": 1760703408,
-        "date_posted": 1760703408,
-        "url": "https://safransed.bamboohr.com/careers/1039/",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Safran",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "TD Bank",
         "id": "398629a0-aa3d-427e-a254-4b1d6613f219",
@@ -34832,24 +34792,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Electronic Arts",
-        "id": "38c7a686-8605-4d92-8bc0-5f48660cf0bc",
-        "title": "Data Scientist Mobile Growth",
-        "active": false,
-        "date_updated": 1760705438,
-        "date_posted": 1760705438,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Data-Scientist-Mobile-Growth/209775",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "GCI",
         "id": "f1caabd3-91eb-4819-bc4d-c9655823d096",
@@ -34862,78 +34804,6 @@
             "Anchorage, AK"
         ],
         "company_url": "https://simplify.jobs/c/GCI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AeroVironment",
-        "id": "b3d65a68-e1e4-478f-917c-b2414d65732e",
-        "title": "Data Management Analyst 1 - Data Management - Analyst I",
-        "active": false,
-        "date_updated": 1762939974,
-        "date_posted": 1760698465,
-        "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Data-Management--DM--Analyst-I_6035",
-        "locations": [
-            "Simi Valley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AeroVironment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "bc4ab905-742d-4579-af6b-1718352d9080",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1760697991,
-        "date_posted": 1760697991,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/jobs/job/400029235",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Zoox",
-        "id": "63b2b431-dd8a-4ed5-8d8d-ae9abcc4878a",
-        "title": "Part-Time Software Engineer - 6-month Contract",
-        "active": false,
-        "date_updated": 1760695614,
-        "date_posted": 1760695614,
-        "url": "https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b/apply",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Internet Brands",
-        "id": "e9519531-f06a-4e2f-88fa-887a59071350",
-        "title": "Associate AI Research & Operations Analyst",
-        "active": false,
-        "date_updated": 1762816371,
-        "date_posted": 1760693494,
-        "url": "https://jobs.jobvite.com/internetbrands/job/ogizyfwp?nl=1&nl=1&fr=false",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Internet-Brands",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -239353,7 +239223,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1774972621,
         "date_posted": 1774256481,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255036",
@@ -334226,7 +334096,7 @@
         "company_name": "Concept Plus",
         "id": "2fef259f-7eea-4f01-83b4-de47794fec0d",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780612625,
         "date_posted": 1780610995,
         "url": "https://ats.rippling.com/conceptplus/jobs/916978a4-fa79-4f6e-9eb6-515aa1cf3fb5",
@@ -338344,7 +338214,7 @@
         "company_name": "University of Arkansas",
         "id": "2b58866e-0bee-4fc4-81c4-8bbfbd225c71",
         "title": "AI Researcher - Y. Ramena",
-        "active": false,
+        "active": true,
         "date_updated": 1780956613,
         "date_posted": 1780956240,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/University-of-Arkansas-at-Pine-Bluff/Extra-Help-AI-Researcher-x-2---Y-Ramena_R0086658",
@@ -341357,7 +341227,7 @@
         "company_name": "Brink",
         "id": "6955ffaa-10b0-4234-99e4-81d00fe1ab9d",
         "title": "ATM Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781082252,
         "date_posted": 1779527356,
         "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Albany-NY/ATM-Technician_R72778",
@@ -348520,7 +348390,7 @@
         "company_name": "Illinois Tool Works",
         "id": "35708d64-1246-4079-ac1f-e8143ac02952",
         "title": "Systems Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781339479,
         "date_posted": 1781330866,
         "url": "https://careers.itw.com/global/en/job/JR8466",
