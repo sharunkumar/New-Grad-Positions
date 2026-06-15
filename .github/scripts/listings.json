@@ -1,106 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
-        "title": "Software Engineer 1",
-        "active": true,
-        "date_updated": 1760765120,
-        "date_posted": 1760765120,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "3b14d946-f1a3-4591-8149-a54cb9fbd609",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "date_updated": 1761923501,
-        "date_posted": 1760773536,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7501719003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "ff10df50-35b8-47c4-8138-ff9083746abf",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": false,
-        "date_updated": 1760775318,
-        "date_posted": 1760775318,
-        "url": "https://jobs.lever.co/veeva/54f473e7-f225-44b3-beb7-b5d50403fe02/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "4f0ce480-21ee-4bdb-a42b-efac41ad8e1a",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": true,
-        "date_updated": 1760776171,
-        "date_posted": 1760776171,
-        "url": "https://jobs.lever.co/veeva/907dccc7-0052-41e9-920b-28e5ba6aaba9/apply",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "221f4f27-c95d-4fa4-98c1-bbb7b8aa79aa",
-        "title": "Associate Software Engineer \u2013 Seeking 2025 & 2026 Grads",
-        "active": true,
-        "date_updated": 1760776181,
-        "date_posted": 1760776181,
-        "url": "https://jobs.lever.co/veeva/8fe22df0-02b4-453d-919c-c8998cf913f6/apply",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "c2981a89-e31a-4a64-9ffb-529384a1de21",
@@ -1807,26 +1707,6 @@
         "date_posted": 1761948657,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "d3bdb070-74f3-4fe0-ad6a-508f9dc3d75a",
-        "title": "Associate Software Engineer \u2013 Seeking 2026 Grads",
-        "active": false,
-        "date_updated": 1761845900,
-        "date_posted": 1760775310,
-        "url": "https://jobs.lever.co/veeva/52ba79af-1086-457d-b5d2-8e184f111ffd/apply",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -24303,7 +24183,7 @@
         "company_name": "TikTok",
         "id": "c89cddfc-ea4d-453c-91cd-3f9293e56a32",
         "title": "Software Engineer Graduate - Data Arch - Data Ecosystem",
-        "active": false,
+        "active": true,
         "date_updated": 1763120754,
         "date_posted": 1761909291,
         "url": "https://lifeattiktok.com/search/7527441329384147208",
@@ -25366,7 +25246,7 @@
         "company_name": "TikTok",
         "id": "f65a57de-c5dd-4b3b-bfdf-5331d7a423c8",
         "title": "Software Engineer Graduate - Data Arch - AI/ML Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1761902300,
         "date_posted": 1761902300,
         "url": "https://lifeattiktok.com/search/7535215880842791176",
@@ -25564,7 +25444,7 @@
         "company_name": "TikTok",
         "id": "504f0b08-afb2-4964-b3cd-5dee1937b1ad",
         "title": "Frontend Software Engineer - Global CRM Platform",
-        "active": false,
+        "active": true,
         "date_updated": 1761902270,
         "date_posted": 1761902270,
         "url": "https://lifeattiktok.com/search/7104433489986734350",
@@ -28858,7 +28738,7 @@
         "company_name": "TikTok",
         "id": "775950e7-6a55-4b1e-8404-d552f09b1618",
         "title": "Creative Product Operations Graduate - International Advertising - Creative and Brand Innovation",
-        "active": false,
+        "active": true,
         "date_updated": 1761777059,
         "date_posted": 1761777059,
         "url": "https://lifeattiktok.com/search/7538828742874122504",
@@ -33723,46 +33603,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IQVIA",
-        "id": "92a99d6d-8a5c-4200-a7b5-a9c155d29da6",
-        "title": "Field Service Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1760781897,
-        "date_posted": 1760781897,
-        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/St-Louis-MO/Field-Service-Engineer---Entry-Level_R1504158-1",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/IQVIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ABB",
-        "id": "0e12176e-6aed-4e30-ad17-3df271c22c84",
-        "title": "R&D Early Career Program",
-        "active": false,
-        "date_updated": 1760781404,
-        "date_posted": 1760781404,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2026-Cohort_JR00009935",
-        "locations": [
-            "Florence, SC",
-            "Richmond, VA",
-            "Memphis, TN",
-            "Mebane, NC",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Veeva Systems",
         "id": "6770055a-7548-4e7b-bd26-7cda7d1b59b8",
@@ -33781,60 +33621,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veeva Systems",
-        "id": "5a05b3b2-2805-4fa2-9f98-6346f0932a5d",
-        "title": "Marketing Analytics - Data Analyst - Adp",
-        "active": true,
-        "date_updated": 1760775379,
-        "date_posted": 1760775379,
-        "url": "https://jobs.lever.co/veeva/28c47d34-3ad6-4485-85a9-686b4239b9ea/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Veeva Systems",
-        "id": "5e87eb4b-25a6-4c78-b01a-897e3f2a26b3",
-        "title": "Associate Software Engineer in Test",
-        "active": true,
-        "date_updated": 1762923291,
-        "date_posted": 1760775258,
-        "url": "https://jobs.lever.co/veeva/eea03b21-0e9e-467b-957d-31ba416b4016/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeva-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Millennium Space Systems",
-        "id": "2766f94e-a35e-4317-8790-09d4d4c68201",
-        "title": "ATLO Engineer",
-        "active": false,
-        "date_updated": 1760769336,
-        "date_posted": 1760769336,
-        "url": "https://job-boards.greenhouse.io/millenniumspacesystems/jobs/4889516008",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Millennium-Space-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "John Deere",
         "id": "55d619b8-ec17-40a7-bc2c-de799d1a8355",
@@ -33847,44 +33633,6 @@
             "Langley, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ivy Tech Community College",
-        "id": "a1224952-98d3-45bf-8684-b4575a7b8857",
-        "title": "Lab Technician",
-        "active": false,
-        "date_updated": 1762912162,
-        "date_posted": 1760764557,
-        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Lafayette-IN/Part-Time-Lab-Tech--School-of-Information-Technology_JR0000100813",
-        "locations": [
-            "West Lafayette, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ivy Tech Community College",
-        "id": "cfc711d3-0668-4f50-a7e8-765c18b59259",
-        "title": "Information Technology Lab Technician - IT Lab",
-        "active": false,
-        "date_updated": 1762910408,
-        "date_posted": 1760764261,
-        "url": "https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/East-Chicago-IN/Information--Technology-Lab-Tech_JR0000105753",
-        "locations": [
-            "Hobart, IN",
-            "Markham, IL",
-            "Merrillville, IN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ivy-Tech-Community-College",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -33953,7 +33701,7 @@
         "company_name": "TikTok",
         "id": "8b0f0a57-c19a-494c-9a6e-02dbae9af63b",
         "title": "Graduate Research Scientist Generative AI - Intelligent Creation",
-        "active": false,
+        "active": true,
         "date_updated": 1762916610,
         "date_posted": 1761902269,
         "url": "https://lifeattiktok.com/search/7517442299329300754",
@@ -39868,7 +39616,7 @@
         "company_name": "TikTok",
         "id": "7a8c16e6-b29e-441d-9635-d193fe1c96fa",
         "title": "Software Engineer Graduate - 2026 Start",
-        "active": false,
+        "active": true,
         "date_updated": 1761902303,
         "date_posted": 1761902303,
         "url": "https://lifeattiktok.com/search/7531175534148045063",
@@ -124144,7 +123892,7 @@
         "company_name": "TikTok",
         "id": "691d2914-24b3-4473-8d84-3ea9c6d4ee39",
         "title": "Technical Support Engineer - Android/iOS SDK",
-        "active": false,
+        "active": true,
         "date_updated": 1769048068,
         "date_posted": 1769048068,
         "url": "https://lifeattiktok.com/search/7443902253976570120",
@@ -147148,7 +146896,7 @@
         "company_name": "ServiceNow",
         "id": "8d79ff45-51ed-42e1-b0b3-d64480b0290a",
         "title": "Associate Software Engineer - Core Infrastructure - Moveworks",
-        "active": false,
+        "active": true,
         "date_updated": 1770246694,
         "date_posted": 1770246694,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000107370955",
@@ -219251,7 +218999,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -237469,7 +237217,7 @@
         "company_name": "TikTok",
         "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
         "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1774919992,
         "date_posted": 1774919590,
         "url": "https://lifeattiktok.com/search/7594895259798325557",
@@ -238448,7 +238196,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "5a03e922-9be2-4e12-9821-b01d8c92b5e6",
+        "id": "35bdadb3-6dd8-4e23-b36d-a34aa8762510",
         "title": "Uncertainty Quantification for Surrogate Models Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774972621,
@@ -239676,7 +239424,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -247091,7 +246839,7 @@
         "company_name": "TikTok",
         "id": "f22da764-7308-4324-b842-8abee0e14c08",
         "title": "Graduate Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1775092752,
         "date_posted": 1775092373,
         "url": "https://lifeattiktok.com/search/7533384972704778514",
@@ -252436,7 +252184,7 @@
         "company_name": "TikTok",
         "id": "c9ab7f92-f6ec-42d1-b42e-d04835febdf0",
         "title": "Graduate Research Scientist - Global E-commerce Content Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1775629392,
         "date_posted": 1775628705,
         "url": "https://lifeattiktok.com/search/7521987177107589384",
@@ -258224,7 +257972,7 @@
         "company_name": "TikTok",
         "id": "bbc379c0-51e1-4215-ac1f-d18e1fc7c9f8",
         "title": "Graduate Machine Learning Engineer - Data Search TikTok",
-        "active": false,
+        "active": true,
         "date_updated": 1775870768,
         "date_posted": 1775869916,
         "url": "https://lifeattiktok.com/search/7515277586445322503",
@@ -263344,7 +263092,7 @@
         "company_name": "TikTok",
         "id": "f6f93c70-242c-4186-a7d2-07dd6a45694b",
         "title": "Machine Learning Engineer Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1776216795,
         "date_posted": 1776215468,
         "url": "https://lifeattiktok.com/search/7534641634584185095",
@@ -263383,7 +263131,7 @@
         "company_name": "TikTok",
         "id": "d125b509-7258-4a04-9220-92198ed2d7e5",
         "title": "Machine Learning Engineer Graduate - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1776216795,
         "date_posted": 1776215464,
         "url": "https://lifeattiktok.com/search/7534641209890588946",
@@ -267594,7 +267342,7 @@
         "company_name": "TikTok",
         "id": "cd59c8ab-bb78-4dc8-bd88-7203bb950533",
         "title": "Research Scientist - LLM Applications on Search/Ads/Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1776406321,
         "date_posted": 1776406269,
         "url": "https://lifeattiktok.com/search/7629235064786127109",
@@ -267614,7 +267362,7 @@
         "company_name": "TikTok",
         "id": "ac4a0664-7251-4c89-828b-5bf31a2ce87d",
         "title": "Research Scientist - E-commerce Recommendation - LLM Applications",
-        "active": false,
+        "active": true,
         "date_updated": 1776406321,
         "date_posted": 1776406270,
         "url": "https://lifeattiktok.com/search/7629184028664563973",
@@ -268570,7 +268318,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": true,
+        "active": false,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -283911,7 +283659,7 @@
         "company_name": "ServiceNow",
         "id": "ebda1cc1-7eda-446d-9c79-91bae02fa310",
         "title": "Associate Software Engineer - Core Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1777500361,
         "date_posted": 1777500252,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000123803504",
@@ -285225,7 +284973,7 @@
         "company_name": "Western Digital",
         "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1777586761,
         "date_posted": 1777586631,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
@@ -299098,7 +298846,7 @@
         "company_name": "Western Digital",
         "id": "5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778707982,
         "date_posted": 1778623482,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126151504",
@@ -299855,7 +299603,7 @@
         "source": "Simplify",
         "category": "Software",
         "company_name": "ServiceNow",
-        "id": "ce260f13-eca8-4ce4-b243-d56296546ce9",
+        "id": "b3ed9e95-62a3-4499-b1b0-38840f1f4711",
         "title": "Software Engineer - Agentic AI Systems - Moveworks",
         "active": true,
         "date_updated": 1778720941,
@@ -302644,7 +302392,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -302866,7 +302614,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -302908,7 +302656,7 @@
         "company_name": "TikTok",
         "id": "b474b399-bc4e-4fed-a690-7c62e696ab51",
         "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": false,
+        "active": true,
         "date_updated": 1775025181,
         "date_posted": 1775024592,
         "url": "https://lifeattiktok.com/search/7550790814831511815",
@@ -310330,7 +310078,7 @@
         "company_name": "TikTok",
         "id": "a25655df-6e19-4c64-8b24-e85f531e94db",
         "title": "Graduate Machine Learning Scientist - Global E-commerce Content Recommendation",
-        "active": false,
+        "active": true,
         "date_updated": 1776417190,
         "date_posted": 1776416990,
         "url": "https://lifeattiktok.com/search/7553175919394638087",
@@ -316161,7 +315909,7 @@
         "company_name": "Western Digital",
         "id": "cbc6aac8-b358-411d-941e-1be5063055df",
         "title": "Wafer Manufacturing Equipment Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779822183,
         "date_posted": 1779718197,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
@@ -320433,7 +320181,7 @@
         "company_name": "Wabtec",
         "id": "58d0b6ca-a9a4-477a-a725-e2d3da87d7b8",
         "title": "Product Support Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1779872657,
         "date_posted": 1779872657,
         "url": "https://jobs.smartrecruiters.com/Wabtec/3743990012585977",
@@ -327504,7 +327252,7 @@
         "company_name": "Best Buy",
         "id": "4b18438a-8486-404c-bf8c-951ed22c7e5d",
         "title": "Representative - Field Technical Service Representative - Des services techniques \u00e0 domicile",
-        "active": true,
+        "active": false,
         "date_updated": 1780352915,
         "date_posted": 1780351608,
         "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11967-LaSalle/Reprsentant-e--des-services-techniques--domicile--Temps-plein----Field-Technical-Service-Representative--Full-Time-_R-50722",
@@ -332111,7 +331859,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -336348,7 +336096,7 @@
         "company_name": "Johnson & Johnson",
         "id": "4ff50867-f282-4038-9e52-4ae5ef1dede6",
         "title": "R&D Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1780899121,
         "date_posted": 1780898871,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raynham-Massachusetts-United-States-of-America/R-D-Applications_R-078334-1",
@@ -336625,7 +336373,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
+        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -337499,7 +337247,7 @@
         "company_name": "Medtronic",
         "id": "c525e0aa-a347-49c1-b32d-72025fc21e9f",
         "title": "Product Engineer 1 - AiBLE Cranial & Spinal Technologies",
-        "active": true,
+        "active": false,
         "date_updated": 1780960371,
         "date_posted": 1780956577,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Lafayette-Colorado-United-States-of-America/Product-Engineer-I---AiBLE-CST---Remote-within-USA_R66948",
@@ -341073,7 +340821,7 @@
         "company_name": "Qorvo",
         "id": "051453da-6119-49e5-ba0c-150b4d284359",
         "title": "IC Substrate Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781100737,
         "date_posted": 1781100453,
         "url": "https://careers.qorvo.com/job/Greensboro-IC-Substrate-Development-Engineer-NC-27409/1398411000/?ats=successfactors",
@@ -342371,7 +342119,7 @@
         "company_name": "TikTok",
         "id": "98d9b4b0-6fc1-4d5a-bc87-f9fa53c75a5c",
         "title": "Data Scientist Graduate - TikTok Shop DS",
-        "active": false,
+        "active": true,
         "date_updated": 1773093233,
         "date_posted": 1773093233,
         "url": "https://lifeattiktok.com/search/7535381998677739784",
@@ -344500,7 +344248,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "1557a19a-986c-4ab5-a485-a5febb3f17fd",
+        "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
         "active": true,
         "date_updated": 1781170202,
@@ -346586,7 +346334,7 @@
         "company_name": "Phillips 66",
         "id": "e75ce752-4d23-47b5-b042-15ebc556d68b",
         "title": "Advisor 1 - Data Science - Product Optimization",
-        "active": true,
+        "active": false,
         "date_updated": 1781273661,
         "date_posted": 1781273187,
         "url": "https://careers.phillips66.com/job/Houston-Advisor-I,-Product-Optimization-(Data-Science)-TX-77042/1383744700/?ats=successfactors",
@@ -348227,7 +347975,7 @@
         "company_name": "Vermont Information Processing",
         "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
         "title": "Product Marketing Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781418364,
         "date_posted": 1781302996,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
@@ -348343,5 +348091,234 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intuit",
+        "id": "55a00559-28b9-41bc-b6dc-cda5714e2846",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1780076703,
+        "date_posted": 1776118194,
+        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/87369448720",
+        "locations": [
+            "NYC",
+            "Mountain View, CA",
+            "Atlanta, GA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intuit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "f624cacf-5cd8-42ea-bc15-38f980bc6e29",
+        "title": "CV/NLP/Multimodal LLM Research Scientist Graduate - Trust and Safety",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503934,
+        "url": "https://lifeattiktok.com/search/7517106896071903496",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e40f133a-71ab-472d-8ef3-4d156379450f",
+        "title": "Graduate Research Scientist - Multiple Teams",
+        "active": true,
+        "date_updated": 1781504993,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7517105710544161032",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d19126c7-186e-4d14-ae4d-756c4d86041d",
+        "title": "CV/NLP/Multimodal Large Language Model Engineer Graduate - TikTok Trust and Safety - BS/MS",
+        "active": true,
+        "date_updated": 1781504993,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7517099008936397064",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "edd1cb2c-2893-4e90-8f8f-af97ec4a0012",
+        "title": "Graduate Research Scientist - Tiktok Recommendation",
+        "active": true,
+        "date_updated": 1781505960,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7532216894792222994",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "aecaab63-3c94-4ada-9860-efdc777ef42f",
+        "title": "General Hire \u2013 Research Scientist Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503900,
+        "url": "https://lifeattiktok.com/search/7516697804673190151",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e1f9f14d-1ffd-4469-b6ad-b476b4d55152",
+        "title": "Graduate Research Scientist - Tiktok Recommendation-Agentic AI",
+        "active": true,
+        "date_updated": 1781504974,
+        "date_posted": 1781503891,
+        "url": "https://lifeattiktok.com/search/7523144222812408071",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a17e8180-27b9-4820-969b-796affdeddb3",
+        "title": "Data Scientist - TikTok Live",
+        "active": true,
+        "date_updated": 1781504821,
+        "date_posted": 1781503905,
+        "url": "https://lifeattiktok.com/search/7389873473475479817",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "63b0ab3f-3419-4c66-98d1-4d51309dafb7",
+        "title": "Graduate Research Scientist - Trust and Safety",
+        "active": true,
+        "date_updated": 1781504998,
+        "date_posted": 1781503918,
+        "url": "https://lifeattiktok.com/search/7530772847212644616",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "cba3f10a-54b4-46e8-b274-6000b2fccc5a",
+        "title": "Machine Learning Engineer Graduate - TikTok Recommendation",
+        "active": true,
+        "date_updated": 1781505006,
+        "date_posted": 1781503935,
+        "url": "https://lifeattiktok.com/search/7518139910798215442",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bb7aa421-4cfb-4baa-9fc0-bea49fa9b593",
+        "title": "CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety",
+        "active": true,
+        "date_updated": 1781504958,
+        "date_posted": 1781503888,
+        "url": "https://lifeattiktok.com/search/7517107684337748242",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
