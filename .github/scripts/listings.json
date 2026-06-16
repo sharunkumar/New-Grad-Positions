@@ -218889,7 +218889,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "c5e96a2e-51ca-43d8-aa10-231b3cdc5e3f",
         "title": "ERP Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773871479,
         "date_posted": 1773871479,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000115491098",
@@ -228561,7 +228561,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "6da32510-fa69-4006-9384-77f9878f49dd",
         "title": "Product Management Specialist - Diablo/Freud Tools",
-        "active": false,
+        "active": true,
         "date_updated": 1773757034,
         "date_posted": 1773757034,
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114994315",
@@ -268208,7 +268208,7 @@
         "company_name": "Arthur Grand Technologies",
         "id": "f75f0ef0-4976-4878-ac6d-176ddeea0c1c",
         "title": "Syteline ERP Support",
-        "active": false,
+        "active": true,
         "date_updated": 1776463381,
         "date_posted": 1776463360,
         "url": "https://jobs.smartrecruiters.com/ArthurGrandTechnologiesInc/744000121473057",
@@ -268402,7 +268402,7 @@
         "company_name": "First National Bank",
         "id": "819eeba7-630b-4172-b599-40a946a5614b",
         "title": "Investment Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1776463921,
         "date_posted": 1776463773,
         "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Hermitage-PA/Investment-Analyst-1_2026-00936",
@@ -284863,7 +284863,7 @@
         "company_name": "Western Digital",
         "id": "678b8d7f-ebd1-46c2-810e-369033816a7e",
         "title": "Software Engineer - Apps",
-        "active": false,
+        "active": true,
         "date_updated": 1777586761,
         "date_posted": 1777586631,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000124012539",
@@ -298736,7 +298736,7 @@
         "company_name": "Western Digital",
         "id": "5e02390a-cb89-4c3e-bcb5-d9ef5ed73f13",
         "title": "Software Engineer - Apps & Firmware",
-        "active": false,
+        "active": true,
         "date_updated": 1778707982,
         "date_posted": 1778623482,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126151504",
@@ -302282,7 +302282,7 @@
         "company_name": "Western Digital",
         "id": "d3dfea1b-c649-4bb7-a956-377922e3f9be",
         "title": "Software Engineer - Apps & Firmware",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807100,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126593979",
@@ -302504,7 +302504,7 @@
         "company_name": "Western Digital",
         "id": "b278496b-e98d-485e-b9f2-d14b9bc4ffef",
         "title": "Software Engineer - Apps",
-        "active": true,
+        "active": false,
         "date_updated": 1778807168,
         "date_posted": 1778807101,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000126594220",
@@ -315799,7 +315799,7 @@
         "company_name": "Western Digital",
         "id": "cbc6aac8-b358-411d-941e-1be5063055df",
         "title": "Wafer Manufacturing Equipment Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779822183,
         "date_posted": 1779718197,
         "url": "https://jobs.smartrecruiters.com/WesternDigital/744000127757317",
@@ -331117,7 +331117,7 @@
         "company_name": "Cambridge Associates",
         "id": "2ab6e308-075f-4f22-bc2c-89d060ae07bd",
         "title": "Investment Analyst - Hedge Funds",
-        "active": true,
+        "active": false,
         "date_updated": 1780525451,
         "date_posted": 1780524626,
         "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst--Hedge-Funds_JR0000270",
@@ -335908,7 +335908,7 @@
         "company_name": "Tesla",
         "id": "bec609da-553d-44eb-86bf-8d2ed96264de",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1780824369,
         "date_posted": 1780824026,
         "url": "https://www.tesla.com/careers/search/job/271843",
@@ -337705,7 +337705,7 @@
         "company_name": "Medtronic",
         "id": "0c284bcc-c9cc-466b-885c-28792e767178",
         "title": "Associate Product Specialist - Allografts",
-        "active": true,
+        "active": false,
         "date_updated": 1780960236,
         "date_posted": 1780956579,
         "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Memphis-Tennessee-United-States-of-America/Associate-Product-Specialist---Allografts--Onsite-_R69128",
@@ -344138,7 +344138,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
-        "id": "6a1f8feb-f570-4d70-bb2e-9c27c5dea55c",
+        "id": "1557a19a-986c-4ab5-a485-a5febb3f17fd",
         "title": "Hardware Development Engineer - Wafer Optical Metrology",
         "active": true,
         "date_updated": 1781170202,
@@ -348250,5 +348250,221 @@
         "date_posted": 1781590639,
         "company_url": "",
         "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "f92c4648-8678-4153-9046-05983c760ad9",
+        "title": "Computational Materials Scientist - Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638695,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990013644337",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ryan",
+        "id": "31d11edc-b830-484f-b2bc-faae10a84958",
+        "title": "Associate Data Engineer - AI/ML",
+        "active": true,
+        "date_updated": 1781641082,
+        "date_posted": 1781639263,
+        "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Associate-Data-Engineer_R0017873",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ryan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "1f6bee99-9cca-467c-a0b3-899d61139a03",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781638785,
+        "date_posted": 1781638660,
+        "url": "https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EXL",
+        "id": "f9825cd4-5a5a-4643-a150-970091875b43",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1781639160,
+        "date_posted": 1781638680,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15785",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EXL",
+        "id": "6236ac4d-5ee0-4387-826e-421f82138b79",
+        "title": "Junior Developer",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638690,
+        "url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/15730",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/EXL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Palantir",
+        "id": "1f372754-6b14-48cf-8c8f-f0cf5c56ae82",
+        "title": "Deployment Strategist New Grad - Intel - US Government",
+        "active": true,
+        "date_updated": 1781639118,
+        "date_posted": 1781638658,
+        "url": "https://jobs.lever.co/palantir/5d8286d6-992a-404b-94af-99c173d40299/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Louisiana State University (LSU)",
+        "id": "6501c31e-355f-48ec-beeb-f97a308d4278",
+        "title": "Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638576,
+        "url": "https://lsu.wd1.myworkdayjobs.com/LSU/job/Argonne-National-Laboratory/Postdoctoral-Researcher_R00116543",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Louisiana-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Palantir",
+        "id": "f6f83b45-cf4c-4a3e-8f32-4c64672610a1",
+        "title": "Forward Deployed Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1781638770,
+        "date_posted": 1781638668,
+        "url": "https://jobs.lever.co/palantir/cbe90327-3e6e-451c-a54c-1d3cbcef5aeb/apply",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Palantir",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northside Hospital",
+        "id": "463c058a-22e8-40d0-a453-02ad426e2c59",
+        "title": "Environmental Services Tech Lead",
+        "active": true,
+        "date_updated": 1781638741,
+        "date_posted": 1781638620,
+        "url": "https://careers-northside.icims.com/jobs/108763/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northside-Hospital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "EPIC Insurance Brokers & Consultants",
+        "id": "3a9edbd2-f846-4e4b-bde5-20faac386bfa",
+        "title": "Product & Case Design Coordinator - Life Insurance",
+        "active": true,
+        "date_updated": 1781642284,
+        "date_posted": 1780611314,
+        "url": "https://job-boards.greenhouse.io/edgewoodpartnersinsurancecenter/jobs/8573885002",
+        "locations": [
+            "Boca Raton, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/EPIC-Insurance-Brokers-And-Consultants",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BrightAI",
+        "id": "88f5a6f1-62c1-4a91-bf47-30e41b086fde",
+        "title": "Computer Vision Engineer",
+        "active": true,
+        "date_updated": 1781641082,
+        "date_posted": 1779326281,
+        "url": "https://job-boards.greenhouse.io/brightai/jobs/6002012004",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BrightAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
