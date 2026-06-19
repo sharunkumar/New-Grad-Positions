@@ -32417,24 +32417,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Stripe",
-        "id": "7976909a-f482-4a74-983f-25d80417dbf7",
-        "title": "Software Engineer - Payouts",
-        "active": false,
-        "date_updated": 1761158510,
-        "date_posted": 1761158510,
-        "url": "https://stripe.com/jobs/search?gh_jid=7208537",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "JP Morgan Chase",
         "id": "dc5d5724-00b8-4e6f-8ee3-5fdd0456fe8b",
         "title": "Technology Support Senior Specialist",
@@ -54072,7 +54054,7 @@
         "company_name": "RWS",
         "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
         "title": "AI Data Specialist - Georgia - US",
-        "active": true,
+        "active": false,
         "date_updated": 1763766945,
         "date_posted": 1763766945,
         "url": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
@@ -234541,7 +234523,7 @@
         "company_name": "GE Healthcare",
         "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
         "title": "Field Service Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1774693218,
         "date_posted": 1774693218,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
@@ -322752,7 +322734,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -326989,7 +326971,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -345888,7 +345870,7 @@
         "company_name": "CHA Consulting",
         "id": "085c3f22-fa66-40ec-8325-eeae8844d634",
         "title": "Engineering Technician - Bridge Team",
-        "active": true,
+        "active": false,
         "date_updated": 1781301961,
         "date_posted": 1781301930,
         "url": "https://jobs-challp.icims.com/jobs/7697/job?mobile=true&needsRedirect=false",
@@ -350085,7 +350067,7 @@
         "company_name": "Northrop Grumman",
         "id": "3a24dd9f-82e9-4b0b-ae1d-f2084e7a92b8",
         "title": "AI Software Engineer - Level 2 or 3",
-        "active": true,
+        "active": false,
         "date_updated": 1781648501,
         "date_posted": 1781639446,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/AI-Engineer-Software--Level-2-or-3-_R10236090-1",
@@ -351730,7 +351712,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1859c6d1-7f1e-41e0-bd52-e92de5ec88d5",
         "title": "Analyst Leverage Finance Trading",
-        "active": true,
+        "active": false,
         "date_updated": 1781707987,
         "date_posted": 1781707201,
         "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Analyst--Leverage-Finance-Trading_R-0000177113-2",
@@ -353787,7 +353769,7 @@
         "company_name": "CVS Health",
         "id": "078d035b-c338-49be-ab38-3e466fba59fc",
         "title": "InnoTech Leadership Development Program - Conversion",
-        "active": true,
+        "active": false,
         "date_updated": 1781821832,
         "date_posted": 1781820548,
         "url": "https://cvshealth.wd1.myworkdayjobs.com/Private_Postings_Intern_Conversion_ONLY/job/CT---Hartford/InnoTech-Leadership-Development-Program--Conversion-_R0938675",
@@ -354567,7 +354549,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -355434,5 +355416,147 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Euronext",
+        "id": "75579fb2-1954-42b9-af73-33352d8cd36c",
+        "title": "Index Structurer",
+        "active": true,
+        "date_updated": 1781878330,
+        "date_posted": 1781878112,
+        "url": "https://hrhub.wd3.myworkdayjobs.com/Euronext_Career_Page/job/London/Index-Structurer--VIE-_R27226",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Euronext",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PIMCO",
+        "id": "746805fc-c4a4-4947-a1d2-05472f648692",
+        "title": "Client Solutions & Analytics: Quantitative Research Analyst",
+        "active": true,
+        "date_updated": 1781878862,
+        "date_posted": 1781878332,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/Quantitative-Research-Analyst_R106487",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "a96e051e-0011-414a-ac15-bede853f8700",
+        "title": "Equipment Systems Application Engineer 1",
+        "active": true,
+        "date_updated": 1781879102,
+        "date_posted": 1781878439,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Greenville-Wisconsin-United-States-of-America/Equipment-Systems-Application-Engineer-I_WD30272609",
+        "locations": [
+            "Appleton, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collabera",
+        "id": "bcf08b96-64aa-4c99-9f28-24529effab82",
+        "title": "Information Specialist 1 Recent Grad",
+        "active": true,
+        "date_updated": 1781878416,
+        "date_posted": 1781878026,
+        "url": "https://jobs.smartrecruiters.com/Collabera2/92924693",
+        "locations": [
+            "Waukegan, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Collabera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Prosidian Consulting",
+        "id": "bc64bb85-2707-4882-92eb-adf177b0ada8",
+        "title": "Analyst 1 - Advisory - And Consulting",
+        "active": true,
+        "date_updated": 1781878397,
+        "date_posted": 1781878004,
+        "url": "https://jobs.smartrecruiters.com/prosidianconsulting/744000054185841",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/ProSidian-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Idexcel",
+        "id": "bb732165-6b1c-499b-82b9-aaacc8eda685",
+        "title": "Engineer",
+        "active": true,
+        "date_updated": 1781878330,
+        "date_posted": 1781877865,
+        "url": "https://jobs.smartrecruiters.com/Idexcel3/104328430",
+        "locations": [
+            "Worcester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Idexcel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSX",
+        "id": "6cf76770-8c6b-43a0-b4e9-32f7e726f4b7",
+        "title": "Technology Leadership Development Associate - Artificial Intelligence - Automation or Data Science Focus",
+        "active": true,
+        "date_updated": 1781860681,
+        "date_posted": 1770073874,
+        "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/53991",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CSX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
