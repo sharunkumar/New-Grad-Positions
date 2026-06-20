@@ -38,7 +38,7 @@
 <td>API Software Development Engineer 1</td>
 <td>Stamford, CT</br>Charlotte, NC</br>Alpharetta, GA</td>
 <td><div align="center"><a href="https://synchronyfinancial.wd5.myworkdayjobs.com/careers/job/Stamford-Engagement-Hub-CT/API-Software-Development-Engineer---I_2601817?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/209e60d7-b96b-416f-b67c-ab7fc9448615?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/KBR?utm_source=GHList&utm_medium=company">KBR</a></strong></td>
@@ -87,7 +87,7 @@
 <td>NLM Software Engineer 1</td>
 <td>Bethesda, MD</td>
 <td><div align="center"><a href="https://lexical.bamboohr.com/careers/73/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ce1541f7-9a61-42c0-a010-de52ed8698a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Boeing?utm_source=GHList&utm_medium=company">The Boeing Company</a></strong></td>
@@ -157,7 +157,7 @@
 <td>Software Engineer 1</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/axon/jobs/7690510003?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/135c5ccd-f27d-427c-b564-06e09bf3b886?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Collective?utm_source=GHList&utm_medium=company">Collective</a></strong></td>
@@ -241,14 +241,14 @@
 <td>Software Engineer 1</td>
 <td>Cardiff, UK</td>
 <td><div align="center"><a href="https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Cardiff/Software-Engineer-I_R112653-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1c9356a0-8f0b-43b6-acc9-3466330cc6c9?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Mthree?utm_source=GHList&utm_medium=company">mthree</a></strong></td>
 <td>C++ Junior Software Developer</td>
 <td>United Kingdom</td>
 <td><div align="center"><a href="https://mthree.com/careers/job/?gh_jid=4686871006&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a001d159-2489-4255-a863-93cc6e3d178a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Further?utm_source=GHList&utm_medium=company">Further</a></strong></td>
@@ -311,7 +311,7 @@
 <td>Software Engineer 1</td>
 <td>Broomfield, CO</td>
 <td><div align="center"><a href="https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/US-CO-Broomfield/Software-Engineer-I_R18788?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/353f3195-ac34-42c7-8ae2-2956421933e4?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Nuro?utm_source=GHList&utm_medium=company">Nuro</a></strong></td>
@@ -797,13 +797,6 @@
 <td>3mo</td>
 </tr>
 <tr>
-<td><strong>Baton Corporation</strong></td>
-<td>Junior Full Stack Engineer</td>
-<td>New York, NY</td>
-<td><a href="https://jobs.ashbyhq.com/batoncorporation/bb3ab630-5e59-48b5-9794-00a225879a66?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/G5Bzlx3.png" width="100" alt="Apply"></a></td>
-<td>4mo</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/NOV?utm_source=GHList&utm_medium=company">NOV</a></strong></td>
 <td>Product Engineer 1</td>
 <td>Houston, TX</td>
@@ -976,7 +969,7 @@
 
 
 <details>
-<summary>🗃️ Inactive roles (5)</summary>
+<summary>🗃️ Inactive roles (6)</summary>
 
 <table style="width: 100%; border-collapse: collapse;">
 <thead>
@@ -990,11 +983,18 @@
 </thead>
 <tbody>
 <tr>
+<td><strong>Baton Corporation</strong></td>
+<td>Junior Full Stack Engineer</td>
+<td>New York, NY</td>
+<td>🔒</td>
+<td>4mo</td>
+</tr>
+<tr>
 <td><strong>Oklo</strong></td>
 <td>Junior Software Engineer</td>
 <td>Santa Clara, CA</br>Remote in USA</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>Sentra</strong></td>
@@ -1390,7 +1390,7 @@
 <td>Data Scientist I - Hybrid</td>
 <td>New York, NY</td>
 <td>🔒</td>
-<td>5mo</td>
+<td>6mo</td>
 </tr>
 <tr>
 <td><strong>Magical</strong></td>

@@ -1,406 +1,5 @@
 [
     {
-        "date_updated": 1763027857,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Alexandria-VA/Backend-Developer_R0228366",
-        "company_name": "Booz Allen",
-        "title": "Backend Developer",
-        "locations": [
-            "Alexandria, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1c1962f9-d61d-4bb6-a3c6-6be914fbc4a6",
-        "date_posted": 1761210278,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761841278,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://aes.wd1.myworkdayjobs.com/en-US/AES_US/job/US-Indianapolis-IN/Junior-Data-Scientist_R1061631",
-        "company_name": "AES Corporation",
-        "title": "Junior Data Scientist",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "73d20479-a9e7-43df-a7a2-7e0b5ba585ec",
-        "date_posted": 1761210817,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762272324,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.smxtech.com/jobs/smxtech/junior-data-scientist-4755/",
-        "company_name": "SMX",
-        "title": "Junior Data Scientist",
-        "locations": [
-            "Patuxent River, MD"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "64670896-ca74-4a3f-82be-ae7f2fc0ec6d",
-        "date_posted": 1761211000,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761211393,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://www.citadelsecurities.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
-        "company_name": "Citadel Securities",
-        "title": "Quantitative Research Engineer",
-        "locations": [
-            "Miami, FL",
-            "New York, NY"
-        ],
-        "category": "Quantitative Finance",
-        "source": "Simplify",
-        "id": "00c2f102-60e5-4ef5-84c6-4515f2459a86",
-        "date_posted": 1761211393,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1765480295,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Edinburgh-SC-Freer/Associate-Engineer--Embedded-Software_R257164",
-        "company_name": "Analog Devices",
-        "title": "Associate Engineer, Embedded Software",
-        "locations": [
-            "Edinburgh, SC, UK"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "cf0f8d2d-ba56-4f2c-83e7-2e978574cbd6",
-        "date_posted": 1761211699,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761245215,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://logitech.wd5.myworkdayjobs.com/en-US/logitech/job/San-Jose-California---USA/Junior-Software-QA-Engineer_144324",
-        "company_name": "Logitech",
-        "title": "Junior Software QA Engineer",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "464f43ed-d9e1-4b22-9f15-0b32b482d844",
-        "date_posted": 1761211981,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761924333,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://pwc.wd3.myworkdayjobs.com/en-US/us_experienced_careers/job/GA-Atlanta/Cloud-Security-Experienced-Associate_671668WD-1",
-        "company_name": "PricewaterhouseCoopers (PwC)",
-        "title": "Cloud Security Experienced Associate",
-        "locations": [
-            "Atlanta, GA",
-            "Tampa, FL",
-            "Chicago, IL",
-            "Austin, TX",
-            "Washington, DC",
-            "Dallas, TX",
-            "Los Angeles, CA",
-            "Minneapolis, MN",
-            "Denver, CO",
-            "Detroit, MI",
-            "Boston, MA",
-            "Florham Park, NJ",
-            "New York, NY",
-            "San Francisco, CA",
-            "Silicon Valley, CA",
-            "Philadelphia, PA",
-            "Seattle, WA",
-            "Houston, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "fba2b1de-c490-4133-8e6c-186c281e59b2",
-        "date_posted": 1761212221,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763378043,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4608642006",
-        "company_name": "SharkNinja",
-        "title": "Software Development Testing Engineer I",
-        "locations": [
-            "Needham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "50028f47-431d-46d7-95a9-cc5d269c8348",
-        "date_posted": 1761212532,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762272194,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://fis.wd5.myworkdayjobs.com/en-US/SearchJobs/job/US-FL-JAX-347/Entry-Level-Technical-Systems-Analyst---Must-have-knowledge-of-Linux--Unix--and-Windows--Open-_JR0298762",
-        "company_name": "FIS",
-        "title": "Entry Level Technical Systems Analyst - Cloud background required",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "category": "Product Management",
-        "source": "AlmondCroffle",
-        "id": "313d18e5-2cf1-4e15-8d6b-e333b6a51baf",
-        "date_posted": 1761212766,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553069,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/PA602-302-Science-Park-Road-Bldg-5C-302-Science-Park-Road-Building-5C-State-College-PA-16803-2214-USA/XMLNAME-2026-Full-time---Java-Software-Engineer-I---Onsite--PA-_01801593",
-        "company_name": "RTX",
-        "title": "Java Software Engineer I",
-        "locations": [
-            "State College, PA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "3d6eb1e3-1840-4528-988a-d21c09064f3d",
-        "date_posted": 1761212947,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/US---Massachusetts/Associate-Software-Test-Engineer---Acton--Mass--Hybrid-_REQ-2025-13419",
-        "company_name": "Insulet",
-        "title": "Associate Software Test Engineer",
-        "locations": [
-            "Acton, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "73fc8581-a47a-4c37-b3a0-0be10be9b9d7",
-        "date_posted": 1761213273,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762901585,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-II---Onsite--CO-_01801591",
-        "company_name": "RTX",
-        "title": "Software Engineer II",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1d22d24c-ae0d-4fb5-bb5a-d9456763dec8",
-        "date_posted": 1761213418,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761553028,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/IN206-3939PriorityWay-3939-Priority-Way-Building-6-Indianapolis-IN-46240-USA/Software-Engineer-I---Onsite--IN-_01801710",
-        "company_name": "RTX",
-        "title": "Software Engineer I",
-        "locations": [
-            "Indianapolis, IN"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1318145a-f167-414b-8508-cff015fd63e5",
-        "date_posted": 1761214496,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761552964,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
-        "company_name": "RTX",
-        "title": "Software Engineer I",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ae3137d2-f144-4258-88b7-1c02551650d2",
-        "date_posted": 1761215298,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761250072,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.d2l.com/careers/jobs/software-developer-rotation-program-spring-2026-new-graduate/7336031/",
-        "company_name": "D2L",
-        "title": "Software Developer Rotation Program",
-        "locations": [
-            "Kitchener, ON, CAN",
-            "Toronto, ON, CAN",
-            "Vancouver, BC, CAN",
-            "Winnipeg, MB, CAN"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9644b8cd-e6e7-41d3-8edd-35854efd7797",
-        "date_posted": 1761215683,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761563388,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Associate-Product-Engineer_JR101530",
-        "company_name": "NorthAB",
-        "title": "Associate Product Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Product Management",
-        "source": "AlmondCroffle",
-        "id": "02c7e07f-357f-47e2-ad51-267f548f6f9a",
-        "date_posted": 1761215879,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761552933,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/2k/jobs/7493150003",
-        "company_name": "2K",
-        "title": "Software Development Engineer in Test I (SDET I)",
-        "locations": [
-            "Vancouver, BC, CAN"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "2691f1f0-7109-4636-8647-f7d2832d4a9f",
-        "date_posted": 1761216799,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761245327,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.careers.microsoft.com/global/en/job/1900192/Software-Engineering",
-        "company_name": "Microsoft",
-        "title": "Software Engineer",
-        "locations": [
-            "India"
-        ],
-        "category": "Software Engineering",
-        "source": "shail-patel-321",
-        "id": "9cbd7fb6-4fb2-4d80-93e9-df2c611812dd",
-        "date_posted": 1761217494,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761553086,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://uscareers-docusign.icims.com/jobs/27628/software-engineering/job",
-        "company_name": "Docusign",
-        "title": "Software Engineering",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "7d4125be-5513-424f-add4-7138bf3ea142",
-        "date_posted": 1761217917,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761252903,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://draftkings.wd1.myworkdayjobs.com/draftkings/job/Remote---US/Software-Engineer_JR13105-3",
-        "company_name": "DraftKings",
-        "title": "Software Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "16d37771-8fdf-4044-a0cd-bf628c12175f",
-        "date_posted": 1761218267,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1761218991,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/elevenlabs/bed47ac1-9c5c-44ae-8965-3a4312706328",
-        "company_name": "ElevenLabs",
-        "title": "Growth Engineering - Mobile",
-        "locations": [
-            "Remote Globally"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d99d9d6f-3362-4114-b89f-fcd07434fa3f",
-        "date_posted": 1761218991,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1771250796,
         "sponsorship": "Other",
         "active": false,
@@ -193203,7 +192802,7 @@
         "company_name": "RTX",
         "id": "63703d4d-13ff-4bec-a203-233fd1628666",
         "title": "2026 Fulltime - Electronics Design Engineer I",
-        "active": false,
+        "active": true,
         "date_updated": 1772591548,
         "date_posted": 1772591548,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-B01--6825-Cortona-Dr--BLDG-B01/XMLNAME-2026-Fulltime---Electronics-Design-Engineer-I---Onsite_01826209",
@@ -216128,7 +215727,7 @@
         "company_name": "University of Arkansas",
         "id": "fdb28bed-d2e6-44f2-b305-6599d8d12c2f",
         "title": "Cosmos Extra Help Assistant 1",
-        "active": true,
+        "active": false,
         "date_updated": 1773786839,
         "date_posted": 1773786839,
         "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Extra-Help-Assistant-I_R0082208-1",
@@ -277054,7 +276653,7 @@
         "company_name": "University of Texas at Austin",
         "id": "e7b8ba38-13c5-4926-9962-f314ca280f9d",
         "title": "Postdoctoral Scholar",
-        "active": false,
+        "active": true,
         "date_updated": 1776939144,
         "date_posted": 1776521500,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Scholar--Department-of-Petroleum-and-Geosystems-Engineering--Cockrell-School-of-Engineering_R_00018034",
@@ -322220,7 +321819,7 @@
         "company_name": "Light & Wonder",
         "id": "945e7966-c41e-424b-a290-704ce71be03c",
         "title": "Associate Mathematician",
-        "active": false,
+        "active": true,
         "date_updated": 1779960517,
         "date_posted": 1779959541,
         "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Associate-Mathematician_R322193",
@@ -333616,7 +333215,7 @@
         "company_name": "Brunswick",
         "id": "c07c90db-439d-477d-8373-f58c555664e9",
         "title": "Embedded Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780698661,
         "date_posted": 1780697384,
         "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Oshkosh-WI/Embedded-Software-Engineer_JR-050448",
@@ -334044,7 +333643,7 @@
         "company_name": "Flutter",
         "id": "a1198b01-bb33-4f9d-a466-703d59e5ee6d",
         "title": "Graduate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780755111,
         "date_posted": 1780739912,
         "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterInt_External/job/Isle-of-Man/Graduate-Analyst_JR139100-1",
@@ -334521,7 +334120,7 @@
         "company_name": "Smithfield Foods",
         "id": "ec77de01-167d-46aa-8664-665e8f9bb621",
         "title": "Associate AI Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780881331,
         "date_posted": 1780880781,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-AI-Enablement-Analyst_R-2026-7552",
@@ -334542,7 +334141,7 @@
         "company_name": "Smithfield Foods",
         "id": "db980a0f-d55b-4030-8e3f-2759d0156e13",
         "title": "AI Enablement Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780881121,
         "date_posted": 1780880783,
         "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/AI-Enablement-Analyst_R-2026-7550",
