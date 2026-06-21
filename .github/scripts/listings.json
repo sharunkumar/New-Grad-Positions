@@ -1,135 +1,5 @@
 [
     {
-        "date_updated": 1761287865,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5681668004",
-        "company_name": "Boerboel",
-        "title": "Quantitative Researcher",
-        "locations": [
-            "New York, NY",
-            "Chicago, IL",
-            "London, UK"
-        ],
-        "category": "Quantitative Finance",
-        "source": "Simplify",
-        "id": "f2a430e1-6932-419c-bce4-6115fc3e20cf",
-        "date_posted": 1761287865,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761337891,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/en-US/mgbexternal/job/Boston-MA/Data-Analyst-I-Bioinformatician-Rheumatology_RQ4038981",
-        "company_name": "Mass General Brigham",
-        "title": "Data Analyst I Bioinformatician Rheumatology",
-        "locations": [
-            "Boston, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "f4b9ae2a-0d00-4989-ad83-f3a74f1b361c",
-        "date_posted": 1761287895,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762271294,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer_R98792-3",
-        "company_name": "RELX",
-        "title": "Tech Accelerate Graduate Program - Software Engineer (June)",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "d0b15b9a-5e0d-4ea6-b10a-df323ccc6486",
-        "date_posted": 1761287926,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761287960,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.boerboeltrading.com/jobs.html?gh_jid=5670371004",
-        "company_name": "Boerboel",
-        "title": "Developer",
-        "locations": [
-            "New York, NY",
-            "Chicago, IL",
-            "London, UK"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "1757a963-92af-4840-925a-623305815cad",
-        "date_posted": 1761287960,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761924540,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/amplitude/jobs/8223048002",
-        "company_name": "Amplitude",
-        "title": "Software Engineer I, Growth Platform",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "624fc6b0-a5d4-4328-83d0-e0b4173e6b78",
-        "date_posted": 1761287984,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1761288024,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers.oracle.com/en/sites/jobsearch/job/312200",
-        "company_name": "Oracle",
-        "title": "Undergrad Software Engineer - Oracle Cloud Infrastructure (OCI)",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "7c363f36-2fc1-4cf8-930d-0e7034241f61",
-        "date_posted": 1761288024,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762271197,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer--January-_R100297",
-        "company_name": "RELX",
-        "title": "Tech Accelerate Graduate Program - Software Engineer (January)",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "category": "Software Engineering",
-        "source": "Simplify",
-        "id": "72870b15-a301-4144-abbf-6ff898026032",
-        "date_posted": 1761288181,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1761354391,
         "sponsorship": "Other",
         "active": false,
@@ -189035,7 +188905,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "6bcf17bc-ad97-4680-ab6b-178853d4d096",
         "title": "Engineer Sys Modeling Simul 1",
-        "active": true,
+        "active": false,
         "date_updated": 1772493520,
         "date_posted": 1772493520,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SYS-MODELING-SIMUL-1-Virg/1369224100/?ats=successfactors",
@@ -315563,7 +315433,7 @@
         "company_name": "RELX",
         "id": "0a7ac917-236f-4c01-8c5d-45d74731949d",
         "title": "Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1779869572,
         "date_posted": 1778922944,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/United-Kingdom/Solutions-Analyst_R109322-1",
@@ -326032,7 +325902,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -329931,7 +329801,7 @@
         "company_name": "Reach Financial",
         "id": "39349736-2696-42cf-9e4b-deaf9d2b3246",
         "title": "Credit Risk Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1780526126,
         "date_posted": 1780525423,
         "url": "https://job-boards.greenhouse.io/reach/jobs/8573228002",
@@ -331946,7 +331816,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -346027,7 +345897,7 @@
         "company_name": "American Electric Power",
         "id": "1cf29487-acc9-477c-ba4e-b95ce517775c",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1781417522,
         "date_posted": 1781417152,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Analyst_R16070",
@@ -348019,7 +347889,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -350429,7 +350299,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -353610,7 +353480,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -355626,5 +355496,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Attention Arc",
+        "id": "ec96122c-1f99-4999-9d2a-adc142aa3239",
+        "title": "Media Operations Associate",
+        "active": true,
+        "date_updated": 1782022304,
+        "date_posted": 1781820816,
+        "url": "https://job-boards.greenhouse.io/attentionarc/jobs/8011031",
+        "locations": [
+            "Durham, NC",
+            "NYC",
+            "Phoenix, AZ",
+            "Tarrytown, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Attention-Arc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
