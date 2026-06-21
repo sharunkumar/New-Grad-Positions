@@ -1,43 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "bf734b0a-be20-4c1e-ac5a-4753bcc96f11",
-        "title": "2026 Full-time - Software Engineer I - Onsite - CO",
-        "active": false,
-        "date_updated": 1761552901,
-        "date_posted": 1761259235,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CO102-16800-E-Centretech-PkwyAurora-16800-East-Centretech-Pkwy-Building-S75-Aurora-CO-80011-USA/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--CO-_01801589",
-        "locations": [
-            "Aurora, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "676e9f3c-e166-4409-95c3-cd96c5b4bd08",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1761265797,
-        "date_posted": 1761265797,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0148073",
-        "locations": [
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1761287865,
         "sponsorship": "Other",
         "active": false,
@@ -31545,60 +31507,6 @@
             "Newcastle upon Tyne, UK"
         ],
         "company_url": "https://simplify.jobs/c/Northumbria-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American University",
-        "id": "9965dabd-b36e-45fc-a3fe-237dd415a77f",
-        "title": "Research Assistant - Student - Fws",
-        "active": false,
-        "date_updated": 1761269874,
-        "date_posted": 1761269874,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Research-Assistant--Student---FWS-_R3476",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Honeywell",
-        "id": "24a50aca-83cd-4e2c-a7b2-fbfbdf3744f9",
-        "title": "Cyber Security Architect Engineer 1",
-        "active": false,
-        "date_updated": 1762909625,
-        "date_posted": 1761266941,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/124349",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adelphi Real World",
-        "id": "e2101fa8-1ed1-4933-8ebb-465cf5f0b3b9",
-        "title": "Associate Data Processing Analyst",
-        "active": false,
-        "date_updated": 1761254064,
-        "date_posted": 1761254064,
-        "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/4940321008",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Adelphi-Real-World",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -259179,7 +259087,7 @@
         "company_name": "ReliaQuest",
         "id": "58e21683-9b4c-4bda-9bba-b8a3f07a0562",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776120499,
         "date_posted": 1776118244,
         "url": "https://reliaquest.wd5.myworkdayjobs.com/en-US/ReliaQuest_Careers/job/Tampa-FL/Associate-Software-Engineer_R15047",
@@ -292694,7 +292602,7 @@
         "company_name": "Genentech",
         "id": "4f80a427-b0fb-4a20-ba9d-6cba86b3e13a",
         "title": "Senior Machine Learning Scientist - Frontier Research - AI for Drug Discovery",
-        "active": false,
+        "active": true,
         "date_updated": 1778193681,
         "date_posted": 1778191760,
         "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Senior-Machine-Learning-Scientist--Frontier-Research--AI-for-Drug-Discovery_202605-111099",
@@ -321887,7 +321795,7 @@
         "company_name": "Liberis",
         "id": "ca0028f3-ad0e-4830-bee0-cde8d97928fd",
         "title": "Product Operations Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779960513,
         "date_posted": 1779959475,
         "url": "https://job-boards.greenhouse.io/liberis/jobs/7962565",
@@ -332038,7 +331946,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -338426,7 +338334,7 @@
         "company_name": "Marsh & McLennan",
         "id": "e33227af-dba6-4917-83fe-2c821f05e691",
         "title": "Enrollment Executive",
-        "active": true,
+        "active": false,
         "date_updated": 1781083235,
         "date_posted": 1781082814,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Mumbai---Times-Square/Enrollment-Executive_R_351117-1",
@@ -346139,7 +346047,7 @@
         "company_name": "Vermont Information Processing",
         "id": "b8c86556-fd0a-4314-a2c6-321f89f7d641",
         "title": "Product Marketing Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781418364,
         "date_posted": 1781302996,
         "url": "https://job-boards.greenhouse.io/vipvermontinformationprocessing2/jobs/5163430007",
@@ -347179,7 +347087,7 @@
         "company_name": "Oregon State Government",
         "id": "e317bbf2-88a5-4e4c-953c-717c4ce2b45b",
         "title": "Research Analyst 2",
-        "active": false,
+        "active": true,
         "date_updated": 1781648013,
         "date_posted": 1781639369,
         "url": "https://oregon.wd5.myworkdayjobs.com/sor_external_career_site/job/Portland--OHCS/Research-Analyst-2_REQ-201865-1",
@@ -350521,7 +350429,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -352586,7 +352494,7 @@
         "company_name": "Atlas Energy Solutions",
         "id": "3d368048-e329-4632-9100-f86205ea53a9",
         "title": "Electrical Panel Assembly Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781792735,
         "date_posted": 1781792350,
         "url": "https://job-boards.greenhouse.io/atlassand/jobs/8485256002",
@@ -355393,6 +355301,326 @@
             "Baton Rouge, LA"
         ],
         "company_url": "https://simplify.jobs/c/Vertiv",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "f1defd4a-8ef4-4174-b403-afa0950a48a1",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993677,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Data-Engineer_R0942446",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "becdd124-761b-489a-9de2-02e499a0f7a8",
+        "title": "Senior Data Scientist",
+        "active": true,
+        "date_updated": 1781993773,
+        "date_posted": 1781993679,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/CT---Hartford/Sr-Data-Scientist_R0942408",
+        "locations": [
+            "Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "991e9a6c-e5e0-467b-a79d-39f9a605dc8b",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993681,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942279",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "86bea6ea-91f7-4e5e-9f0b-cc58a35a420d",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993677,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R0942401",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "5e856606-377e-4371-bafd-234aafc8359b",
+        "title": "Application Development Senior Analyst",
+        "active": true,
+        "date_updated": 1781993771,
+        "date_posted": 1781993678,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Analyst--Application-Dev_R0942424",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVS Health",
+        "id": "0ba50e8c-d18c-4115-accd-3de2242ab24a",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993678,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Software-Development-Engineer_R0942411",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "4129d915-16f7-40fc-ac64-da4c49bcf1ef",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993676,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MA---Wellesley/Data-Engineer_R0942398",
+        "locations": [
+            "Needham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "b479fce7-aca5-4805-a932-f566e871e7a3",
+        "title": "Senior Data Engineer",
+        "active": true,
+        "date_updated": 1781993776,
+        "date_posted": 1781993683,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/TX---Irving/Sr-Data-Engineer_R0942356",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "9989d5a6-4f21-481a-8d3e-d4b41c40d80a",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993681,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Data-Scientist_R0942336",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "91674f1a-956e-4da8-b78a-4acc95308638",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993676,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Data-Engineer_R0942447",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "50bf7495-f4e5-41d4-ae7b-34097a752604",
+        "title": "Staff Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993680,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Staff-Data-Engineer_R0942460",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "f83eaa8a-fcec-4630-827d-97706e63587c",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993682,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Data-Scientist_R0942340",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "e9547f6d-be30-4002-8ed3-6de04063aaa6",
+        "title": "Associate Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993685,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Associate-Data-Engineer_R0942229",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "c4f98b62-29ba-49c8-8b43-178a32e61b9e",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1781993701,
+        "date_posted": 1781993681,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/IL---Downers-Grove/Data-Engineer_R0942271",
+        "locations": [
+            "Downers Grove, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CVS Health",
+        "id": "893feef3-d8df-41bd-b7e6-62bd3065b423",
+        "title": "Senior Data Engineer",
+        "active": true,
+        "date_updated": 1781993770,
+        "date_posted": 1781993678,
+        "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/RI---Woonsocket/Sr-Data-Engineer_R0942450",
+        "locations": [
+            "Smithfield, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/CVS-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CPI Security",
+        "id": "5259457c-accf-4cf8-b28c-a170247f047a",
+        "title": "Commercial Installation Technician",
+        "active": false,
+        "date_updated": 1781993501,
+        "date_posted": 1781647832,
+        "url": "https://job-boards.greenhouse.io/cpisecurity/jobs/4689971006",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CPI-Security",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
