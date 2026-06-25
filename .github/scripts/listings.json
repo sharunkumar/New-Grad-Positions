@@ -28234,24 +28234,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Best Buy",
-        "id": "c45cde47-34ea-4856-bcee-7430481da9d6",
-        "title": "Field Service Representative - E - Des services techniques \u00e0 domicile",
-        "active": false,
-        "date_updated": 1762919577,
-        "date_posted": 1761660278,
-        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/11907-La-Capitale/Reprsentant-e--des-services-techniques--domicile--Temps-plein-_R-48416",
-        "locations": [
-            "Quebec City, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Best-Buy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "acbc93c5-9d9d-4511-98bc-5c3dfd9bbb62",
         "title": "Service Desk Specialist",
@@ -28289,60 +28271,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Acuity",
-        "id": "261f3cde-4699-4466-a8e4-879cca4bf4e1",
-        "title": "Leadership Program - Software Engineering - July 2026",
-        "active": false,
-        "date_updated": 1761654146,
-        "date_posted": 1761654146,
-        "url": "https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Software-Engineering-(July-2026)-GA-30309/1338003700/?ats=successfactors",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acuity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astera Labs",
-        "id": "f37508a8-6c70-44cd-a704-4d8b3342db96",
-        "title": "Hardware Lab Engineer - Ncg",
-        "active": false,
-        "date_updated": 1761652363,
-        "date_posted": 1761652363,
-        "url": "https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4623638005",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/AsteraLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Stripe",
-        "id": "002a0e4d-09e5-45ad-acac-539edde7b070",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1761650234,
-        "date_posted": 1761650234,
-        "url": "https://stripe.com/jobs/search?gh_jid=5416444",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "d741253e-880f-49bd-a467-fc89777548c0",
@@ -28355,25 +28283,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Camlin",
-        "id": "e56e2c77-09f1-4359-81f6-ad45c0f676bd",
-        "title": "Product Manager",
-        "active": false,
-        "date_updated": 1762168516,
-        "date_posted": 1761644894,
-        "url": "https://ats.rippling.com/camlin-careers/jobs/e3440d9e-7e9d-4ac4-9265-d9d4eb9c8474",
-        "locations": [
-            "London, UK",
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Camlin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -355228,6 +355137,26 @@
             "Elmira, NY"
         ],
         "company_url": "https://simplify.jobs/c/Corning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "2573aeed-7da0-4b44-b555-e95d00f6563b",
+        "title": "Software Engineering - Ignite Innovator Program",
+        "active": true,
+        "date_updated": 1782165961,
+        "date_posted": 1782165840,
+        "url": "https://careers-peraton.icims.com/jobs/167926/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
