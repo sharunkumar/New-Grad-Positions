@@ -1064,24 +1064,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "IXL Learning",
-        "id": "9b7524ef-f7fb-4789-b675-2641d4c64ed9",
-        "title": "Software Engineer \u2013 New Grad",
-        "active": false,
-        "date_updated": 1761724235,
-        "date_posted": 1761724235,
-        "url": "https://www.ixl.com/company/jobs?gh_jid=8231360002",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/IXL-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -27423,24 +27405,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "42dot",
-        "id": "f37d51ae-664b-476b-8f9c-e4ba8d21d65d",
-        "title": "Transcription & Speech Data Labeling Specialist",
-        "active": false,
-        "date_updated": 1762437966,
-        "date_posted": 1761728711,
-        "url": "https://jobs.ashbyhq.com/42dot/4c50178b-6fbd-46f6-a423-ff6b1aeb75a1/application",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/42dot",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Cummins",
         "id": "c412bf76-0e08-4ed9-934b-6c3378a24a86",
@@ -27478,191 +27442,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Keysight Technologies",
-        "id": "182a8ba1-48d1-466c-a327-0cc2474b9a94",
-        "title": "R&D Data Analytics Engineer",
-        "active": false,
-        "date_updated": 1761728549,
-        "date_posted": 1761728549,
-        "url": "https://jobs.keysight.com/jobs/49963?lang=en-us&icims=1",
-        "locations": [
-            "Santa Rosa, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Newell Brands",
-        "id": "cd979548-268d-471d-816a-5f1f5cccda05",
-        "title": "Associate Product Engineer - Product Engineering",
-        "active": false,
-        "date_updated": 1761727035,
-        "date_posted": 1761727035,
-        "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer-Mass/1338391500/?ats=successfactors",
-        "locations": [
-            "Amherst, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Newell-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "91eea1eb-a0cc-4850-adb5-c3e3788bbf72",
-        "title": "Field Engineer 1 - Albany - NY",
-        "active": false,
-        "date_updated": 1762919814,
-        "date_posted": 1761725888,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-I---Albany--NY_R4031121-2",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Newell Brands",
-        "id": "7934579d-cd45-47f4-8f34-556c29bf70c2",
-        "title": "Associate Product Engineer",
-        "active": false,
-        "date_updated": 1761727057,
-        "date_posted": 1761727057,
-        "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer-Mass/1338335600/?ats=successfactors",
-        "locations": [
-            "Amherst, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Newell-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "INTEGRIS Health",
-        "id": "4931477b-b405-4700-aa80-6702c29bd335",
-        "title": "Applications Analyst - Clinical Applications",
-        "active": false,
-        "date_updated": 1761724452,
-        "date_posted": 1761724452,
-        "url": "https://ertr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/109257",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/INTEGRIS-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "KIKOFF Leagues",
-        "id": "a7150633-72ef-4972-b329-893e08e8e6f6",
-        "title": "AI Data Operations Associate",
-        "active": false,
-        "date_updated": 1761724382,
-        "date_posted": 1761724382,
-        "url": "https://jobs.ashbyhq.com/kikoff/4d4d9059-fd67-4166-9f97-c81fbb988de2/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/KIKOFF-Leagues",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies",
-        "id": "cf18fd63-0f07-49f6-8d31-8e9463ea0585",
-        "title": "Japanese Speaker - AI Trainer",
-        "active": false,
-        "date_updated": 1761894421,
-        "date_posted": 1761723684,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650952101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "a88cb225-af03-4d24-9a0b-4e4f43806682",
-        "title": "Minor League Affiliate Technology Coordinator",
-        "active": true,
-        "date_updated": 1761723304,
-        "date_posted": 1761723304,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5650705004",
-        "locations": [
-            "Salisbury, MD",
-            "Frederick, MD",
-            "Bowie, MD",
-            "Norfolk, VA",
-            "Sarasota, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "4621579b-dbe7-42a3-8f3d-d192b3fd8516",
-        "title": "Pro Scouting Analyst Fellowship",
-        "active": false,
-        "date_updated": 1761723294,
-        "date_posted": 1761723294,
-        "url": "https://job-boards.greenhouse.io/baltimoreorioles/jobs/5634155004",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ascend Learning",
-        "id": "4a3cd70f-c657-4e5c-bd22-61e77f706e2d",
-        "title": "Associate AI Engineer",
-        "active": false,
-        "date_updated": 1761722929,
-        "date_posted": 1761722929,
-        "url": "https://recruiting.ultipro.com/asc1003/JobBoard/57b0d3c6-a250-9a6a-7787-1093a619de01/OpportunityDetail?opportunityId=c57e9e14-4eb0-4689-a396-9cea49a8320c",
-        "locations": [
-            "Leawood, KS",
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ascend-Learning",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "CACI",
         "id": "d6fe49c3-4efa-4652-9b5e-7609bea7f2c4",
         "title": "Data Analyst - Systems Analysis Engineer/Scientist Support",
@@ -27674,24 +27453,6 @@
             "Norco, CA"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "abdb337e-7123-4ab4-9f67-c2def3d94fc4",
-        "title": "Member of Technical Staff \u2013 Principal Software Engineer",
-        "active": false,
-        "date_updated": 1762909211,
-        "date_posted": 1761714025,
-        "url": "https://jobs.careers.microsoft.com/global/en/job/MIC113583",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -75670,24 +75431,6 @@
             "San Diego, CA"
         ],
         "company_url": "https://simplify.jobs/c/ASML",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Shield AI",
-        "id": "9f626991-8396-479f-af83-2f161feb45ad",
-        "title": "Production Technician",
-        "active": false,
-        "date_updated": 1761727211,
-        "date_posted": 1761727211,
-        "url": "https://jobs.lever.co/shieldai/efe94990-c80b-45b6-949b-71dde71235d2/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Shield-AI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
