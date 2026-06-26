@@ -1010,60 +1010,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "McDonald's",
-        "id": "5152a4d9-e591-4607-848e-02d7021253a0",
-        "title": "Software Engineer I C#",
-        "active": false,
-        "date_updated": 1761763472,
-        "date_posted": 1761763472,
-        "url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1338320000/?ats=successfactors",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/McDonald",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "0f87bfdb-88e1-4091-afd0-06c534713bf4",
-        "title": "Software Engineer I - Frontend",
-        "active": false,
-        "date_updated": 1761761071,
-        "date_posted": 1761761071,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8230925002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "99b6f131-7a24-4ea9-a8cb-fb6c3d20b427",
-        "title": "D\u00e9veloppeur g\u00e9nie logiciel / Junior Software Developer - Canada - Montreal",
-        "active": false,
-        "date_updated": 1761948994,
-        "date_posted": 1761756969,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4613765006",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Northrop Grumman",
         "id": "6ab2b733-65e2-4060-8a02-4f9b41c40945",
         "title": "Modeling & Simulation Software Engineer 1 or 2 - Aht",
@@ -27116,60 +27062,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Shift",
-        "id": "55c4cf2d-b5d2-445e-b104-ba4e1afdcee9",
-        "title": "Graduate Data Scientist",
-        "active": true,
-        "date_updated": 1761764857,
-        "date_posted": 1761764857,
-        "url": "https://job-boards.greenhouse.io/shifttechnology/jobs/5910904003",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Shift-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Catalent",
-        "id": "b6a91b20-e638-4b4f-acc2-bf3feb4927b2",
-        "title": "Manufacturing IT Systems Engineer",
-        "active": false,
-        "date_updated": 1762247191,
-        "date_posted": 1761764345,
-        "url": "https://catalent.wd1.myworkdayjobs.com/external/job/Kansas-City-MO/Computer-Systems-Engineer-I_0089709",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/714ab061-79c2-47bf-ac63-81a1ca90aca7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "a5b17fe1-bf32-4f97-b479-e10353b69a84",
-        "title": "Technology Analyst Development Program - Software Engineer",
-        "active": false,
-        "date_updated": 1761765777,
-        "date_posted": 1761765777,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CITY-OF-LONDON/Technology-Analyst-Development-Program----Software-Engineer-_R-502487-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "AT&T",
         "id": "6a9cd289-f891-4704-90d8-5725ac179034",
@@ -27344,24 +27236,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Samsara",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northeast Georgia Health System",
-        "id": "f642ff52-6773-45bb-ad97-7512925c430d",
-        "title": "Behavioral Therapist",
-        "active": false,
-        "date_updated": 1762923835,
-        "date_posted": 1761764332,
-        "url": "https://nghs.wd1.myworkdayjobs.com/External/job/Gainesville-GA/PHP---IOP-Behavioral-Therapist---MSW-LAPC-LMSW---Mon---Fri-8-00am---5-00pm_R23766",
-        "locations": [
-            "Gainesville, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeast-Georgia-Health-System",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -67809,24 +67683,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies",
-        "id": "0916478b-142e-4a25-861e-fec8f49eb69e",
-        "title": "Japanese Translator - Freelance AI Trainer Project",
-        "active": false,
-        "date_updated": 1761758141,
-        "date_posted": 1761758141,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4701712101",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fcfe8f0c-b3e8-4373-a1b4-bbc815d9e097",
@@ -89608,24 +89464,6 @@
         "url": "https://coreweave.com/careers/job?4615522006&board=coreweave&gh_jid=4615522006",
         "locations": [
             "Round Rock, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CoreWeave",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CoreWeave",
-        "id": "d1894a78-306e-46ca-8748-513224324392",
-        "title": "Data Center Technician - Dalton",
-        "active": false,
-        "date_updated": 1762936834,
-        "date_posted": 1761755481,
-        "url": "https://coreweave.com/careers/job?4613586006&board=coreweave&gh_jid=4613586006",
-        "locations": [
-            "Calhoun, GA"
         ],
         "company_url": "https://simplify.jobs/c/CoreWeave",
         "is_visible": true,
@@ -354443,6 +354281,24 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Strata-Decision-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Abound",
+        "id": "cf8ea2c6-a348-46f3-ba15-de86844650e5",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1782483121,
+        "date_posted": 1782482870,
+        "url": "https://jobs.ashbyhq.com/Abound/7ae69c2b-1dae-40c6-a5b2-8f5b42157263/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Abound",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
