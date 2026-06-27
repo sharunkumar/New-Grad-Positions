@@ -24090,24 +24090,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Zebra Technologies",
-        "id": "57a9d4da-b443-4fd9-9208-eb7d61d55a14",
-        "title": "Product Manager - I - Engineering",
-        "active": false,
-        "date_updated": 1761846782,
-        "date_posted": 1761846782,
-        "url": "https://zebra.eightfold.ai/careers/job/343635179599",
-        "locations": [
-            "Vernon Hills, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Boeing Company",
         "id": "58a2d0ed-093a-4a1a-9e2b-20860c3eaf7b",
@@ -26408,60 +26390,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TJX",
-        "id": "a12a8e52-b5c1-4aeb-b3fd-350e2b25e3c2",
-        "title": "IT Placement Analyst",
-        "active": false,
-        "date_updated": 1761846807,
-        "date_posted": 1761846807,
-        "url": "https://wd1.myworkdaysite.com/recruiting/tjx/TJX_EXTERNAL/job/Watford-HER-WD17-1TX/IT-Placement-Analyst_REQ65700",
-        "locations": [
-            "Watford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TJX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sportradar",
-        "id": "dbdf3e46-b50a-433d-b827-a3712a466289",
-        "title": "Trading Analyst - Cricket",
-        "active": false,
-        "date_updated": 1761841238,
-        "date_posted": 1761841238,
-        "url": "https://jobs.smartrecruiters.com/Sportradar/744000090838455",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sportradar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lenovo",
-        "id": "abe14580-38eb-4b00-ab96-562ce81c4f09",
-        "title": "Software Engineer - AI Productization",
-        "active": false,
-        "date_updated": 1761839799,
-        "date_posted": 1761839799,
-        "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Engineer-AI-Productization/69831",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "NVIDIA",
         "id": "f3b8186c-518b-43ea-856a-d5475ef30582",
@@ -28548,24 +28476,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "PayPal",
-        "id": "cf538926-5bb6-4ad7-a7ca-356526440529",
-        "title": "Data Scientist 1 - Data Science",
-        "active": false,
-        "date_updated": 1761851994,
-        "date_posted": 1761851994,
-        "url": "https://paypal.eightfold.ai/careers/job/274907164332",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/PayPal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Armstrong Group",
         "id": "de603473-ca7a-4fd7-9bff-20ecaf33a458",
@@ -30626,26 +30536,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Bank of New York Mellon",
-        "id": "ccdb761c-6659-4a19-9765-01a27be5fdec",
-        "title": "Analyst Program-Engineering",
-        "active": false,
-        "date_updated": 1762913133,
-        "date_posted": 1761833342,
-        "url": "https://bnymellon.eightfold.ai/careers/job/37999987",
-        "locations": [
-            "Pittsburgh, PA",
-            "Lake Mary, FL",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY-Mellon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centific",
         "id": "d5b595e8-3e8a-4954-b2b5-a8d2d1507bf4",
@@ -31022,24 +30912,6 @@
             "Colorado Springs, CO"
         ],
         "company_url": "https://simplify.jobs/c/Sev1Tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "12fd6548-a259-4799-8ff7-a33c0a6bacaa",
-        "title": "Software Engineer - Java - Enterprise Architecture",
-        "active": false,
-        "date_updated": 1761833920,
-        "date_posted": 1761833920,
-        "url": "https://aexp.eightfold.ai/careers/job/37924986",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -292038,26 +291910,6 @@
             "Tualatin, OR"
         ],
         "company_url": "https://simplify.jobs/c/Lithia-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Boston Scientific",
-        "id": "a1544892-4b8f-476c-9e5a-8cc674c24bc3",
-        "title": "Software Development - 1 - Engineering",
-        "active": true,
-        "date_updated": 1761833023,
-        "date_posted": 1761833023,
-        "url": "https://bostonscientific.eightfold.ai/careers/job/563602808591541",
-        "locations": [
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boston-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
