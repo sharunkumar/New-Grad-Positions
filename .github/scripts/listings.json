@@ -17928,24 +17928,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "89edc5c0-4a8b-4dca-9e4f-9a3026c260f1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762047684,
-        "date_posted": 1762047684,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400033513",
-        "locations": [
-            "Rugby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "American Express",
         "id": "f167d990-d144-4876-86f3-4f07f400450f",
@@ -71863,24 +71845,6 @@
             "Orlando, FL"
         ],
         "company_url": "https://simplify.jobs/c/Primetals-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vantage Point Solutions",
-        "id": "494340e2-9fde-4290-803c-56b2653f56d5",
-        "title": "Field Services Technician",
-        "active": false,
-        "date_updated": 1762037646,
-        "date_posted": 1762037646,
-        "url": "https://vantage-point-solutions-inc.breezy.hr/p/fb1ad5c8457e/apply",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Vantage-Point-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
