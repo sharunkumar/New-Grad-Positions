@@ -1,115 +1,5 @@
 [
     {
-        "date_updated": 1762411197,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Annapolis-Junction/Junior-Software-Engineer_319292-1",
-        "company_name": "CACI",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "5eb4fd5d-ac5f-41b3-8130-69837e4e179a",
-        "date_posted": 1762359881,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762473199,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job",
-        "company_name": "EBSCO",
-        "title": "Cloud Platform Engineer I",
-        "locations": [
-            "Ipswich, MA",
-            "Remote"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "044d2340-8c9f-4361-828e-a09cb0f4718b",
-        "date_posted": 1762359918,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://genpt.wd1.myworkdayjobs.com/en-US/careers/job/Birmingham-AL-USA/Cloud-Engineer-I_R25_0000038435",
-        "company_name": "Genuine Parts Company",
-        "title": "Cloud Engineer I",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "6c575597-87bd-4197-a86f-296c8b647315",
-        "date_posted": 1762359934,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1762827880,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/68913/software-engineer-%E2%80%93-entry-level/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Software Engineer \u2013 Entry Level",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "7bec8170-20b1-4eab-a3cb-da6d56ce4b88",
-        "date_posted": 1762359957,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1762359991,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/warp/jobs/4324888004",
-        "company_name": "Warp",
-        "title": "Software Engineer",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "1d5044c8-134a-46db-a46c-90a1f767d1ae",
-        "date_posted": 1762359991,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.smartrecruiters.com/Visa/615efbc7-5ef9-4dc3-b65a-cf364e55674e?dcr_ci=Visa",
-        "company_name": "Visa",
-        "title": "Graduate Software Engineer",
-        "locations": [
-            "Reading, United Kingdom"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "932cffa0-84c7-4356-acc9-63cdb672ba76",
-        "date_posted": 1762360166,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Citizen Health",
@@ -14602,42 +14492,6 @@
             "Berkeley Heights, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Fiserv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "4f3ed6ab-2964-4518-b397-a8c6bfdc2658",
-        "title": "Software Engineer - Fandango",
-        "active": false,
-        "date_updated": 1763559830,
-        "date_posted": 1762363544,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000091519849",
-        "locations": [
-            "North Hollywood, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "434e66a5-62cf-49c7-a1c9-325885798c5e",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1762363368,
-        "date_posted": 1762363368,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000091613645",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -275842,7 +275696,7 @@
         "company_name": "Latitude AI",
         "id": "3bbe2af6-887c-4489-a3de-e915addbc9d4",
         "title": "GIS Production Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1779027301,
         "date_posted": 1779027191,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/7936103",
@@ -302000,7 +301854,7 @@
         "company_name": "UTHealth Houston",
         "id": "648f6adc-8d31-4c82-b716-379c534a6f7b",
         "title": "Clinical IS Analyst Associate - Epic",
-        "active": true,
+        "active": false,
         "date_updated": 1780524668,
         "date_posted": 1780524330,
         "url": "https://fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1002/job/7053",
@@ -308235,7 +308089,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -321156,7 +321010,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -323566,7 +323420,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -332318,7 +332172,7 @@
         "company_name": "Western Union",
         "id": "c85376fa-b469-42ae-b3ad-fc7edcec2f4b",
         "title": "Data Analyst - Consumer Services",
-        "active": true,
+        "active": false,
         "date_updated": 1782772021,
         "date_posted": 1782770932,
         "url": "https://westernunion.wd5.myworkdayjobs.com/en-US/WesternUnionJobs/job/USA-GA---Atlanta---Corporate-Center-V-5-Concourse-Parkway-Suite-2300/Data-Analyst--US-Consumer-Services_JR0130344",
@@ -335198,7 +335052,7 @@
         "company_name": "Dialpad",
         "id": "24b42313-a648-445f-8186-306cd80d5f8f",
         "title": "Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782339123,
         "date_posted": 1770420608,
         "url": "https://job-boards.greenhouse.io/dialpad/jobs/8407071002",
@@ -338491,7 +338345,7 @@
         "company_name": "Protolabs",
         "id": "f39b3e40-01a7-4a7f-806d-b1a4e4baca35",
         "title": "Associate Technical Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782741986,
         "url": "https://jobs.lever.co/protolabs/83fa31f8-6d15-4a8c-bf69-e6c9ec1bbbbd/apply",
@@ -343206,7 +343060,7 @@
         "company_name": "Apple",
         "id": "9d80dcec-6341-43f7-a6ea-4ea2b608bf7f",
         "title": "Early Career Power Management Unit Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782972727,
         "date_posted": 1782972389,
         "url": "https://jobs.apple.com/en-us/details/200670466",
@@ -345201,7 +345055,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -345241,7 +345095,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -345764,6 +345618,86 @@
             "Pittsburgh, PA"
         ],
         "company_url": "https://simplify.jobs/c/PNC-Financial-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TripAdvisor",
+        "id": "c1a3093c-8281-4776-8c76-d2a6a8a87365",
+        "title": "Associate Product Manager - B2B",
+        "active": true,
+        "date_updated": 1783088641,
+        "date_posted": 1783088552,
+        "url": "https://job-boards.greenhouse.io/tripadvisor/jobs/8038210",
+        "locations": [
+            "London, UK",
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TripAdvisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capital One",
+        "id": "46675389-0f58-4172-9093-35f703f53e33",
+        "title": "Software Engineer New Grad - Software Engineer",
+        "active": true,
+        "date_updated": 1783088686,
+        "date_posted": 1783087781,
+        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Capital-One",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "5e47f8c8-e23a-48f6-8e69-ffd79be65557",
+        "title": "Business Insights Associate",
+        "active": true,
+        "date_updated": 1783088461,
+        "date_posted": 1783087804,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland/Business-Insights-Associate_R-0000179131",
+        "locations": [
+            "London, UK",
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "d508afd3-f392-4af0-a7ef-6ac25b73b9e6",
+        "title": "GIS Production Analyst - Contractor",
+        "active": true,
+        "date_updated": 1783089218,
+        "date_posted": 1783089066,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8045205",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
