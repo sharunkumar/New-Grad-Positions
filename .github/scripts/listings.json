@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Axon",
-        "id": "d79bd3b7-c1d4-4bbd-913f-b004edba607b",
-        "title": "Embedded Software Engineer I",
-        "active": false,
-        "date_updated": 1762441004,
-        "date_posted": 1762441004,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/6289451003",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Graphcore",
-        "id": "84454b94-00c5-4d81-aa05-06a9e890545c",
-        "title": "2026 Graduate Software Engineer - Drivers",
-        "active": false,
-        "date_updated": 1762435867,
-        "date_posted": 1762435867,
-        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8245742002",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Okta",
         "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
@@ -12846,66 +12810,6 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "e01385b4-cf9b-4e3e-8217-ec2d26a5163c",
-        "title": "GPU Architecture Engineer [0m New College Grad 2025",
-        "active": false,
-        "date_updated": 1762925595,
-        "date_posted": 1762444136,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Architecture-Engineer---New-College-Grad-2025_JR2002495",
-        "locations": [
-            "California",
-            "Austin, TX",
-            "Texas",
-            "Santa Clara, CA",
-            "Durham, NC",
-            "North Carolina",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "66377cee-8d1e-4c4a-81a9-c11bd0ab2140",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1762442522,
-        "date_posted": 1762442522,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034770",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lenovo",
-        "id": "7a7527be-1354-4f12-b883-2c6ac652f93d",
-        "title": "IT Product Analyst - eCommerce",
-        "active": false,
-        "date_updated": 1762440550,
-        "date_posted": 1762440550,
-        "url": "https://jobs.lenovo.com/en_US/careers/JobDetail/IT-Product-Analyst-eCommerce/69337",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/a1d1fe70-6ea7-48b6-b434-1cd26b8da8f2",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -297210,7 +297114,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -306229,7 +306133,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -319150,7 +319054,7 @@
         "company_name": "Goldman Sachs",
         "id": "a3ee586e-9f97-4009-92cc-dc4affda3b3a",
         "title": "Asset & Wealth Management - Quantitative Investment Strategies - ETF Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1781648474,
         "date_posted": 1781638708,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176625",
@@ -321560,7 +321464,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -336203,7 +336107,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Sportradar",
-        "id": "d92be692-7fa4-4d3b-9020-599a80fd4eec",
+        "id": "0d1a89c8-7123-49f0-9b89-8104bed8fd88",
         "title": "Senior Data Engineer",
         "active": true,
         "date_updated": 1782812521,
@@ -343195,7 +343099,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -343235,7 +343139,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -344403,6 +344307,71 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Preference Model",
+        "id": "2fa20de2-8430-4153-a099-18ad1c1d0abe",
+        "title": "Member of Technical Staff New Grad - Machine Learning Capabilities",
+        "active": true,
+        "date_updated": 1783174730,
+        "date_posted": 1783174092,
+        "url": "https://jobs.ashbyhq.com/Preference-Model/44642065-e592-44ba-810d-a019703463b6/application",
+        "locations": [
+            "Seattle, WA",
+            "Toronto, ON, Canada",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Preference-Model",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivet Industries",
+        "id": "a9b455fc-53c5-4698-9a24-a963d29ef5f0",
+        "title": "Hardware Engineer",
+        "active": true,
+        "date_updated": 1783174501,
+        "date_posted": 1783174097,
+        "url": "https://jobs.ashbyhq.com/rivet/545349a1-139e-4119-96fd-928d3e4ac8c9/application",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivet-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SPAICE Technology",
+        "id": "7c8f8ebd-dbe1-4cf3-aa7c-c32380005d26",
+        "title": "Computer Vision Engineer",
+        "active": true,
+        "date_updated": 1783174145,
+        "date_posted": 1783174050,
+        "url": "https://jobs.ashbyhq.com/spaice-tech/185e5614-1105-48c5-b434-85ff49587615/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SPAICE-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
