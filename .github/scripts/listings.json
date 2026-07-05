@@ -2,97 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Okta",
-        "id": "dfc489c9-e403-46e0-a1ba-e7e8092e311e",
-        "title": "Software Engineer I \u2013 New Grad",
-        "active": false,
-        "date_updated": 1762471485,
-        "date_posted": 1762471485,
-        "url": "https://www.okta.com/company/careers/opportunity/6209884?gh_jid=6209884",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Okta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Citizen Health",
-        "id": "b39419cf-950a-488e-b775-01a81bbe2ad0",
-        "title": "Early Career Software Engineer",
-        "active": false,
-        "date_updated": 1762472986,
-        "date_posted": 1762472986,
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/6157ab51-0fc9-4ad8-90ea-8e87e2a95eef/application",
-        "locations": [
-            "SF",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Citizen-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Viridien",
-        "id": "775c36f8-9bf5-425f-828b-2e2aa1ade7df",
-        "title": "Machine Learning Engineer/Researcher \u2013 2026 Graduate Programme",
-        "active": false,
-        "date_updated": 1762471948,
-        "date_posted": 1762471948,
-        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Crawley-United-Kingdom/Machine-Learning-Engineer-Researcher---2026-Graduate-Programme_JR101055-1",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Viridien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Businessolver",
-        "id": "52000c2d-724b-4297-bfb6-f17fd27ceef9",
-        "title": "Java Software Engineer I - Remote within the USA",
-        "active": false,
-        "date_updated": 1762472194,
-        "date_posted": 1762472194,
-        "url": "https://www.businessolver.com/careers/openings/?gh_jid=7358032",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Businessolver",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b27ecf71-d5ba-422e-8ec8-deb17b381bbf",
-        "title": "Software Engineer I - C - C++ - Onsite",
-        "active": false,
-        "date_updated": 1762471733,
-        "date_posted": 1762471733,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA105-BBN-Headquarters-10-Moulton-Street---Cambridge-MA-02138-USA/Software-Engineer-I---C--C----Onsite-_01804913",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jerry",
         "id": "e46ce1fe-4bd7-427a-9959-8cb9070a81e8",
         "title": "Software Engineer I - Entry",
@@ -12176,640 +12085,6 @@
             "Birmingham, UK"
         ],
         "company_url": "https://simplify.jobs/c/Eurofins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9e18a60d-a85e-45e2-8f12-c2fecbbf006c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762473675,
-        "date_posted": 1762473675,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400034957",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "M&T Bank",
-        "id": "4c350ea4-7e0a-40c1-a812-6bbd9c0f9058",
-        "title": "Merchant Services Product Manager 1",
-        "active": false,
-        "date_updated": 1762923135,
-        "date_posted": 1762473770,
-        "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Merchant-Services-Product-Manager-I_R74433-1",
-        "locations": [
-            "Buffalo, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/M-And-T-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Leidos",
-        "id": "8754390f-b663-456c-9928-fd3691d3a639",
-        "title": "Chinese OSINT Collector",
-        "active": false,
-        "date_updated": 1762473564,
-        "date_posted": 1762473564,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/Chinese-OSINT-Collector---TS-SCI_R-00156764",
-        "locations": [
-            "Reston, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Genuine Parts Company",
-        "id": "40bb0c77-e1af-4f16-8567-3c5ff875caf8",
-        "title": "Motion Ai-Automation Engineer",
-        "active": false,
-        "date_updated": 1762473891,
-        "date_posted": 1762473891,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Milpitas-CA-USA/Automation-Engineer_R25_0000032796",
-        "locations": [
-            "Milpitas, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "268797bb-7dc3-4048-ab54-de1836c09935",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1762473653,
-        "date_posted": 1762473653,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035081",
-        "locations": [
-            "Warrington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ZOLL Medical Corporation",
-        "id": "78b8b04f-aac1-4c64-800a-3427de3b4bff",
-        "title": "Report Customization Specialist - Temporary Assignment",
-        "active": false,
-        "date_updated": 1762472052,
-        "date_posted": 1762472052,
-        "url": "https://zoll.wd5.myworkdayjobs.com/en-US/ZOLLMedicalCorp/job/Atlanta-GA/Report-Customization-Specialist---Temporary-Assignment_R17168",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Zoll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sharp Electronics",
-        "id": "930ba687-1958-42b3-b621-0fd78e664e4f",
-        "title": "Field Technical Service Representative",
-        "active": false,
-        "date_updated": 1763130660,
-        "date_posted": 1762472433,
-        "url": "https://careers-sharpusa.icims.com/jobs/8615/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sharp-Electronics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vertiv",
-        "id": "0b812452-5a45-4a15-8d37-c0c1bdc60972",
-        "title": "Application Engineer - IT Racks and Cabinets",
-        "active": false,
-        "date_updated": 1762472546,
-        "date_posted": 1762472546,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262247",
-        "locations": [
-            "Columbus, OH",
-            "Erie, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASSA ABLOY",
-        "id": "c32a18f6-46b7-4290-acab-3078a95a8dbd",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1762472287,
-        "date_posted": 1762472287,
-        "url": "https://assaabloy.jobs2web.com/job/Sacramento-Installation-Technician-CA-95828/1265369201/?ats=successfactors",
-        "locations": [
-            "Sacramento, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analog Devices",
-        "id": "5edc3ba0-8913-4f31-92ea-83a44b7f6c17",
-        "title": "Engineer \u2013 Quality Systems Engineering",
-        "active": false,
-        "date_updated": 1762472636,
-        "date_posted": 1762472636,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Engineer--Quality-Systems-Engineering_R257050",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "43548e3d-6824-4e32-88c2-08c014f1f531",
-        "title": "Artificial Intelligence",
-        "active": false,
-        "date_updated": 1762471758,
-        "date_posted": 1762471758,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMFaculty/job/Coral-Gables-FL/Artificial-Intelligence--Expertise-in-Quantum-Science-and-AI-_R100092114",
-        "locations": [
-            "Coral Gables, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "e56b306a-c055-4d24-9b7f-13d34c3be7a1",
-        "title": "Information Security Analyst 1 - Customer Identity Access Management",
-        "active": false,
-        "date_updated": 1762909366,
-        "date_posted": 1762471922,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Tampa-Campus/Information-Security-Analyst-I---Customer-Identity-Access-Management_R0112147",
-        "locations": [
-            "Tampa, FL",
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/USAA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "bb3f22cc-9b98-48eb-b87c-2e361b2a26ce",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1762472774,
-        "date_posted": 1762472774,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/Reno-Nevada/Installation-Technician_R-89571",
-        "locations": [
-            "Reno, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AT&T",
-        "id": "8b4c0768-0d1c-4c6d-840b-29029e5a51ba",
-        "title": "Installation Technician",
-        "active": false,
-        "date_updated": 1762472772,
-        "date_posted": 1762472772,
-        "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/East-Dundee-Illinois/Installation-Technician_R-89606",
-        "locations": [
-            "Elgin, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/ATT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Garner Health",
-        "id": "80c5b7f0-d530-4998-a642-da1f0814d29b",
-        "title": "Data Analyst 2",
-        "active": false,
-        "date_updated": 1762818011,
-        "date_posted": 1762471829,
-        "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/5701107004",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Garner-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Broadridge",
-        "id": "3eac7fe5-a733-457a-a282-fd1e54568a11",
-        "title": "Junior DBA",
-        "active": false,
-        "date_updated": 1762925498,
-        "date_posted": 1762472968,
-        "url": "https://broadridge.wd5.myworkdayjobs.com/careers/job/Toronto-ON/Junior-DBA_JR1077160",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Broadridge",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DMI",
-        "id": "6197dc3f-7066-401a-a2ee-928b4bb17daa",
-        "title": "Service Desk Analyst",
-        "active": false,
-        "date_updated": 1762470696,
-        "date_posted": 1762470696,
-        "url": "https://careers-dminc.icims.com/jobs/28321/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/DMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "AspenTech",
-        "id": "9a4cb4e5-0eeb-401e-bb38-849df53fcf36",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1762473493,
-        "date_posted": 1762473493,
-        "url": "https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Associate-Software-Developer_R7898",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/AspenTech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Horizon media",
-        "id": "8026253a-0550-4702-afd3-1299673abc23",
-        "title": "Analyst Advanced Analytics",
-        "active": false,
-        "date_updated": 1762929740,
-        "date_posted": 1762473294,
-        "url": "https://horizonmedia.wd1.myworkdayjobs.com/en-US/CareerOpportunities/job/New-York-New-York/Analyst--Advanced-Analytics_R0016043",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/783568f2-87b3-4222-8741-7766d21bf8a7",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "bd18507d-6522-487e-ab1c-37ae82793a0f",
-        "title": "University Graduate - Applied Science",
-        "active": false,
-        "date_updated": 1762923171,
-        "date_posted": 1762473156,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Seattle/XMLNAME-2026-University-Graduate---Applied-Science_R160136",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LAIKA Studios",
-        "id": "b8555d00-0e5c-42e4-a530-9eb78a612857",
-        "title": "Pipeline Engineer",
-        "active": false,
-        "date_updated": 1762473015,
-        "date_posted": 1762473015,
-        "url": "https://www.laika.com/careers/job-listing?jobid=7379327&gh_jid=7379327",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/LAIKA-Studios",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BlackRock",
-        "id": "a4042e8a-0d4b-4490-b51d-89c988bd8aa8",
-        "title": "Associate Data Management",
-        "active": false,
-        "date_updated": 1762910572,
-        "date_posted": 1762472977,
-        "url": "https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/London-Greater-London/Associate--Data-Management_R257379",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BlackRock",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "b1514455-3656-403f-8e76-5c90eb082df4",
-        "title": "Customer Engineer 1 - Chicago - IL",
-        "active": false,
-        "date_updated": 1762911444,
-        "date_posted": 1762472545,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262203",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "7-Eleven",
-        "id": "41c746ec-ea0d-4335-9fd4-56e2c19123e6",
-        "title": "Integration Analyst 1",
-        "active": false,
-        "date_updated": 1762919565,
-        "date_posted": 1762470949,
-        "url": "https://my7elevenhr.wd12.myworkdayjobs.com/Careers/job/SSC-Irving-TX/Integration-Analyst-I_R25_0000009211",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/7-Eleven",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NBCUniversal",
-        "id": "fc930078-458b-47fa-9cce-2094a5f355dc",
-        "title": "Dreamworks Technology - Asset Management Technician",
-        "active": false,
-        "date_updated": 1762912239,
-        "date_posted": 1762471357,
-        "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000092106861",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NBCUniversal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Highmark Health",
-        "id": "7dcab5c0-5b50-4ee2-90f2-3e1b65fb7771",
-        "title": "Associate Technical Analyst - Server/Application Admin - Radiology Systems",
-        "active": false,
-        "date_updated": 1762471515,
-        "date_posted": 1762471515,
-        "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Technical-Analyst--Server-Application-Admin---Radiology-Systems-_J272317-1",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/Highmark-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "MaineGeneral Health",
-        "id": "162274f2-3018-44da-8537-1150dbc84404",
-        "title": "Service Desk Analyst 1",
-        "active": false,
-        "date_updated": 1762936896,
-        "date_posted": 1762471554,
-        "url": "https://mainegeneral.wd5.myworkdayjobs.com/mainegeneralcareers/job/Augusta-ME/Service-Desk-Analyst-I_R15453",
-        "locations": [
-            "Augusta, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/MaineGeneral-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Booz Allen",
-        "id": "e13a6ce8-a917-46f9-ad51-e1af2a4a12a5",
-        "title": "Technology Engineer Analyst",
-        "active": false,
-        "date_updated": 1762471014,
-        "date_posted": 1762471014,
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/Technology-Engineer-Analyst_R0229199",
-        "locations": [
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Booz-Allen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Swift Group",
-        "id": "6f7e14fb-4c8a-4db6-8bd0-62b3e85ea3af",
-        "title": "Cyber Defense Analyst Level 1",
-        "active": false,
-        "date_updated": 1762471059,
-        "date_posted": 1762471059,
-        "url": "https://job-boards.greenhouse.io/theswiftgroup/jobs/4976396008",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/The-Swift-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Advanced Energy",
-        "id": "64527b47-addc-4e82-bde6-03006a5e8aa1",
-        "title": "Electronics Service Technician 1",
-        "active": false,
-        "date_updated": 1762924308,
-        "date_posted": 1762471233,
-        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Electronics-Service-Technician-I-CO-80525/1313863000/?ats=successfactors",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "2769fa42-a075-4f0c-b8e9-8e47870a3d15",
-        "title": "Gateway Site Development Engineer - Starlink",
-        "active": false,
-        "date_updated": 1762471162,
-        "date_posted": 1762471162,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8242959002",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Texas A&M University - Corpus Christi",
-        "id": "7aaa18c9-7671-41d2-a552-4cb4c0e51c60",
-        "title": "Assistant Professor - Data Science",
-        "active": false,
-        "date_updated": 1762470801,
-        "date_posted": 1762470801,
-        "url": "https://tamus.wd1.myworkdayjobs.com/TAMUCC_External/job/Corpus-Christi-TX/Assistant-Professor--Data-Science_R-088833-1",
-        "locations": [
-            "Corpus Christi, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Texas-AM-University-Corpus-Christi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bridgewater Associates",
-        "id": "5a740424-ba2b-476c-a351-e95d4819756a",
-        "title": "Trading Associate",
-        "active": false,
-        "date_updated": 1762470454,
-        "date_posted": 1762470454,
-        "url": "https://job-boards.greenhouse.io/bridgewater89/jobs/7985213002",
-        "locations": [
-            "Westport, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bridgewater Associates",
-        "id": "1e0891ed-c472-419d-86a9-380dd2159ae3",
-        "title": "Trading Associate",
-        "active": false,
-        "date_updated": 1762470472,
-        "date_posted": 1762470472,
-        "url": "https://job-boards.greenhouse.io/bwaltpostings/jobs/8096635002",
-        "locations": [
-            "Westport, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Bridgewater-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Southern California",
-        "id": "75828313-07e6-40e2-b18f-4212e043bf3c",
-        "title": "Enterprise Applications Developer",
-        "active": false,
-        "date_updated": 1762470385,
-        "date_posted": 1762470385,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Enterprise-Applications-Developer_REQ20168827-2",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -27231,24 +26506,6 @@
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Parkhill",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "By Light Professional IT Services",
-        "id": "f63dc135-aa04-42e6-9844-a72fdff2f342",
-        "title": "AV/VTC Technician",
-        "active": false,
-        "date_updated": 1763772649,
-        "date_posted": 1762472819,
-        "url": "https://jobs-bylight.icims.com/jobs/10673/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Hanover, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/By-Light-Professional-IT-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -64827,24 +64084,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fortive",
-        "id": "012ba089-497b-48d2-ac50-1bc7fd22e337",
-        "title": "Operations Analyst",
-        "active": false,
-        "date_updated": 1764236059,
-        "date_posted": 1762473290,
-        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Fortive",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAE",
         "id": "4211bbe4-e66c-494a-97e8-6dcaee4d9e23",
@@ -77772,27 +77011,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perpay",
-        "id": "fd094936-c2bb-4f59-85eb-b364f62e31cd",
-        "title": "Junior Strategic Analyst - Super Day",
-        "active": false,
-        "date_updated": 1767914851,
-        "date_posted": 1762472994,
-        "url": "https://job-boards.greenhouse.io/perpay/jobs/4969039007",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perpay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "LexisNexis Risk Solutions",
         "id": "62294646-564b-46c8-84ce-f08688e196b8",
@@ -84686,24 +83904,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Jackson Rancheria Casino Resort",
-        "id": "28cc0c92-500e-41c5-81ed-0a45fd082016",
-        "title": "Assistant \u2013 Sales",
-        "active": false,
-        "date_updated": 1768443757,
-        "date_posted": 1762470545,
-        "url": "https://careers-jacksoncasino.icims.com/jobs/8374/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Quantico, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jackson-Rancheria-Casino-Resort",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -212806,7 +212006,7 @@
         "company_name": "Agoda",
         "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
         "title": "Supply Analytics Senior Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1775111401,
         "date_posted": 1773988105,
         "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
@@ -343695,7 +342895,7 @@
         "company_name": "Capital One",
         "id": "46675389-0f58-4172-9093-35f703f53e33",
         "title": "Software Engineer New Grad - Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783088686,
         "date_posted": 1783087781,
         "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad-Card-Expansion_R243795",
@@ -344372,6 +343572,327 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "cdf237e5-7a05-45c0-bed0-a61cde302d6c",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Danish Speakers",
+        "active": true,
+        "date_updated": 1783203889,
+        "date_posted": 1783202822,
+        "url": "https://jobs.lever.co/weloglobal/b26aa765-1a9d-46f7-a899-0354c3ee428d/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "a64d3e41-0647-4eea-9f66-4dce71543588",
+        "title": "Maps Personalization Relevance Rater - English",
+        "active": true,
+        "date_updated": 1783203485,
+        "date_posted": 1783202821,
+        "url": "https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "8a199879-ac83-4e03-9133-ae6136c3e5c4",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Finnish Speakers",
+        "active": true,
+        "date_updated": 1783203527,
+        "date_posted": 1783202823,
+        "url": "https://jobs.lever.co/weloglobal/e7f8d054-a739-4a19-a049-39fbd0603988/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "dab22e42-1501-48f9-8e42-41475f560b6f",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Turkish Speakers",
+        "active": true,
+        "date_updated": 1783203427,
+        "date_posted": 1783202823,
+        "url": "https://jobs.lever.co/weloglobal/4a8823f6-2575-4817-8a3e-c091a6b5c1d9/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FOTH",
+        "id": "f1f1ef38-bdd9-4787-8ad4-c31575e2f26d",
+        "title": "Hydrogeologist/Hydrologist",
+        "active": true,
+        "date_updated": 1783203121,
+        "date_posted": 1783202803,
+        "url": "https://jobs.lever.co/foth/9b4e9dad-02b9-4132-9818-7091bd611a00/apply",
+        "locations": [
+            "Madison, WI",
+            "Duluth, MN",
+            "Green Bay, WI",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/FOTH",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "d90de82b-95ea-4ea1-9e0e-f1aecda3da9a",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - German Speakers",
+        "active": true,
+        "date_updated": 1783203419,
+        "date_posted": 1783202822,
+        "url": "https://jobs.lever.co/weloglobal/876de2c2-ea50-45f7-81ae-bb1d046fe979/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "d826e4b9-2dc1-49fa-881e-cd8795539e03",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Italian Speakers",
+        "active": true,
+        "date_updated": 1783203416,
+        "date_posted": 1783202824,
+        "url": "https://jobs.lever.co/weloglobal/93e6a510-e2a2-403e-b9a7-c510f4804afe/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "9bb998e0-bdcf-4282-9ab0-8e0a36f17a18",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Dutch Speakers",
+        "active": true,
+        "date_updated": 1783203414,
+        "date_posted": 1783202822,
+        "url": "https://jobs.lever.co/weloglobal/550c61aa-98c1-479d-a817-4e3db4b7783a/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "834d08af-0c06-46ed-ad50-7d3b0dbe770a",
+        "title": "Speech & Voice AI Analyst - Swedish Speakers",
+        "active": true,
+        "date_updated": 1783203415,
+        "date_posted": 1783202821,
+        "url": "https://jobs.lever.co/weloglobal/8f46acd5-9292-40f2-a191-0cd61577cbc4/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "619ca1f2-89e4-482c-a3eb-fa81ee86d139",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst - Greek Speakers",
+        "active": true,
+        "date_updated": 1783203420,
+        "date_posted": 1783202824,
+        "url": "https://jobs.lever.co/weloglobal/4ba18e57-c8b7-4783-916b-358c4fe59985/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "2847e6a4-be8a-4416-b29a-c272c47e2947",
+        "title": "Data Labeling Analyst - Speech & Voice AI Analyst",
+        "active": true,
+        "date_updated": 1783203407,
+        "date_posted": 1783202821,
+        "url": "https://jobs.lever.co/weloglobal/f4c39f0f-32e8-4508-accd-60f7c536a3d3/apply",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Burlingame, CA",
+            "Washington, DC",
+            "SF",
+            "Austin, TX",
+            "LA",
+            "Redmond, WA",
+            "Chicago, IL",
+            "NYC",
+            "Bellevue, WA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
