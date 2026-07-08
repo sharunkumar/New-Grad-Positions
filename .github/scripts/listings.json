@@ -98518,7 +98518,7 @@
         "company_name": "Carvana",
         "id": "2d745317-fa1f-439d-8164-15f67400c02b",
         "title": "Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1769556739,
         "date_posted": 1769556738,
         "url": "https://www.carvana.com/careers/apply?gh_jid=7543098",
@@ -112285,7 +112285,7 @@
         "company_name": "WTW",
         "id": "d54d0a79-c7ab-4b84-9191-eecc38405626",
         "title": "2026 Corporate Risk & Broking \u2013 Graduate Data Analyst - London",
-        "active": true,
+        "active": false,
         "date_updated": 1770246865,
         "date_posted": 1770246865,
         "url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508589",
@@ -172570,7 +172570,7 @@
         "company_name": "Relay",
         "id": "857527ed-b30e-4efa-a3c6-7494c08232b0",
         "title": "Associate Product Manager-Internal Tools & Automation",
-        "active": false,
+        "active": true,
         "date_updated": 1773267460,
         "date_posted": 1773267460,
         "url": "https://job-boards.greenhouse.io/relaypro/jobs/7698008",
@@ -237309,7 +237309,7 @@
         "company_name": "Moss",
         "id": "062bf53b-43c0-4cb8-91f1-b9bdcc1e1142",
         "title": "AI Operations Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1776694322,
         "date_posted": 1776694266,
         "url": "https://jobs.ashbyhq.com/moss/88fdfa31-feec-4f32-85f1-0d2f34433069/application",
@@ -237520,7 +237520,7 @@
         "company_name": "Cirrus Logic",
         "id": "8cfa4e54-9398-4673-ae7f-1c9ec1f9a3d2",
         "title": "Applications Engineer Rotation Program",
-        "active": true,
+        "active": false,
         "date_updated": 1776725281,
         "date_posted": 1776723431,
         "url": "https://jobs.eu.lever.co/cirrus/badf4f30-b4ba-41d8-96e2-b250057c6542/apply",
@@ -242485,7 +242485,7 @@
         "company_name": "TikTok",
         "id": "3430c8dc-b361-418e-b760-bb4b8464dcab",
         "title": "Graduate Machine Learning Engineer - TikTok Recommendation Live",
-        "active": false,
+        "active": true,
         "date_updated": 1774619455,
         "date_posted": 1767482802,
         "url": "https://lifeattiktok.com/search/7542584919815325960",
@@ -254971,7 +254971,7 @@
         "company_name": "Marsh & McLennan",
         "id": "3a5aa4d3-2ea7-47bd-895b-82454c9290da",
         "title": "Entry Level Structured Credit Quantitative Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1778019158,
         "date_posted": 1778018636,
         "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/London---Tower-Place-West/Structured-Credit-Quantitative-Analyst--Entry-Graduate-level-considered-_R_346873",
@@ -274742,7 +274742,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -276057,7 +276057,7 @@
         "company_name": "Aevex Aerospace",
         "id": "b3dcdcc7-eb5a-4c19-91a8-c9545777dad7",
         "title": "Software Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1779488641,
         "date_posted": 1779488536,
         "url": "https://job-boards.greenhouse.io/aevexaerospace/jobs/5224824008",
@@ -281500,7 +281500,7 @@
         "company_name": "University of Rochester",
         "id": "31d70fcd-972f-4801-8fa6-6ce29b468814",
         "title": "Customer Tech Support 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779827406,
         "date_posted": 1779487599,
         "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/30-Corporate-Woods/Customer-Tech-Suppt-Tech-I_R271456",
@@ -283656,7 +283656,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": true,
+        "active": false,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -292867,7 +292867,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -296916,7 +296916,7 @@
         "company_name": "JP Morgan Chase",
         "id": "bf6301d3-a965-4a41-8bf1-b122e83223cc",
         "title": "Associate \u2013 Product Analyst - Machine Learning & Intelligent Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1780535341,
         "date_posted": 1780535309,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210726631",
@@ -297740,7 +297740,7 @@
         "company_name": "Metalcraft of Mayville",
         "id": "69c84ff2-77cd-40d1-8c2f-a2601afa0872",
         "title": "Engineering Support Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1780610761,
         "date_posted": 1780610714,
         "url": "https://careers-mtlcraft.icims.com/jobs/4649/job?mobile=true&needsRedirect=false",
@@ -301886,7 +301886,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -305161,7 +305161,7 @@
         "company_name": "UL Solutions",
         "id": "d2e2aab4-3e44-4feb-87c3-4d7e5e1ffc63",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1781082181,
         "date_posted": 1781082140,
         "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9695",
@@ -307076,7 +307076,7 @@
         "company_name": "Lithia Motors",
         "id": "2664a38f-b76f-42f0-82a4-12aecc67d729",
         "title": "Product Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1781166871,
         "date_posted": 1781129201,
         "url": "https://lithia.wd5.myworkdayjobs.com/LithiaCareers/job/BMW-of-Minnetonka-Minnetonka-MN-55391/Product-Specialist_R110644",
@@ -316023,7 +316023,7 @@
         "company_name": "Google",
         "id": "e1b4d8a5-e0ba-4b52-9363-36b5f62610d9",
         "title": "Software Engineer - Translation Mobile - Extended Reality",
-        "active": true,
+        "active": false,
         "date_updated": 1781645419,
         "date_posted": 1780927520,
         "url": "https://www.google.com/about/careers/applications/jobs/results/81260991748154054",
@@ -318431,7 +318431,7 @@
         "company_name": "Newell Brands",
         "id": "00dea79d-a99b-4b51-9373-02b22d16cba2",
         "title": "Associate Product Engineer - Home Fragrance",
-        "active": true,
+        "active": false,
         "date_updated": 1781735941,
         "date_posted": 1781734231,
         "url": "https://jobs.newellbrands.com/job/South-Deerfield-Associate-Product-Engineer,-Home-Fragrance-Mass/1400762300/?ats=successfactors",
@@ -320398,7 +320398,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -327046,7 +327046,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -330787,7 +330787,7 @@
         "company_name": "Jigsaw",
         "id": "85b21a7c-57e7-4929-8bfb-90476bba295e",
         "title": "Product Success Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1782483121,
         "date_posted": 1782482926,
         "url": "https://jobs.ashbyhq.com/jigsaw/b7af4347-b506-41e4-bcbb-793ece0c2c15/application",
@@ -332310,7 +332310,7 @@
         "company_name": "Gravie",
         "id": "e7e53efa-268f-49b8-b41b-4b9a86703ed7",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782208801,
         "date_posted": 1781272992,
         "url": "https://jobs.lever.co/gravie/8dc6e9a1-c1fc-4259-9677-d07565f4eb99/apply",
@@ -333323,7 +333323,7 @@
         "company_name": "Varsity Brands",
         "id": "209fc4a4-5626-4653-baa1-7a5393231ce9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782944873,
         "date_posted": 1782943865,
         "url": "https://careers.varsitybrands.com/global/en/job/JR113976",
@@ -334884,7 +334884,7 @@
         "company_name": "CACI",
         "id": "246eeace-d38a-4899-b548-7d994f5c8653",
         "title": "Computer Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1782961174,
         "date_posted": 1782956164,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Computer-Hardware-Engineer-I_328438",
@@ -335090,7 +335090,7 @@
         "company_name": "Pennsylvania State University",
         "id": "7051adbd-5d92-4bfe-88e5-e63bce5172a7",
         "title": "Research Assistant: Artificial Intelligence - Cybersecurity - And Digital Trust Research",
-        "active": true,
+        "active": false,
         "date_updated": 1782960372,
         "date_posted": 1782956010,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-Erie-The-Behrend-College/Part-Time-Research-Assistant--Artificial-Intelligence--Cybersecurity--and-Digital-Trust-Research_REQ_0000079573-1",
@@ -335362,7 +335362,7 @@
         "company_name": "Carrier Global",
         "id": "5e012e98-195c-4cf0-ae5c-cb00b083abdd",
         "title": "Associate Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782961755,
         "date_posted": 1782957034,
         "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAI19-UTEC-Huntington-111-East-Wayne-Street-Fort-Wayne-IN-46802-USA/Associate-Engineer_30208736",
@@ -338892,7 +338892,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -340990,7 +340990,7 @@
         "company_name": "Pennsylvania State University",
         "id": "7e89b2f7-ec7d-45af-b9ef-cf4c03604a43",
         "title": "Research Support-Werner Group",
-        "active": true,
+        "active": false,
         "date_updated": 1783347871,
         "date_posted": 1783347142,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-Time-Research-Support--Werner-Group_REQ_0000079946-1",
@@ -341792,7 +341792,7 @@
         "company_name": "Comcast",
         "id": "c3607e8e-ae37-4aab-b205-0b645e5672f9",
         "title": "Full Stack Engineer - Engineer 2 - AI Agentic",
-        "active": true,
+        "active": false,
         "date_updated": 1783377363,
         "date_posted": 1783376083,
         "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Full-Stack-Engineer-Engineer-2----AI-Agentic--_R434810",
@@ -342438,7 +342438,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ddd133e6-7ff2-4032-8e0e-f3f111bdfd57",
         "title": "Computer Engineer - Embedded Hardware Test - Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1783386747,
         "date_posted": 1783386468,
         "url": "https://careers-gdms.icims.com/jobs/73366/job?mobile=true&needsRedirect=false",
@@ -343082,7 +343082,7 @@
         "company_name": "Shield AI",
         "id": "eb87c575-f355-4c1f-b359-be5c684b2d03",
         "title": "Engineer 1 - Mechanical Test",
-        "active": true,
+        "active": false,
         "date_updated": 1783433863,
         "date_posted": 1783433383,
         "url": "https://jobs.lever.co/shieldai/792d3340-fe18-4caa-a5c6-9905e67213e3/apply",
@@ -343320,7 +343320,7 @@
         "company_name": "ibotta",
         "id": "9357be8c-c8fa-4a5f-aaaf-6ebbdc8cedd4",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783462326,
         "date_posted": 1783462298,
         "url": "https://jobs.ashbyhq.com/ibotta/b5cac3f7-fa1d-431f-8c09-9d06bec0873d/application",
@@ -343934,7 +343934,7 @@
         "company_name": "Magellan Health",
         "id": "47ef00a4-f0eb-4ce9-90f4-59638a1b2c98",
         "title": "Data and Reporting Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783464577,
         "date_posted": 1783462061,
         "url": "https://magellanhealth.wd5.myworkdayjobs.com/magellan_health_careers/job/Remote-ID-Boise-83701/Data-and-Reporting-Analyst-I_R00000070032",
@@ -344319,7 +344319,7 @@
         "company_name": "Hitachi Energy",
         "id": "c50d6926-df49-4af5-b944-37e8f46f94a7",
         "title": "Python Engineer - Early-Career",
-        "active": true,
+        "active": false,
         "date_updated": 1783463041,
         "date_posted": 1783462621,
         "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Waltham-Massachusetts-United-States/Python-Engineer--Early-Career-_R0134390-1",
@@ -344675,7 +344675,7 @@
         "company_name": "Otter.ai",
         "id": "b043dd73-06f2-4ce6-8f9c-00113656ba29",
         "title": "Software Engineer New Grad - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1783473232,
         "date_posted": 1783473071,
         "url": "https://otter.ai/careers?gh_jid=7798264003",
@@ -344777,7 +344777,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -345168,6 +345168,636 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ADT",
+        "id": "cadd7592-ed03-4288-a300-baac8af185df",
+        "title": "Service Technician",
+        "active": true,
+        "date_updated": 1783520461,
+        "date_posted": 1783519762,
+        "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021215",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ADT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "LexisNexis Legal & Professional",
+        "id": "86485467-5c53-4759-8039-a301b9ce2207",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1783520844,
+        "date_posted": 1783519810,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Associate-Product-Mgr_R114877-1",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/LexisNexis-Legal-And-Professional",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lendable",
+        "id": "295b866f-4e21-407d-9a59-6edee536e3f7",
+        "title": "Graduate Analytics Engineer",
+        "active": true,
+        "date_updated": 1783520461,
+        "date_posted": 1783519859,
+        "url": "https://jobs.ashbyhq.com/lendable/36d47627-9b4e-4864-9f05-2dbbd1052380/application",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Lendable",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Nestle",
+        "id": "174e5340-ac24-4d67-92f3-d53fe1f4338f",
+        "title": "Product Development Associate",
+        "active": true,
+        "date_updated": 1783520461,
+        "date_posted": 1783519680,
+        "url": "https://jobdetails.nestle.com/job/St_-Louis-Product-Development-Associate-MO-63102/1412868633/?ats=successfactors",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nestle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PartnerRe",
+        "id": "78e8e324-34ed-43aa-aa73-0e8160950199",
+        "title": "Cat Modeling Analyst",
+        "active": true,
+        "date_updated": 1783520461,
+        "date_posted": 1783519738,
+        "url": "https://careers.partnerre.com/job/Singapore-Cat-Modeling-Analyst/1412739233/?ats=successfactors",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/PartnerRe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "474a45b5-4d5b-4354-b0ec-4e4586430378",
+        "title": "Viewer Insights Analyst",
+        "active": true,
+        "date_updated": 1783520461,
+        "date_posted": 1783519925,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Viewer-Insights-Analyst_10153635",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Kemin",
+        "id": "1d131926-4996-4c18-8d7a-d58a366d10ed",
+        "title": "Field Service Engineer",
+        "active": true,
+        "date_updated": 1783519923,
+        "date_posted": 1783519478,
+        "url": "https://careers-kemin.icims.com/jobs/12130/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Kemin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "27a0f900-c5b2-4b8f-85c2-8614ea5badf0",
+        "title": "Software Engineer - AI Security",
+        "active": true,
+        "date_updated": 1783519923,
+        "date_posted": 1783519708,
+        "url": "https://amazon.jobs/en/jobs/10440600/software-engineer-ai-security",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "34c0dd73-b79b-4b0e-84ef-813d842ff349",
+        "title": "Loan Trading Services Associate",
+        "active": true,
+        "date_updated": 1783519564,
+        "date_posted": 1783519564,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210766886",
+        "locations": [
+            "Christchurch, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amazon",
+        "id": "ec5b4070-ca93-4555-8016-cd8054743c62",
+        "title": "InfraDelivery Technician",
+        "active": true,
+        "date_updated": 1783521602,
+        "date_posted": 1783519716,
+        "url": "https://amazon.jobs/en/jobs/10458879/infradelivery-technician",
+        "locations": [
+            "Chantilly, VA",
+            "Palmyra, VA",
+            "Ashburn, VA",
+            "Manassas, VA",
+            "Reston, VA",
+            "Dulles, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TMX Group",
+        "id": "c615ab74-1e91-436d-8c6d-ef51179b9638",
+        "title": "Analyst \u2013 Datalinx Platform & Data Management",
+        "active": true,
+        "date_updated": 1783521541,
+        "date_posted": 1783519864,
+        "url": "https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Datalinx-Platform---Data-Management--Contract-_R-6149",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TMX-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "fcd95104-5b2a-4e23-bb5e-ee0412e59f2c",
+        "title": "Junior Software Engineer - AI Agent Platform",
+        "active": true,
+        "date_updated": 1783521447,
+        "date_posted": 1783519971,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146",
+        "locations": [
+            "Alberta, Canada",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "ade523a0-5034-46be-960d-f582dd8d70eb",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521361,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307429009",
+        "locations": [
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "8d895ea7-c0a8-45be-92d3-0711c15b7993",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521361,
+        "date_posted": 1783520733,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307426009",
+        "locations": [
+            "Nevada"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "2b89e055-c32d-41f5-8604-dfa257b13771",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521361,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307420009",
+        "locations": [
+            "Oklahoma"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "RELX",
+        "id": "7cf8928a-ea3d-4942-8e63-8d9db5b03504",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1783521198,
+        "date_posted": 1783519986,
+        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Raleigh-NC/Associate-Product-Mgr_R114877-2",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/RELX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pine Rest",
+        "id": "8795241c-1e79-4a0d-8f6a-8d003f37d154",
+        "title": "Occupational Therapist",
+        "active": true,
+        "date_updated": 1783521159,
+        "date_posted": 1783519929,
+        "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/OT--PHP-Adolescent-Eating-Disorders--Full-Time_JR105129",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Pine-Rest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "f70759d2-0bda-40f7-b0fc-f4bf6c03dcf1",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520735,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307428009",
+        "locations": [
+            "Rhode Island"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "145cba92-b894-4834-b67b-334347a2ba4f",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307423009",
+        "locations": [
+            "Delaware"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "c7f2b025-9cd7-46ef-82d2-99e8977a1a9b",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520735,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307417009",
+        "locations": [
+            "Indiana"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "8576d9fd-7774-4206-b8fa-195a78e31afd",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520733,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307421009",
+        "locations": [
+            "Tennessee"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "6e21dc35-2a15-4c16-bfcf-e44dbcca1871",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520733,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307427009",
+        "locations": [
+            "Massachusetts"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "69efd413-5f40-4e3c-8c63-18f7c8da24ca",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520733,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307424009",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "5cd612da-7f1a-4d55-8fec-d7331800989b",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307416009",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "3c753255-bace-4666-bf52-01e6858c132c",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307425009",
+        "locations": [
+            "Minnesota"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "14d06381-f4e2-4569-b52c-adddefb8627f",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307430009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Walt Disney Company",
+        "id": "09348e94-2ce0-465a-8403-160d7d647428",
+        "title": "Viewer Insights Analyst",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783519925,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/London-United-Kingdom/Viewer-Insights-Analyst_10153635-1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "074f3edc-866b-4482-90f5-be00b9391f14",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307419009",
+        "locations": [
+            "Concord, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "00a4d368-142f-4253-9ae3-49721d8f48de",
+        "title": "Generative AI Associate",
+        "active": true,
+        "date_updated": 1783521001,
+        "date_posted": 1783520734,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4307418009",
+        "locations": [
+            "Kentucky"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RoadRunner Recycling",
+        "id": "5158ca83-fadc-46bd-8a9d-7d714853a2c3",
+        "title": "Software Engineer 1 - Full-Stack",
+        "active": true,
+        "date_updated": 1783521567,
+        "date_posted": 1783462596,
+        "url": "https://job-boards.greenhouse.io/roadrunner/jobs/4307451009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/RoadRunner-Recycling",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
