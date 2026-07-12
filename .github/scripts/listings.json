@@ -2,495 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "BlueCross BlueShield of Tennessee",
-        "id": "410ede1f-4a9d-40ba-bb93-f94101c10057",
-        "title": "Associate Software Engineer 1",
-        "active": false,
-        "date_updated": 1763130721,
-        "date_posted": 1763130721,
-        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer-I_R-47784",
-        "locations": [
-            "Chattanooga, TN",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "date_updated": 1763378043,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-I_10136425",
-        "company_name": "The Walt Disney Company",
-        "title": "Software Engineer I",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "48f0a8d3-18fc-4d85-a03d-f49f6350c2c9",
-        "date_posted": 1763138049,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1764857387,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://pru.wd5.myworkdayjobs.com/en-US/careers/job/Newark-NJ-USA/Associate-Software-Engineer---Retirement-Strategies_R-122407-2",
-        "company_name": "Prudential Financial",
-        "title": "Associate Software Engineer , Retirement Strategies",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "049b365a-af17-4910-91d5-515327762f0b",
-        "date_posted": 1763138093,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763149077,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://microchiphr.wd5.myworkdayjobs.com/en-US/external/job/AZ---Chandler/Engineer-I-Software_R2272-25",
-        "company_name": "Microchip Technology",
-        "title": "Engineer I-Software",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "e17ecf28-343c-40a5-9971-24e5cf005dd0",
-        "date_posted": 1763138127,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763138170,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST",
-        "company_name": "METECS",
-        "title": "Junior Software Engineer - DST",
-        "locations": [
-            "Houston, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "76295fb2-f3bc-499e-bd1c-bd591ce14c36",
-        "date_posted": 1763138170,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763149326,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179",
-        "company_name": "KBR",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "81b868dd-353e-4c2a-ae8e-30170c73a203",
-        "date_posted": 1763138209,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "b8b71eb7-0206-4be7-b91e-daf182bea81d",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1763136724,
-        "date_posted": 1763136724,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000093719085",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "4bf9420f-3b86-4e28-be0e-8d88dede5109",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1763136724,
-        "date_posted": 1763136724,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000093719514",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University Health Network",
-        "id": "e402f38f-68ef-4c54-a510-5a3ddb9541d5",
-        "title": "Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1763136404,
-        "date_posted": 1763136404,
-        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000088820465",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Health-Network",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Unisys",
-        "id": "ce0b67da-7861-4f63-b5d0-825a03587d90",
-        "title": "Associate Field Engineer",
-        "active": false,
-        "date_updated": 1763130660,
-        "date_posted": 1763130660,
-        "url": "https://unisys.wd5.myworkdayjobs.com/en-US/External/job/East-Hartford-CT-United-States-of-America/Assoc-Tech-Field-Eng_REQ568296",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Unisys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "acca75ee-0a80-4563-98ff-74c1c5394ff3",
-        "title": "Graduate \u2013 R&D Engineer - m/f/d - Months",
-        "active": false,
-        "date_updated": 1763135449,
-        "date_posted": 1763135449,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/127697",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9008d79a-8563-48cf-a8c0-ae8abc060a24",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763131300,
-        "date_posted": 1763131300,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037358",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c88bb9b-691f-4103-b7ee-767c3bf834fc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763131298,
-        "date_posted": 1763131298,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037294",
-        "locations": [
-            "Birmingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "49888504-5275-4800-9058-d302f2b629dd",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763131299,
-        "date_posted": 1763131299,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037332",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "480c59fd-17f4-45f1-a631-c7854bf7c208",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763131293,
-        "date_posted": 1763131293,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037301",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "a9eea3f1-92a4-4a4c-82c6-f803d1b26c66",
-        "title": "Student - Product Engineering",
-        "active": false,
-        "date_updated": 1763130869,
-        "date_posted": 1763130869,
-        "url": "https://johndeere.eightfold.ai/careers/job/137477652429",
-        "locations": [
-            "Austin, TX",
-            "Grimes, IA",
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a84ff209-cc0a-4b7d-bfa4-ab016151ddf3",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763131297,
-        "date_posted": 1763131297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037325",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Johnson Controls",
-        "id": "235cb359-9f40-49bc-8dea-43ff2f3e4e98",
-        "title": "Technical Support Advisor",
-        "active": false,
-        "date_updated": 1763130047,
-        "date_posted": 1763130047,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Manchester-Manchester-United-Kingdom/Technical-Support-Advisor_WD30255339-1",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Genuine Parts Company",
-        "id": "59ca2f02-ff61-47b2-9e53-7e1827d9500b",
-        "title": "Tier 1 Support Technician",
-        "active": false,
-        "date_updated": 1763131705,
-        "date_posted": 1763131705,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/GBR-AAG---AAL-Rotherham/Tier-1-Support-Technician_R25_0000040470",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c85039cc-7d49-4bcf-a9d3-86cee524249c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763131297,
-        "date_posted": 1763131297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037307",
-        "locations": [
-            "Girvan, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "beebdf0d-1094-480f-9ecf-943c99efd1b6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763131300,
-        "date_posted": 1763131300,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037278",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a3126ede-54a7-4ad6-87c7-6aa3ea368f37",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763131293,
-        "date_posted": 1763131293,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037351",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "97f0576a-3fb5-4d7d-bf3b-773eeee75f34",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763131297,
-        "date_posted": 1763131297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037328",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3ea0cf52-b17c-45e4-9c30-6bc25682a51c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763131295,
-        "date_posted": 1763131295,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037300",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0cc5d630-9b24-4ac3-a0bf-4c4d950163da",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763131297,
-        "date_posted": 1763131297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400037310",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BlueCross BlueShield of Tennessee",
-        "id": "84cb67a6-7d4b-49a4-9b97-ae32f133a0d5",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1763130709,
-        "date_posted": 1763130709,
-        "url": "https://bcbst.wd1.myworkdayjobs.com/external/job/USA-TN-Chattanooga-Remote/Associate-Software-Engineer_R-47896",
-        "locations": [
-            "Chattanooga, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/BlueCross-Blueshield-Of-Tennessee",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Genuine Parts Company",
-        "id": "6c4ad610-4a61-484f-a21c-fe6a06c3494f",
-        "title": "Motion Ai-Application Engineer",
-        "active": false,
-        "date_updated": 1763131967,
-        "date_posted": 1763131967,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Anaheim-CA-USA/Motion-Ai--Application-Engineer_R25_0000033255",
-        "locations": [
-            "Anaheim, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Atlas Van Lines",
         "id": "ca485c97-49f6-4832-a85d-06af59edc356",
         "title": "Software Developer - Associate",
@@ -23769,24 +23280,6 @@
             "Wheeling, IL"
         ],
         "company_url": "https://simplify.jobs/c/Zebra-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "cbcde1ae-190b-49d5-aaf9-833855f7bd6b",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763132748,
-        "date_posted": 1763132748,
-        "url": "https://aexp.eightfold.ai/careers/job/38833294",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -264479,7 +263972,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -265473,7 +264966,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -283598,7 +283091,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -292617,7 +292110,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -297958,7 +297451,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -299960,7 +299453,7 @@
         "company_name": "Goldman Sachs",
         "id": "aa693cdb-f3f2-4ceb-b496-134b2a24595a",
         "title": "HCM Associate - Data Analytics and Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1781187814,
         "date_posted": 1781042930,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176302",
@@ -307948,7 +307441,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -311129,7 +310622,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -319236,7 +318729,7 @@
         "company_name": "Southern Company",
         "id": "e4c5ffd0-bcd5-43f6-8cf9-29d807282503",
         "title": "AI Engineer / Application Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782483661,
         "date_posted": 1782482707,
         "url": "https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/19896",
@@ -322473,7 +321966,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -329623,7 +329116,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -335508,7 +335001,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -340358,7 +339851,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
