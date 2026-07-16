@@ -1,172 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kettering Health",
-        "id": "4f7b4275-b8b5-443c-88ba-f969a8383109",
-        "title": "Clinical Analytics Analyst - Information Systems Analytic Health",
-        "active": false,
-        "date_updated": 1763441246,
-        "date_posted": 1763441246,
-        "url": "https://careers-ketteringhealth.icims.com/jobs/57003/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Kettering-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b695fc8b-4a4a-4235-bafc-d54d9291316f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763443488,
-        "date_posted": 1763443488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400032732",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8e4471f0-2642-4c9a-accb-c084d378f59a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763443501,
-        "date_posted": 1763443501,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038099",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "17da0ce3-b7a8-4ba8-b30a-9dd322556002",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763443488,
-        "date_posted": 1763443488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038185",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0c0635f7-16f9-41c6-8b57-3a068adbec80",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763443488,
-        "date_posted": 1763443488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036282",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figure",
-        "id": "3c75f0ca-29e4-400d-8e74-9adafaebcc9c",
-        "title": "Data Labeler",
-        "active": true,
-        "date_updated": 1763442345,
-        "date_posted": 1763442345,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4590702006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "True Anomaly",
-        "id": "236f8be6-8165-460a-98c3-3e3aba3592d4",
-        "title": "Flight Software Engineer",
-        "active": false,
-        "date_updated": 1763442039,
-        "date_posted": 1763442039,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/4984605007",
-        "locations": [
-            "Long Beach, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "date_updated": 1764154693,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://apply.workable.com/mlabs/j/9FD344525A/",
-        "company_name": "MLabs",
-        "title": "Software Engineer (New Grads)",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "d98e3a89-77a0-4a6f-a6d1-6155ebee62e5",
-        "date_posted": 1763443877,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Air Liquide",
-        "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
-        "title": "Modelling & Simulation Engineer",
-        "active": false,
-        "date_updated": 1763445076,
-        "date_posted": 1763445076,
-        "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Air-Liquide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Major League Baseball",
         "id": "0f805f93-2b26-438c-8c49-629bed07db92",
@@ -35664,24 +35498,6 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Covenant Health",
-        "id": "169ab55f-64d0-453a-a3b9-5b5f2055c540",
-        "title": "Certified Nursing Assistant - Oncology",
-        "active": false,
-        "date_updated": 1765967441,
-        "date_posted": 1763442831,
-        "url": "https://careers-covenanthealth.icims.com/jobs/69327/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Covenant-Health",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -109178,24 +108994,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "L3Harris Technologies",
-        "id": "349f44d8-b5e8-4b58-b28d-a7ef69826f09",
-        "title": "Specialist - Systems Engineering",
-        "active": false,
-        "date_updated": 1770909180,
-        "date_posted": 1763439832,
-        "url": "https://jobs.l3harris.com/job/Greenville-Specialist,-Systems-Engineering-TX-75402/1343598500/?ats=successfactors",
-        "locations": [
-            "Greenville, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -257696,7 +257494,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -276795,7 +276593,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -282709,7 +282507,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": false,
+        "active": true,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -285814,7 +285612,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": false,
+        "active": true,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -291155,7 +290953,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -301145,7 +300943,7 @@
         "company_name": "Graphcore",
         "id": "2dc14ab8-95c7-488b-8e78-70a1d6d5f26a",
         "title": "Electronics Laboratory Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1781677010,
         "date_posted": 1781639427,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8570813002",
@@ -304326,7 +304124,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -315670,7 +315468,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": true,
+        "active": false,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -321703,7 +321501,7 @@
         "company_name": "University of Central Florida",
         "id": "21576dcc-16d0-4ac6-b351-2c10592d3a7a",
         "title": "Applications Programmer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783030371,
         "date_posted": 1783029921,
         "url": "https://ucf.wd1.myworkdayjobs.com/careers/job/Orlando-FL-Main-Campus/Applications-Programmer-I_R113630",
@@ -322780,7 +322578,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -322820,7 +322618,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -328705,7 +328503,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -330368,7 +330166,7 @@
         "company_name": "Florida Atlantic University",
         "id": "38dda367-7146-4c35-9a30-b5d2d72d93c9",
         "title": "Biostatistician/Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783548181,
         "date_posted": 1783548129,
         "url": "https://fau.wd1.myworkdayjobs.com/FAU/job/Boca-Raton/Biostatistician-Data-Scientist_REQ22029",
@@ -333555,7 +333353,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -333593,7 +333391,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "61889653-930e-4e1c-9b9f-f805543a4d55",
         "title": "Quant Rotation Program Associate New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1783664280,
         "date_posted": 1783555200,
         "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/Quant-New-Grad-Rotation-Program-Associate_R-0000172286",
@@ -334144,7 +333942,7 @@
         "company_name": "Texas Instruments",
         "id": "3995856a-3717-462d-b7e3-fb4c9effc68b",
         "title": "Career Accelerator Program - Analog Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783721524,
         "date_posted": 1783721334,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25011730",
@@ -334568,7 +334366,7 @@
         "company_name": "American Express",
         "id": "5fbcaa2a-e397-4a5e-9cd6-c5d130497416",
         "title": "Software Engineer 1 - Oracle Cloud HCM - CET Services",
-        "active": true,
+        "active": false,
         "date_updated": 1783723267,
         "date_posted": 1783721402,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26007827",
@@ -338041,7 +337839,7 @@
         "company_name": "Harvard University",
         "id": "adbf2084-9827-4147-b0e6-4e073febca40",
         "title": "Associate Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1784028064,
         "date_posted": 1784019712,
         "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990014072606",
@@ -338298,7 +338096,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -342049,7 +341847,7 @@
         "company_name": "Clearway Energy",
         "id": "2a591e73-9bc0-4b50-8194-d6b5110c86f4",
         "title": "Operations Specialist 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784166167,
         "date_posted": 1782829636,
         "url": "https://job-boards.greenhouse.io/clearwayjobs/jobs/4945625007",
@@ -342057,6 +341855,44 @@
             "Scottsdale, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Clearway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cybernetic Labs",
+        "id": "a4f1f1ef-5c02-4610-b206-1791f99b714e",
+        "title": "Software Engineer New Grad - Agent Platform",
+        "active": true,
+        "date_updated": 1784182854,
+        "date_posted": 1784182197,
+        "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cybernetic-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke Energy",
+        "id": "1b36d08a-6e57-4594-9ffa-36bd8fc0c5ce",
+        "title": "Associate GIS Technologist",
+        "active": true,
+        "date_updated": 1784182599,
+        "date_posted": 1784160000,
+        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Plainfield-IN/Associate-GIS-Technologist_R40529",
+        "locations": [
+            "Plainfield, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
