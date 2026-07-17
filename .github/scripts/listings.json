@@ -1,134 +1,5 @@
 [
     {
-        "date_updated": 1763588222,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/",
-        "company_name": "Optimum",
-        "title": "Software Development Engineer I",
-        "locations": [
-            "Bethpage, NY",
-            "Plano TX"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "7a717584-07e6-42cf-a189-423b7308030b",
-        "date_posted": 1763559123,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/amaehealth/jobs/4050820009",
-        "company_name": "Amae Health",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "8f66b6bc-3b74-4805-8d01-473ea18572d7",
-        "date_posted": 1763559469,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-11821",
-        "company_name": "Q2",
-        "title": "Software Engineer",
-        "locations": [
-            "Austin, TX"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "208839bf-6563-4d7c-97d2-4b53fbe51ca0",
-        "date_posted": 1763559550,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763710136,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://app.dover.com/apply/wanderlog/561b05dd-36f6-43ab-aeb9-93b04d97b3fb?rs=42706078",
-        "company_name": "Wanderlog",
-        "title": "Full-Stack Software Engineer",
-        "locations": [
-            "San Francisco, CA",
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "f8d189f8-3a86-4d9e-ad7a-0fdfd87b3298",
-        "date_posted": 1763559741,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1763589115,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363",
-        "company_name": "Citizen Health",
-        "title": "Early Career Software Engineer",
-        "locations": [
-            "San Francisco"
-        ],
-        "category": "Software Engineering",
-        "source": "DereC4",
-        "id": "735c09f6-ea13-4b8a-82dc-17b3eafb078e",
-        "date_posted": 1763560351,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763589147,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer",
-        "company_name": "Space Dynamics Laboratory",
-        "title": "Entry-Level Software Engineer",
-        "locations": [
-            "North Logan, UT"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "b66701f5-f31f-4301-96b8-bd5ae3e7cbea",
-        "date_posted": 1763569228,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1763770047,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693",
-        "company_name": "Malvern Panalytical",
-        "title": "Graduate Software Engineer",
-        "locations": [
-            "Northampton, MA",
-            "Malvern, GB"
-        ],
-        "category": "Software Engineering",
-        "source": "angie-hue",
-        "id": "a863e40c-2bc0-4c8b-b880-b3dbd872dd3f",
-        "date_posted": 1763569349,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "IXL Learning",
@@ -148415,7 +148286,7 @@
         "company_name": "Citadel Securities",
         "id": "d34efe5f-8b16-4631-abb7-2997d0702bcd",
         "title": "Quantitative Researcher \u2013 PhD Graduate - Europe",
-        "active": true,
+        "active": false,
         "date_updated": 1768955568,
         "date_posted": 1768955568,
         "url": "https://www.citadelsecurities.com/careers/details/quantitative-researcher-phd-graduate-europe/",
@@ -179896,7 +179767,7 @@
         "company_name": "Denso",
         "id": "644a3b81-bf2d-49ef-bb15-ebe18d1ff92e",
         "title": "Data Scientist 2",
-        "active": true,
+        "active": false,
         "date_updated": 1774649019,
         "date_posted": 1774649019,
         "url": "https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/23724",
@@ -215583,7 +215454,7 @@
         "company_name": "University of Texas at Austin",
         "id": "0a2c27c4-783b-47bb-9b5f-ae9f5bf46d0b",
         "title": "Hydrographic Survey Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1776522107,
         "date_posted": 1776521479,
         "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/PICKLE-RESEARCH-CAMPUS/Hydrographic-Survey-Analyst_R_00043224",
@@ -242725,7 +242596,7 @@
         "company_name": "NinjaOne",
         "id": "c5fde4b4-044f-449a-bf92-c29b4b49118d",
         "title": "Tableau Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1778508541,
         "date_posted": 1778508501,
         "url": "https://jobs.jobvite.com/ninjaone/job/ohI5zfwn?nl=1&nl=1&fr=false",
@@ -254703,7 +254574,7 @@
         "company_name": "Goldman Sachs",
         "id": "ad57e8fa-d0bd-4c63-9809-6141b7dda000",
         "title": "Asset & Wealth Management Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1779343943,
         "date_posted": 1779343723,
         "url": "https://higher.gs.com/roles/168978",
@@ -264611,7 +264482,7 @@
         "company_name": "Marsh",
         "id": "e68aac58-7bc4-4d3f-95cc-01647aad689d",
         "title": "Data & Analytics Analyst - Data & Analytics Consulting",
-        "active": false,
+        "active": true,
         "date_updated": 1779876578,
         "date_posted": 1778940330,
         "url": "https://mmc.wd1.myworkdayjobs.com/mmc/job/Berlin---Mittelstrasse/Oliver-Wyman---Data---Analytics-Consulting---Analyst--m-f-d----Berlin_R_326123-1",
@@ -267167,7 +267038,7 @@
         "company_name": "Netcompany",
         "id": "2561d0eb-9341-4bdd-8784-26c66caed47e",
         "title": "Graduate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1779919573,
         "date_posted": 1779919390,
         "url": "https://jobs.smartrecruiters.com/Netcompany1/744000128752871",
@@ -273741,7 +273612,7 @@
         "company_name": "Flatiron Health",
         "id": "e2052cb0-de30-4673-ae90-6fb2129078b5",
         "title": "Data Analyst - Evidence Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1780393568,
         "date_posted": 1780351913,
         "url": "https://flatiron.com/careers/open-positions/job?gh_jid=7834645",
@@ -273802,7 +273673,7 @@
         "company_name": "Goldman Sachs",
         "id": "d8f3b21b-ca53-4c69-99d4-ca2ffec5ce73",
         "title": "Global Banking & Markets - Fund Finance Strats - Analyst/Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1780393615,
         "date_posted": 1772234400,
         "url": "https://higher.gs.com/roles/164535",
@@ -277721,7 +277592,7 @@
         "company_name": "Mercury Insurance",
         "id": "15e7eab5-4982-4400-aef6-397d5a5dc3b0",
         "title": "Product Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780524517,
         "date_posted": 1780524335,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/6462/job?mobile=true&needsRedirect=false",
@@ -282821,7 +282692,7 @@
         "company_name": "Goldman Sachs",
         "id": "2e34b863-9eb5-4b1d-b3f1-959a8e16227c",
         "title": "Global Banking & Markets Public - Systematic Trading Strategies Trading - Ana/Aso",
-        "active": true,
+        "active": false,
         "date_updated": 1780958352,
         "date_posted": 1780956560,
         "url": "https://higher.gs.com/roles/175884",
@@ -288162,7 +288033,7 @@
         "company_name": "Goldman Sachs",
         "id": "f99b0f28-4c34-4e85-8a26-27c6ea7b386a",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": false,
+        "active": true,
         "date_updated": 1781170202,
         "date_posted": 1781168798,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/162274",
@@ -301333,7 +301204,7 @@
         "company_name": "Goldman Sachs",
         "id": "9c889bbe-3176-45bf-96fc-ce726765f959",
         "title": "Compliance Associate - Data Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1781831523,
         "date_posted": 1781831227,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/171671",
@@ -303695,7 +303566,7 @@
         "company_name": "Amazon",
         "id": "2c2aafd9-d2b4-4c8e-a730-7169cb5ae715",
         "title": "Catalog Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1782137529,
         "date_posted": 1782137261,
         "url": "https://amazon.jobs/en/jobs/10449772/catalog-specialist-rcx",
@@ -307583,7 +307454,7 @@
         "company_name": "S&P Global ",
         "id": "4c9828a5-d43f-4bc8-acc8-f18921966890",
         "title": "Market Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782425405,
         "date_posted": 1782425028,
         "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Market-Risk--Product--Analyst_329916",
@@ -307840,7 +307711,7 @@
         "company_name": "Astemo",
         "id": "e1080af3-a7ae-4f6f-8713-4ab246d3243b",
         "title": "Engineer 1 - Quality Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1782339730,
         "date_posted": 1782338926,
         "url": "https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Greenfield-Indiana-United-States-of-America/Engineer-I--Quality-Analysis_J0050985",
@@ -307981,7 +307852,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -308139,7 +308010,7 @@
         "company_name": "National Information Solutions Cooperative (NISC)",
         "id": "a34e76eb-28b8-4763-b31b-6099faa5db55",
         "title": "Software Developer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1782772021,
         "date_posted": 1782771083,
         "url": "https://job-boards.greenhouse.io/nisc/jobs/8035914",
@@ -312677,7 +312548,7 @@
         "company_name": "Goldman Sachs",
         "id": "3ac699af-5c50-4a7c-81af-6dfb56f595db",
         "title": "Asset& Wealth Management-Software Engineering-Associate-New York",
-        "active": false,
+        "active": true,
         "date_updated": 1782742321,
         "date_posted": 1782742023,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/168978",
@@ -316545,7 +316416,7 @@
         "company_name": "Truist Bank",
         "id": "cca7ace0-9015-435c-a3c1-7234e130d72e",
         "title": "Data Scientist 1 - Fraud Reporting",
-        "active": true,
+        "active": false,
         "date_updated": 1782961750,
         "date_posted": 1782956373,
         "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Data-Scientist-I----Fraud-Reporting_R0115931",
@@ -317951,7 +317822,7 @@
         "company_name": "Legrand North America",
         "id": "3593cae5-6834-4876-8e2b-d01aa59012dd",
         "title": "Entry Level Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782982143,
         "date_posted": 1780006034,
         "url": "https://jobs-legrand.icims.com/jobs/10071/job?mobile=true&needsRedirect=false",
@@ -319787,7 +319658,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc5879a8-4b16-4bc4-90e6-ab5042dcaab1",
         "title": "Asset & Wealth Management - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1783041481,
         "date_posted": 1782742015,
         "url": "https://higher.gs.com/roles/176984",
@@ -319827,7 +319698,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc171db7-75e5-4d85-803e-540b7dceaca5",
         "title": "Transaction Banking - API Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1783041121,
         "date_posted": 1780956574,
         "url": "https://higher.gs.com/roles/169660",
@@ -325712,7 +325583,7 @@
         "company_name": "Goldman Sachs",
         "id": "6a36b7f9-3aea-44d6-b6a2-b8ba794476ea",
         "title": "Asset & Wealth Management - Product Management - Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783472761,
         "date_posted": 1781791629,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/173819",
@@ -326206,7 +326077,7 @@
         "company_name": "The Walt Disney Company",
         "id": "474a45b5-4d5b-4354-b0ec-4e4586430378",
         "title": "Viewer Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783520461,
         "date_posted": 1783519925,
         "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Viewer-Insights-Analyst_10153635",
@@ -330562,7 +330433,7 @@
         "company_name": "Goldman Sachs",
         "id": "9f62800f-29c9-4903-ae21-b3abdaa8c9f4",
         "title": "Quantitative Strategist - Global Banking & Markets - FICC Resource Management",
-        "active": true,
+        "active": false,
         "date_updated": 1783664461,
         "date_posted": 1771381096,
         "url": "https://higher.gs.com/roles/162274",
@@ -332687,7 +332558,7 @@
         "company_name": "M&T Bank",
         "id": "086c1760-5212-4c66-a2f6-53b20c6f55af",
         "title": "Digital Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783952462,
         "date_posted": 1783900800,
         "url": "https://mtb.wd5.myworkdayjobs.com/MTB/job/Buffalo-NY/Digital-Product-Analyst_R88038",
@@ -335305,7 +335176,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -336716,7 +336587,7 @@
         "company_name": "Esri",
         "id": "32671d23-475d-488c-a8ca-48ba428e3c3a",
         "title": "Software Development Engineer 1 - Agentic AI - Arcgis Enterprise",
-        "active": true,
+        "active": false,
         "date_updated": 1784071843,
         "date_posted": 1784068249,
         "url": "https://www.esri.com/careers/5186832007?gh_jid=5186832007",
@@ -337006,7 +336877,7 @@
         "company_name": "X Development",
         "id": "ec6787f1-d9ad-4f43-b1cd-83f7db32213b",
         "title": "Machine Learning Engineer - Tapestry",
-        "active": true,
+        "active": false,
         "date_updated": 1784099881,
         "date_posted": 1784096632,
         "url": "https://x.company/careers/8633983002?gh_jid=8633983002",
@@ -337407,7 +337278,7 @@
         "company_name": "Westlake",
         "id": "d9d8fdd5-9c5e-4214-89aa-e710468fc54a",
         "title": "Data Scientist 1 - Digital",
-        "active": true,
+        "active": false,
         "date_updated": 1784125717,
         "date_posted": 1784073600,
         "url": "https://westlake.wd1.myworkdayjobs.com/westlake/job/US---Houston-TX/Data-Scientist-I---Digital_R32974",
@@ -337467,7 +337338,7 @@
         "company_name": "Heathrow",
         "id": "d25c802d-2394-4874-bb5a-32816fa920e5",
         "title": "Forecasting Analyst - Traffic & Market Insights",
-        "active": true,
+        "active": false,
         "date_updated": 1784125264,
         "date_posted": 1784124421,
         "url": "https://encd.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_6005/job/5633",
@@ -337660,7 +337531,7 @@
         "company_name": "Clarity Innovations",
         "id": "a73c9a6d-f530-4e41-a5b0-5761f8650703",
         "title": "Data Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1784126522,
         "date_posted": 1784125657,
         "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5165168007",
@@ -337946,7 +337817,7 @@
         "company_name": "Clera",
         "id": "135813b2-fa17-4721-a9c8-af93c8895b2a",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784153524,
         "date_posted": 1784153494,
         "url": "https://jobs.ashbyhq.com/clera/362f083b-b694-47c4-82db-7f885d338690/application?embed=true",
@@ -339572,7 +339443,7 @@
         "company_name": "Beth Israel Lahey Health",
         "id": "b77d2a6d-728d-4ccd-a442-8bbc99dbb8d0",
         "title": "Biostatistician 1 - Epidemiology & Data Science Section",
-        "active": true,
+        "active": false,
         "date_updated": 1784217467,
         "date_posted": 1784160000,
         "url": "https://bilh.wd1.myworkdayjobs.com/External/job/Beth-Israel-Deaconess-Medical-Center/Biostatistician-I--Epidemiology---Data-Science-Section-_JR99657",
@@ -339669,7 +339540,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "e7e6bef5-79b4-4ef0-88f8-0daabd257a4b",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784216277,
         "date_posted": 1784160000,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/LexisNexisLegal/job/Raleigh-NC/Data-Discovery-and-Enrichment-Expert-I---Hybrid-or-Remote_R116188",
@@ -341373,5 +341244,290 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Motorola",
+        "id": "177af578-19a1-428a-8acb-184beaa3cf9e",
+        "title": "Software Engineering",
+        "active": true,
+        "date_updated": 1784298241,
+        "date_posted": 1784246400,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering_R66217",
+        "locations": [
+            "Plantation, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fanatics",
+        "id": "9197775f-913a-45d6-be61-de505b9edc09",
+        "title": "Junior Product Developer",
+        "active": true,
+        "date_updated": 1784298241,
+        "date_posted": 1784297006,
+        "url": "https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27988",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fanatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vishay Intertechnology",
+        "id": "64ff0fda-754a-4dae-b546-9341fa22df4b",
+        "title": "Failure Analysis Technician",
+        "active": true,
+        "date_updated": 1784298197,
+        "date_posted": 1784246400,
+        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Newport-UK/Failure-Analysis-Shift-Technician_JR-18800",
+        "locations": [
+            "Cardiff, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Genuine Parts Company",
+        "id": "9bf6c619-0d83-4cdc-8994-e8331553f8b0",
+        "title": "Motion Automation Intelligence-Service Technician 1",
+        "active": true,
+        "date_updated": 1784298195,
+        "date_posted": 1784246400,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Rochester-NY-USA/Motion-Automation-Intelligence--Service-Technician-I_R26_0000023260-1",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "f702e596-6e93-4058-b1c2-ae93305792da",
+        "title": "Applied Machine Learning Scientist 1",
+        "active": true,
+        "date_updated": 1784298158,
+        "date_posted": 1784246400,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Applied-Machine-Learning-Scientist-I_R_1500263",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Memorial Hermann",
+        "id": "98e4d992-5e24-4908-8792-a7a96f2babb0",
+        "title": "Senior Applications Analyst",
+        "active": true,
+        "date_updated": 1784297701,
+        "date_posted": 1784246400,
+        "url": "https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Senior-Applications-Analyst_100179387",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Memorial-Hermann",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Bancshares",
+        "id": "f458300e-96c0-4349-88fa-cdf6a6cd0aed",
+        "title": "Technology Delivery Analyst - Elevate",
+        "active": true,
+        "date_updated": 1784297701,
+        "date_posted": 1784246400,
+        "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Columbus-OH/Technology-Delivery-Analyst--Elevate-_R0074064",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Bancshares",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "35b9522d-17e0-488f-ae8b-d1b88467b762",
+        "title": "Research Assistant in Meteorology",
+        "active": true,
+        "date_updated": 1784297739,
+        "date_posted": 1784246400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Part-time-Research-Assistant-in-Meteorology---Tropical-Cyclone-Modeling-and-Data-Analysis_REQ_0000080359-1",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ING",
+        "id": "b02faa2d-60d1-4566-bccf-abb3d8aad478",
+        "title": "Market Data Risk Analyst",
+        "active": true,
+        "date_updated": 1784297346,
+        "date_posted": 1784246400,
+        "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/London/Market-Data-Risk-Analyst_REQ-10117555-2",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/ING",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flutter",
+        "id": "3ef1001a-8493-47b7-a825-60788905f60e",
+        "title": "Associate Trading Operations Executive - Exchange",
+        "active": true,
+        "date_updated": 1784297346,
+        "date_posted": 1784246400,
+        "url": "https://flutterbe.wd3.myworkdayjobs.com/FlutterUKI_External/job/Dublin-Ireland/Associate-Trading-Operations-Executive---Exchange_JR139760-1",
+        "locations": [
+            "Leeds, UK",
+            "Dublin, Ireland"
+        ],
+        "company_url": "https://simplify.jobs/c/Flutter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "dcac642d-746d-471c-bd6d-be9b5a21ad08",
+        "title": "Data Scientist - Junior",
+        "active": true,
+        "date_updated": 1784297161,
+        "date_posted": 1784246400,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Camp-Smith-HI-US/Data-Scientist--Junior_329250",
+        "locations": [
+            "Aberdeen, MD",
+            "Aiea, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wood Mackenzie",
+        "id": "cdf4e279-42d5-4ac2-a342-a5a8db5256bf",
+        "title": "Research Associate",
+        "active": true,
+        "date_updated": 1784297161,
+        "date_posted": 1784246400,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate_JR3105",
+        "locations": [
+            "Edinburgh, UK",
+            "Madrid, Spain"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wise",
+        "id": "4b189ec2-f2b0-4e15-8307-41504bb531be",
+        "title": "Graduate Analyst",
+        "active": true,
+        "date_updated": 1784297161,
+        "date_posted": 1784297097,
+        "url": "https://jobs.smartrecruiters.com/Wise/744000138320359",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Townsquare Media",
+        "id": "70c0ea8f-1dde-4f9a-a70b-45bfe8fb5d50",
+        "title": "Board Operator - Kixz",
+        "active": true,
+        "date_updated": 1784303507,
+        "date_posted": 1784298700,
+        "url": "https://careers.townsquaremedia.com/job-details/?gh_jid=8071200",
+        "locations": [
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Townsquare-Media",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
