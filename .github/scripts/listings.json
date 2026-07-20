@@ -1,1577 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visa",
-        "id": "0f211e58-e613-4964-b43c-37d614c5c151",
-        "title": "Software Engineer New College Grad - Highlands Ranch - CO",
-        "active": false,
-        "date_updated": 1763751928,
-        "date_posted": 1763751928,
-        "url": "https://jobs.smartrecruiters.com/Visa/744000094855525",
-        "locations": [
-            "Highlands Ranch, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Visa",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "mthree",
-        "id": "09ff73c6-9f24-4c76-847b-ab9fc7db0941",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1763767409,
-        "date_posted": 1763767409,
-        "url": "https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4620272006",
-        "locations": [
-            "Newark, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/Mthree",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invenergy",
-        "id": "150037d8-f965-4062-a2ed-f26794732148",
-        "title": "Analyst 014 Geospatial - GIS",
-        "active": false,
-        "date_updated": 1763767195,
-        "date_posted": 1763767195,
-        "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Chicago-IL/Analyst--Geospatial--GIS-_R09844-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/bae45eb7-5781-4bfa-b317-ebf459b7f07e",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "dec99369-448d-468a-ab5a-b0b0c8c8aad5",
-        "title": "AI Data Specialist - Ohio - US",
-        "active": false,
-        "date_updated": 1763766949,
-        "date_posted": 1763766949,
-        "url": "https://jobs.lever.co/rws/1e82a9f7-a518-4302-9479-b221e8e0abce/apply",
-        "locations": [
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "ce4e6045-22a5-4992-800d-786c7415271c",
-        "title": "AI Data Specialist - Florida - US",
-        "active": false,
-        "date_updated": 1763766945,
-        "date_posted": 1763766945,
-        "url": "https://jobs.lever.co/rws/191a1010-b228-4141-92e0-9349cbca3a79/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "b8f208d0-ac14-4f0c-8f7f-7dc99da51af8",
-        "title": "AI Data Specialist - Pennsylvania - US",
-        "active": false,
-        "date_updated": 1763766949,
-        "date_posted": 1763766949,
-        "url": "https://jobs.lever.co/rws/8c3faf84-1979-495f-839d-888abfc007ce/apply",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "b45f1424-a340-4d88-804f-52ded504dfb8",
-        "title": "Search Quality Rater - English",
-        "active": false,
-        "date_updated": 1763766965,
-        "date_posted": 1763766965,
-        "url": "https://jobs.lever.co/rws/3eae78d3-d113-4ba5-941b-d5538258fac2/apply",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "ae2f2e91-1f6a-4a28-bc60-0930391f6543",
-        "title": "AI Data Specialist",
-        "active": false,
-        "date_updated": 1763766955,
-        "date_posted": 1763766955,
-        "url": "https://jobs.lever.co/rws/38493b4b-8bd7-41f1-a7e1-c61f883d9b3c/apply",
-        "locations": [
-            "Arizona"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "aa42f4fa-9a75-46d4-b15c-9edf6678d943",
-        "title": "AI Data Specialist - Texas - US",
-        "active": true,
-        "date_updated": 1763766945,
-        "date_posted": 1763766945,
-        "url": "https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply",
-        "locations": [
-            "Texas"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "98552b81-a14c-47cc-8832-28fb466dc1b7",
-        "title": "AI Data Specialist",
-        "active": true,
-        "date_updated": 1763766946,
-        "date_posted": 1763766946,
-        "url": "https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply",
-        "locations": [
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RELX",
-        "id": "ce94fe45-8bec-41b9-90a2-247ec7ffbca9",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763767058,
-        "date_posted": 1763767058,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Software-Engineer-I_R104483-1",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "7a3377ca-626a-4cad-b254-aa29218eeac8",
-        "title": "AI Data Specialist - North Carolina - US",
-        "active": false,
-        "date_updated": 1763766959,
-        "date_posted": 1763766959,
-        "url": "https://jobs.lever.co/rws/b181fd3b-a1e6-4c95-a2d9-4ec756ccd948/apply",
-        "locations": [
-            "North Carolina"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ramboll",
-        "id": "76bcaddc-7f83-4bb2-901e-d6b04950d76e",
-        "title": "Associate Air Quality Consultant",
-        "active": false,
-        "date_updated": 1763766860,
-        "date_posted": 1763766860,
-        "url": "https://jobs.smartrecruiters.com/Ramboll3/744000094926365",
-        "locations": [
-            "Dublin, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Ramboll",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "6633ab88-c275-4e0a-b739-629e858824f6",
-        "title": "AI Data Specialist - AI Data Specialist Team",
-        "active": false,
-        "date_updated": 1763766943,
-        "date_posted": 1763766943,
-        "url": "https://jobs.lever.co/rws/9fe421ef-db2e-43f1-bcfd-43eb37db08d3/apply",
-        "locations": [
-            "Tennessee"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "1c4d8d25-46e8-4ab2-9cf7-6dc05d6ec04a",
-        "title": "AI Data Specialist - Georgia - US",
-        "active": false,
-        "date_updated": 1763766945,
-        "date_posted": 1763766945,
-        "url": "https://jobs.lever.co/rws/d5edfc8c-508f-496b-964e-66077dfcb995/apply",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "0bf985c1-a393-4d84-a7d4-19712de80960",
-        "title": "AI Data Specialist - Maryland - US",
-        "active": false,
-        "date_updated": 1763766957,
-        "date_posted": 1763766957,
-        "url": "https://jobs.lever.co/rws/238d902e-90f6-41e1-8831-8cfb6bb64eb8/apply",
-        "locations": [
-            "Tennessee"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "027507e9-609a-411e-b87d-cfc9c095286b",
-        "title": "AI Data Specialist - Ukrainian",
-        "active": false,
-        "date_updated": 1763766972,
-        "date_posted": 1763766972,
-        "url": "https://jobs.lever.co/rws/3afdf3a4-fd26-4ec0-9af7-4a36312d8b01/apply",
-        "locations": [
-            "Arizona"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Aritzia",
-        "id": "57e91f44-6363-47ca-b5fd-b81e5cb36e40",
-        "title": "Product Senior Analyst/Analyst - Digital Product Management - Plm",
-        "active": false,
-        "date_updated": 1763769192,
-        "date_posted": 1763769192,
-        "url": "https://aritzia.wd3.myworkdayjobs.com/External/job/Support-Office-Vancouver/Product---Senior-Analyst-Analyst--Digital-Product-Management--PLM-_R0021505",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Aritzia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Light & Wonder",
-        "id": "02ee2e72-1a71-43f8-b96a-a5b8db365a19",
-        "title": "Production Test Tech 1",
-        "active": false,
-        "date_updated": 1763769108,
-        "date_posted": 1763769108,
-        "url": "https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Production-Test-Tech-I_R321100",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Light-And-Wonder",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "fd31170e-7b39-4232-9a05-e56522c20f27",
-        "title": "Full Time - Software Development Engineer I",
-        "active": false,
-        "date_updated": 1763768973,
-        "date_posted": 1763768973,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/RI101-1847-W-Main-Rd-1847-W-Main-Road-Nimitz-Building-Portsmouth-RI-02871-USA/XMLNAME-2026-Full-Time---Software-Development-Engineer-I---Onsite--RI-_01808192",
-        "locations": [
-            "Bristol, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "f6ad290f-9b82-48b8-9328-175e17212070",
-        "title": "Modeling Simulation & Analysis Engineer 2",
-        "active": false,
-        "date_updated": 1763768957,
-        "date_posted": 1763768957,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ849-RMS-AP-Bldg-849-1151-East-Hermans-Road-Building-849-Tucson-AZ-85756-USA/Modeling-Simulation---Analysis-Engineer-II---Onsite_01797315",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sensata",
-        "id": "35b05f39-8081-404b-aab4-42ef82a8e346",
-        "title": "Engineering Lab Technician - Emc",
-        "active": false,
-        "date_updated": 1763768884,
-        "date_posted": 1763768884,
-        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Attleboro-Massachusetts/Engineering-Lab-Technician--EMC_IRC96180",
-        "locations": [
-            "Attleboro, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/sensata-tech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "2a393876-fd7d-4027-8c6a-d56bf5975edf",
-        "title": "English Language Specialist",
-        "active": false,
-        "date_updated": 1763768988,
-        "date_posted": 1763768988,
-        "url": "https://ats.rippling.com/perle/jobs/e0e43ac5-e697-4c63-bf8e-f5aa0d5acd94",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "25b8877d-ad5d-4ea7-bcd6-81281dec8e4d",
-        "title": "Farsi Language Specialist",
-        "active": false,
-        "date_updated": 1763768991,
-        "date_posted": 1763768991,
-        "url": "https://ats.rippling.com/perle/jobs/385615d7-f8f1-43aa-993f-105a0e2423a2",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "1f72486d-d63b-4d19-a4a6-da5333d3150d",
-        "title": "Mandarin Language Specialist (USA-based)",
-        "active": false,
-        "date_updated": 1763768995,
-        "date_posted": 1763768995,
-        "url": "https://ats.rippling.com/perle/jobs/cfdb3c23-1159-4461-8be9-4028a71fbebc",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Google",
-        "id": "d43517b4-0413-405e-bdfc-2720fe4b1d1c",
-        "title": "Software Engineer - AlloyDB Semantic Search",
-        "active": false,
-        "date_updated": 1763768824,
-        "date_posted": 1763768824,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/120884376987673286",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Stevens Capital Management",
-        "id": "d323263b-f106-4f5c-900f-42a3c7a73a15",
-        "title": "Quantitative Research Analyst",
-        "active": false,
-        "date_updated": 1763767819,
-        "date_posted": 1763767819,
-        "url": "https://job-boards.greenhouse.io/ftandinternships/jobs/1304469",
-        "locations": [
-            "Villanova, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/SCM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "MLabs",
-        "id": "1cd69c21-a187-4558-b938-75ed5a498e42",
-        "title": "Applied AI Engineer",
-        "active": false,
-        "date_updated": 1763767713,
-        "date_posted": 1763767713,
-        "url": "https://apply.workable.com/mlabs/j/7D9F037556/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/MLabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "bcb8fc3b-f62c-4d1a-be82-1fc4a920946f",
-        "title": "Engineer 1 - Design",
-        "active": false,
-        "date_updated": 1763770898,
-        "date_posted": 1763770898,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Design_R2423-25",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Illumina",
-        "id": "91554628-f2f5-48f3-b727-06c7a3d6ffd6",
-        "title": "Engineer 1 - Development",
-        "active": false,
-        "date_updated": 1763770868,
-        "date_posted": 1763770868,
-        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Engineer-1---Development_41419-JOB-1",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Illumina",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CoStar Group",
-        "id": "df89fe99-cd2b-43dd-82ab-ad28a4f2d213",
-        "title": "Associate HR Data Analyst",
-        "active": false,
-        "date_updated": 1763770704,
-        "date_posted": 1763770704,
-        "url": "https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Associate-HR-Data-Analyst_R37484-1",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/CoStar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Visual Concepts",
-        "id": "9d97bf3c-c5b4-40b9-ab37-a5b63051eab3",
-        "title": "Game Analyst - NBA 2K",
-        "active": false,
-        "date_updated": 1763770641,
-        "date_posted": 1763770641,
-        "url": "https://job-boards.greenhouse.io/visualconcepts/jobs/7489198003",
-        "locations": [
-            "Novato, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/VisualConcepts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Via",
-        "id": "4a8656fb-c666-47f3-a1e3-e74f48970bdf",
-        "title": "Data Science Associate",
-        "active": false,
-        "date_updated": 1763770426,
-        "date_posted": 1763770426,
-        "url": "https://job-boards.greenhouse.io/via/jobs/8304049002",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Via",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "NextEra Energy",
-        "id": "19e91b32-069b-4e02-99fc-5063a802a55c",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1763770493,
-        "date_posted": 1763770493,
-        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Product-Manager-I-FL-33408/1335450900/?ats=successfactors",
-        "locations": [
-            "Palm Beach Gardens, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mass General Brigham",
-        "id": "217b9a0e-9ec4-4d5c-b541-965db8d5f3ba",
-        "title": "Applications Analyst 1",
-        "active": false,
-        "date_updated": 1763769908,
-        "date_posted": 1763769908,
-        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Boston-MA/Applications-Analyst-I_RQ4042883",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Becker Friedman Institute for Economics",
-        "id": "68135bed-89a9-4222-80a4-6077cdedb922",
-        "title": "Research Professional",
-        "active": false,
-        "date_updated": 1763769568,
-        "date_posted": 1763769568,
-        "url": "https://job-boards.greenhouse.io/universityofchicago/jobs/7491304003",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Becker-Friedman-Institute-For-Economics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Boeing Company",
-        "id": "5b4be754-2860-4730-bf9a-6a750da601e3",
-        "title": "Systems Engineer - Operations/Systems Analyst",
-        "active": false,
-        "date_updated": 1763769703,
-        "date_posted": 1763769703,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Systems-Engineer--Operations-Systems-Analyst---Associate-and-Experienced-_JR2025485949-1",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Grayce",
-        "id": "4f10db9c-c3d2-4510-8235-e65f85830bd1",
-        "title": "Graduate Digital Analyst",
-        "active": false,
-        "date_updated": 1763769395,
-        "date_posted": 1763769395,
-        "url": "https://apply.workable.com/grayce/j/FFAB3FD7DB/apply",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ece08408-be43-4331-9af6-746c6e9977ec",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thoughtworks",
-        "id": "1d051e78-9c54-4e71-86e0-767754c2f59c",
-        "title": "Consultant Graduate Developer",
-        "active": false,
-        "date_updated": 1763772990,
-        "date_posted": 1763772990,
-        "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7397123",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Thoughtworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "0578e341-6add-45bc-853f-8b0fee04481f",
-        "title": "Post-Doc Research",
-        "active": false,
-        "date_updated": 1763772975,
-        "date_posted": 1763772975,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doc-Research_JR102105",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leidos",
-        "id": "97727a0f-cbfc-4f70-bcab-c3e003c9b0a9",
-        "title": "Software Engineer - C++",
-        "active": false,
-        "date_updated": 1763772764,
-        "date_posted": 1763772764,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tewksbury-MA/Software-Engineer--C--_R-00169722",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "6c0cec2a-3445-4241-a580-6b0ce3f70aff",
-        "title": "Associate Engineer",
-        "active": false,
-        "date_updated": 1763772655,
-        "date_posted": 1763772655,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Associate-Engineer_REQ338007",
-        "locations": [
-            "Frisco, TX",
-            "Bellevue, WA",
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "fa19847b-7727-47a3-b9ab-6ba22e2a409e",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763772300,
-        "date_posted": 1763772300,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/b66e09db-5014-4870-a14e-e319b958fe70/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "9636e1b8-21b7-4e29-95c3-5b9f8f6097ed",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763772297,
-        "date_posted": 1763772297,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/5512ddad-11a5-4e8e-89f6-64447746dc5c/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "5143b4df-220d-4c12-b528-1a6604a0c975",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1763772298,
-        "date_posted": 1763772298,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/22e2aa5a-e9e8-409f-8dc2-312fed707d1b/application",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Redstone Federal Credit Union",
-        "id": "def0ce17-513c-4670-8483-136c275da985",
-        "title": "Data Analyst 1 - Finance",
-        "active": false,
-        "date_updated": 1763771445,
-        "date_posted": 1763771445,
-        "url": "https://redfcu.wd1.myworkdayjobs.com/rfcu/job/Huntsville-AL/Data-Analyst-I---Finance_R2692",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/2328cfbe-c418-49ac-bd3f-bc68cb7cec36",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Caterpillar Inc.",
-        "id": "aa52db2a-8edd-453c-a75c-14d0e3a5b5a9",
-        "title": "Human-Machine Interface Digital Analyst",
-        "active": false,
-        "date_updated": 1763771659,
-        "date_posted": 1763771659,
-        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Alpharetta-Georgia/Human-Machine-Interface-Digital-Analyst_R0000336409",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oshkosh",
-        "id": "0c345bda-4285-4eca-a75a-f981ee7ce224",
-        "title": "NASCAR Track Support Engineer-Entry Level",
-        "active": false,
-        "date_updated": 1763772026,
-        "date_posted": 1763772026,
-        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/NASCAR-Track-Support-Engineer-Entry-Level_R42834",
-        "locations": [
-            "Huntersville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Oshkosh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "8a00b50c-b885-44e1-b839-a88581fb74e9",
-        "title": "Technical Product Service Technician",
-        "active": false,
-        "date_updated": 1763771300,
-        "date_posted": 1763771300,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Hudson-NH/Technical-Product-Service-Technician_REQ31798-1",
-        "locations": [
-            "Nashua, NH"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SandboxAQ",
-        "id": "282dbadb-9c6b-49f7-8f45-580f82e296f6",
-        "title": "Software Engineering Resident - AI",
-        "active": false,
-        "date_updated": 1763771388,
-        "date_posted": 1763771388,
-        "url": "https://www.sandboxaq.com/job-openings?gh_jid=5718741004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SandboxAQ",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "7479cf2c-d787-41fd-aa53-f8f729f9cc56",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1763771122,
-        "date_posted": 1763771122,
-        "url": "https://jobs.intuit.com/job/toronto/software-developer-1/27595/88685696272",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "59e806ab-22b8-4f08-9ca7-443659fa9b08",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1763770997,
-        "date_posted": 1763770997,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Colorado-Springs-Colorado/Software-Engineer-I_R2115655-1",
-        "locations": [
-            "Colorado Springs, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f907fc59-77e9-43a6-bcee-57098b1097aa",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773607,
-        "date_posted": 1763773607,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039211",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Motors",
-        "id": "dfdf3938-f623-4f49-b06a-493579bf2779",
-        "title": "Software Developer \u2013 New Graduate - Diagnostics",
-        "active": false,
-        "date_updated": 1763773472,
-        "date_posted": 1763773472,
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Diagnostics---New-Graduate_JR-202522174",
-        "locations": [
-            "Markham, ON, Canada",
-            "Oshawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d9d329e5-f55d-43d5-8d4a-116e729de225",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773598,
-        "date_posted": 1763773598,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400023216",
-        "locations": [
-            "Bath, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d2c4f420-25bf-4a9a-ad69-945d7167d77c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773610,
-        "date_posted": 1763773610,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039239",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b4303616-5135-44df-9592-23e1f3428d38",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773609,
-        "date_posted": 1763773609,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039237",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ac66323e-fc64-4f78-a4ff-269774dcb1ab",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773597,
-        "date_posted": 1763773597,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038794",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "90daf765-e7dc-47a6-b6ac-251b09f82edc",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773601,
-        "date_posted": 1763773601,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039136",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7f4923a4-65a3-43dd-85f6-d2b4643db218",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773600,
-        "date_posted": 1763773600,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039007",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7bc3dd81-1bef-4895-87e7-921425eac088",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773593,
-        "date_posted": 1763773593,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400035056",
-        "locations": [
-            "Yeovil, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "77f9f514-11c3-4925-be61-61b1668a1e12",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773595,
-        "date_posted": 1763773595,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400036865",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "62aa9696-21dc-45ef-bbf3-378a193b5eee",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763773610,
-        "date_posted": 1763773610,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039195",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "48569b70-d3b2-411e-99c5-4beb4be2126b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773605,
-        "date_posted": 1763773605,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039129",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "44b6db2d-b1e6-4b4e-ae82-710831801861",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773602,
-        "date_posted": 1763773602,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039045",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3fb610ff-6f8d-41bf-92df-69434e056010",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773609,
-        "date_posted": 1763773609,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039270",
-        "locations": [
-            "Bromley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3de20000-7c55-4e13-b8a7-9196d2b4947d",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773610,
-        "date_posted": 1763773610,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039271",
-        "locations": [
-            "Girvan, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "3c1c16aa-9cb9-4ddc-a50b-06a3cdc9c732",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773603,
-        "date_posted": 1763773603,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038448",
-        "locations": [
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "367c0541-d33b-4940-a0a8-b4c0594e83ce",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763773597,
-        "date_posted": 1763773597,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038875",
-        "locations": [
-            "Coventry, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "29edcfe8-f65d-4566-aed0-150a50a10177",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773604,
-        "date_posted": 1763773604,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039076",
-        "locations": [
-            "Rugby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "28569795-f4a7-4716-b070-ebb208c43980",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773603,
-        "date_posted": 1763773603,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039149",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "251843b0-f20c-43b7-ac8c-cb24804e9cbd",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773602,
-        "date_posted": 1763773602,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039190",
-        "locations": [
-            "Northern Ireland, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "22257467-3e0d-4096-98d3-9f93ed8a1257",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773600,
-        "date_posted": 1763773600,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039039",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1e39c3a0-0c32-4003-9909-50bba7a6cb2b",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1763773605,
-        "date_posted": 1763773605,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039119",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1a24b295-3040-4937-b4df-306909a4b05a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773603,
-        "date_posted": 1763773603,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039027",
-        "locations": [
-            "Peterborough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1936384f-7bb0-4bc4-bb42-5b04050c05ce",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1763773603,
-        "date_posted": 1763773603,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400038679",
-        "locations": [
-            "Cornwall, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1767902b-66ea-42fb-997c-0730c0ae5f17",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1763773603,
-        "date_posted": 1763773603,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400039130",
-        "locations": [
-            "Yeovil, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "de65017e-9991-40ae-a876-8e47452a51e2",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1763773301,
-        "date_posted": 1763773301,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Dahlgren/Entry-Level-Software-Engineer_R0149388",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Humana",
-        "id": "8c9015ef-386a-4959-b30b-ab5be14cfa62",
-        "title": "Associate Data Scientist - Marketing Analytics Capabilities",
-        "active": false,
-        "date_updated": 1763773139,
-        "date_posted": 1763773139,
-        "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Associate--Data-Scientist--Mktg-Analytics-Capabilities_R-390489",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Louisville, KY",
-            "Nashville, TN",
-            "Washington, DC",
-            "Tampa, FL",
-            "Dallas, TX",
-            "Chicago, IL",
-            "Fort Lauderdale, FL",
-            "NYC",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Humana",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Electronic Arts",
-        "id": "7a54f455-5f1f-4421-a261-ac0a7dfea6de",
-        "title": "Software Engineer AI Automation",
-        "active": false,
-        "date_updated": 1763773089,
-        "date_posted": 1763773089,
-        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-AI-Automation/211876",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Electronic-Arts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Manulife Financial",
-        "id": "54a4141a-79de-40ca-bc88-5b15aecad826",
-        "title": "Investment Analyst - Infrastructure Equity",
-        "active": false,
-        "date_updated": 1763773354,
-        "date_posted": 1763773354,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Investment-Analyst--Infrastructure-Equity_JR25110045",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "419e9a97-5112-463f-bddc-ece2c1c294e1",
-        "title": "Postdoctoral Appointee - Cosmology - Spherex Galaxy Clusters",
-        "active": false,
-        "date_updated": 1763773026,
-        "date_posted": 1763773026,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Cosmology--SPHEREx-Galaxy-Clusters-_421458-1",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amentum",
-        "id": "2ec98c73-9ec9-4d2d-8dc6-67309ced6e65",
-        "title": "Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1763970954,
-        "date_posted": 1763773319,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Fredericksburg/Entry-Level-Software-Engineer-1_R0149307",
-        "locations": [
-            "Fredericksburg, VA",
-            "Dahlgren, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Thoughtworks",
-        "id": "090643fe-ce5c-41a3-a9d8-dda0c303a98b",
-        "title": "Graduate Developer",
-        "active": false,
-        "date_updated": 1763772990,
-        "date_posted": 1763772990,
-        "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/7373064",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Thoughtworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vanderlande Industries",
-        "id": "06cefb99-267c-45bf-8b44-a9ce8b1dea27",
-        "title": "Mechanic Mechatronic 3",
-        "active": false,
-        "date_updated": 1763773087,
-        "date_posted": 1763773087,
-        "url": "https://vanderlande.wd3.myworkdayjobs.com/careers/job/White/Mechanic-Mechatronic-III_JR34717-1",
-        "locations": [
-            "Council Bluffs, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/7ab55595-a241-4468-bf77-178371480131",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wash U",
-        "id": "d85069ba-4891-4909-ac80-a6879e919533",
-        "title": "Postdoctoral Research Associate - Radiology",
-        "active": false,
-        "date_updated": 1763772911,
-        "date_posted": 1763772911,
-        "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Postdoctoral-Research-Associate---Radiology_JR91414",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Wash-U",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Centene",
         "id": "4bfaf25c-a9a8-482b-835b-849803bb2865",
@@ -2473,42 +902,6 @@
         "date_posted": 1763999342,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "9ed2762e-b80e-4b6f-b52a-ce4fe7a1db64",
-        "title": "Search Quality Rater - English - Delaware",
-        "active": false,
-        "date_updated": 1764023660,
-        "date_posted": 1763766958,
-        "url": "https://jobs.lever.co/rws/aa69d147-a07a-41ef-a90c-c11fc6a82c3f/apply",
-        "locations": [
-            "Wilmington, DE"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "187609d3-e5ce-44bf-8fe4-1ab3257e570a",
-        "title": "Search Quality Rater - English - Arizona",
-        "active": false,
-        "date_updated": 1764023649,
-        "date_posted": 1763766957,
-        "url": "https://jobs.lever.co/rws/2796f9cf-bfec-47c7-a0d0-70b484db9c3d/apply",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -3709,24 +2102,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "OneRail",
-        "id": "3eb91961-056f-4648-934c-ee20a0cc9e80",
-        "title": "Onerail",
-        "active": false,
-        "date_updated": 1764076656,
-        "date_posted": 1763771188,
-        "url": "https://onerail.applytojob.com/apply/CNOA6LYsNb/Product-Analyst-Integrations",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/OneRail",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -9699,24 +8074,6 @@
             "Hawaii"
         ],
         "company_url": "https://simplify.jobs/c/Four-Seasons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Perle",
-        "id": "50c5b556-fa30-4122-a8b4-6d5b87911017",
-        "title": "Hebrew Language Specialist",
-        "active": false,
-        "date_updated": 1763768987,
-        "date_posted": 1763768987,
-        "url": "https://ats.rippling.com/perle/jobs/4905fb62-b7d5-4fc7-9f2c-b4ed50dc9c9f",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Perle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -18660,24 +17017,6 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Deutsche-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sysdig",
-        "id": "ea1072f7-4023-4d97-b51a-840d9b6e5864",
-        "title": "Senior Product Manager - East Coast",
-        "active": false,
-        "date_updated": 1765273656,
-        "date_posted": 1763771995,
-        "url": "https://jobs.lever.co/sysdig/2e7dc196-49b3-47cd-b5d3-66a5c2fce21d/apply",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sysdig",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -36442,25 +34781,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "KPH Healthcare Services",
-        "id": "fdce107d-1a3e-460d-9e0e-070212933495",
-        "title": "Patient Benefit Specialist",
-        "active": false,
-        "date_updated": 1767091435,
-        "date_posted": 1763769593,
-        "url": "https://kphcareers-kphhealthcareservices.icims.com/jobs/13192/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Washington, DC",
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/KPH-Healthcare-Services",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Qualtrics",
         "id": "47f440b0-3fe8-4f10-a730-29481356d643",
@@ -39836,24 +38156,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "ASSA ABLOY",
-        "id": "a4bdfe8c-5208-4c94-bef4-72393c28a913",
-        "title": "Test Facility Technician",
-        "active": false,
-        "date_updated": 1764755693,
-        "date_posted": 1763773119,
-        "url": "https://assaabloy.jobs2web.com/job/Mason-City-Test-Facility-Technician-IA-50401/1270022601/?ats=successfactors",
-        "locations": [
-            "Mason City, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Flock Safety",
         "id": "9392410f-c01e-4fe5-b1ae-47886455bb57",
         "title": "Traveling Installation Technician - Utica - NY",
@@ -40903,24 +39205,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Equipment-Share",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "0905ab59-9b64-45fd-978e-84d8417dc496",
-        "title": "Composite Technician B",
-        "active": false,
-        "date_updated": 1763768071,
-        "date_posted": 1763768071,
-        "url": "https://jobs.l3harris.com/job/Huntsville-Composite-Technician-B-AL-35773/1344990100/?ats=successfactors",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -88845,7 +87129,7 @@
         "company_name": "ElevenLabs",
         "id": "adc5a21a-d562-41a3-a86d-b7855931a573",
         "title": "Full-Stack Growth Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1770246598,
         "date_posted": 1770246598,
         "url": "https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03/application",
@@ -303259,7 +301543,7 @@
         "company_name": "Guidewire",
         "id": "446847d3-29b2-4c3c-b983-f4e2203fc1ec",
         "title": "Associate Certification Program Systems Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1782868406,
         "date_posted": 1782770934,
         "url": "https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946",
@@ -328041,7 +326325,7 @@
         "company_name": "Hawk-Eye Innovations",
         "id": "bccb0dfa-4860-48ad-b80e-49337e7356a5",
         "title": "College Sports Systems Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1783952462,
         "date_posted": 1783951796,
         "url": "https://jobs.ashbyhq.com/hawkeyeinnovations/4956a424-8147-4366-b403-95b89e2ba748/application",
@@ -338598,6 +336882,175 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "924fc467-6a00-4b71-a7f6-bbad54acd4c5",
+        "title": "PGIM Real Estate - Originations Investment Analyst Program",
+        "active": true,
+        "date_updated": 1784499393,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/New-York-2-Manhattan-West/PGIM--2027-Real-Estate--Originations-Investment-Analyst-Program_R-124632",
+        "locations": [
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Arlington, VA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clera",
+        "id": "735ca492-0064-421c-8fc3-7912eb61c787",
+        "title": "Founding AI Engineer",
+        "active": true,
+        "date_updated": 1784499121,
+        "date_posted": 1784498969,
+        "url": "https://jobs.ashbyhq.com/clera/536ff8a3-aeb6-419b-af3f-f12df2b6ad1d/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Clera",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PGIM",
+        "id": "0ef7f16b-c59e-4a9a-bf87-f4ab7bdefd86",
+        "title": "Real Estate - Agency Investment Analyst Program",
+        "active": true,
+        "date_updated": 1784499363,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/3901-N-Fairfax-Drive/PGIM--2027-Real-Estate--Agency-Investment-Analyst-Program_R-124633",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/PGIM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "f830b682-fcca-49ff-9b26-b7b199fde950",
+        "title": "Real Estate - Agency Investment Analyst Program",
+        "active": true,
+        "date_updated": 1784499103,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/3901-N-Fairfax-Drive/PGIM--2027-Real-Estate--Agency-Investment-Analyst-Program_R-124633-2",
+        "locations": [
+            "Chicago, IL",
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Prudential Financial",
+        "id": "710d99e1-ce9d-4f4b-8e61-9cba18e67488",
+        "title": "PGIM Real Estate - Originations Investment Analyst Program",
+        "active": true,
+        "date_updated": 1784499096,
+        "date_posted": 1784419200,
+        "url": "https://pru.wd5.myworkdayjobs.com/Careers/job/New-York-2-Manhattan-West/PGIM--2027-Real-Estate--Originations-Investment-Analyst-Program_R-124632-2",
+        "locations": [
+            "SF",
+            "LA",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Arlington, VA",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Prudential-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "98552b81-a14c-47cc-8832-28fb466dc1b7",
+        "title": "AI Data Specialist",
+        "active": true,
+        "date_updated": 1779834784,
+        "date_posted": 1779833210,
+        "url": "https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply",
+        "locations": [
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "aa42f4fa-9a75-46d4-b15c-9edf6678d943",
+        "title": "AI Data Specialist",
+        "active": true,
+        "date_updated": 1779228361,
+        "date_posted": 1779228342,
+        "url": "https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Huntsman",
+        "id": "981ce872-6b64-459c-836d-9c75530b9ce1",
+        "title": "QC Laboratory Chemist",
+        "active": true,
+        "date_updated": 1784510028,
+        "date_posted": 1783987200,
+        "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---South-Carolina---Rock-Hill/QC-Lab-Chemist_J-020054",
+        "locations": [
+            "Rock Hill, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntsman",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
