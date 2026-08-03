@@ -37,42 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "c45614b9-e67f-42ce-9adc-f9cef0c97f1e",
-        "title": "Field Service Engineer 1 PCS/Anesthesia - Santa Barbara - CA",
-        "active": false,
-        "date_updated": 1765047332,
-        "date_posted": 1765047332,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-PCS-Anesthesia---Santa-Barbara--CA_R4029815-1",
-        "locations": [
-            "Santa Barbara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fa56de72-1d45-437f-b6d3-80ee52a1199e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765047767,
-        "date_posted": 1765047767,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042196",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "0d3eac40-8a94-4556-b1c6-e4f84688dc0d",
@@ -22514,24 +22478,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Fermilab",
-        "id": "cbbcc26b-441f-43a3-9ed8-fb8d540730af",
-        "title": "Lederman Fellow",
-        "active": false,
-        "date_updated": 1765047186,
-        "date_posted": 1765047186,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Lederman-Fellow_R_008876",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "7a603273-9b90-4097-924a-cd9faccbe8a9",
@@ -22798,24 +22744,6 @@
             "Quebec City, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DXC Technology",
-        "id": "d8806fe8-ec39-4641-8b00-fe3a2d30c5db",
-        "title": "DXC Graduate Programme",
-        "active": false,
-        "date_updated": 1765047237,
-        "date_posted": 1765047237,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---HAM---FARNBOROUGH/DXC-Graduate-Programme-2026_51567289",
-        "locations": [
-            "Aldershot, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -80995,24 +80923,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Major League Baseball",
-        "id": "c5231ba7-e5af-41b7-842f-1a421492c8bb",
-        "title": "SABR Analytics Conference Attendee",
-        "active": true,
-        "date_updated": 1770889592,
-        "date_posted": 1765042583,
-        "url": "https://www.mlb.com/careers/opportunities?gh_jid=7449587",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/MLB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -238510,7 +238420,7 @@
         "company_name": "Cogent Security",
         "id": "8d7ac499-bac1-44bf-9d25-8c91248e94f3",
         "title": "Cogent AI Fellow - Member of Technical Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1779826685,
         "date_posted": 1779412092,
         "url": "https://jobs.ashbyhq.com/cogent-security/e8314a0f-df06-40b6-9c56-3d97ea53f25a/application",
@@ -257941,7 +257851,7 @@
         "company_name": "Relay",
         "id": "1cf77aef-56ae-4a15-b278-cbf2e9a9bfc3",
         "title": "Associate Software Engineer - Site Reliability Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1780957457,
         "date_posted": 1780017746,
         "url": "https://job-boards.greenhouse.io/relaypro/jobs/7950142",
@@ -277630,7 +277540,7 @@
         "company_name": "UL Solutions",
         "id": "01ee53be-2028-4c20-94bf-ef56ad2f8735",
         "title": "Business Data Analyst Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781906780,
         "date_posted": 1781906579,
         "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/9932",
@@ -280519,7 +280429,7 @@
         "company_name": "Graphcore",
         "id": "0813455c-27d0-4a9e-8972-ee868e70e7e9",
         "title": "Graduate SoC Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1782310861,
         "date_posted": 1782310324,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8604239002",
@@ -288890,7 +288800,7 @@
         "company_name": "Graphcore",
         "id": "d1bb777d-0248-4566-a4b4-60217f1a5866",
         "title": "Graduate Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782916089,
         "date_posted": 1782914894,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8615313002",
@@ -292388,7 +292298,7 @@
         "company_name": "WSP",
         "id": "7664cd86-6c33-4b8e-9a6b-09632c6b3cfa",
         "title": "Early Career GIS Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782966781,
         "date_posted": 1782956041,
         "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/88977",
@@ -292729,7 +292639,7 @@
         "company_name": "Atomic Machines",
         "id": "7f5de858-e29f-4b43-a0c8-faaefa336161",
         "title": "Electromechanical Development Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1782966061,
         "date_posted": 1776982467,
         "url": "https://job-boards.greenhouse.io/atomicmachines/jobs/4231211009",
@@ -300490,7 +300400,7 @@
         "company_name": "EquipmentShare",
         "id": "bf2190c7-5e13-41d5-907e-45c3a6b86f0c",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1783473841,
         "date_posted": 1783473745,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8049925",
@@ -302329,7 +302239,7 @@
         "company_name": "World Wide Professional Solutions",
         "id": "0fe76d5a-cbbc-45e1-932d-554939f5d94a",
         "title": "Data Analyst - Data Center",
-        "active": true,
+        "active": false,
         "date_updated": 1783548363,
         "date_posted": 1783548255,
         "url": "https://jobs.lever.co/wwprosolutions/0ffd03e5-9556-41b9-8eee-85932d0fe5b9/apply",
@@ -309942,7 +309852,7 @@
         "company_name": "NVIDIA",
         "id": "e705fffd-6c2f-4555-b991-f5808e23542c",
         "title": "System Software Engineer New Grad - Dynamo-Triton Inference Server",
-        "active": true,
+        "active": false,
         "date_updated": 1784011765,
         "date_posted": 1783900800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Dynamo-Triton-Inference-Server---New-College-Grad-2026_JR2020767",
@@ -312226,7 +312136,7 @@
         "company_name": "Vertiv",
         "id": "4ed5b887-1434-417b-9db8-7394d20e3fb3",
         "title": "Sales Data Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784106541,
         "date_posted": 1784037902,
         "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20276502",
@@ -323788,7 +323698,7 @@
         "company_name": "Morgan Stanley",
         "id": "b347ca2e-0a09-4f0e-8032-cda3e3fdb27c",
         "title": "Equities \u2013 Derivatives Clearing Strategy & Product",
-        "active": true,
+        "active": false,
         "date_updated": 1784617024,
         "date_posted": 1783161605,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Equities---Derivatives-Clearing-Strategy---Product---Associate_JR038698-1",
@@ -326028,7 +325938,7 @@
         "company_name": "Motorola",
         "id": "d470b711-b340-45ef-9154-f9b92c2c82ca",
         "title": "Junior Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784666909,
         "date_posted": 1783162171,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Demo-Site-Junior-Engineer_R66335",
@@ -326638,7 +326548,7 @@
         "company_name": "Morgan Stanley",
         "id": "5037b240-5ea1-4163-8aa3-74576522a592",
         "title": "Equities \u2013 Derivatives Clearing Strategy & Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784673850,
         "date_posted": 1781215775,
         "url": "https://ms.wd5.myworkdayjobs.com/private/job/New-York-New-York-United-States-of-America/Equities---Derivatives-Clearing-Strategy---Product---Associate_JR038698",
@@ -329977,7 +329887,7 @@
         "company_name": "Sonepar",
         "id": "87923d50-770f-466c-8db8-ec7fe61433dc",
         "title": "ERP Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784762478,
         "date_posted": 1784758125,
         "url": "https://career.sonepar.com/job/Minneapolis-ERP-Analyst-Any-Viking-Electric-Location-MN-55413/1417926233/?ats=successfactors",
@@ -332410,7 +332320,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f8d311b9-2969-4040-a280-36ff64b6da20",
         "title": "Engineering Technician C",
-        "active": true,
+        "active": false,
         "date_updated": 1784804582,
         "date_posted": 1784671463,
         "url": "https://jobs.l3harris.com/job/Rochester-Engineering-Technician-C-NY-14606/1411098500/?ats=successfactors",
@@ -338721,7 +338631,7 @@
         "company_name": "Jefferson Health",
         "id": "cceed962-356a-4bac-ae56-cb8f24fcd262",
         "title": "Investment Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785016981,
         "date_posted": 1784937600,
         "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Investment-Analyst_REQ-0033111",
@@ -341316,7 +341226,7 @@
         "company_name": "EquipmentShare",
         "id": "22ae89c0-77a2-45aa-b692-5398b7aa171c",
         "title": "Telematics Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1785194281,
         "date_posted": 1785191672,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8088904",
@@ -342841,7 +342751,7 @@
         "company_name": "RTX",
         "id": "b2fa0f21-04d7-441c-90f2-b38ee22120fb",
         "title": "Systems Engineer 1 - Tactical Missile System Simulation - Unreal Engine",
-        "active": true,
+        "active": false,
         "date_updated": 1785280559,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I---Tactical-Missile-System-Simulation--Unreal-Engine-_01862202",
@@ -344680,7 +344590,7 @@
         "company_name": "Cooper Companies",
         "id": "7b0c1480-d0b7-4999-8881-7cf5699e4aa9",
         "title": "Product Engineer 1 - Research and Development",
-        "active": true,
+        "active": false,
         "date_updated": 1785363329,
         "date_posted": 1785362746,
         "url": "https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12101",
@@ -346309,7 +346219,7 @@
         "company_name": "St. Luke's University Health Network",
         "id": "d75cb861-c6a9-4180-aed7-703917091f17",
         "title": "Epic Analyst/Builder 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785423991,
         "date_posted": 1784764800,
         "url": "https://sluhn.wd1.myworkdayjobs.com/SLUHN/job/Allentown-PA---1110-American-Parkway/Epic-Analyst-Builder-I_R143531-1",
@@ -348421,7 +348331,7 @@
         "company_name": "Welo Global",
         "id": "aace2232-33d7-49fa-b4df-a41d5a5813c1",
         "title": "Generative AI Analyst - Simplified Chinese",
-        "active": true,
+        "active": false,
         "date_updated": 1785510901,
         "date_posted": 1785506637,
         "url": "https://jobs.lever.co/weloglobal/c169172d-6b2e-45a8-885d-78723b1a7a1c/apply",
@@ -349327,7 +349237,7 @@
         "company_name": "RTX",
         "id": "e3fe90a7-fe30-4b70-bbde-b5efda508664",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785540658,
         "date_posted": 1785456000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-I--Onsite-_01863436",
@@ -349391,7 +349301,7 @@
         "company_name": "Wolverine Trading",
         "id": "f6bb2b02-e42b-41a6-9f90-35a28fcb0708",
         "title": "Entry-Level C++ Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785547441,
         "date_posted": 1785547327,
         "url": "https://wolve.pinpointhq.com/en/postings/71814bfd-b9a3-4e7a-8c32-ef0ed6f3f7aa?ats=pinpointhq",
@@ -351893,7 +351803,7 @@
         "company_name": "Pennsylvania State University",
         "id": "f3b7a1a3-5bd5-4370-87cd-0c469759e19f",
         "title": "Graduate Researcher - Materials Science and Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785617101,
         "date_posted": 1784764800,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Graduate-Researcher---Redwing-Group----Materials-Science-and-Engineering_REQ_0000080560-1",
@@ -356309,7 +356219,7 @@
         "company_name": "Maven Securities",
         "id": "107894e4-62fe-4224-9de7-48fddd445c6c",
         "title": "Quantitative Researcher New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785749957,
         "date_posted": 1785749241,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048830",
@@ -356921,6 +356831,403 @@
             "Atlanta, GA"
         ],
         "company_url": "https://simplify.jobs/c/Autostore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Voyager Technologies",
+        "id": "0e8a5b2c-b74c-4698-9f5d-00348584454a",
+        "title": "Accelerated Physics Simulation Engineer - Agentic Computational Engineering",
+        "active": true,
+        "date_updated": 1785767761,
+        "date_posted": 1785767648,
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4079284009",
+        "locations": [
+            "Seattle, WA",
+            "Washington, DC",
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "c2d09bc0-e3e6-422d-a6a3-681f32d66bd9",
+        "title": "Quantitative Researcher New Grad",
+        "active": true,
+        "date_updated": 1785767636,
+        "date_posted": 1785767388,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048830",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "7f68f7a5-a5b3-40e6-bd0d-3fbf7b677c24",
+        "title": "Research Engineer Graduate - Monetization Technology - Business Integrity",
+        "active": true,
+        "date_updated": 1785767221,
+        "date_posted": 1785766816,
+        "url": "https://lifeattiktok.com/search/7667769079948347701",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e8282411-d4f1-48ee-a297-221c7660b61d",
+        "title": "Research Scientist New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767591,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7665973724622342453",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "b56d3cc0-8ad4-418c-a1d9-5a655e224030",
+        "title": "Pricing Data & Analytics",
+        "active": true,
+        "date_updated": 1785767559,
+        "date_posted": 1785715200,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Leicester/Pricing--Data---Analytics-Cohort_60013843-1",
+        "locations": [
+            "Leicester, UK",
+            "Bexhill, Bexhill-on-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "80a6fe19-0d74-4dcf-82d0-0833ae58fd78",
+        "title": "Machine Learning Engineer Graduate - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767221,
+        "date_posted": 1785766818,
+        "url": "https://lifeattiktok.com/search/7665994926854555909",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "3ff95d68-7985-49f9-9cd5-08275666f3d9",
+        "title": "Machine Learning Scientist New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767577,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7665989163791403269",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1e93d3f9-f99a-4fad-89d9-68c176cd5b89",
+        "title": "Machine Learning Scientist New Grad - Recommendation",
+        "active": true,
+        "date_updated": 1785767572,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7663389363824773381",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "ca05adf8-dbe1-4919-a408-6992779b1c0a",
+        "title": "Research Scientist - Monetization Technology - Business Integrity",
+        "active": true,
+        "date_updated": 1785767582,
+        "date_posted": 1785766815,
+        "url": "https://lifeattiktok.com/search/7667770207780194613",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a361534e-bae9-48ea-971f-acc6566fbb47",
+        "title": "Research Engineer New Grad - Multiple Teams",
+        "active": true,
+        "date_updated": 1785767583,
+        "date_posted": 1785766816,
+        "url": "https://lifeattiktok.com/search/7667767820142643461",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "a7b87475-1141-4285-a578-2143729a4704",
+        "title": "Research Scientist New Grad - Recommendation",
+        "active": true,
+        "date_updated": 1785767586,
+        "date_posted": 1785766820,
+        "url": "https://lifeattiktok.com/search/7663388039600883973",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hastings Direct",
+        "id": "f1b81465-8659-4aa0-97ff-fd1ceb1e11a6",
+        "title": "Pricing Analyst - Data & Analytics",
+        "active": true,
+        "date_updated": 1785767544,
+        "date_posted": 1785715200,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/Bexhill/Pricing--Data---Analytics-Cohort_60013849-1",
+        "locations": [
+            "Leicester, UK",
+            "Bexhill, Bexhill-on-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e5443b5b-331f-470e-b03e-f8cb378f467a",
+        "title": "Machine Learning Engineer New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767582,
+        "date_posted": 1785766819,
+        "url": "https://lifeattiktok.com/search/7665991852209932597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c6c812c9-3a93-463d-b69d-ca06233a2c82",
+        "title": "Research Scientist New Grad - Trust and Safety",
+        "active": true,
+        "date_updated": 1785767582,
+        "date_posted": 1785766819,
+        "url": "https://lifeattiktok.com/search/7665977123255896325",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "6877141a-26a2-42c6-affa-8795287920b8",
+        "title": "Machine Learning Engineer New Grad - Recommendation",
+        "active": true,
+        "date_updated": 1785767571,
+        "date_posted": 1785766821,
+        "url": "https://lifeattiktok.com/search/7663389745178757429",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CoxHealth",
+        "id": "8490582c-bd48-42a8-a07c-ba525cec17a2",
+        "title": "Analytics Engineer 1",
+        "active": true,
+        "date_updated": 1785767469,
+        "date_posted": 1785715200,
+        "url": "https://coxhealth.wd5.myworkdayjobs.com/CoxHealth_External/job/Springfield-MO/Analytics-Engineer-I_R17671",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/CoxHealth",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "bf259c4c-8905-4bd7-811d-936ff206dc27",
+        "title": "Investment Analyst",
+        "active": true,
+        "date_updated": 1785767407,
+        "date_posted": 1785715200,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---January-2027-Class_JR0000361",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "Dallas, TX",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Cambridge Associates",
+        "id": "ca326a25-11f4-4169-9685-a2b207ec1c67",
+        "title": "Investment Analyst Program",
+        "active": true,
+        "date_updated": 1785766681,
+        "date_posted": 1785715200,
+        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---July-2027-Class_JR0000362-1",
+        "locations": [
+            "Boston, MA",
+            "SF",
+            "Dallas, TX",
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Texas Sports Academy",
+        "id": "9ee25097-f93f-4cf5-94fc-b8071589bf17",
+        "title": "Junior AI Software Engineer",
+        "active": true,
+        "date_updated": 1785766681,
+        "date_posted": 1785766493,
+        "url": "https://apply.workable.com/texas-sports-academy-main/j/CC2A1186D4/apply",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Sports-Academy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
