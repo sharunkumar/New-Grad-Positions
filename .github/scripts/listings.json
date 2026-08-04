@@ -37,82 +37,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "190f19cd-f102-44fd-98c7-85f5f2f19403",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765079461,
-        "date_posted": 1765079461,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-CA-USA/Software-Engineer-I_10121013",
-        "locations": [
-            "Santa Monica, CA",
-            "Glendale, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Argonne National Laboratory",
-        "id": "6cca37db-3534-43fc-916d-d725b6e73dfd",
-        "title": "Postdoctoral Appointee - Energy Systems",
-        "active": false,
-        "date_updated": 1765086472,
-        "date_posted": 1765086472,
-        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Energy-Systems_420958",
-        "locations": [
-            "Woodridge, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Truist Bank",
-        "id": "cb88afc8-f6d2-4739-917f-2e6ad16b9a64",
-        "title": "Business Data Steward - Consumer and Small Business Banking",
-        "active": false,
-        "date_updated": 1765092285,
-        "date_posted": 1765092285,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Business-Data-Steward---Consumer-and-Small-Business-Banking_R0107465",
-        "locations": [
-            "Richmond, VA",
-            "Charlotte, NC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "235916d6-92a5-4cac-8e9b-5a787759b4aa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765092962,
-        "date_posted": 1765092962,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042329",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "fcfe8f0c-b3e8-4373-a1b4-bbc815d9e097",
@@ -15563,24 +15487,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "e10f850d-1cd9-4a0f-9f88-41bfc23fb938",
-        "title": "Engineering Technician - Engines",
-        "active": false,
-        "date_updated": 1766488206,
-        "date_posted": 1765090106,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Engineering-Technician---Engines_REQ-1000044130",
-        "locations": [
-            "Strongsville, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Remi",
         "id": "639a8f32-953e-4c7a-882f-0bf3ad477035",
@@ -22545,24 +22451,6 @@
             "Overland Park, KS"
         ],
         "company_url": "https://simplify.jobs/c/The-University-Of-Kansas-Hospital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stanley Black & Decker",
-        "id": "9caf2f93-df09-44bd-80af-2bcbbb0d7831",
-        "title": "Service Technician 1",
-        "active": false,
-        "date_updated": 1765090033,
-        "date_posted": 1765090033,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Ontario-CA-United-States/Service-Technician-I_REQ-1000044288",
-        "locations": [
-            "Ontario, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -142305,7 +142193,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -142325,7 +142213,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -170565,7 +170453,7 @@
         "company_name": "Centene",
         "id": "1293d336-09f5-460a-9b86-f3ba141880fd",
         "title": "Data Analyst 1 Healthcare Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1775515201,
         "date_posted": 1775513035,
         "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MI/Data-Analyst-I-Healthcare-Analytics_1636195",
@@ -212739,7 +212627,7 @@
         "company_name": "Apple",
         "id": "cc07e63b-ac37-458d-83b1-c40ed9af146f",
         "title": "ASIC Design and Integration Engineer \u2013 Silicon Security",
-        "active": false,
+        "active": true,
         "date_updated": 1778078632,
         "date_posted": 1778076753,
         "url": "https://jobs.apple.com/en-us/details/200652710",
@@ -230502,7 +230390,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "33ff65fe-7dfc-4b78-94f2-5160bccd9138",
         "title": "Data Discovery and Enrichment Expert 1",
-        "active": false,
+        "active": true,
         "date_updated": 1779403140,
         "date_posted": 1779401021,
         "url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Quebec/Data-Discovery-and-Enrichment-Expert-I--Canada-Bilingual-Hybrid-or-Remote-_R113429",
@@ -247624,7 +247512,7 @@
         "company_name": "Avnet",
         "id": "98570ec2-f696-4929-b59d-0b2f68c8389c",
         "title": "Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1780351561,
         "date_posted": 1780351529,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -248104,7 +247992,7 @@
         "company_name": "Avnet",
         "id": "013d5015-8b47-41a8-b665-239f9ca74772",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1780351561,
         "date_posted": 1780351528,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Tempe-Arizona-United-States-Of-America/Software-Developer_JR-022614",
@@ -287899,7 +287787,7 @@
         "company_name": "Stantec",
         "id": "ea6951b3-9b64-427e-81bc-8e94883ebf31",
         "title": "Technology Consultant - Power BI Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1782771302,
         "date_posted": 1782770816,
         "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006526",
@@ -294269,7 +294157,7 @@
         "company_name": "Mintlify",
         "id": "a4ff3019-8218-4bc7-bf68-a9b2cd09edae",
         "title": "Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783031221,
         "date_posted": 1783030251,
         "url": "https://jobs.ashbyhq.com/Mintlify/b9ce48c2-a5f0-4825-982e-f49dcded533c/application",
@@ -308271,7 +308159,7 @@
         "company_name": "Zensar",
         "id": "96809a08-2d02-4599-bb4b-928e75b6d4b5",
         "title": "Java / Kotlin Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783980559,
         "date_posted": 1783980192,
         "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/148095",
@@ -333701,7 +333589,7 @@
         "company_name": "Citi",
         "id": "c8b1494a-3262-4b95-a356-612e9c1e1dd9",
         "title": "Junior Generative AI Application Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1784845081,
         "date_posted": 1784844835,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476",
@@ -341583,7 +341471,7 @@
         "company_name": "Johnson & Johnson",
         "id": "3c8b555d-aec3-4b01-b616-8e1695b8734a",
         "title": "Senior Data Analyst Biosurgery",
-        "active": true,
+        "active": false,
         "date_updated": 1785251561,
         "date_posted": 1785196800,
         "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Senior-Data-Analyst-SNP-Biosurgery_R-089461-1",
@@ -341746,7 +341634,7 @@
         "company_name": "General Dynamics",
         "id": "847bd9c6-2877-484d-8753-6c7fbaa1716c",
         "title": "Embedded Software Engineer - Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1785191117,
         "date_posted": 1785190350,
         "url": "https://careers-gdeb.icims.com/jobs/17551/job?mobile=true&needsRedirect=false",
@@ -342608,7 +342496,7 @@
         "company_name": "RTX",
         "id": "2642491d-58eb-447a-ae7d-a7f33759c98d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785280563,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
@@ -343133,7 +343021,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -344466,7 +344354,7 @@
         "company_name": "L3Harris Technologies",
         "id": "78bd07a7-e3e7-4c41-ad3c-acc5cf77cb65",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785363118,
         "date_posted": 1785362665,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413834000/?ats=successfactors",
@@ -344526,7 +344414,7 @@
         "company_name": "L3Harris Technologies",
         "id": "32dd134f-54fc-4603-b94b-3c7a181b034c",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785363129,
         "date_posted": 1785362666,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413851400/?ats=successfactors",
@@ -344546,7 +344434,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5d35800b-9fca-4156-9d67-70f8d39e613b",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785363094,
         "date_posted": 1785362663,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1413760300/?ats=successfactors",
@@ -346095,7 +345983,7 @@
         "company_name": "Westinghouse Electric Company",
         "id": "25ff5a02-661b-4cf0-88b9-9bde21990ff2",
         "title": "Probabilistic Risk Assessment Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785450593,
         "date_posted": 1785449501,
         "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Probabilistic-Risk-Assessment-Engineer-I-NC/1414234600/?ats=successfactors",
@@ -348411,7 +348299,7 @@
         "company_name": "USAA",
         "id": "770f4386-9081-4ed3-a924-c126e206ba3a",
         "title": "Audit Data Analyst - Staff Auditor II",
-        "active": true,
+        "active": false,
         "date_updated": 1785535932,
         "date_posted": 1785456000,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Staff-Auditor-II--Entry-Level-_R0119714",
@@ -351972,7 +351860,7 @@
         "company_name": "Deloitte",
         "id": "1f65ed90-1ff0-4a03-a631-0414e92fb98e",
         "title": "M&A Analyst - M&A Business - Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1785622094,
         "date_posted": 1785507827,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Analyst-M-A-Business-Analytics/361016",
@@ -358205,6 +358093,434 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "e-Careers",
+        "id": "ccd120be-2e26-4630-8f25-52b5259f3e00",
+        "title": "Software Developer Trainee",
+        "active": true,
+        "date_updated": 1785824282,
+        "date_posted": 1785824199,
+        "url": "https://apply.workable.com/ecareers/j/5049C7B338/apply",
+        "locations": [
+            "Glazebury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/3cbf1146-76cb-4990-bcb3-dfbd25070a72",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perry Homes",
+        "id": "467851ae-af4e-4819-ae09-1cdbd0290f82",
+        "title": "Data and Reporting Intern",
+        "active": true,
+        "date_updated": 1785824943,
+        "date_posted": 1785824197,
+        "url": "https://apply.workable.com/perryhomes/j/65C2ED2361/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ec1814c1-21bc-4052-8f9b-0a316b7ab645",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genetec",
+        "id": "c1b49562-5383-4d86-a6bf-70fa57007c01",
+        "title": ".NET Software Developer - Multiple Teams",
+        "active": true,
+        "date_updated": 1785824830,
+        "date_posted": 1785824167,
+        "url": "https://apply.workable.com/genetec-inc/j/145492924C/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/384c9f1f-4336-4a72-b615-0d94e4f48ad1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Four Seasons",
+        "id": "852930fc-18a5-4109-bc93-5401cf141ad5",
+        "title": "Retail Attendant",
+        "active": true,
+        "date_updated": 1785824533,
+        "date_posted": 1785715200,
+        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Four-Seasons-Hualalai/Trading-Company---Retail-Attendant---Full-Time_REQ10386926",
+        "locations": [
+            "Kailua-Kona, HI"
+        ],
+        "company_url": "https://simplify.jobs/c/Four-Seasons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SynQor",
+        "id": "8c4b3913-d07d-4778-9227-405aec81c720",
+        "title": "Electrical Product Engineer",
+        "active": true,
+        "date_updated": 1785824282,
+        "date_posted": 1785824082,
+        "url": "https://jobs.jobvite.com/synqor-careers/job/o2EKxfwH?nl=1&nl=1&fr=false",
+        "locations": [
+            "Salem, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/e2f40bbc-18e3-4d17-b1b5-36eaaaa03181",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Franklin Electric",
+        "id": "76cd9256-6eb4-4068-9e07-6f5930966519",
+        "title": "Product Specialist - Energy Systems",
+        "active": true,
+        "date_updated": 1785824282,
+        "date_posted": 1785824043,
+        "url": "https://franklin-electric.pinpointhq.com/en/postings/f3239526-4e5f-4608-bf65-f5d00b83b4bd?ats=pinpointhq",
+        "locations": [
+            "Madison, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Franklin-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "d7cdec21-1d63-46c8-8dee-3c6968019ca3",
+        "title": "Software Engineer - Front-end",
+        "active": true,
+        "date_updated": 1785824368,
+        "date_posted": 1785823963,
+        "url": "https://jobs.apple.com/en-us/details/200660851",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "7cf90be5-721e-4501-ae56-97684360dd1c",
+        "title": "Frontend Software Engineer Graduate - Global CRM",
+        "active": true,
+        "date_updated": 1785825721,
+        "date_posted": 1785824424,
+        "url": "https://lifeattiktok.com/search/7668561079544154373",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "fad00272-a1d3-4885-bcfb-53f41c9c8f7b",
+        "title": "Research Scientist - Monetization Technology - Business Integrity",
+        "active": true,
+        "date_updated": 1785826077,
+        "date_posted": 1785824433,
+        "url": "https://lifeattiktok.com/search/7667766028122048773",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "c4828318-4268-4f55-b12e-3ffd6f7daa6b",
+        "title": "Machine Learning Engineer Graduate - Data Search Recommendation Global E-Commerce",
+        "active": true,
+        "date_updated": 1785825721,
+        "date_posted": 1785824426,
+        "url": "https://lifeattiktok.com/search/7668384123840514309",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "c78d4a32-8ee7-49e9-8f39-e63ea6cd4b9e",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1785826044,
+        "date_posted": 1785824420,
+        "url": "https://lifeattiktok.com/search/7668701361741007109",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "89d6d565-8e62-4d80-8a57-4febe3548501",
+        "title": "Machine Learning Engineer Graduate - Brand Ads",
+        "active": true,
+        "date_updated": 1785825721,
+        "date_posted": 1785824421,
+        "url": "https://lifeattiktok.com/search/7668663594419374341",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "674e67ef-7ad8-486e-9f4c-f82c982d003c",
+        "title": "Graduate Software Engineer - Transaction Platform",
+        "active": true,
+        "date_updated": 1785826063,
+        "date_posted": 1785824424,
+        "url": "https://lifeattiktok.com/search/7668557209047894325",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "43cac478-76b4-4968-9ede-e3293fd02c28",
+        "title": "Frontend Software Engineer New Grad - Ads Interface",
+        "active": true,
+        "date_updated": 1785826039,
+        "date_posted": 1785824422,
+        "url": "https://lifeattiktok.com/search/7668569995571726597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "fa833b4d-22a1-41d9-b0cf-9ae746021d98",
+        "title": "Graduate Software Engineer - Ads Interface",
+        "active": true,
+        "date_updated": 1785826012,
+        "date_posted": 1785824410,
+        "url": "https://lifeattiktok.com/search/7668855346857019701",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "bdc01603-d301-4eaa-9792-9a044f50c4a5",
+        "title": "Machine Learning Engineer Graduate - Tiktok Content Ecology",
+        "active": true,
+        "date_updated": 1785825721,
+        "date_posted": 1785824412,
+        "url": "https://lifeattiktok.com/search/7668838052657678597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "63b734f3-ef25-4f57-bf17-32b0036f8b43",
+        "title": "Machine Learning Engineer Graduate - App Ads and Gaming",
+        "active": true,
+        "date_updated": 1785825721,
+        "date_posted": 1785824408,
+        "url": "https://lifeattiktok.com/search/7669709290431236357",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0e9e78f5-653e-4e42-bda0-7183bbd7045a",
+        "title": "Machine Learning Engineer New Grad - Search Ads",
+        "active": true,
+        "date_updated": 1785826006,
+        "date_posted": 1785824409,
+        "url": "https://lifeattiktok.com/search/7669698543896054069",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "46575741-75da-4faf-bcef-a1e47eb90fd2",
+        "title": "Software Engineer New Grad - Ads Infrastructure",
+        "active": true,
+        "date_updated": 1785826015,
+        "date_posted": 1785824410,
+        "url": "https://lifeattiktok.com/search/7668879883938203957",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "1f3302b8-c4f2-4812-a925-b3495df2d104",
+        "title": "Machine Learning Engineer Graduate - Lead Ads",
+        "active": true,
+        "date_updated": 1785826004,
+        "date_posted": 1785824407,
+        "url": "https://lifeattiktok.com/search/7669707604717209861",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "0e90651f-2008-4290-b336-a660bb4398af",
+        "title": "Graduate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1785825994,
+        "date_posted": 1785824407,
+        "url": "https://lifeattiktok.com/search/7669702699627661573",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
