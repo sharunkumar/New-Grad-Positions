@@ -38,140 +38,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "SailPoint",
-        "id": "15180025-a2a6-4d79-ac32-8fc644b0195a",
-        "title": "Business Intelligence Analyst",
-        "active": false,
-        "date_updated": 1765254301,
-        "date_posted": 1765254301,
-        "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Headquarters-Austin-Texas-USA/Business-Intelligence-Analyst_R012080",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SailPoint",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8853a5a7-a3fe-491e-99db-acc13f07e728",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1765254451,
-        "date_posted": 1765254451,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400042581",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Athena Health",
-        "id": "83b6d713-b228-464b-9534-09830fda36bb",
-        "title": "Analyst-Trading Partner Operations",
-        "active": false,
-        "date_updated": 1765257281,
-        "date_posted": 1765257281,
-        "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Belfast-ME/Analyst--Trading-Partner-Operations_R13961",
-        "locations": [
-            "Bangor, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/e955406a-7989-4ed8-aff1-01032b96e141",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Rakuten International",
-        "id": "424445f2-1113-4bbd-85f3-15f739dbb980",
-        "title": "Early Career AI Engineer",
-        "active": false,
-        "date_updated": 1765264841,
-        "date_posted": 1765264841,
-        "url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/Seattle-Washington/Early-Career-AI-Engineer_1028145-2",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/8ad80518-8d5f-42bc-b3b6-56142de8fbac",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Transamerica",
-        "id": "02825cfa-da0a-4714-80e3-6afaf0c9f7dc",
-        "title": "Appian Application Developer",
-        "active": false,
-        "date_updated": 1765266715,
-        "date_posted": 1765266715,
-        "url": "https://transamerica.wd5.myworkdayjobs.com/US/job/Denver-Colorado/Programmer-Analyst_R20060159-1",
-        "locations": [
-            "Philadelphia, PA",
-            "Denver, CO",
-            "Cedar Rapids, IA",
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Transamerica",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The Walt Disney Company",
-        "id": "6a06c9a9-3be2-4015-9268-9ba044779623",
-        "title": "Product Manager 1 - Associate Product Manager Program",
-        "active": false,
-        "date_updated": 1765267953,
-        "date_posted": 1765267953,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Disney-Entertainment-and-ESPN-Product---Technology--Associate-Product-Manager-Program_10138098",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Carnegie Mellon University",
-        "id": "82879d5a-4808-4cf4-af55-6112aa95c9aa",
-        "title": "Data Analyst and AI Specialist",
-        "active": false,
-        "date_updated": 1765267642,
-        "date_posted": 1765267642,
-        "url": "https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Data-Analyst-and-AI-Specialist---Institutional-Effectiveness-and-Planning---Office-of-the-Provost_2023933-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Fermilab",
         "id": "fe378e10-306c-4e88-b331-ddee2b81add2",
         "title": "Compact Muon Solenoid Postdoctoral Research Associate",
@@ -1273,24 +1139,6 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Baselayer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lucid Motors",
-        "id": "114c3bfa-3cb4-4fc3-9236-cdbbb804d74f",
-        "title": "Perception Software Engineer - Adas",
-        "active": false,
-        "date_updated": 1765365376,
-        "date_posted": 1765261674,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4873959007",
-        "locations": [
-            "Southfield, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -141161,7 +141009,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -141181,7 +141029,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -274096,7 +273944,7 @@
         "company_name": "Tesla",
         "id": "1941cf58-d377-4f13-8d66-ee6d978d4f5a",
         "title": "Frontend Software Engineer - Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1781822385,
         "date_posted": 1781820624,
         "url": "https://www.tesla.com/careers/search/job/274330",
@@ -302596,7 +302444,7 @@
         "company_name": "Trio",
         "id": "dcdf0a09-b26b-4234-835e-fdcb9892d744",
         "title": "Energy Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783591921,
         "date_posted": 1781129191,
         "url": "https://jobs.lever.co/trio/21f7e6e8-1357-4c31-a04c-36f1e48853a8/apply",
@@ -308945,7 +308793,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -316831,7 +316679,7 @@
         "company_name": "Northrop Grumman",
         "id": "0c79b2fa-a7cb-4534-8dd3-5d6e79a3980c",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784413082,
         "date_posted": 1784332800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Engineering-Technician--Level-2-3-_R10241027",
@@ -324568,7 +324416,7 @@
         "company_name": "Northrop Grumman",
         "id": "12dac20b-912f-4745-8fc4-76b5c94d7d2d",
         "title": "Structural Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784664269,
         "date_posted": 1781361723,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-or-Principal-Engineer-Structural-Analysis--4-10-2nd-Shift-_R10231985",
@@ -330164,7 +330012,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "03a80408-3fdc-4795-a4b5-eae66d9d2956",
         "title": "Junior Data Engineer - Faculty Specialist",
-        "active": false,
+        "active": true,
         "date_updated": 1784796827,
         "date_posted": 1781360155,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Junior-Data-Engineer--Faculty-Specialist-_JR104102",
@@ -331334,7 +331182,7 @@
         "company_name": "onsemi",
         "id": "f0cb0fec-540d-4e52-be04-70b9131dc19a",
         "title": "Probe Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1784806741,
         "date_posted": 1777943191,
         "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2505325",
@@ -341989,7 +341837,7 @@
         "company_name": "Goldman Sachs",
         "id": "5b04af22-9b48-42f3-8c74-8b62dff65252",
         "title": "Corporate Planning & Management-Senior Analyst-Quantitative Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785288997,
         "date_posted": 1785276668,
         "url": "https://higher.gs.com/roles/180216",
@@ -343140,7 +342988,7 @@
         "company_name": "Caterpillar Inc.",
         "id": "7d4dd12e-7713-4904-8820-c93cae3efb39",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785362944,
         "date_posted": 1785283200,
         "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Business-Intelligence-Analyst_R0000385600-1",
@@ -343827,7 +343675,7 @@
         "company_name": "AbbVie",
         "id": "f40a37c8-77b2-4062-8e57-b644127a95ea",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785364203,
         "date_posted": 1785362752,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014350476",
@@ -346865,7 +346713,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f49965a8-66d7-460e-aefb-c756911f4dff",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785507282,
         "date_posted": 1785506597,
         "url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors",
@@ -346925,7 +346773,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1b22c446-ca15-46a6-8a3f-b6d8575ffa66",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785508282,
         "date_posted": 1785506597,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors",
@@ -346966,7 +346814,7 @@
         "company_name": "L3Harris Technologies",
         "id": "dc6217c1-230d-4b6d-9ec6-781741754f2e",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785511140,
         "date_posted": 1785506595,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors",
@@ -347267,7 +347115,7 @@
         "company_name": "USAA",
         "id": "770f4386-9081-4ed3-a924-c126e206ba3a",
         "title": "Audit Data Analyst - Staff Auditor II",
-        "active": true,
+        "active": false,
         "date_updated": 1785535932,
         "date_posted": 1785456000,
         "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/Charlotte-NC---CENTS/Audit-Data-Analyst---Staff-Auditor-II--Entry-Level-_R0119714",
@@ -347287,7 +347135,7 @@
         "company_name": "L3Harris Technologies",
         "id": "20d1e34f-5637-4348-bd50-6e1e24d6a808",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785535923,
         "date_posted": 1785535428,
         "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineering-NY-14606/1414649600/?ats=successfactors",
@@ -350132,7 +349980,7 @@
         "company_name": "State of North Carolina",
         "id": "77ba001c-4ba7-4a1c-9a13-837121ba7f06",
         "title": "Meteorologist",
-        "active": true,
+        "active": false,
         "date_updated": 1785616381,
         "date_posted": 1784764800,
         "url": "https://nc.wd108.myworkdayjobs.com/NC_Careers/job/Wake-County-NC/Meteorologist_JR-120113",
@@ -360384,7 +360232,7 @@
         "company_name": "American University",
         "id": "6e1d88dd-30e6-454a-935b-beb34fbb9077",
         "title": "Quantitative Research Methodology Assistant - Student",
-        "active": true,
+        "active": false,
         "date_updated": 1785925508,
         "date_posted": 1783375586,
         "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Quantitative-Research-Methodology-Assistant--Student-_R4423",
@@ -362558,6 +362406,185 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "a449ff56-af7b-46d9-9c1b-73ccb36515e8",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1785997154,
+        "date_posted": 1785996964,
+        "url": "https://www.tesla.com/careers/search/job/279362",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "cfe4e5c9-9477-44a4-80c5-eaeebe0656f1",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1785997138,
+        "date_posted": 1785996960,
+        "url": "https://www.tesla.com/careers/search/job/279363",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "5a8a7ba1-2464-4dc8-995e-4cd08627650e",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1785997127,
+        "date_posted": 1785996969,
+        "url": "https://www.tesla.com/careers/search/job/279361",
+        "locations": [
+            "Doral, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "ea9a3407-4535-40e5-900c-45b263afa69c",
+        "title": "Backend Inference Framework Engineer - AML Inference",
+        "active": true,
+        "date_updated": 1785996992,
+        "date_posted": 1785996824,
+        "url": "https://jobs.bytedance.com/en/position/7669670735275526453/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "da8a18fa-889f-40b2-aed8-e47cf70f8f15",
+        "title": "Graduate Software Engineer - Data-Intelligent Creation-AI Platform-Global Vision Engineering",
+        "active": true,
+        "date_updated": 1785996985,
+        "date_posted": 1785996824,
+        "url": "https://jobs.bytedance.com/en/position/7669859743775000885/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "5cb3ada5-c00c-41c3-b649-06b652453d46",
+        "title": "Machine Learning Backend Engineer Graduate - AML MLDev",
+        "active": true,
+        "date_updated": 1785996901,
+        "date_posted": 1785996825,
+        "url": "https://jobs.bytedance.com/en/position/7669791940490168629/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "50e97511-4f52-43a6-985d-3fc9ce92d6bb",
+        "title": "Backend Inference Runtime Engineer New Grad - AML Inference",
+        "active": true,
+        "date_updated": 1785997004,
+        "date_posted": 1785996826,
+        "url": "https://jobs.bytedance.com/en/position/7669789046777940229/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "4252bc22-2ea1-451c-aaa7-bb7ec84abf57",
+        "title": "Research Scientist Graduate - Data-Intelligent Creation-Vision and Graphics-Global GenAI",
+        "active": true,
+        "date_updated": 1785996901,
+        "date_posted": 1785996829,
+        "url": "https://jobs.bytedance.com/en/position/7668208806895831349/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "1ffbd441-9fea-43f5-819f-f097b8702aaf",
+        "title": "Applied Machine Learning Production Engineer Graduate - AML Production Engineer",
+        "active": true,
+        "date_updated": 1785996901,
+        "date_posted": 1785996825,
+        "url": "https://jobs.bytedance.com/en/position/7670004502598060341/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
