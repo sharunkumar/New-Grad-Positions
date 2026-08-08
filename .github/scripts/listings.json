@@ -55,78 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Southern California",
-        "id": "1d79933e-adab-49dc-9389-e55a03941dfd",
-        "title": "WordPress Website Administrator & Designer",
-        "active": false,
-        "date_updated": 1765418597,
-        "date_posted": 1765418597,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/San-Diego-CA/WordPress-Website-Administrator---Designer_REQ20168294",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Internet Brands",
-        "id": "704e611d-80d2-43c7-b9dd-e5a0eb1932c4",
-        "title": "Associate AI Engineer",
-        "active": false,
-        "date_updated": 1765418968,
-        "date_posted": 1765418968,
-        "url": "https://jobs.jobvite.com/internetbrands/job/o33Oyfwc?nl=1&nl=1&fr=false",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Internet-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intuit",
-        "id": "a3b641f3-6486-42dd-a04a-d1469da9cba5",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1765419318,
-        "date_posted": 1765419318,
-        "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/89386696112",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "b2a2603f-00a5-45b8-bd47-5078aaa42cf9",
-        "title": "Associate Programmer Analyst",
-        "active": false,
-        "date_updated": 1765419952,
-        "date_posted": 1765419952,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Programmer-Analyst_JR2025487618-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4642e4f4-9049-4282-bf85-401b8985b740",
@@ -12982,26 +12910,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Qualcomm",
-        "id": "fcd572b0-df12-4d6c-bb70-90664e33d004",
-        "title": "Machine Learning Researcher - Deep Reinforcement Learning and Optimization - Machine Learning Researcher",
-        "active": false,
-        "date_updated": 1767003976,
-        "date_posted": 1765419348,
-        "url": "https://qualcomm.eightfold.ai/careers/job/446715744852",
-        "locations": [
-            "Markham, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Qualcomm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "5a132526-b2c0-4178-adc2-5438e8099f00",
@@ -16326,24 +16234,6 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Clairo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "TD Synnex",
-        "id": "2e66b203-ef50-4289-9143-d41705bb7e37",
-        "title": "Integration Service Technician 1 - Technicien",
-        "active": false,
-        "date_updated": 1765419697,
-        "date_posted": 1765419697,
-        "url": "https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Richmond-British-Colombia-Canada/Integration-Service-Technician-I---Technicien-ne--de-service-en-intgration-I_R45568",
-        "locations": [
-            "Richmond, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Synnex",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -251080,34 +250970,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Google",
-        "id": "69a569db-0492-4d86-9612-4eda81524c70",
-        "title": "Software Engineer \u2013 Early Career - Embedded Systems and Firmware",
-        "active": false,
-        "date_updated": 1780736041,
-        "date_posted": 1765419559,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/96957711316329158",
-        "locations": [
-            "Seattle, WA",
-            "LA",
-            "Raleigh, NC",
-            "Durham, NC",
-            "Kirkland, WA",
-            "NYC",
-            "Sunnyvale, CA",
-            "Mountain View, CA",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Vizient ",
         "id": "8e05450c-7af4-44bd-8e8a-9b271cad8be0",
@@ -305003,7 +304865,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -331361,7 +331223,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "ae948682-42af-46dc-919c-fbef1921d88f",
         "title": "Embedded Firmware and Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784931122,
         "date_posted": 1784851200,
         "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Embedded-Firmware-and-Software-Engineer_3161388",
@@ -346351,7 +346213,7 @@
         "company_name": "Analytical Mechanics Associates",
         "id": "9c20c1ab-60d2-48c2-8555-96bb2bed05e2",
         "title": "Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785619441,
         "date_posted": 1785196800,
         "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Research-Engineer_R-100720",
@@ -348710,7 +348572,7 @@
         "company_name": "L3Harris Technologies",
         "id": "9068b9f9-f2fd-47d2-951a-2439d7e121a5",
         "title": "Systems Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785737542,
         "date_posted": 1785736982,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineering-FL-32905/1415115100/?ats=successfactors",
@@ -348730,7 +348592,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6e997471-31b7-45d4-a693-6b704b7781df",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785737493,
         "date_posted": 1785736985,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80916/1415119100/?ats=successfactors",
@@ -348750,7 +348612,7 @@
         "company_name": "L3Harris Technologies",
         "id": "94ff4390-a797-42d4-a1f1-fa12703a459e",
         "title": "Software Engineering Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1785737504,
         "date_posted": 1785736995,
         "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Software-Engineering-MA-01887/1415117800/?ats=successfactors",
@@ -348770,7 +348632,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8febfbb4-d285-4402-b2a4-e2b3cb902e20",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785737499,
         "date_posted": 1785736996,
         "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415118100/?ats=successfactors",
@@ -348830,7 +348692,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3ca79f3e-a9c5-4b1f-82b5-1d1b001d5a97",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785737485,
         "date_posted": 1785736984,
         "url": "https://jobs.l3harris.com/job/Chantilly-Associate,-Software-Engineering-VA-20151/1415119000/?ats=successfactors",
@@ -356899,7 +356761,7 @@
         "company_name": "RTX",
         "id": "54df7150-5eba-423a-a49c-6001249a774f",
         "title": "RDP Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785968847,
         "date_posted": 1785888000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDP-Engineer-I_01864282",
@@ -363493,6 +363355,46 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "83116fa6-882c-4fa7-8844-5fdf4d862637",
+        "title": "SoC Physical Design Engineer - PnR",
+        "active": true,
+        "date_updated": 1786169701,
+        "date_posted": 1786169680,
+        "url": "https://jobs.apple.com/en-us/details/200676744",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "5758b587-5d39-4b73-8bb5-2d965c5e2d83",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1786169177,
+        "date_posted": 1786168995,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
