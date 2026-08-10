@@ -56,80 +56,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "American Electric Power",
-        "id": "4bceff24-e47d-47d8-8012-a6d1cca898ab",
-        "title": "Data Scientist \u2013 Sr - Mid - TRANSMISSION Systems & Asset Health",
-        "active": false,
-        "date_updated": 1765591658,
-        "date_posted": 1765591658,
-        "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Data-Scientist--Mid---Sr----TRANSMISSION-Systems---Asset-Health_R12729",
-        "locations": [
-            "New Albany, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Electric-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Uber",
-        "id": "ff3df5a7-ffb3-467e-b673-25426c4cbbf2",
-        "title": "2026 Software Engineering Boost Fellowship - Arizona State University",
-        "active": false,
-        "date_updated": 1765592670,
-        "date_posted": 1765592670,
-        "url": "https://university-uber.icims.com/jobs/150146/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Medtronic",
-        "id": "ceb5cccb-dbb4-4c6e-868b-00b34810ada7",
-        "title": "Software Operations Engineer 1",
-        "active": false,
-        "date_updated": 1765595404,
-        "date_posted": 1765595404,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Northridge-California-United-States-of-America/Software-Operations-Engineer-I_R46476",
-        "locations": [
-            "Northridge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Crusoe",
-        "id": "034f709b-58af-4008-baa6-119592d3a24a",
-        "title": "Software Engineer \u2013 New College Graduate 2026",
-        "active": false,
-        "date_updated": 1765592123,
-        "date_posted": 1765592123,
-        "url": "https://jobs.ashbyhq.com/Crusoe/f79eed01-9e4a-4b43-bcdf-5e8649ccfefa/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Crusoe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Brandes Associates",
         "id": "f50e27a9-62a5-4794-9149-451108af754c",
         "title": "Program/Project/Management Analyst - Junior",
@@ -9490,24 +9416,6 @@
             "Salt Lake City, UT"
         ],
         "company_url": "https://simplify.jobs/c/Western-Governors-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "UBS",
-        "id": "82f17a36-38b0-4a90-80a7-5ac025f7c75c",
-        "title": "QIS Quantitative Analyst",
-        "active": false,
-        "date_updated": 1766569199,
-        "date_posted": 1765610297,
-        "url": "https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5155&PageType=JobDetails&jobid=334026",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/UBS",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -134134,7 +134042,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -134154,7 +134062,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -301754,7 +301662,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": true,
+        "active": false,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -334017,7 +333925,7 @@
         "company_name": "Northrop Grumman",
         "id": "3d40984e-d6a2-41ef-8da4-63f967b95506",
         "title": "Associate Systems Modeling & Simulation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785281064,
         "date_posted": 1785196800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Systems-Modeling---Simulation-Engineer-Systems-Modeling---Simulation-Engineer_R10242731",
@@ -349551,7 +349459,7 @@
         "company_name": "Cisco",
         "id": "1678c568-32eb-4d90-aba8-bd3ed3dd0681",
         "title": "Software Developer - CICD Pipeline and Automation 2",
-        "active": true,
+        "active": false,
         "date_updated": 1785798181,
         "date_posted": 1785715200,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Ottawa-Ontario-Canada/Software-Developer---CICD-Pipeline-and-Automation-II--Full-Time----Canada_2019864",
@@ -351123,7 +351031,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6a410535-064c-49e0-9a44-bdda2a7c3a4b",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785852873,
         "date_posted": 1785852371,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1415619600/?ats=successfactors",
@@ -352858,7 +352766,7 @@
         "company_name": "L3Harris Technologies",
         "id": "e6b322bf-6ccd-43f3-a987-0d4f72440458",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785910194,
         "date_posted": 1785909862,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32919/1416023100/?ats=successfactors",
@@ -356655,7 +356563,7 @@
         "company_name": "Northrop Grumman",
         "id": "7d2611c5-9dae-488a-bb64-954a43229bc8",
         "title": "Associate Embedded Software Engineer - Manufacturing",
-        "active": true,
+        "active": false,
         "date_updated": 1786056329,
         "date_posted": 1785974400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2026-Associate-Embedded-Software-Engineer--Manufacturing----Rolling-Meadows-IL_R10244230",
@@ -358575,7 +358483,7 @@
         "company_name": "Charles Schwab",
         "id": "952bbac0-18af-4767-b6a2-6d9e3639a5af",
         "title": "Software Development and Engineering Associate - Wealth and Advice Solutions Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1786141448,
         "date_posted": 1786140812,
         "url": "https://career-schwab.icims.com/jobs/124804/job?mobile=true&needsRedirect=false",
@@ -360661,5 +360569,285 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "fdf2a40c-2157-4a2f-98b2-c2360a5a3268",
+        "title": "Electronic Systems Product Engineer",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342532,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2432793",
+        "locations": [
+            "Seymour, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "b7d2b969-6593-4660-bd91-dc2baae3f910",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434797",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "8def6cd4-02f6-4045-9290-2e08f2f10b24",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786342731,
+        "date_posted": 1786342535,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434164",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "794d9023-0e6c-4e52-aba9-a759253853f2",
+        "title": "Product Engineer - Turbo Platform Product Engineering",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434284",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "2d0fc8ab-a65f-4024-8688-eecdfe5f3bbb",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434734",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "607c0322-55ec-4777-815b-f66588579d34",
+        "title": "Electronic Systems Engineer - Software",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434473",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "435c2fcd-ac89-454c-8594-e00acf0c463c",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1786342729,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2435081",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "28c2ca86-b1be-498b-b941-e52d0ef05727",
+        "title": "Product Software Engineer",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434259",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "28be03da-801e-4180-a761-ffb6ac098c30",
+        "title": "Electronic Systems Product Engineer - Electronic Systems",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342534,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2434498",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cummins",
+        "id": "1d6917cc-c2ac-4a2b-8ffc-9e08ecc68f64",
+        "title": "Electronic Systems Engineer - Software",
+        "active": true,
+        "date_updated": 1786342681,
+        "date_posted": 1786342533,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2433277",
+        "locations": [
+            "Columbus, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ASR INTERNATIONAL",
+        "id": "08cca5ea-66d4-4c06-bc78-8aa1c6a832e4",
+        "title": "Junior Software Engineer Intern - Instrumentation",
+        "active": true,
+        "date_updated": 1786342731,
+        "date_posted": 1786342615,
+        "url": "https://asrinternationalcorp.applytojob.com/apply/nknm2W31uu/SoftwareInstrumentation-Engineer-Junior",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/29a34bb7-e05d-41e2-a88b-d9a46a9b3206",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "c97845b7-902d-4b6d-8530-ebea1aab2949",
+        "title": "Electronics/Electro-Mechanical Assembler",
+        "active": true,
+        "date_updated": 1786342546,
+        "date_posted": 1786320000,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Woodridge-IL/Electronics--Electro-Mech-Assembler_REQ36028",
+        "locations": [
+            "Woodridge, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "1119f190-988e-48d2-8fe4-84593739c464",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1786342431,
+        "date_posted": 1786342229,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineeriing-IN-46818/1417402600/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "50f47dfa-2767-4349-b388-347aa02f6f46",
+        "title": "Associate Software Engineering",
+        "active": true,
+        "date_updated": 1786342428,
+        "date_posted": 1786342229,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Software-Engineeriing-NY-14624/1417495000/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
