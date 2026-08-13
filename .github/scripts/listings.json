@@ -56,24 +56,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Medtronic",
-        "id": "21ea3d17-9d33-4c2d-9a49-b6460fa89fa8",
-        "title": "Technician 1",
-        "active": false,
-        "date_updated": 1765872237,
-        "date_posted": 1765872237,
-        "url": "https://medtronic.wd1.myworkdayjobs.com/redeploymentmedtroniccareers/job/Fort-Worth-Texas-United-States-of-America/Technician-I_R50672-2",
-        "locations": [
-            "Fort Worth, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Medtronic",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Safelite",
         "id": "3775dbc6-90f2-4798-b66d-2bd95e9efaf2",
         "title": "Auto Glass Technician Trainee",
@@ -11484,24 +11466,6 @@
             "Harlow, UK"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Plexus",
-        "id": "d4f5fb26-4ac9-4889-bc3e-2df68380884f",
-        "title": "Systems Integration Technician",
-        "active": false,
-        "date_updated": 1765889803,
-        "date_posted": 1765889803,
-        "url": "https://plexus.wd5.myworkdayjobs.com/en-US/Plexus_Careers/job/Nampa-ID/Systems-Integration-Technician---A-Shift_R035452",
-        "locations": [
-            "Nampa, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Plexus",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -130788,7 +130752,7 @@
         "company_name": "Avnet",
         "id": "0374d942-8b19-45e9-8850-322095453a57",
         "title": "Associate Field Application Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1773959504,
         "date_posted": 1773959504,
         "url": "https://avnet.wd1.myworkdayjobs.com/external/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -130808,7 +130772,7 @@
         "company_name": "Avnet",
         "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
         "title": "Associate Field Application Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1773962352,
         "date_posted": 1773962352,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
@@ -189811,7 +189775,7 @@
         "company_name": "ByteDance",
         "id": "56c56225-9bfe-4b36-952b-d2b4a874a11e",
         "title": "Software Development Engineer - Multiple Teams",
-        "active": false,
+        "active": true,
         "date_updated": 1777280942,
         "date_posted": 1777280818,
         "url": "https://jobs.bytedance.com/en/position/7631372899367340293/detail",
@@ -213250,7 +213214,7 @@
         "company_name": "Halliburton",
         "id": "d07ebb8a-bb7e-4622-bdd5-a128634c176d",
         "title": "Data Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1778922373,
         "date_posted": 1778922346,
         "url": "https://jobs.halliburton.com/job/Abingdon-Data-Integration-Engineer-OXF-OX14-4RW/1347981000/?ats=successfactors",
@@ -242908,7 +242872,7 @@
         "company_name": "Anduril",
         "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
         "title": "Product Operations Associate - Tier 1",
-        "active": true,
+        "active": false,
         "date_updated": 1780622132,
         "date_posted": 1774574788,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
@@ -261378,7 +261342,7 @@
         "company_name": "Canon",
         "id": "5bf81361-5422-4666-ba65-3598e2e193d9",
         "title": "Field Service Technician - Field Service I-Ctrl",
-        "active": true,
+        "active": false,
         "date_updated": 1781704312,
         "date_posted": 1781302050,
         "url": "https://external-canoncareers.icims.com/jobs/34513/job?mobile=true&needsRedirect=false",
@@ -273302,7 +273266,7 @@
         "company_name": "Canon",
         "id": "7de90ab2-6d9d-4e4e-8677-55608f3ffd9a",
         "title": "Repair Technician 1 - Camera Lenses",
-        "active": false,
+        "active": true,
         "date_updated": 1782293761,
         "date_posted": 1780005958,
         "url": "https://external-canoncareers.icims.com/jobs/34449/job?mobile=true&needsRedirect=false",
@@ -315475,7 +315439,7 @@
         "company_name": "Northrop Grumman",
         "id": "13826454-b917-4af3-b569-9bddf01cb84a",
         "title": "Engineer / Principal Software Engineer - Cloud & Applications",
-        "active": true,
+        "active": false,
         "date_updated": 1784681523,
         "date_posted": 1782957260,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/Engineer---Principal-Engineer-Software---Cloud---Applications_R10237199",
@@ -329123,7 +329087,7 @@
         "company_name": "Intertek",
         "id": "13d2ff87-84b1-43fb-8824-edb2aae79d4f",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1785193381,
         "date_posted": 1785190233,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15326",
@@ -333972,7 +333936,7 @@
         "company_name": "Analog Devices",
         "id": "4cfd3947-9ba4-4788-b478-1158c919061b",
         "title": "Associate Pricing Analyst - Pricing",
-        "active": true,
+        "active": false,
         "date_updated": 1785413114,
         "date_posted": 1785369600,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Ireland-Dublin/Associate-Analyst--Pricing_R264105",
@@ -335237,7 +335201,7 @@
         "company_name": "Bank of Montreal",
         "id": "2ef7a6e8-176c-4ebb-ad45-119ab4534b9f",
         "title": "Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785451016,
         "date_posted": 1785369600,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222",
@@ -335315,7 +335279,7 @@
         "company_name": "Bank of Montreal",
         "id": "44824140-4982-4240-8d81-60491e3e0f81",
         "title": "Software Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785450763,
         "date_posted": 1785369600,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Software-Developer--New-or-Recent-Graduate-_R260020222-1",
@@ -343624,7 +343588,7 @@
         "company_name": "Evertz Microsystems Limited",
         "id": "9e35bafc-8778-4bea-bbdc-0798dee5923f",
         "title": "Junior Radio Frequency Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785740861,
         "date_posted": 1785738171,
         "url": "https://evertz.applytojob.com/apply/VqiaJgc6yS/Junior-RF-Engineer",
@@ -349715,7 +349679,7 @@
         "company_name": "Starbucks",
         "id": "924b8ac7-f08b-4620-9762-01deab61c794",
         "title": "Application Developer - Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1785922656,
         "date_posted": 1785922136,
         "url": "https://starbucks.eightfold.ai/careers/job/481078166376",
@@ -354112,7 +354076,7 @@
         "company_name": "CONEXON",
         "id": "4f98a5a0-f900-434e-9015-2ce4cbc87417",
         "title": "Fiber Optic Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786083841,
         "date_posted": 1778543778,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4160617",
@@ -356930,7 +356894,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5758b587-5d39-4b73-8bb5-2d965c5e2d83",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786169177,
         "date_posted": 1786168995,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1417294200/?ats=successfactors",
@@ -358838,7 +358802,7 @@
         "company_name": "RTX",
         "id": "27f29ace-e852-4e0d-a448-9e2d95a89be6",
         "title": "RDC Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1786400349,
         "date_posted": 1786320000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/RDC-Engineer-II_01865317",
@@ -358942,7 +358906,7 @@
         "company_name": "Advanced Energy",
         "id": "3a2b046a-f039-4025-8c40-df8120fd431d",
         "title": "Assembler 2 - Hybrids",
-        "active": true,
+        "active": false,
         "date_updated": 1786400132,
         "date_posted": 1786399796,
         "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Assembler-II-Hybrids-CO-80525/1417743700/?ats=successfactors",
@@ -360747,7 +360711,7 @@
         "company_name": "SharkNinja",
         "id": "416c013d-c97d-436f-a454-ff8f42afdadc",
         "title": "Applied AI & Analytics - Early Careers",
-        "active": true,
+        "active": false,
         "date_updated": 1786469168,
         "date_posted": 1786468793,
         "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703237006",
@@ -361700,7 +361664,7 @@
         "company_name": "ADT",
         "id": "60c29635-73db-4567-898a-d5453ff55e02",
         "title": "Service Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786486141,
         "date_posted": 1786486054,
         "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3021653",
@@ -362023,7 +361987,7 @@
         "company_name": "Rocket Companies",
         "id": "f9ae5e13-afac-44bd-b3ec-97f32c4c40d8",
         "title": "Machine Learning Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786487722,
         "date_posted": 1786406400,
         "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Lake-Vista-TX/Machine-Learning-Engineer-I_R-084092",
@@ -362288,7 +362252,7 @@
         "company_name": "Deloitte",
         "id": "a1f5f63a-0971-4a61-969b-c3d1f0a264e3",
         "title": "Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487529,
         "date_posted": 1786487047,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Risk-Analytics-Solutions/362509",
@@ -364427,7 +364391,7 @@
         "company_name": "Anglian Water",
         "id": "2df64261-e4cf-4a9d-aa4a-7936d0700f3a",
         "title": "Service Improvement Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786572724,
         "date_posted": 1784764800,
         "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Chatterton-Tower/Restoration-Targeting-Analyst_R38729",
@@ -364445,7 +364409,7 @@
         "company_name": "Anglian Water",
         "id": "17ac5d2a-311c-4655-b355-22089addd402",
         "title": "Service Improvement Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1786572724,
         "date_posted": 1784764800,
         "url": "https://awg.wd3.myworkdayjobs.com/en-US/AW/job/Chatterton-Tower/Restoration-Targeting-Analyst_R38729-1",
@@ -366753,6 +366717,247 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "fd2da7af-12c7-411b-8654-f9d2404b96af",
+        "title": "Data Science Graduate - Advertisement Team",
+        "active": true,
+        "date_updated": 1786613041,
+        "date_posted": 1786613022,
+        "url": "https://lifeattiktok.com/search/7673232905797880069",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Materials",
+        "id": "495c218f-20df-48c5-baef-1726f57e1d01",
+        "title": "Software Engineer New Grad - DevOps",
+        "active": true,
+        "date_updated": 1786612676,
+        "date_posted": 1786579200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Software-Engineer--DevOps---New-College-Grad---Bachelor-s--Gloucester--MA-_R2625762",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "823dc91a-f895-469a-b516-b3be2e1894e7",
+        "title": "Software Engineer Graduate - Recommendation Infrastructure",
+        "active": true,
+        "date_updated": 1786612321,
+        "date_posted": 1786612220,
+        "url": "https://lifeattiktok.com/search/7673284715407886597",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Illumina",
+        "id": "27789793-6af1-43b7-9cd5-e384f26e6e66",
+        "title": "Systems Integration Engineer 1",
+        "active": true,
+        "date_updated": 1786612432,
+        "date_posted": 1786579200,
+        "url": "https://illumina.wd1.myworkdayjobs.com/illumina-careers/job/US---California---San-Diego/Systems-Integration-Engineer-1_43230-JOB",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illumina",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "495ef837-6877-48bd-9606-a506661f9f5c",
+        "title": "Data Scientist Graduate - Multimedia",
+        "active": true,
+        "date_updated": 1786612321,
+        "date_posted": 1786612218,
+        "url": "https://lifeattiktok.com/search/7670288355678177589",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "19c93f10-36d5-4aa0-8c14-983828340ee3",
+        "title": "Tech Packages Analyst - Government & Public Services",
+        "active": true,
+        "date_updated": 1786615059,
+        "date_posted": 1784672055,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Tech-Packages/360123",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Two Sigma",
+        "id": "0f38cb8f-9548-4161-b1d2-a6734d216f12",
+        "title": "AI Research Scientist - Campus Full-Time",
+        "active": true,
+        "date_updated": 1786614664,
+        "date_posted": 1785633715,
+        "url": "https://twosigma.avature.net/careers/JobDetail/13671",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/0e04910d-c55c-49e9-b2c6-5f391cf32384",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "45783cfa-89f9-43b9-9c32-1c0bc40c7a87",
+        "title": "Field Service Technician 1 - Area",
+        "active": true,
+        "date_updated": 1786617740,
+        "date_posted": 1778537134,
+        "url": "https://external-canoncareers.icims.com/jobs/34394/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Starkville, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Deloitte",
+        "id": "9f472a68-b131-41db-abf0-48a1bbdcff63",
+        "title": "Delivery Analyst - Discovery Solutions - Government & Public Services",
+        "active": true,
+        "date_updated": 1786623344,
+        "date_posted": 1786487058,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Discovery-Solutions/362504",
+        "locations": [
+            "Mechanicsburg, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASML",
+        "id": "8461a046-ce00-42ec-917b-1c53720bba42",
+        "title": "Upgrade Install and Relocation Engineer - Duv",
+        "active": true,
+        "date_updated": 1786624021,
+        "date_posted": 1786406400,
+        "url": "https://asml.wd3.myworkdayjobs.com/asmlext1/job/Dallas-TX-USA/Upgrade-Install-and-Relocation-Engineer---DUV_J-00349320",
+        "locations": [
+            "Austin, TX",
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ASML",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Matternet",
+        "id": "b0898954-3d42-4f9a-bfbe-e5dcd7a97ba3",
+        "title": "UAV Ground Support Crew Member",
+        "active": true,
+        "date_updated": 1786624021,
+        "date_posted": 1785191013,
+        "url": "https://apply.workable.com/matternet/j/36D1691A78/apply",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Matternet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Canon",
+        "id": "9fcf1b07-801d-444c-9198-74f2b5786eaa",
+        "title": "Pre-Install Copier Technician 1",
+        "active": true,
+        "date_updated": 1786623322,
+        "date_posted": 1779113056,
+        "url": "https://external-canoncareers.icims.com/jobs/34076/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Monroe Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Canon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
