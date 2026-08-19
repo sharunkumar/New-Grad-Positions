@@ -54,224 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1771250796,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://ffin.wd1.myworkdayjobs.com/en-US/First_Financial_Bank/job/Operations-Center/AI-Developer-I--Call-Center_JR102406",
-        "company_name": "First Financial Bank",
-        "title": "AI Developer I- Call Center",
-        "locations": [
-            "Abilene, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "75ac02c5-e608-44a8-a166-f03fa86d82ab",
-        "date_posted": 1766409312,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766718508,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://Quantitative Financial Risk Analyst",
-        "company_name": "Susquehanna",
-        "title": "Quantitative Financial Risk Analyst",
-        "locations": [
-            "Bala Cynwyd, PA"
-        ],
-        "category": "Quantitative Finance",
-        "source": "AlmondCroffle",
-        "id": "631d6707-4530-4d31-b838-40064d5e3a6f",
-        "date_posted": 1766409383,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1766718336,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://cliftonlarsonallen.wd1.myworkdayjobs.com/en-US/CLA/job/St-Louis-MO/Data-Analyst-Associate_R16544",
-        "company_name": "CliftonLarsonAllen",
-        "title": "Data Analyst Associate",
-        "locations": [
-            "St Louis, MO"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "e6643c4c-b164-4a19-8600-01f41ca1fe59",
-        "date_posted": 1766409480,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1766409574,
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
-        "degrees": [],
-        "url": "https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160",
-        "company_name": "Radian",
-        "title": "Data Scientist I - Hybrid",
-        "locations": [
-            "New York, NY"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "b2cfe407-2dcd-46b8-9e57-7d95300f2542",
-        "date_posted": 1766409574,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "665ad8f3-796f-46eb-8571-1a6c0517b932",
-        "title": "Trading Assistant - Local",
-        "active": false,
-        "date_updated": 1766420002,
-        "date_posted": 1766420002,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043742",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "31319dec-0fb5-453e-8f21-325bff85a981",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766419989,
-        "date_posted": 1766419989,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043727",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "11036663-aa59-4f94-abcb-da1c812a5665",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766419987,
-        "date_posted": 1766419987,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043719",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "05cc19a5-e6d3-4a87-987c-c8a043684739",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766419987,
-        "date_posted": 1766419987,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043739",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Tokamak Energy",
-        "id": "39131b39-106a-4aaf-a897-49a1486ec2ea",
-        "title": "High Power Radio Frequency Engineer",
-        "active": false,
-        "date_updated": 1766419832,
-        "date_posted": 1766419832,
-        "url": "https://apply.workable.com/tokamak-energy/j/BFB067D1F7/apply",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tokamak-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ASSA ABLOY",
-        "id": "dc9bfcee-9d39-4ba5-9e5e-96bc01522a0e",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1766419735,
-        "date_posted": 1766419735,
-        "url": "https://assaabloy.jobs2web.com/job/Mason-City-Product-Engineer-IA-50401/1278600401/?ats=successfactors",
-        "locations": [
-            "Mason City, IA",
-            "Montgomery, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4e6852e1-99a3-4a3e-b1c8-f5b99dbbf374",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766420015,
-        "date_posted": 1766420015,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043740",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1f398976-f463-44c7-9a29-d9fd99c89b2a",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1766420005,
-        "date_posted": 1766420005,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043741",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "NVIDIA",
@@ -4562,24 +4344,6 @@
             "Sacramento, CA"
         ],
         "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Peraton",
-        "id": "cfc49a94-472e-4488-b4cc-46d73a578216",
-        "title": "R&D Engineering Analyst",
-        "active": false,
-        "date_updated": 1766420881,
-        "date_posted": 1766420881,
-        "url": "https://careers-peraton.icims.com/jobs/158877/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Bethesda, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -181335,7 +181099,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5b8fd8d-bfe1-4bc0-a902-6285c6270a00",
         "title": "Software Engineer / Principal Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1776982861,
         "date_posted": 1776982097,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Software-Engineer---Principal-Software-Engineer---Requirements---Test_R10230491",
@@ -291739,7 +291503,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -305409,7 +305173,7 @@
         "company_name": "Stanley Black & Decker",
         "id": "08e3e3b1-7fc7-46fd-9c1f-48f7f0dfe049",
         "title": "Assistant Product Manager Outdoor Products",
-        "active": true,
+        "active": false,
         "date_updated": 1784632643,
         "date_posted": 1782915023,
         "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Maidenhead-Berkshire-England/Assistant-Product-Manager_REQ-1000049717-1",
@@ -332986,7 +332750,7 @@
         "company_name": "Trainline",
         "id": "7fa3bd36-1aaf-45d8-b339-ce03706066b1",
         "title": "Junior .NET Engineer - Backend",
-        "active": true,
+        "active": false,
         "date_updated": 1785616621,
         "date_posted": 1784729586,
         "url": "https://jobs.ashbyhq.com/trainline/68f597e9-60b3-482e-8d73-618d24b0bf8e/application?embed=true",
@@ -363675,7 +363439,7 @@
         "company_name": "Ascension",
         "id": "b13f3387-1ff9-42b7-b13b-975bce96d782",
         "title": "Master Data Management Specialist - MDM Team",
-        "active": true,
+        "active": false,
         "date_updated": 1786687092,
         "date_posted": 1786686881,
         "url": "https://jobs.ascension.org/us/en/job/456522",
@@ -370788,7 +370552,7 @@
         "company_name": "Encova",
         "id": "cc99eb43-48b8-443d-be7a-b621cbef7dcd",
         "title": "Developer - Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://encova.wd1.myworkdayjobs.com/Search/job/Charleston-WV/Developer_R002016",
@@ -372943,6 +372707,103 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Procter & Gamble",
+        "id": "2f40cd6e-8384-4c3f-8dee-e8ef4a5fa827",
+        "title": "Consumer Insights & Data Analytics Manager",
+        "active": true,
+        "date_updated": 1787143196,
+        "date_posted": 1787097600,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Consumer-Insights---Data-Analytics-Manager--Graduate-_R000157642",
+        "locations": [
+            "London, UK",
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "f713a845-5b0b-4d0f-86ce-0dd9aa215978",
+        "title": "Cabling & Harnessing Technician - Level 2 or 3",
+        "active": true,
+        "date_updated": 1787144941,
+        "date_posted": 1785888000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Goleta/Cabling---Harnessing-Technician---Level-2-or-3_R10244047",
+        "locations": [
+            "Goleta, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duetto Research",
+        "id": "818c0cd0-d0e6-4a8b-ad0d-80cf17c1f4ad",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1787146561,
+        "date_posted": 1787146399,
+        "url": "https://job-boards.greenhouse.io/duettoresearch/jobs/8138628",
+        "locations": [
+            "Worcester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Duetto-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SharkNinja",
+        "id": "b4a8f426-6ada-440c-9532-098801627864",
+        "title": "Performance Data Associate - Marketplace Intelligence - Early Careers",
+        "active": true,
+        "date_updated": 1787146282,
+        "date_posted": 1787146171,
+        "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4703667006",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/SharkNinja",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Glass Roots Construction",
+        "id": "c1aac715-de45-4ecf-89cf-eb9c3b0acf3d",
+        "title": "Fiber Optic Splicer",
+        "active": true,
+        "date_updated": 1787163889,
+        "date_posted": 1787066161,
+        "url": "https://ats.rippling.com/glass-roots-construction-llc/jobs/0e87dcc8-367f-44e3-a356-af0334d51191",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Glass-Roots-Construction",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
         ]
     }
 ]
