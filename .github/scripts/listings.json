@@ -54,98 +54,6 @@
         "degrees": []
     },
     {
-        "date_updated": 1766793712,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": true,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Junior RUST Embedded Software Engineer (cleared)",
-        "locations": [
-            "Taunton, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "ac30f3b5-0422-4153-946a-2761fb99c697",
-        "date_posted": 1766764024,
-        "company_url": "",
-        "is_visible": false
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.metrostar.com/job-post/?gh_jid=7570044003",
-        "company_name": "MetroStar",
-        "title": "Associate Full Stack Developer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "66d8133c-308f-4a10-ae36-73c22909339b",
-        "date_posted": 1766764112,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gallup",
-        "id": "bca22fd3-8179-4ece-897a-08fca5342097",
-        "title": "Senior Backend Developer",
-        "active": false,
-        "date_updated": 1766767397,
-        "date_posted": 1766767397,
-        "url": "https://job-boards.greenhouse.io/gallup/jobs/4077186009",
-        "locations": [
-            "Omaha, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Gallup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Children's Hospital of Philadelphia",
-        "id": "7083f555-b788-45ea-87e1-0db6ed228468",
-        "title": "Research IS Business Systems Analyst",
-        "active": false,
-        "date_updated": 1766768350,
-        "date_posted": 1766768350,
-        "url": "https://chop.wd5.myworkdayjobs.com/CHOPExternalCareers/job/HomeRemote-Office-Location/Research-IS-Business-Systems-Analyst_1021184-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Childrens-Hospital-Of-Philadelphia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Uhaul",
-        "id": "fa26f8ce-2c9a-47b4-a462-74ffbcc50704",
-        "title": "Hitch Installer",
-        "active": false,
-        "date_updated": 1766767431,
-        "date_posted": 1766767431,
-        "url": "https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Moncton-New-Brunswick/Hitch-Installer_R234672",
-        "locations": [
-            "Dieppe, NB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Uhaul",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Jerry",
@@ -2827,24 +2735,6 @@
             "Bellevue, WA"
         ],
         "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seminole Hard Rock",
-        "id": "a69d5b50-fb7e-4fa6-961b-12b7fa4be566",
-        "title": "Slot Technician 1",
-        "active": false,
-        "date_updated": 1766767026,
-        "date_posted": 1766767026,
-        "url": "https://careers-seminole.icims.com/jobs/63916/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Coconut Creek, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Seminole-Hard-Rock",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -139596,7 +139486,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "bca74012-9462-4061-95f7-b27d58666e24",
+        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -222485,7 +222375,7 @@
         "company_name": "JP Morgan Chase",
         "id": "442c6324-ce4c-401e-a711-4bda90465047",
         "title": "Model Risk Program Analyst/Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1779957181,
         "date_posted": 1776348530,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210736155",
@@ -333040,7 +332930,7 @@
         "company_name": "Ludlum Measurement, Inc (VPI Technology, ADIT, Eljen, WTM, Protean Instr)",
         "id": "74cd9509-accc-467b-8bda-e05f70b0b588",
         "title": "Calibrator",
-        "active": false,
+        "active": true,
         "date_updated": 1785738601,
         "date_posted": 1785737786,
         "url": "https://vpitechnology.applytojob.com/apply/h864JPWnOQ/Calibrator",
@@ -363283,7 +363173,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -363322,7 +363212,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -363381,7 +363271,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -363685,7 +363575,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -374716,7 +374606,7 @@
         "company_name": "GE Appliances",
         "id": "ae100847-0b5b-46dc-8d75-58159b3d28da",
         "title": "Test Systems & Instrumentation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1787332639,
         "date_posted": 1787270400,
         "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Test-Systems---Instrumentation-Engineer_REQ-26556",
@@ -376265,7 +376155,7 @@
         "company_name": "Ascension",
         "id": "ded4c8dd-a85f-4856-a22e-0d16e9b77a68",
         "title": "Application Technology Specialist - Clinical Imaging",
-        "active": true,
+        "active": false,
         "date_updated": 1787403452,
         "date_posted": 1787343096,
         "url": "https://jobs.ascension.org/us/en/job/459181",
@@ -376324,7 +376214,7 @@
         "company_name": "eBay",
         "id": "c7734ae8-c142-481e-b187-28eb96007649",
         "title": "Senior Data Engineer Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1787411741,
         "date_posted": 1787270400,
         "url": "https://ebay.wd5.myworkdayjobs.com/apply/job/Toronto/Sr-Data-Engineer-Manager_R0076353",
@@ -376416,5 +376306,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "KET-Kentucky Educational Television",
+        "id": "9e2719f2-3129-4cfa-8dd1-b3d6019e4a59",
+        "title": "Television Broadcast Engineer",
+        "active": true,
+        "date_updated": 1787490205,
+        "date_posted": 1784788001,
+        "url": "https://ketkentuckyeducationaltelevision.applytojob.com/apply/Z1pMBoFR5Q/Television-Broadcast-Engineer",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/KET-Kentucky-Educational-Television",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
