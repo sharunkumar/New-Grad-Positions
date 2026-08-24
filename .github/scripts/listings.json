@@ -55,139 +55,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Jerry",
-        "id": "b36d38e5-534e-40aa-be9c-77c85b42cbed",
-        "title": "Software Engineer - Entry",
-        "active": false,
-        "date_updated": 1766791194,
-        "date_posted": 1766791194,
-        "url": "https://jobs.ashbyhq.com/jerry.ai/bbbced3d-d1c4-43a0-9b72-98e40b2df110/application",
-        "locations": [
-            "Palo Alto, CA",
-            "Boston, MA",
-            "Toronto, ON, Canada",
-            "SF",
-            "LA",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jerry",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "27366855-1aed-4d9c-b699-bcecb17f14c8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766791000,
-        "date_posted": 1766791000,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043909",
-        "locations": [
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Internet Brands",
-        "id": "49f108f0-471b-4f89-aee1-628150a94dec",
-        "title": "Associate AI Research & Operations Analyst",
-        "active": false,
-        "date_updated": 1766790696,
-        "date_posted": 1766790696,
-        "url": "https://jobs.jobvite.com/internetbrands/job/oDnbzfwu?nl=1&nl=1&fr=false",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Internet-Brands",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "12371aaf-cff8-4615-8e58-678ea7fffbfa",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1766791000,
-        "date_posted": 1766791000,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400043821",
-        "locations": [
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "American Fidelity",
-        "id": "cabc8be4-67c2-4714-b35e-9b100c51999c",
-        "title": "Product Analyst 1",
-        "active": false,
-        "date_updated": 1766796110,
-        "date_posted": 1766796110,
-        "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Products-Analyst-I_JR375-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Fidelity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Axle",
-        "id": "77c25c6e-e383-4778-9e3a-585383dd8401",
-        "title": "Computer Systems Analyst",
-        "active": false,
-        "date_updated": 1766797261,
-        "date_posted": 1766797261,
-        "url": "https://job-boards.greenhouse.io/axle/jobs/4918044007",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/2fb4f27c-8f47-47fe-a3ad-4b033c6586da",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Airbus",
-        "id": "f97051ba-ff6b-4eab-9ff7-4aac1be471b2",
-        "title": "ADU Technician - Contract",
-        "active": false,
-        "date_updated": 1766798944,
-        "date_posted": 1766798944,
-        "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/ADU-Technician--CONTRACT-_JR10364652",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Airbus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Certik",
         "id": "ecae65d4-5a3d-48fa-be81-16c38bd63343",
@@ -8276,26 +8143,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Stellant Systems",
-        "id": "b501c0b2-2c2e-4474-afab-40056fb0e544",
-        "title": "Fitter",
-        "active": false,
-        "date_updated": 1767803616,
-        "date_posted": 1766790732,
-        "url": "https://careers-stellantsystems.icims.com/jobs/1983/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pennsylvania"
-        ],
-        "company_url": "https://simplify.jobs/c/Stellant-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -77975,7 +77822,7 @@
         "company_name": "Hudson River Trading",
         "id": "152296c2-bbc4-40ed-b170-0c0f9b13fb80",
         "title": "Risk Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1771889648,
         "date_posted": 1771889648,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=7615362",
@@ -139486,7 +139333,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "4042a11a-8433-4d3c-b163-eb95de05c795",
+        "id": "bca74012-9462-4061-95f7-b27d58666e24",
         "title": "Operations Research Postdoctoral Researcher",
         "active": true,
         "date_updated": 1774986841,
@@ -235790,7 +235637,7 @@
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "TTP",
-        "id": "1c4edf26-8b8d-4507-83a4-7b06f211012f",
+        "id": "edb319e2-e574-40bd-9fa0-da64c1142067",
         "title": "FPGA Engineer - Consultant",
         "active": true,
         "date_updated": 1780927933,
@@ -288785,7 +288632,7 @@
         "company_name": "Goldman Sachs",
         "id": "278f5a44-d443-44e9-ad2f-01b560786f6e",
         "title": "Quantitative Strategist Associate - Core Planning and Analysis Strats",
-        "active": false,
+        "active": true,
         "date_updated": 1784038481,
         "date_posted": 1782338845,
         "url": "https://higher.gs.com/roles/176151",
@@ -376325,6 +376172,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "REI Systems",
+        "id": "9144eb86-7f92-4d1f-8b3a-4bb8389b35d9",
+        "title": "Associate Software Engineer - Salesforce",
+        "active": true,
+        "date_updated": 1787534730,
+        "date_posted": 1787534651,
+        "url": "https://careers-reisystems.icims.com/jobs/3495/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/REI-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
