@@ -57,204 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "c9d349f5-26df-45f7-8679-37a18a008f6e",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767283803,
-        "date_posted": 1767283803,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044553",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "36e69acf-49fa-4281-b925-8e13b96fc3a0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767283804,
-        "date_posted": 1767283804,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044239",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Snap",
-        "id": "bf4b96f6-f64a-4fe4-9759-d784853d0e60",
-        "title": "Fab Operator",
-        "active": false,
-        "date_updated": 1767251075,
-        "date_posted": 1767251075,
-        "url": "https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Chandler---300-N-56th-St/Fab-Operator_H225FO-1",
-        "locations": [
-            "Chandler, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Snap",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aramark",
-        "id": "810e713a-d12d-4265-92a4-4a4b270841e0",
-        "title": "Java City \u2013 Hhs - AM Food Service Worker - Western Carolina University",
-        "active": false,
-        "date_updated": 1767251665,
-        "date_posted": 1767251665,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Cullowhee-Java-City-(HHS)-AM-Food-Service-Worker-Western-Carolina-University-NC-28723/1346909400/?ats=successfactors",
-        "locations": [
-            "Arden, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "0b306af5-a513-414f-8543-b1068cf8fb6b",
-        "title": "Wafer Fab Operator",
-        "active": false,
-        "date_updated": 1767253770,
-        "date_posted": 1767253770,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Wafer-Fab-Operator--Various-Shifts-Available-_R257318",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "92833aa6-7232-411c-b935-ac8d67d39afa",
-        "title": "Assembly/Test 1",
-        "active": false,
-        "date_updated": 1767251602,
-        "date_posted": 1767251602,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/HKS31-US041-Lenexa-KS-15701-W-95th-Street---Lenexa-KS-66219-USA/Assembly-Test-I_01800497",
-        "locations": [
-            "Lenexa, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Four Seasons",
-        "id": "0e3049e8-deea-4462-9eb5-6b9e9abfd22e",
-        "title": "Trading Company - Barista - Seasonal",
-        "active": false,
-        "date_updated": 1767253586,
-        "date_posted": 1767253586,
-        "url": "https://fourseasons.wd3.myworkdayjobs.com/search/job/Hualalai/Trading-Company---Barista---Seasonal_REQ10363527",
-        "locations": [
-            "Kailua-Kona, HI"
-        ],
-        "company_url": "https://simplify.jobs/c/Four-Seasons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GlobalFoundries",
-        "id": "b645edc9-b29a-457c-81b1-5602355b8625",
-        "title": "Manufacturing Operator",
-        "active": false,
-        "date_updated": 1767253629,
-        "date_posted": 1767253629,
-        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/Essex-Junction/Manufacturing-Operators---Up-To--5-000-Sign-On-Bonus-_JR-2504471",
-        "locations": [
-            "Burlington, VT"
-        ],
-        "company_url": "https://simplify.jobs/c/GlobalFoundries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "National Renewable Energy Laboratory",
-        "id": "1c571d67-36aa-463d-a3d8-873627fe2b24",
-        "title": "Director's Fellowship Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1767253313,
-        "date_posted": 1767253313,
-        "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Director-s-Fellowship-Postdoctoral-Researcher_R14061",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Rogers Behavioral Health",
-        "id": "fcb8d198-b099-4d0a-a2e1-b7a23ddb4e4f",
-        "title": "Therapist - PHP/IOP",
-        "active": false,
-        "date_updated": 1767252830,
-        "date_posted": 1767252830,
-        "url": "https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Silver-Lake-North-Clinic-Oconomowoc-WI/Therapist---PHP-IOP_R5836",
-        "locations": [
-            "Oconomowoc, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/b92a810e-00da-4d83-9a36-b7d609699d59",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Likewize",
-        "id": "94371b99-f517-4156-a159-4c22eb9b675f",
-        "title": "Mobile Repair Technician",
-        "active": false,
-        "date_updated": 1767252663,
-        "date_posted": 1767252663,
-        "url": "https://likewize.wd1.myworkdayjobs.com/en-US/External/job/London-England-United-Kingdom/Mobile-Repair-Technician_R-1185",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/519b47ce-ff84-4832-85b9-25e0fb0988bb",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "350d03f6-1f3a-4907-9b19-15310b3dedca",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -2562,27 +2364,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Legrand NA",
-        "id": "eed76835-78b9-4d88-9622-de1188f8ad43",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1767655038,
-        "date_posted": 1767252248,
-        "url": "https://jobs-legrand.icims.com/jobs/9659/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Markham, ON, Canada",
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Legrand-NA",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -19033,24 +18814,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Markon",
-        "id": "68d0c962-243e-4fc6-97c0-48d5154b887f",
-        "title": "Database Engineer 1",
-        "active": false,
-        "date_updated": 1768616794,
-        "date_posted": 1767252777,
-        "url": "https://careers-markon.icims.com/jobs/8011/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Odenton, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Markon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -46872,46 +46635,6 @@
             "Scottsdale, AZ"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CleanSpark",
-        "id": "b104dfe7-17e5-423b-9c0d-93a8426696c6",
-        "title": "Hardware Assembly Technician",
-        "active": false,
-        "date_updated": 1770283142,
-        "date_posted": 1767251573,
-        "url": "https://jobs.lever.co/cleanspark/adb7cbc6-e8d4-4dc7-b583-a08ba8b335a7/apply",
-        "locations": [
-            "Midway, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/CleanSpark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CleanSpark",
-        "id": "7af24103-8897-4be0-9d1a-6a13546c0375",
-        "title": "Hardware Assembly Technician",
-        "active": false,
-        "date_updated": 1770282995,
-        "date_posted": 1767251576,
-        "url": "https://jobs.lever.co/cleanspark/1dafd85b-4c0b-493e-a18d-43dda7d346bb/apply",
-        "locations": [
-            "Macon, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/CleanSpark",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -203653,7 +203376,7 @@
         "company_name": "RTX",
         "id": "5cf15281-fec7-4bc8-83b4-3db03d031421",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779229441,
         "date_posted": 1779228560,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Software-Engineer-1--ONSITE-_01846079",
@@ -256718,7 +256441,7 @@
         "company_name": "Corning",
         "id": "b04e012a-fae8-459e-99d0-b1378ab36891",
         "title": "Software Engineer - CMMS Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1782367561,
         "date_posted": 1782367506,
         "url": "https://corningjobs.corning.com/job/Corning-Software-Engineer-(CMMS-Systems)-NY-14831/1403127800/?ats=successfactors",
@@ -272714,7 +272437,7 @@
         "company_name": "Citadel",
         "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
         "title": "Quantitative Research Analyst University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318522,
         "date_posted": 1783318148,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
@@ -274566,7 +274289,7 @@
         "company_name": "Quantcast",
         "id": "9bb1e297-4e54-423d-95b6-87905ec6f140",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783415702,
         "date_posted": 1783415417,
         "url": "https://jobs.ashbyhq.com/quantcast/2a6d8f0e-e0f3-4114-944b-2736b26072c4/application",
@@ -279909,7 +279632,7 @@
         "company_name": "Keysight Technologies",
         "id": "95bc4c80-b05c-4a02-a834-0fd608db40be",
         "title": "Service Technician Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1783590510,
         "date_posted": 1782511581,
         "url": "https://jobs.keysight.com/jobs/52777?icims=1",
@@ -288019,7 +287742,7 @@
         "company_name": "Veeva Systems",
         "id": "0b7e7043-7827-4ce9-ad37-87f67ec5375b",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784103895,
         "date_posted": 1774391504,
         "url": "https://jobs.lever.co/veeva/2f1ed4cd-5999-47a0-8c06-38898fed4711/apply",
@@ -288238,7 +287961,7 @@
         "company_name": "Sysmex",
         "id": "d8b4a6a3-fb4b-48bb-b359-4fb40392d289",
         "title": "Field Service Technician - Field Service",
-        "active": false,
+        "active": true,
         "date_updated": 1784111139,
         "date_posted": 1783519386,
         "url": "https://careers-sysmex.icims.com/jobs/4724/job?mobile=true&needsRedirect=false",
@@ -289101,7 +288824,7 @@
         "company_name": "Citadel",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Graduate Quantitative Research Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784153579,
         "date_posted": 1784153376,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -293657,7 +293380,7 @@
         "company_name": "Citadel",
         "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1784337481,
         "date_posted": 1784336953,
         "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -293803,7 +293526,7 @@
         "company_name": "Veeva Systems",
         "id": "22fee02b-5498-486c-ab37-238c4f4c7ec1",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": true,
+        "active": false,
         "date_updated": 1784363971,
         "date_posted": 1774391444,
         "url": "https://jobs.lever.co/veeva/7accd619-65f9-45c2-9ee3-e258081e1ee9/apply",
@@ -326138,7 +325861,7 @@
         "company_name": "Louisiana State University (LSU)",
         "id": "de513e60-9aa2-49b0-a4ff-1706a0c29703",
         "title": "Research Project",
-        "active": true,
+        "active": false,
         "date_updated": 1785587839,
         "date_posted": 1783157855,
         "url": "https://lsu.wd1.myworkdayjobs.com/lsuwaiver/job/0220A-JW-Nicholson-Hall/Transient---Research-Project_R00114793",
@@ -332245,7 +331968,7 @@
         "company_name": "Maven Securities",
         "id": "830d601a-f246-424f-8b08-23956510de08",
         "title": "Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785749956,
         "date_posted": 1785749241,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
@@ -333551,7 +333274,7 @@
         "company_name": "Canvas, Inc.",
         "id": "3f726f51-308d-4ecc-ba19-0d2487e68854",
         "title": "AMSC Test Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785797102,
         "date_posted": 1784246400,
         "url": "https://canvasinc.wd108.myworkdayjobs.com/Canvas/job/Arnold-AFB-TN/AMSC-TA_JR100563",
@@ -337677,7 +337400,7 @@
         "company_name": "GE Healthcare",
         "id": "5f124482-70eb-4f67-9cd3-139369ce9d22",
         "title": "Field Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785925058,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer-1---Dallas-TX_R4043560",
@@ -347526,7 +347249,7 @@
         "company_name": "NORY",
         "id": "0f9c77ed-f654-499d-9764-6f6986f8ab2c",
         "title": "Maker Education Fabricator",
-        "active": true,
+        "active": false,
         "date_updated": 1786412258,
         "date_posted": 1786412017,
         "url": "https://jobs.ashbyhq.com/nory-co/ca681a52-974c-4a41-bc0f-f9035d304276/application?embed=true",
@@ -356890,7 +356613,7 @@
         "company_name": "EagleView",
         "id": "754d18f3-d73c-451f-8214-a9c84a06d7c9",
         "title": "Flight Systems Technician - Capture Systems R&D",
-        "active": true,
+        "active": false,
         "date_updated": 1786680181,
         "date_posted": 1786680119,
         "url": "https://careers.eagleview.com/jobs/2872?icims=1",
@@ -363041,7 +362764,7 @@
         "company_name": "Leviton",
         "id": "be06f131-99fe-4408-a086-e9b782d98bcd",
         "title": "Associate Embedded Firmware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787005802,
         "date_posted": 1787005707,
         "url": "https://careers.leviton.com/jobs/5991?icims=1",
@@ -373502,7 +373225,7 @@
         "company_name": "Maven Securities",
         "id": "24751870-3351-4625-9977-345222746d6e",
         "title": "Graduate Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1787388719,
         "date_posted": 1785767388,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
@@ -377091,7 +376814,7 @@
         "company_name": "Northrop Grumman",
         "id": "6642fd98-f102-48bc-b226-3acb5b8c3988",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787675637,
         "date_posted": 1787616000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1",
@@ -381200,7 +380923,7 @@
         "company_name": "Pfizer",
         "id": "7ede0b90-1464-498d-bc52-0984a7dae9d2",
         "title": "Recipe Author",
-        "active": true,
+        "active": false,
         "date_updated": 1787833640,
         "date_posted": 1786140179,
         "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---Michigan---Kalamazoo/Recipe-Author_4955260",
@@ -382431,7 +382154,7 @@
         "company_name": "RTX",
         "id": "7b378fc1-72f3-4164-86d6-afb4137a7a0b",
         "title": "Research Engineer 2",
-        "active": false,
+        "active": true,
         "date_updated": 1787869443,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Research-Engineer-II--Onsite-_01867098",
@@ -382489,7 +382212,7 @@
         "company_name": "Nationwide Children's Hospital",
         "id": "25d81efc-e2d4-4591-a774-7e836bb25f2a",
         "title": "Business Intelligence Analyst 1 - Information Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1787869272,
         "date_posted": 1787788800,
         "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1",
@@ -382567,7 +382290,7 @@
         "company_name": "HCSC",
         "id": "31e48f4e-9237-4007-97ac-93f10f9546c5",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787868543,
         "date_posted": 1787788800,
         "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Rosemont/XMLNAME--Product-Analyst---LHB_R0047993-2",
@@ -383370,7 +383093,7 @@
         "company_name": "RTX",
         "id": "2189cc14-cc40-48f0-bc91-3b649e11fec9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787908022,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01869922",
@@ -383411,7 +383134,7 @@
         "company_name": "Pfizer",
         "id": "37c156da-bef2-4df9-b433-fb6d79ebaa82",
         "title": "Recipe Author",
-        "active": true,
+        "active": false,
         "date_updated": 1787909961,
         "date_posted": 1786140181,
         "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Michigan---Kalamazoo/Recipe-Author_4955260-2",
@@ -383512,7 +383235,7 @@
         "company_name": "The Campbell's Company",
         "id": "c18095d5-95d3-4f40-934d-c91e994cc9d7",
         "title": "Sanitation Technician Lead - 3rd Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1787923833,
         "date_posted": 1783375659,
         "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---TX---Austin/Industrial-Food-Manufacturing-Sanitation-Tech-Lead---Overnight_Req-66399",
@@ -385220,6 +384943,62 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Notability",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NORY",
+        "id": "e3ba70f5-8979-458a-a70b-0940bbcc18a3",
+        "title": "Maker Education Fabricator",
+        "active": true,
+        "date_updated": 1787993760,
+        "date_posted": 1787993549,
+        "url": "https://jobs.ashbyhq.com/nory-co/49487624-fdb1-444c-8a3e-33a9384a6847/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NORY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NCR Voyix",
+        "id": "09c0d678-51ef-4e83-a6cd-30b5148869f4",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1787993101,
+        "date_posted": 1785456000,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/ATLANTA-GA-USA/Senior-Principal-IT-Architect_R0158013",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "da6b64fa-9942-4abf-8892-3f946b9c9a42",
+        "title": "PHP Driver",
+        "active": true,
+        "date_updated": 1788003950,
+        "date_posted": 1785575178,
+        "url": "https://jobs.uhsinc.com/jobs/344332?icims=1",
+        "locations": [
+            "Las Cruces, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
