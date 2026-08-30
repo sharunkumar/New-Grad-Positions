@@ -57,333 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "339ce2a6-f08a-469c-b4ac-f6e618e18632",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767338028,
-        "date_posted": 1767338028,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044575",
-        "locations": [
-            "Beaconsfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "8cab5442-00b4-449d-9b23-d7f7e0d578dc",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337745,
-        "date_posted": 1767337745,
-        "url": "https://amazon.jobs/en/jobs/3150956/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "094fb25a-c049-45ee-9ce1-725951325f83",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337746,
-        "date_posted": 1767337746,
-        "url": "https://amazon.jobs/en/jobs/3150951/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "b76cbc12-f855-44b8-a3b4-a5c21d6e0ba2",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337725,
-        "date_posted": 1767337725,
-        "url": "https://amazon.jobs/en/jobs/3150948/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "9eef61ee-e0a2-41b2-bfc7-73d3db284c2a",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337735,
-        "date_posted": 1767337735,
-        "url": "https://amazon.jobs/en/jobs/3150950/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "9c884eb0-0bf8-427d-acee-257ad397bcdc",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337731,
-        "date_posted": 1767337731,
-        "url": "https://amazon.jobs/en/jobs/3150954/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "8da4b5ee-4a4d-4199-83ea-9950cd0158e2",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337723,
-        "date_posted": 1767337723,
-        "url": "https://amazon.jobs/en/jobs/3150963/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Washington",
-            "Bellevue, WA",
-            "Massachusetts",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "601de8a1-8e29-4a8c-b433-2c8d2cf5ca0a",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337741,
-        "date_posted": 1767337741,
-        "url": "https://amazon.jobs/en/jobs/3150957/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "3c172d75-b387-4eb4-bd6e-e84848f2caa0",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337731,
-        "date_posted": 1767337731,
-        "url": "https://amazon.jobs/en/jobs/3150952/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Washington",
-            "Bellevue, WA",
-            "Massachusetts",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "26cb7c37-1c58-4721-b967-2e948afac6ca",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337728,
-        "date_posted": 1767337728,
-        "url": "https://amazon.jobs/en/jobs/3150953/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Washington",
-            "Bellevue, WA",
-            "Massachusetts",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cox",
-        "id": "8ead22f9-5809-4983-aca9-43c0840223b0",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1767346695,
-        "date_posted": 1767346695,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I_R202570349",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "56a7badd-aa05-4d6e-a369-9eeedeeb532c",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337733,
-        "date_posted": 1767337733,
-        "url": "https://amazon.jobs/en/jobs/3150946/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "4f2c327e-3d13-4164-bffc-fb7bfc682a24",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337733,
-        "date_posted": 1767337733,
-        "url": "https://amazon.jobs/en/jobs/3150966/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "241aa5fc-0b8e-42b5-8382-61aa8e644c6f",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1767337725,
-        "date_posted": 1767337725,
-        "url": "https://amazon.jobs/en/jobs/3150955/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1f86d15a-755e-41dc-b10a-b6d25e4583d7",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767351033,
-        "date_posted": 1767351033,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044584",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "95633741-fb55-4f33-ac43-600d1e08521f",
-        "title": "Engineering Assistant - Space Hardware Design and Analysis",
-        "active": false,
-        "date_updated": 1767350117,
-        "date_posted": 1767350117,
-        "url": "https://jacobs.taleo.net/careersection/ex3/jobdetail.ftl?job=ADV000CED",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "JP Morgan Chase",
-        "id": "0a071ec6-82c1-4403-aa61-00e9403a2b5e",
-        "title": "Discretionary and Advisory Product Development - Analyst",
-        "active": false,
-        "date_updated": 1767351683,
-        "date_posted": 1767351683,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210696342",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "7a603273-9b90-4097-924a-cd9faccbe8a9",
         "title": "Trading Assistant",
         "active": false,
@@ -15178,27 +14851,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "42bf4383-ef27-4d29-828a-b9da1c4aa338",
-        "title": "Agentic AI Teacher - Agi Ds - Agi Ds",
-        "active": false,
-        "date_updated": 1768469033,
-        "date_posted": 1767337736,
-        "url": "https://amazon.jobs/en/jobs/3150961/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Bellevue, WA",
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Ethena",
         "id": "d6d5dad6-e849-43c5-92ba-5c4bed54fc7b",
         "title": "Commercial Operations & Analytics Associate",
@@ -25672,27 +25324,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Amazon",
-        "id": "3fa113d3-9f33-407f-8ff3-9b93c0ed53e8",
-        "title": "Agentic AI Teacher",
-        "active": false,
-        "date_updated": 1769161280,
-        "date_posted": 1767339851,
-        "url": "https://amazon.jobs/en/jobs/3150959/agentic-ai-teacher-agi-ds-agi-ds",
-        "locations": [
-            "Boston, MA",
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -166846,7 +166477,7 @@
         "company_name": "The Boeing Company",
         "id": "dc6c89e6-9e43-433f-a036-0d10d32ee7da",
         "title": "MP&P Engineer - Nondestructive Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1776529082,
         "date_posted": 1776527033,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Mesa-AZ/MP-P-Engineer---NDE_JR2026497106-1",
@@ -255806,7 +255437,7 @@
         "company_name": "SS&C",
         "id": "6a6c1581-688a-4490-a6f9-1d598fb5a107",
         "title": "Salesforce Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1782167041,
         "date_posted": 1782165792,
         "url": "https://ssctech.wd1.myworkdayjobs.com/ssctechnologies/job/Jacksonville-FL/Salesforce-Systems-Engineer_R42882",
@@ -360771,7 +360402,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -365210,7 +364841,7 @@
         "company_name": "Samsung",
         "id": "b3e3291d-011b-45fc-af44-94163d5db87d",
         "title": "Product Management Specialist - Smartphones - A&S",
-        "active": true,
+        "active": false,
         "date_updated": 1787091662,
         "date_posted": 1787011200,
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Product-Management-Specialist--Smartphones--A-S-_R119563",
@@ -370822,7 +370453,7 @@
         "company_name": "Northrop Grumman",
         "id": "1ea9cb14-dc89-4e72-ab24-6a1177e5d302",
         "title": "Associate Computer Systems Analyst - Linux - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787275081,
         "date_posted": 1787184000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Computer-Systems-Analyst---Linux---Pathways-Program---Melbourne-FL_R10246706",
@@ -373974,7 +373605,7 @@
         "company_name": "L3Harris Technologies",
         "id": "afb117e6-9b2c-4db7-b8a3-c7f374c6f4ef",
         "title": "Associate Configuration Management",
-        "active": true,
+        "active": false,
         "date_updated": 1787581834,
         "date_posted": 1787581491,
         "url": "https://jobs.l3harris.com/job/Waco-Associate,-Configuration-Management-TX-76705/1422376300/?ats=successfactors",
@@ -374075,7 +373706,7 @@
         "company_name": "L3Harris Technologies",
         "id": "84c9f989-d1bf-43c7-ace1-da5f288ace4f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787603067,
         "date_posted": 1787602495,
         "url": "https://jobs.l3harris.com/job/Waco-Associate,-Software-Engineering-TX-76705/1422532000/?ats=successfactors",
@@ -375945,7 +375576,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d5cb9991-9336-4138-b9c5-18d14b6c8f1b",
         "title": "Associate Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1787627771,
         "date_posted": 1787627672,
         "url": "https://jobs.l3harris.com/job/Greenville-Associate,-Software-Engineering-TX-75402/1422806500/?ats=successfactors",
@@ -375965,7 +375596,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7a0ebab5-1cf3-49b7-b609-5c5258ac7694",
         "title": "Optical Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787627771,
         "date_posted": 1787627669,
         "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Optical-Engineer-MA-01887/1422797100/?ats=successfactors",
