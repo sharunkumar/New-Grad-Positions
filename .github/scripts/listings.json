@@ -57,24 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "350d03f6-1f3a-4907-9b19-15310b3dedca",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1767319900,
-        "date_posted": 1767319900,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044572",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "339ce2a6-f08a-469c-b4ac-f6e618e18632",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -272437,7 +272419,7 @@
         "company_name": "Citadel",
         "id": "d724f264-a5fb-4740-bde3-38ab45368cba",
         "title": "Quantitative Research Analyst University Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1783318522,
         "date_posted": 1783318148,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
@@ -288824,7 +288806,7 @@
         "company_name": "Citadel",
         "id": "d49ce116-07fc-4b1f-a3b2-32d8e0b6cedc",
         "title": "Graduate Quantitative Research Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1784153579,
         "date_posted": 1784153376,
         "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
@@ -291917,7 +291899,7 @@
         "company_name": "Observable Space",
         "id": "8df29441-bb9a-4211-8436-2fe6e5b567e5",
         "title": "Optical Technician Lead",
-        "active": true,
+        "active": false,
         "date_updated": 1784280061,
         "date_posted": 1783548614,
         "url": "https://jobs.ashbyhq.com/observable-space/e948a71f-bdd0-495d-8152-c3058760c558/application?embed=true",
@@ -293380,7 +293362,7 @@
         "company_name": "Citadel",
         "id": "1d1d2782-d1f8-47e7-980c-9f71c9a591cf",
         "title": "Machine Learning Researcher \u2013 PhD Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1784337481,
         "date_posted": 1784336953,
         "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-graduate-us/",
@@ -319463,7 +319445,7 @@
         "company_name": "Observable Space",
         "id": "ae72d45f-8a3a-45db-9cf2-c1cdb945e21e",
         "title": "Junior Electrical Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1785319922,
         "date_posted": 1775254165,
         "url": "https://jobs.ashbyhq.com/observable-space/18d4da43-e393-466f-9f81-47c97b51d0ac/application?embed=true",
@@ -360485,7 +360467,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -385040,5 +385022,103 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "d8fcefa4-be4d-476c-89c8-dae303547940",
+        "title": "Digital Hardware Design Engineer 1",
+        "active": true,
+        "date_updated": 1788037064,
+        "date_posted": 1787875200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Electrical--RCP-HW-Engineer-1--Onsite-_01869283",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ludlum Measurements",
+        "id": "fc7e143f-9ec2-4e57-bb1a-f38f57e11c3f",
+        "title": "Calibrator 1",
+        "active": true,
+        "date_updated": 1788036361,
+        "date_posted": 1787956882,
+        "url": "https://vpitechnology.applytojob.com/apply/V7suURwBcp/Calibrator",
+        "locations": [
+            "Sweetwater, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ludlum-Measurements",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Koch Industries",
+        "id": "ef8fdcc4-2bd8-4351-bb2f-c035a74352ee",
+        "title": "Alignment Technician",
+        "active": true,
+        "date_updated": 1788042421,
+        "date_posted": 1788042412,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193172",
+        "locations": [
+            "Salisbury, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "ea8e010f-cdbe-48c6-bc3f-5a509561f098",
+        "title": "Data Product Analyst - ET&S data delivery",
+        "active": true,
+        "date_updated": 1788042421,
+        "date_posted": 1788042406,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193284",
+        "locations": [
+            "Wichita, KS",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Koch Industries",
+        "id": "ce65b40a-38c7-43ea-8dac-7f8d96755290",
+        "title": "Business Data Analyst",
+        "active": true,
+        "date_updated": 1788042421,
+        "date_posted": 1788042400,
+        "url": "https://koch.avature.net/en_US/careers/JobDetail/193502",
+        "locations": [
+            "Wichita, KS",
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Koch-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
