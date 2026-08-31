@@ -57,24 +57,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "f4c32cec-a47a-4462-8333-1754b46ac421",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1767435528,
-        "date_posted": 1767435528,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044684",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "dedad7e8-0625-4987-88b5-0548b8ed81b9",
         "title": "Trading Assistant",
         "active": false,
@@ -23559,7 +23541,7 @@
         "company_name": "ABB",
         "id": "c557e53b-8b8f-400f-a125-4f22c94111cb",
         "title": "Technical Product Manager - Grid Components Medium Voltage - f/m/d",
-        "active": false,
+        "active": true,
         "date_updated": 1769126094,
         "date_posted": 1769126094,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Ratingen-North-Rhine-Westphalia-Germany/Technical-Product-Manager---Grid-Components-Medium-Voltage--f-m-d-_90494310",
@@ -26540,27 +26522,6 @@
             "Reston, VA"
         ],
         "company_url": "https://simplify.jobs/c/Vantor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Capital One",
-        "id": "9823efa1-8e21-485a-b77d-d15c5b4e495d",
-        "title": "Senior Associate",
-        "active": false,
-        "date_updated": 1769253205,
-        "date_posted": 1767424712,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Riverwoods-IL/Senior-Associate---Product-Management--GPN-Core-Data-Platform-Services_R229452-2",
-        "locations": [
-            "Wheeling, IL",
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -43338,28 +43299,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "ab2c85f9-677f-429e-952a-7db7212086b9",
-        "title": "Applied Researcher 1",
-        "active": false,
-        "date_updated": 1770204136,
-        "date_posted": 1767424720,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Applied-Researcher-I_R225432-1",
-        "locations": [
-            "Cambridge, MA",
-            "SF",
-            "San Jose, CA",
-            "McLean, VA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -152207,7 +152146,7 @@
         "company_name": "RTX",
         "id": "25ac2b37-a149-4b03-b823-b3655e741ece",
         "title": "Raytheon Full Time",
-        "active": true,
+        "active": false,
         "date_updated": 1775802886,
         "date_posted": 1775801197,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors-Engineer-I---Tucson--AZ--Onsite-_01835713-1",
@@ -214003,7 +213942,7 @@
         "company_name": "Cirrus Logic",
         "id": "0ac2b277-353d-4c9d-a5d0-d0080ed5b18f",
         "title": "Graduate Mixed Signal IC Layout Designer",
-        "active": true,
+        "active": false,
         "date_updated": 1779828668,
         "date_posted": 1779718011,
         "url": "https://jobs.eu.lever.co/cirrus/d6b84759-90ba-4bf4-89e3-b04f9e0640a9/apply",
@@ -274681,7 +274620,7 @@
         "company_name": "RTX",
         "id": "391361c6-d5b4-4147-802c-5838a17e2699",
         "title": "Software Engineer 2 - Software Effectors",
-        "active": true,
+        "active": false,
         "date_updated": 1783464143,
         "date_posted": 1783462024,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/XMLNAME-2026-Raytheon-Full-Time---Software-Effectors--Engineer-II---Tucson--AZ--Onsite-_01835714-1",
@@ -283037,7 +282976,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "1b21bdff-92f5-48ff-9546-d0a0dbd75a5c",
         "title": "Labs \u2013 Postdoctoral Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1783980782,
         "date_posted": 1783900800,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Milpitas-California-United-States-of-America/HPE-Labs---Postdoctoral-Research-Scientist_1208145-2",
@@ -298262,7 +298201,7 @@
         "company_name": "The Boeing Company",
         "id": "940af5e9-b061-4e04-bb67-81fe75ec728a",
         "title": "F-15 Mission Systems Software Engineer Senior - Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1784629481,
         "date_posted": 1782555160,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/F-15-Mission-Systems-Software-Engineer--Associate--Experienced----Senior-_JR2026507780",
@@ -307385,7 +307324,7 @@
         "company_name": "RTX",
         "id": "c59f71b0-614c-493e-909b-978a9b21eb58",
         "title": "Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1784810396,
         "date_posted": 1784592000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/XMLNAME-2027-Conversion---Software-Engineer-II---St-Petersburg--FL--Onsite-_01860305",
@@ -319412,7 +319351,7 @@
         "company_name": "The Boeing Company",
         "id": "bd7f525a-663f-495e-b1ab-c7120399fe97",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-1",
@@ -319453,7 +319392,7 @@
         "company_name": "The Boeing Company",
         "id": "ed847441-9d11-4dc7-aa8a-8a2e49fdbc90",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215",
@@ -321325,7 +321264,7 @@
         "company_name": "AtkinsR\u00e9alis",
         "id": "ec02e8b6-7bd1-43be-bb36-2db3118194e5",
         "title": "Controls System ACCIS Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785449162,
         "date_posted": 1785369600,
         "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/CAONMississauga2251-Speakman-Drive/Controls-System-ACCIS-Engineer_R-160676-2",
@@ -325296,7 +325235,7 @@
         "company_name": "PDF Solutions",
         "id": "bd8f34d5-610e-45ec-82e7-ba644e0ee6d3",
         "title": "Senior Field Applications Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785598741,
         "date_posted": 1782770757,
         "url": "https://careers.pdf.com/jobs/1601?icims=1",
@@ -325595,7 +325534,7 @@
         "company_name": "Rio Tinto",
         "id": "0193344e-bc13-476b-b7a8-11ed32f411c7",
         "title": "Mine Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785610171,
         "date_posted": 1783987200,
         "url": "https://riotinto.wd3.myworkdayjobs.com/riotinto_careers/job/Boron/Engineer---Mining_R61350",
@@ -327017,7 +326956,7 @@
         "company_name": "Garmin",
         "id": "3820859c-1347-4e9f-a761-9a41fca84a52",
         "title": "Sensor Algorithms Software Engineer 1 - Core Platform Technology - Sensor Algorithms Team",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785579904,
         "url": "https://careers.garmin.com/jobs/18193?icims=1",
@@ -330904,7 +330843,7 @@
         "company_name": "Maven Securities",
         "id": "830d601a-f246-424f-8b08-23956510de08",
         "title": "Developer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1785749956,
         "date_posted": 1785749241,
         "url": "https://job-boards.greenhouse.io/emergingtalent/jobs/8048802",
@@ -345411,7 +345350,7 @@
         "company_name": "RTX",
         "id": "1b88a527-7b87-4916-8908-bb437e290400",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786400349,
         "date_posted": 1786320000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01863755",
@@ -348038,7 +347977,7 @@
         "company_name": "StoneX Group",
         "id": "e197514e-1972-499c-9154-d408a621d67c",
         "title": "Operations Analyst 1 - Trading Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1786486684,
         "date_posted": 1786486350,
         "url": "https://careers-stonex.icims.com/jobs/16371/job?mobile=true&needsRedirect=false",
@@ -350490,7 +350429,7 @@
         "company_name": "General Motors",
         "id": "b9f974bd-1020-49a6-bb58-787fba5d9e9e",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786566168,
         "date_posted": 1786492800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904",
@@ -354508,7 +354447,7 @@
         "company_name": "RTX",
         "id": "00a986b7-fbb6-4c37-9e5c-e326452abc8b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786660478,
         "date_posted": 1786579200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineer-I--Onsite-_01866533",
@@ -362123,7 +362062,7 @@
         "company_name": "City of Mission",
         "id": "8158e219-cde8-43aa-bd43-7e3aaa9a48c4",
         "title": "Engineering Technologist 1, 2, or 3 - Asset Management",
-        "active": true,
+        "active": false,
         "date_updated": 1787015868,
         "date_posted": 1787015522,
         "url": "https://jobs.smartrecruiters.com/CityOfMission/744000142746028",
@@ -370297,7 +370236,7 @@
         "company_name": "RTX",
         "id": "b8412c9d-6f2c-42f7-81aa-97578be79e56",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787299606,
         "date_posted": 1787184000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01868189-1",
@@ -372161,7 +372100,7 @@
         "company_name": "Maven Securities",
         "id": "24751870-3351-4625-9977-345222746d6e",
         "title": "Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1787388719,
         "date_posted": 1785767388,
         "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8048802",
@@ -375065,7 +375004,7 @@
         "company_name": "Dell Technologies",
         "id": "af9ad2a9-dee9-44f4-abc5-b30f9c1df4e4",
         "title": "Hardware Engineer 1 - Client Solutions Group",
-        "active": false,
+        "active": true,
         "date_updated": 1787635457,
         "date_posted": 1787635353,
         "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
@@ -375417,7 +375356,7 @@
         "company_name": "L3Harris Technologies",
         "id": "77ce4406-421d-4a67-89e6-431d60b1c981",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787654209,
         "date_posted": 1787648488,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-FL-32934/1422829800/?ats=successfactors",
@@ -375516,7 +375455,7 @@
         "company_name": "L3Harris Technologies",
         "id": "05682247-6baa-44b1-bcaf-d5d5becfd2e5",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787655441,
         "date_posted": 1787648487,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Software-Engineer-1-FL-32934/1422829700/?ats=successfactors",
@@ -375536,7 +375475,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0db410bd-2e98-4085-8c98-e2d9c6e4dfee",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787655441,
         "date_posted": 1787648486,
         "url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineei-CO-80916/1422829300/?ats=successfactors",
@@ -375556,7 +375495,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3c7e6389-ba90-4b7f-90b4-f90421053e95",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787655441,
         "date_posted": 1787648487,
         "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Software-Engineering-IN-46818/1422832500/?ats=successfactors",
@@ -375961,7 +375900,7 @@
         "company_name": "RTX",
         "id": "23bbe35c-c579-474a-9e66-85d18545f2cb",
         "title": "Firmware Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1787682161,
         "date_posted": 1787616000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-LARGO-382SS--7887-Bryan-Dairy-Rd--BLDG-100/Firmware-Engineer-2--Onsite-_01866672",
@@ -376886,7 +376825,7 @@
         "company_name": "L3Harris Technologies",
         "id": "7219b946-303f-467f-a812-6f215e1e9c0e",
         "title": "Software Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1787704030,
         "date_posted": 1787703761,
         "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineer-FL-32905/1422892000/?ats=successfactors",
@@ -380972,7 +380911,7 @@
         "company_name": "Citi",
         "id": "62d7db4e-a76f-4291-ab92-f35684a51f2a",
         "title": "Junior Generative AI Application Developer - Technology - Applications Development",
-        "active": true,
+        "active": false,
         "date_updated": 1787869445,
         "date_posted": 1787869179,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Junior-Generative-AI-Application-Developer_26962487",
@@ -380992,7 +380931,7 @@
         "company_name": "Citi",
         "id": "21dc7236-2495-4c4d-93a4-22cc6acac928",
         "title": "Junior Generative AI Application Developer - Applications Development",
-        "active": true,
+        "active": false,
         "date_updated": 1787869445,
         "date_posted": 1787869184,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/Junior-Generative-AI-Application-Developer_26962250",
@@ -381927,7 +381866,7 @@
         "company_name": "Tencent",
         "id": "7caa3303-1fbb-4fec-8a77-d55ab7e37d6f",
         "title": "Product Operations Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1787897701,
         "date_posted": 1787875200,
         "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/Product-Operations-Assistant_R108040",
@@ -382189,7 +382128,7 @@
         "company_name": "Torch Technologies",
         "id": "9bd1f0ee-ed84-41a2-b228-773d27d10ff2",
         "title": "Junior Software Engineer - Entry Level",
-        "active": true,
+        "active": false,
         "date_updated": 1787925484,
         "date_posted": 1787875200,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer_R1608",
@@ -382209,7 +382148,7 @@
         "company_name": "Torch Technologies",
         "id": "8a12df4d-a37f-4ad1-a459-206009424b66",
         "title": "Software Engineer - WPF/MVVM",
-        "active": true,
+        "active": false,
         "date_updated": 1787925483,
         "date_posted": 1787875200,
         "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Junior-Level-Software-Engineer-WPF-MVVM_R1609",
@@ -382834,7 +382773,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "1ed6557d-3edd-4458-86fb-43ba77193dcf",
         "title": "Product Operations Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1787951445,
         "date_posted": 1787875200,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/Duluth-GA/Product-Operations-Coordinator_R117678",
@@ -383179,7 +383118,7 @@
         "company_name": "TC Energy",
         "id": "5fddc043-6751-4ad7-8e6a-005f2c260e72",
         "title": "Data Analyst - IoTx",
-        "active": true,
+        "active": false,
         "date_updated": 1787955329,
         "date_posted": 1787875200,
         "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Thompsons-Station-Tennessee/IOTx-Data-Analyst_JR-10660",
@@ -383298,7 +383237,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "7411f01e-5960-4f80-a290-d48a3277a839",
         "title": "Data Science Engineer - Computational Engineering Division",
-        "active": true,
+        "active": false,
         "date_updated": 1787954761,
         "date_posted": 1787954743,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990014934566",
@@ -384112,6 +384051,285 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "fdddd164-950c-4f27-9548-8be436131b72",
+        "title": "Analytics Graduate Program - Trading",
+        "active": true,
+        "date_updated": 1788153041,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Houston--TX_RQ115335",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "915a354a-3500-486a-90cc-f16977a0690e",
+        "title": "Supply and Shipping Graduate Program - Origination - Trading",
+        "active": true,
+        "date_updated": 1788153043,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Origination--Houston--TX_RQ115337",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "60764fb9-74c8-440f-9eee-68165bf545c2",
+        "title": "Operations Graduate Program - Trading",
+        "active": true,
+        "date_updated": 1788153040,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Operations--Houston--TX_RQ115336",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "f3712c28-2c57-4cc7-916e-abe3022d5a5c",
+        "title": "Supply and Shipping Graduate Program - Trading",
+        "active": true,
+        "date_updated": 1788153039,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Supply--Trading--and-Shipping-Graduate-Program--Trading--Houston--TX_RQ115338",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "efc19785-068a-452f-8009-f492a20f70a5",
+        "title": "Supply, Trading & Shipping Graduate - Analytics - Trading",
+        "active": true,
+        "date_updated": 1788153037,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Supply--Trading--and-Shipping-Graduate-Program--Analytics--Chicago--IL_RQ115341",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "853818d2-9e99-4a52-9163-285d403fe5be",
+        "title": "Trading Graduate Program - Trading",
+        "active": true,
+        "date_updated": 1788153037,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Supply--Trading--and-Shipping-Graduate-Program--Trading--Chicago--IL_RQ115342",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "74e29beb-3b89-4962-aada-bb8c4b0503e5",
+        "title": "R&D Equipment Engineer New Grad - TSE",
+        "active": true,
+        "date_updated": 1788152807,
+        "date_posted": 1788048000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110198",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "c262d14c-3780-440d-97ae-099aa1bcff74",
+        "title": "Research Data Analyst",
+        "active": true,
+        "date_updated": 1788152762,
+        "date_posted": 1788134400,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Belmont-MA/Research-Data-Analyst_RQ4077629",
+        "locations": [
+            "Belmont, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "20e5b52f-866c-4751-9606-aeea03d79533",
+        "title": "R&D Equipment Engineer New Grad - TSE",
+        "active": true,
+        "date_updated": 1788152806,
+        "date_posted": 1788048000,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/TSE-R-D-Equipment-Engineer_JR110192",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "be11ef68-865d-4aa1-b412-e1e40dd14bee",
+        "title": "HPC Technical Consultant",
+        "active": true,
+        "date_updated": 1788152435,
+        "date_posted": 1788048000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Tennessee-United-States-of-America/HPC-Technical-Consultant--Onsite--TN_1210802-3",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "47a2b4eb-b1fd-4733-98d3-e3f4395f83e2",
+        "title": "HPC Technical Consultant",
+        "active": true,
+        "date_updated": 1788152435,
+        "date_posted": 1788048000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/All-Tennessee-United-States-of-America/HPC-Technical-Consultant--Onsite--TN_1210423-1",
+        "locations": [
+            "Memphis, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "BP",
+        "id": "4d0b83b5-2342-475a-b595-c3ace189ec81",
+        "title": "Trading Graduate Program - Trading",
+        "active": true,
+        "date_updated": 1788156625,
+        "date_posted": 1788134400,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Supply--Trading--and-Shipping-Graduate-Program--Trading---Analytics--Calgary_RQ115339",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "36eea152-2453-44dc-839b-1679431b6c6d",
+        "title": "Finance Insights & Data Analyst Rotational Program",
+        "active": true,
+        "date_updated": 1788166152,
+        "date_posted": 1788134400,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Pleasanton/Rotational-Program---Finance-Insights---Data-Analyst_202608-120691",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "086646b2-8b1d-43f6-975f-cd474ac11a35",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788165284,
+        "date_posted": 1788134400,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I--Onsite-_01865026",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
