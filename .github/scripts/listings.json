@@ -87687,7 +87687,7 @@
         "company_name": "University of Chicago",
         "id": "9d91d8c8-1704-430a-85a8-50d631d5887c",
         "title": "Data Science Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1772494566,
         "date_posted": 1772494566,
         "url": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Data-Science-Analyst--TCOM_JR32831",
@@ -223342,7 +223342,7 @@
         "company_name": "Motorola",
         "id": "f586670c-43fc-4aa0-876f-128f612b446a",
         "title": "Junior Backend Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1780438250,
         "date_posted": 1780437891,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/Junior-Back-End-Engineer_R65538",
@@ -286357,7 +286357,7 @@
         "company_name": "Veeva Systems",
         "id": "ed36fcbe-2b5b-415f-b688-320bafcde449",
         "title": "Associate Technical Consultant - Entry-Level Consulting - Life Sciences",
-        "active": false,
+        "active": true,
         "date_updated": 1784110848,
         "date_posted": 1774391445,
         "url": "https://jobs.lever.co/veeva/0893f708-83d9-4a62-8011-5223ec3d373b/apply",
@@ -307525,7 +307525,7 @@
         "company_name": "RTX",
         "id": "05265820-1130-4644-9da5-87524303c14b",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784819994,
         "date_posted": 1784764800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I--Onsite-_01861525",
@@ -316833,7 +316833,7 @@
         "company_name": "RTX",
         "id": "2642491d-58eb-447a-ae7d-a7f33759c98d",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785280563,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
@@ -318671,7 +318671,7 @@
         "company_name": "Dyson",
         "id": "33bc33b7-ee70-4327-a1e0-0a60fe32438e",
         "title": "Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785362765,
         "date_posted": 1785283200,
         "url": "https://dyson.wd3.myworkdayjobs.com/dyson_careers/job/United-Kingdom---Malmesbury-Office/Verification-Engineer_JR37601",
@@ -323483,7 +323483,7 @@
         "company_name": "Fujifilm",
         "id": "041fc902-70ff-4d2d-9958-7dc67dc37f2d",
         "title": "Associate Endoscopic Repair Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1785573670,
         "date_posted": 1785449218,
         "url": "https://uscareers-fujifilm.icims.com/jobs/38334/job?mobile=true&needsRedirect=false",
@@ -343566,7 +343566,7 @@
         "company_name": "Latitude AI",
         "id": "5f8b5dc8-9249-4335-8b58-02805752d3d3",
         "title": "Triage Associate 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786371698,
         "date_posted": 1786371628,
         "url": "https://job-boards.greenhouse.io/latitude/jobs/8119200",
@@ -344237,7 +344237,7 @@
         "company_name": "PGIM",
         "id": "3b63253d-e96a-4f15-9172-0f3dd8bf65df",
         "title": "Investment Analyst - Corporate Finance",
-        "active": true,
+        "active": false,
         "date_updated": 1786388627,
         "date_posted": 1786320000,
         "url": "https://pru.wd5.myworkdayjobs.com/pgim_careers/job/150-North-Riverside-Chicago-IL/PGIM---Investment-Analyst--Private-Credit-_R-124727",
@@ -358800,7 +358800,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -359104,7 +359104,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -367130,7 +367130,7 @@
         "company_name": "GlobalFoundries",
         "id": "fbae6c29-9df4-4e31-83cc-893357270de9",
         "title": "Device Characterization Engineer New Grad - Central Services Lab",
-        "active": true,
+        "active": false,
         "date_updated": 1787186635,
         "date_posted": 1787097600,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Characterization-Engineer--Central-Services-Lab--2027-New-College-Graduate-_JR-2604379",
@@ -380331,7 +380331,7 @@
         "company_name": "PNC Financial Services",
         "id": "e299a311-fccb-4607-bb60-e86f83f6d03a",
         "title": "Business Analytics Specialist - Risk Operations & Quant Strategy",
-        "active": true,
+        "active": false,
         "date_updated": 1787869661,
         "date_posted": 1787788800,
         "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Business-Analytics-Specialist---Risk-Operations---Quant-Strategy_R234161-1",
@@ -380932,7 +380932,7 @@
         "company_name": "Constellation Energy",
         "id": "d26b671a-bd46-4c7b-9156-0a29cfe9579b",
         "title": "Associate Software Engineer - AI",
-        "active": false,
+        "active": true,
         "date_updated": 1787873157,
         "date_posted": 1787872864,
         "url": "https://jobs.constellationenergy.com/jobs/138264?icims=1",
@@ -381704,7 +381704,7 @@
         "company_name": "Rebellion",
         "id": "db0fda0e-62fc-4d76-a312-0c1488051b73",
         "title": "Graduate Programmer",
-        "active": false,
+        "active": true,
         "date_updated": 1787927401,
         "date_posted": 1787927295,
         "url": "https://apply.workable.com/rebellion/j/051D15CCA1/apply",
@@ -381758,7 +381758,7 @@
         "company_name": "Empower AI",
         "id": "08b99270-74f2-4861-83ed-68f7ac35d850",
         "title": "Junior Software Developer - Systems Software",
-        "active": true,
+        "active": false,
         "date_updated": 1787930281,
         "date_posted": 1787930192,
         "url": "https://careers-empowerai.icims.com/jobs/9489/job?mobile=true&needsRedirect=false",
@@ -383382,7 +383382,7 @@
         "company_name": "Ludlum Measurements",
         "id": "fc7e143f-9ec2-4e57-bb1a-f38f57e11c3f",
         "title": "Calibrator 1",
-        "active": false,
+        "active": true,
         "date_updated": 1788036361,
         "date_posted": 1787956882,
         "url": "https://vpitechnology.applytojob.com/apply/V7suURwBcp/Calibrator",
@@ -389798,6 +389798,266 @@
             "Stevenage, UK"
         ],
         "company_url": "https://simplify.jobs/c/Expleo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Nuro",
+        "id": "dbd43898-90ab-4067-81e9-16849f0c7d42",
+        "title": "Autonomous Vehicle Operator - PM Shift - 12-Month Duration",
+        "active": true,
+        "date_updated": 1788347162,
+        "date_posted": 1785883406,
+        "url": "https://nuro.ai/careersitem?gh_jid=8104153",
+        "locations": [
+            "South SF",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nuro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NJ Department of Environmental Protection",
+        "id": "d7af5b7f-8a9c-4def-bee5-6df93eb62782",
+        "title": "Analyst Trainee - Multiple Teams",
+        "active": true,
+        "date_updated": 1788350298,
+        "date_posted": 1787693012,
+        "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/qQbdTjGUje/CSRR202640-Analyst-Trainee",
+        "locations": [
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NJ-Department-Of-Environmental-Protection",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorway",
+        "id": "3b2dc0d1-97dd-4f1f-8a0b-2343f43fb5c8",
+        "title": "Lead Generative AI Engineer",
+        "active": true,
+        "date_updated": 1788357421,
+        "date_posted": 1788357325,
+        "url": "https://jobs.ashbyhq.com/motorway/64e7a546-c2a7-4ad1-8e1d-be4b1e5c1ddd/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Motorway",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Latitude AI",
+        "id": "0a783569-3524-4b42-bced-6d8fa868b454",
+        "title": "Triage Associate 1 - Platform Triage",
+        "active": true,
+        "date_updated": 1788356553,
+        "date_posted": 1783117924,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8030930",
+        "locations": [
+            "Palo Alto, CA",
+            "Pittsburgh, PA",
+            "Allen Park, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Latitude AI",
+        "id": "0c64352c-ee4e-4361-af88-3fcfd5ac5169",
+        "title": "Technical Vehicle Test Operator",
+        "active": true,
+        "date_updated": 1788355801,
+        "date_posted": 1784586689,
+        "url": "https://job-boards.greenhouse.io/latitude/jobs/8074662",
+        "locations": [
+            "Wittmann, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/LatitudeAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "bf0cd35f-4482-4fd9-b9fa-615b8fa40352",
+        "title": "Telematics Installer",
+        "active": true,
+        "date_updated": 1788358504,
+        "date_posted": 1788358439,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8171450",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "EquipmentShare",
+        "id": "c0259ac2-91ad-4101-bdc9-86ea7d2f20c6",
+        "title": "Telematics Mechanic",
+        "active": true,
+        "date_updated": 1788358504,
+        "date_posted": 1788358439,
+        "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8171486",
+        "locations": [
+            "Lenexa, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Equipment-Share",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "09cdaf0b-5c62-4337-9ac3-ce87dd9b4dde",
+        "title": "Survey Technician/Instrument Operator",
+        "active": true,
+        "date_updated": 1788358504,
+        "date_posted": 1788358489,
+        "url": "https://careers.sam.biz/jobs/8002?icims=1",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Williams Racing",
+        "id": "f7c2b206-3434-4427-ada0-1851de938a0e",
+        "title": "Graduate Software Engineer",
+        "active": true,
+        "date_updated": 1788358143,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146959139",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "790c4084-86df-448a-a68a-27197345d3b2",
+        "title": "Graduate Machine Learning Engineer - AI",
+        "active": true,
+        "date_updated": 1788358263,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146957079",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "7fc2d811-329f-4ae7-b501-89dc44b0e537",
+        "title": "Graduate Performance Optimisation Engineer",
+        "active": true,
+        "date_updated": 1788358267,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146959349",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "bda74332-82e5-439b-b4b6-2816798a9366",
+        "title": "Open Source Software Developer New Grad - QNX Everywhere",
+        "active": true,
+        "date_updated": 1788359669,
+        "date_posted": 1788307200,
+        "url": "https://bb.wd3.myworkdayjobs.com/blackberry/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Blackberry",
+        "id": "aa9e19ab-56c4-4224-8844-f2f9a351fc58",
+        "title": "Open Source Software Developer New Grad - QNX Everywhere",
+        "active": true,
+        "date_updated": 1788359672,
+        "date_posted": 1788307200,
+        "url": "https://bb.wd3.myworkdayjobs.com/QNX/job/Ottawa-Ontario/QNX-Open-Source-Software-Developer--New-Graduate-Graduate-_20260289",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BlackBerry",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
