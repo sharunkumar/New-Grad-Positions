@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BAE Systems",
-        "id": "6c68abc8-66ca-4fbb-a23d-25cc38873497",
-        "title": "Engineering Assistant",
-        "active": false,
-        "date_updated": 1767867170,
-        "date_posted": 1767867170,
-        "url": "https://baesystems.taleo.net/careersection/2/jobdetail.ftl?job=00132408",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/BAE-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Uline",
         "id": "1ee823df-c090-4e43-92e8-7e7215a100df",
@@ -277864,7 +277846,7 @@
         "company_name": "Dyna Robotics",
         "id": "a5a621ed-b394-49ec-adfa-ff0478038d0b",
         "title": "Robot Safety Operator",
-        "active": false,
+        "active": true,
         "date_updated": 1783991521,
         "date_posted": 1783991497,
         "url": "https://jobs.ashbyhq.com/dyna-robotics/179713ee-3f63-4904-8260-13a94dbe178a/application",
@@ -352753,7 +352735,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -359959,7 +359941,7 @@
         "company_name": "WOOD Consulting Services",
         "id": "95645a1a-37b5-46b8-82dc-51c06ded8cbd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787172121,
         "date_posted": 1787172089,
         "url": "https://jobs-woodcons.icims.com/jobs/14910/job?mobile=true&needsRedirect=false",
@@ -375701,7 +375683,7 @@
         "company_name": "ABC Supply",
         "id": "b8bed590-1b9e-4abe-9d15-877f02e0d259",
         "title": "Item Data Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1787925272,
         "date_posted": 1786924800,
         "url": "https://abcsupply.wd1.myworkdayjobs.com/abcsupplycareers/job/Beloit-WI/Item-Data-Specialist--963-_67122",
@@ -385445,7 +385427,7 @@
         "company_name": "Leidos",
         "id": "a015ef37-b241-4971-89e0-e4b6561afbbb",
         "title": "Associate Software Developer - Air Traffic Business Area",
-        "active": true,
+        "active": false,
         "date_updated": 1788414104,
         "date_posted": 1788307200,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Associate-Software-Engineer_R-00191290",
@@ -386767,7 +386749,7 @@
         "company_name": "Handshake",
         "id": "bb66ecf4-3f31-425b-b0db-e3ac238e78ae",
         "title": "AI Model Policy Trainer - Image Evaluation",
-        "active": true,
+        "active": false,
         "date_updated": 1788421867,
         "date_posted": 1788407702,
         "url": "https://jobs.ashbyhq.com/handshake/2c10a785-ad18-4fd7-8148-995ad76f3e7d/application?embed=true",
@@ -393397,7 +393379,7 @@
         "company_name": "Marriott International",
         "id": "b446635b-9d49-42d1-aecd-5bd096273329",
         "title": "Account Sales Analytics and Reporting Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1788437341,
         "date_posted": 1787342072,
         "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26104848",
@@ -402759,7 +402741,7 @@
         "company_name": "Paccar",
         "id": "fe83daad-c9f1-4e22-b257-7c24f529c0fd",
         "title": "Aftermarket Purchasing Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788535621,
         "date_posted": 1788535510,
         "url": "https://jobs.paccar.com/job/Renton-Aftermarket-Purchasing-Data-Analyst-WA-98055/1434078533/?ats=successfactors",
@@ -403457,7 +403439,7 @@
         "company_name": "GlobalFoundries",
         "id": "7663017a-6036-4a9f-997c-0db0dd562328",
         "title": "Software Engineer - Cloud Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1788560282,
         "date_posted": 1788480000,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---California---Santa-Clara/Software-Engineer--Cloud-Platform--2027-New-College-Graduate-_JR-2604056",
@@ -404134,6 +404116,246 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/AiPrise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "49f65041-d708-43f1-81a2-d4344e8087f7",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1788605371,
+        "date_posted": 1781244499,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/55e3acc4-2752-4db3-972c-d506c1361f9d/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xodus Group",
+        "id": "8657462d-9090-4373-8426-b434617bb36f",
+        "title": "Subsea and Marine Engineer",
+        "active": true,
+        "date_updated": 1788606722,
+        "date_posted": 1787848860,
+        "url": "https://apply.workable.com/xodus-group/j/160CA5656A/apply",
+        "locations": [
+            "London, UK",
+            "Aberdeen, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Xodus-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "b417f28c-9782-4658-b29f-9ad417c17c70",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788606722,
+        "date_posted": 1783001254,
+        "url": "https://jobs.l3harris.com/job/Montreal-Software-Engineer-Queb-H4T-1G5/1405256900/?ats=successfactors",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "8c775e3d-bd55-4375-86f3-e8416d7c56b7",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1788606901,
+        "date_posted": 1780006149,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/dffc5988-f3f2-4d1e-8648-da249ebc035d/application?embed=true",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metaview",
+        "id": "9fad232c-43cc-403b-9475-b965f64e9c1f",
+        "title": "Product Staff Engineer",
+        "active": true,
+        "date_updated": 1788607621,
+        "date_posted": 1781935651,
+        "url": "https://jobs.ashbyhq.com/metaview/d9f94564-9404-4010-8d9a-413d6a1a6c14/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Metaview",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dyna Robotics",
+        "id": "962208a6-d342-4140-97ec-4cad99d1d9dd",
+        "title": "Robot Safety Operator",
+        "active": true,
+        "date_updated": 1788607441,
+        "date_posted": 1780553360,
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/d889c611-ab2e-4b5f-b6b6-56655e249561/application?embed=true",
+        "locations": [
+            "SF",
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dyna-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marriott International",
+        "id": "e5e41e48-5f98-45a6-8bc7-c1c6e5f3703a",
+        "title": "Guest Experience Specialist",
+        "active": true,
+        "date_updated": 1788608701,
+        "date_posted": 1787869625,
+        "url": "https://ejwl.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/26109275",
+        "locations": [
+            "Romulus, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Marriott-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mass General Brigham",
+        "id": "427fc125-8fe9-4189-95f3-0fdee1570153",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1788613781,
+        "date_posted": 1788566400,
+        "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Data-Analyst-I_RQ4078299",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mass-General-Brigham",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "cbfeabfc-ee55-4235-b847-c779d788699e",
+        "title": "Customer Category Analyst - Costco",
+        "active": true,
+        "date_updated": 1788613248,
+        "date_posted": 1788566400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Customer-Category-Analyst---Costco_R0483651-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tyson Foods",
+        "id": "cf5d2cc2-c274-4fb9-9cef-46931c854228",
+        "title": "Analytics Analyst",
+        "active": true,
+        "date_updated": 1788617521,
+        "date_posted": 1788566400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TSN/job/Corporate---Springdale-Arkansas/Analytics-Analyst---Walmart_R0483678-1",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowes Foods Grocery Stores",
+        "id": "dc543916-6696-4ce5-81fc-a880e02c69f2",
+        "title": "Community Table Coordinator",
+        "active": true,
+        "date_updated": 1788617441,
+        "date_posted": 1788617168,
+        "url": "https://careers-lowesfoods.icims.com/jobs/140920/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Myrtle Beach, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes-Foods-Grocery-Stores",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Lewis Partnership",
+        "id": "67d13233-6d7d-4c33-b1e8-250c43a356b5",
+        "title": "Hospitality - Supermarket Assistant",
+        "active": true,
+        "date_updated": 1788617002,
+        "date_posted": 1788134400,
+        "url": "https://jlp.wd3.myworkdayjobs.com/JLPjobs_careers/job/Ipswich-Corn-Exchange-Waitrose--Partners/Hospitality--Supermarket-Assistant_R-210888",
+        "locations": [
+            "Ipswich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Lewis-Partnership",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
