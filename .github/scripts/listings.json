@@ -342063,7 +342063,7 @@
         "company_name": "Qualitest",
         "id": "b33fa758-d4c8-4640-85da-da02274308ba",
         "title": "Data Collection Associate 1 - Sector",
-        "active": true,
+        "active": false,
         "date_updated": 1786574905,
         "date_posted": 1786574614,
         "url": "https://careers.quality-ai.com/job/Santa-Clara-SECTOR-DATA-COLLECTION-ASSOCIATE-I-CA-95054/58803144/?ats=successfactors",
@@ -379114,7 +379114,7 @@
         "company_name": "General Motors",
         "id": "251dd790-b5bc-48d9-ab3e-9deb38e21b46",
         "title": "Entry Level Software Design Release Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788301778,
         "date_posted": 1788220800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Tower/Entry-Level-Software-Design-Release-Engineer_JR-202618509",
@@ -398774,7 +398774,7 @@
         "company_name": "Commerce Undergraduate Society",
         "id": "450cb4c1-c4d4-47d4-98bc-5a8fa94f9815",
         "title": "Website Development Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788513301,
         "date_posted": 1787378851,
         "url": "https://jobs.lever.co/commerce-undergraduate/b9bb190f-1114-4d07-b17b-f60147ee0472/apply",
@@ -400440,7 +400440,7 @@
         "company_name": "PayPal",
         "id": "e9c88d04-28e7-4ce6-93c7-9be68148a5b3",
         "title": "Data Scientist - Data Science",
-        "active": true,
+        "active": false,
         "date_updated": 1788562081,
         "date_posted": 1788561668,
         "url": "https://paypal.eightfold.ai/careers/job/274922260562",
@@ -400462,7 +400462,7 @@
         "company_name": "PayPal",
         "id": "1391f391-f29c-43d6-8325-a988430b5fe9",
         "title": "Software Engineer New Grad - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788562081,
         "date_posted": 1788561667,
         "url": "https://paypal.eightfold.ai/careers/job/274921995088",
@@ -400485,7 +400485,7 @@
         "company_name": "PayPal",
         "id": "e393eb30-181d-4c04-ab51-a894ba8c8222",
         "title": "Senior Machine Learning Engineer - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788561889,
         "date_posted": 1788561667,
         "url": "https://paypal.eightfold.ai/careers/job/274922260675",
@@ -400506,7 +400506,7 @@
         "company_name": "PayPal",
         "id": "35d85de1-2a39-4150-94ca-3770bd3dc7e1",
         "title": "Machine Learning Engineer - Machine Learning Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788562081,
         "date_posted": 1788561667,
         "url": "https://paypal.eightfold.ai/careers/job/274922260564",
@@ -401215,7 +401215,7 @@
         "company_name": "Walmart",
         "id": "62795ee0-15c5-410a-af25-57dc450beebe",
         "title": "Customer Service Desk Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788732885,
         "date_posted": 1788652800,
         "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/Terrebonne-QC/Associ-au-comptoir-du-service--la-clientle_R-2637223",
@@ -401549,5 +401549,129 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Topgolf International",
+        "id": "546aa69f-fd70-44f1-9221-ac3ce42fe8fb",
+        "title": "Service Support",
+        "active": true,
+        "date_updated": 1788818762,
+        "date_posted": 1788739200,
+        "url": "https://topgolf.wd501.myworkdayjobs.com/TopgolfCareers/job/Greensboro-North-Carolina/Service-Support_JR2023-22739",
+        "locations": [
+            "Greensboro, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Topgolf-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "9bf74f95-1fb8-4ac0-8d76-c20787a0cac3",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1788830462,
+        "date_posted": 1788739200,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2627532-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Caterpillar",
+        "id": "abef7471-b1f8-4533-b996-761a7b7de857",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1788829562,
+        "date_posted": 1788739200,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Software-Engineer_R0000392873",
+        "locations": [
+            "Peoria, IL",
+            "Chicago, IL",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Caterpillar",
+        "id": "8d793da3-cd90-4612-a78f-1141d7c1a313",
+        "title": "Data Scientist / Technical Analyst",
+        "active": true,
+        "date_updated": 1788829923,
+        "date_posted": 1788739200,
+        "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chicago-Illinois/Data-Scientist---Technical-Analyst_R0000392872",
+        "locations": [
+            "Peoria, IL",
+            "Chicago, IL",
+            "Mossville, IL",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Caterpillar-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marsh & McLennan",
+        "id": "f80908ff-93c5-490a-939f-d31be3accb2c",
+        "title": "Data & Analytics Analyst - Multiple Teams",
+        "active": true,
+        "date_updated": 1788830267,
+        "date_posted": 1788566400,
+        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/Newcastle---Bank/Oliver-Wyman---Data---Analytics---Analyst---Newcastle-2027_R_364950-1",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Extropic",
+        "id": "904b380c-a361-462b-b5d6-f954f2969657",
+        "title": "Machine Learning Resident",
+        "active": true,
+        "date_updated": 1788834415,
+        "date_posted": 1788834071,
+        "url": "https://jobs.ashbyhq.com/extropic/f9d4811c-3a4c-4a6a-a739-8719ff9c6bab/application?embed=true",
+        "locations": [
+            "Boston, MA",
+            "Waltham, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Extropic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
