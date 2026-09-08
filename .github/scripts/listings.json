@@ -1,47 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "OpusClip",
-        "id": "4e0b7c5f-1f3c-4569-bd29-1f41f0b3f519",
-        "title": "Software Engineer - AI Video Agent",
-        "active": false,
-        "date_updated": 1768116363,
-        "date_posted": 1768116363,
-        "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef/application",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/OpusClip",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Microsoft",
-        "id": "10c83b14-9176-4a4c-98ae-5b552494660e",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1768118870,
-        "date_posted": 1768118870,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556643050",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Adobe",
         "id": "ef221b00-e90f-43c1-94d3-066b3bbae99b",
@@ -1013,27 +972,6 @@
             "San Bruno, CA"
         ],
         "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adobe",
-        "id": "29291084-8b1c-4279-8206-6f2ee93a905a",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1768128149,
-        "date_posted": 1768128149,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Software-Development-Engineer_R161061",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -242700,7 +242638,7 @@
         "company_name": "Mars",
         "id": "4654f268-c3f9-47f1-b7fa-6686e534b593",
         "title": "Industrial Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1781907157,
         "date_posted": 1781906756,
         "url": "https://mars.wd3.myworkdayjobs.com/external/job/USA-South-Dakota-North-Sioux-City/Site-Industrial-Data-Engineer_R158037",
@@ -291921,7 +291859,7 @@
         "company_name": "CarbonChain",
         "id": "081d8105-3fae-4c41-b193-68b3d7e77f37",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784664542,
         "date_posted": 1784644993,
         "url": "https://job-boards.greenhouse.io/carbonchain/jobs/6121104004",
@@ -307660,7 +307598,7 @@
         "company_name": "RTX",
         "id": "2642491d-58eb-447a-ae7d-a7f33759c98d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1785280563,
         "date_posted": 1785196800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineer-I--On-Site-_01862497",
@@ -309274,7 +309212,7 @@
         "company_name": "GE Healthcare",
         "id": "0ea4d18f-2790-404b-a61e-8a07c46a5523",
         "title": "Engineering Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1785364136,
         "date_posted": 1784505600,
         "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Waukesha/Edison-Engineering-Development-Program_R4043922-1",
@@ -314389,7 +314327,7 @@
         "company_name": "Air Liquide",
         "id": "0ff6a28b-0c9e-4962-867c-73a635ac4f7a",
         "title": "Modelling & Simulation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785574956,
         "date_posted": 1782957114,
         "url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Houston-TX-HO/VIE---Modelling---Simulation-Engineer-M-F-D-_R10080193",
@@ -327098,7 +327036,7 @@
         "company_name": "Franklin Templeton",
         "id": "6418d5ea-dbd2-4bc9-953d-110f635e4ff3",
         "title": "Investment Associate - Quantitative Research - Investment Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1785968782,
         "date_posted": 1785888000,
         "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Boston-Massachusetts-United-States-of-America/Investment-Associate--Quantitative-Research---FT-Investment-Solutions-_869086",
@@ -348580,7 +348518,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "08db92a5-f5d4-4445-98af-ae0d895cbeee",
         "title": "CESM Software Engineer 1 - Computer Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786745672,
         "date_posted": 1786665600,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/CESM-Software-Engineer-I_REQ-2026-117-1",
@@ -349568,7 +349506,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -349627,7 +349565,7 @@
         "company_name": "Goldman Sachs",
         "id": "e09149c6-13df-4156-b091-ebf0159330f8",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786776163,
         "date_posted": 1786767955,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180807",
@@ -349931,7 +349869,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -352523,7 +352461,7 @@
         "company_name": "Shawbrook",
         "id": "5f903780-bbad-493f-b587-99c09c1f227a",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787015341,
         "date_posted": 1787015333,
         "url": "https://jobs.smartrecruiters.com/Shawbrook/744000140743148",
@@ -354865,7 +354803,7 @@
         "company_name": "Content Guru",
         "id": "6d6c159b-3efe-4228-ac8e-22aa958fb8f2",
         "title": "Graduate Software Developer - Assessment Day",
-        "active": true,
+        "active": false,
         "date_updated": 1787093938,
         "date_posted": 1787093791,
         "url": "https://contentguru.bamboohr.com/careers/319/",
@@ -374545,7 +374483,7 @@
         "company_name": "BP",
         "id": "4d0b83b5-2342-475a-b595-c3ace189ec81",
         "title": "Trading Graduate Program - Trading",
-        "active": false,
+        "active": true,
         "date_updated": 1788156625,
         "date_posted": 1788134400,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/Canada---Calgary/Supply--Trading--and-Shipping-Graduate-Program--Trading---Analytics--Calgary_RQ115339",
@@ -381153,7 +381091,7 @@
         "company_name": "Goldman Sachs",
         "id": "c4f6f0f0-80ff-4aa5-98b2-7bc8ccddedc8",
         "title": "Structured Finance Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788403348,
         "date_posted": 1788201801,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/183338",
@@ -390032,7 +389970,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -390698,7 +390636,7 @@
         "company_name": "Zebra Technologies",
         "id": "088f2658-1b13-4453-b678-b6c87fc55fd9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788449096,
         "date_posted": 1788393600,
         "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/Software-Engineer-I_JR103056",
@@ -391055,7 +390993,7 @@
         "company_name": "Microchip Technology",
         "id": "3f82e674-ad33-47ce-96b7-4ae7dd5be8e7",
         "title": "Test Hardware CAD Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788449454,
         "date_posted": 1788393600,
         "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I-Test-Hardware-CAD_R3353-26",
@@ -396636,7 +396574,7 @@
         "company_name": "Sherwin-Williams",
         "id": "6477c48f-f236-4372-b752-4dc347dd417a",
         "title": "Associate Full Stack Application Developer - Industrial Automation",
-        "active": true,
+        "active": false,
         "date_updated": 1788489741,
         "date_posted": 1788473134,
         "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622642",
@@ -399288,7 +399226,7 @@
         "company_name": "Cooper University Health Care",
         "id": "f83551b7-e3ed-4c68-9df6-9356b06f2e76",
         "title": "Reporting and Analytics Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1788531481,
         "date_posted": 1788531330,
         "url": "https://careers-cooperhealth.icims.com/jobs/85602/job?mobile=true&needsRedirect=false",
@@ -400400,7 +400338,7 @@
         "company_name": "Northrop Grumman",
         "id": "66902dbd-a7fe-44a4-aa32-3d24e86e4d85",
         "title": "Associate Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788561948,
         "date_posted": 1788480000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Systems-Engineer_R10249344",
@@ -401673,5 +401611,186 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "TD Bank",
+        "id": "68991653-2bf9-4559-92c3-c5a587bd1653",
+        "title": "Risk Management Quantitative Associate - Rotational Program",
+        "active": true,
+        "date_updated": 1788848341,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Risk-Management-Quantitative-Associate-Rotational-Program_R_1503777",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TD Bank",
+        "id": "f49c5b41-af69-455f-8dc8-71c64daec56c",
+        "title": "Credit Cards & Personal Lending Associate - Associate Program",
+        "active": true,
+        "date_updated": 1788848114,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/CPB-Credit-Cards---Personal-Lending-Associate-Program_R_1505123",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "e37ee641-33b9-4a52-bd84-23850b533624",
+        "title": "Business Intelligence Associate",
+        "active": true,
+        "date_updated": 1788848092,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Business-Intelligence-Associate_R_1509034",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "12bfde82-572e-408d-b778-a19c8329abbf",
+        "title": "Applied Machine Learning Scientist Graduate - Analytics Insights & AI",
+        "active": true,
+        "date_updated": 1788848104,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist---Associate_R_1506714-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "809800c8-935e-467a-8a4c-0ddc4fbdecd9",
+        "title": "Applied Machine Learning Scientist",
+        "active": true,
+        "date_updated": 1788848103,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist--Graduate-_R_1506705",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TD Bank",
+        "id": "7e4e08f3-5ac3-4174-82b7-5885f9571bb6",
+        "title": "Data Science Associate",
+        "active": true,
+        "date_updated": 1788848104,
+        "date_posted": 1788825600,
+        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Associate--Graduate-_R_1506343",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TD-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nexthop.ai",
+        "id": "10504711-cbfe-426e-b2c7-d85abee618a4",
+        "title": "Software Engineer New Grad - Hardware Diagnostics",
+        "active": true,
+        "date_updated": 1788852124,
+        "date_posted": 1788851980,
+        "url": "https://nexthopai.bamboohr.com/careers/107/",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexthopai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "e90bb9b3-2e96-47e0-80c1-169bb7a56849",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1788860655,
+        "date_posted": 1788825600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01871997",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TransPerfect",
+        "id": "5aef10de-dacf-40f8-93e0-3e9fd71ed29f",
+        "title": "Litigation Support Analyst",
+        "active": true,
+        "date_updated": 1788863618,
+        "date_posted": 1781950994,
+        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-New-York-NY/Litigation-Support-Analyst_R2025-244093",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/TransPerfect",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
