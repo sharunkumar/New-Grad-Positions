@@ -2,256 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "RELX",
-        "id": "906cd821-77f3-4452-9a14-8b35bb2ce4b5",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1768234890,
-        "date_posted": 1768234890,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Philadelphia-PA/Software-Engineer-I_R106463-1",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Honeywell",
-        "id": "4c5d739b-82c7-47ed-ab96-bc9693e99e6c",
-        "title": "Technician",
-        "active": false,
-        "date_updated": 1768234523,
-        "date_posted": 1768234523,
-        "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/132621",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Honeywell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "136694a3-092e-4d33-aedc-686a2f5eb31c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768234421,
-        "date_posted": 1768234421,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045484",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ocean Optics",
-        "id": "6c50f0e5-df31-4d10-bc97-64c5710a56a3",
-        "title": "Field Service Engineer",
-        "active": false,
-        "date_updated": 1768233910,
-        "date_posted": 1768233910,
-        "url": "https://halma.wd3.myworkdayjobs.com/halma/job/Abingdon/Field-Service-Engineer---Sheffield---Rotherham---M1-Corridor_JR25_001281",
-        "locations": [
-            "Sheffield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Ocean-Optics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d8d76074-f318-4024-90fd-6b3b9ead04a3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768234443,
-        "date_posted": 1768234443,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045623",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lloyds Bank",
-        "id": "9ad2d37b-89d3-4585-9734-1ec7009eb0ec",
-        "title": "Assistant Product Manager",
-        "active": false,
-        "date_updated": 1768235650,
-        "date_posted": 1768235650,
-        "url": "https://lbg.wd3.myworkdayjobs.com/LBG_Careers/job/Leeds-Wellington-Place/Assistant-Product-Manager_150146-2",
-        "locations": [
-            "Leeds, UK",
-            "Liverpool, UK",
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Lloyds-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "O'Reilly Auto Parts",
-        "id": "829bbb1a-bb6d-4f45-bc31-d6c0c90b731e",
-        "title": "Electronic Catalog Technician",
-        "active": false,
-        "date_updated": 1768236108,
-        "date_posted": 1768236108,
-        "url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Regional-Office-PHX/Electronic-Catalog-Technician-1_R158616",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/OReilly-Auto-Parts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e69d5e20-b3df-4c0e-aeb0-01071de54fac",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768234431,
-        "date_posted": 1768234431,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045665",
-        "locations": [
-            "Dartford District, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "KBR",
-        "id": "5f06c65c-3985-4fbb-bb1c-153408a1aae4",
-        "title": "Power Apps Developer",
-        "active": false,
-        "date_updated": 1768235548,
-        "date_posted": 1768235548,
-        "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Leatherhead-Surrey-United-Kingdom/Power-Apps-Developer---Entry-Level_R2117355",
-        "locations": [
-            "Dorking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/KBR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "23321a2d-921b-43d9-8454-d0e0c5142f0a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768234425,
-        "date_posted": 1768234425,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045645",
-        "locations": [
-            "Croydon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "6d59f547-3f45-49e7-ab06-476dce152983",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1768234427,
-        "date_posted": 1768234427,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045673",
-        "locations": [
-            "Tottenham, London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Michaels Stores",
-        "id": "19f04c41-45f9-4d72-8999-0a5303843fca",
-        "title": "Product Development Coordinator",
-        "active": false,
-        "date_updated": 1768235693,
-        "date_posted": 1768235693,
-        "url": "https://michaels.wd5.myworkdayjobs.com/external/job/Irving-Irving-Corporate-Office-3939-West-John-Carpenter-Freeway/Product-Development-Coordinator_R00302287",
-        "locations": [
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Michaels-Stores",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "f402855d-daac-4e75-9600-d2f121cd85b3",
-        "title": "Product Manager 1 - Youtube Youth Responsibility",
-        "active": false,
-        "date_updated": 1768234237,
-        "date_posted": 1768234237,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/102621772855026374",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Zip",
         "id": "dfbdab51-622f-4ef4-ae06-e13c9c196537",
         "title": "Software Engineer \u2013 New Grad - 2026 Start",
@@ -655,29 +405,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Underdog Fantasy",
-        "id": "b9fb4681-14fb-4db8-98fa-961e28368ac1",
-        "title": "Associate Software Engineer \u2013 2026 New Grad",
-        "active": false,
-        "date_updated": 1768260537,
-        "date_posted": 1768235278,
-        "url": "https://job-boards.greenhouse.io/underdogfantasy/jobs/4647374005",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/UnderdogFantasy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
         ]
     },
     {
@@ -1185,26 +912,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arrowstreet Capital",
-        "id": "82b6cdeb-abba-4247-b82e-753eb5697555",
-        "title": "Technology Rotational Development Program",
-        "active": false,
-        "date_updated": 1768235340,
-        "date_posted": 1768235340,
-        "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Technology-Rotational-Development-Program_R1400",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arrowstreet-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -6195,24 +5902,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Bloomreach",
-        "id": "e10f5826-d599-4838-ac33-157b3c36527f",
-        "title": "Product Engagement Manager - Affinity",
-        "active": false,
-        "date_updated": 1768235608,
-        "date_posted": 1768235608,
-        "url": "https://job-boards.greenhouse.io/bloomreach/jobs/7529828",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/2c4c6424-8f66-47a3-b744-c040462ba1cc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "062496e5-eb9a-48e8-8a0c-38390f83464a",
@@ -6266,26 +5955,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ensign-Bickford Aerospace & Defense Company",
-        "id": "c18a6a31-6cf7-481a-99f5-cb0c4d069d8a",
-        "title": "Soldering Technician",
-        "active": false,
-        "date_updated": 1768235148,
-        "date_posted": 1768235148,
-        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Soldering-Technician_REQ106824",
-        "locations": [
-            "Simsbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
     },
     {
         "source": "Simplify",
@@ -230705,27 +230374,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Talos",
-        "id": "396814b5-12ff-4fe3-9b91-e67fd53aa047",
-        "title": "Software Engineer - Trading Connectivity",
-        "active": false,
-        "date_updated": 1781253181,
-        "date_posted": 1768234258,
-        "url": "https://jobs.ashbyhq.com/Talos-Trading/c743ff13-4a80-4907-adf4-922a3bfbd30b/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Talos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "ASML",
         "id": "79f0c18b-082f-47c3-973c-94dbac055391",
@@ -252556,7 +252204,7 @@
         "company_name": "Citadel",
         "id": "6a5a374d-834e-4bb6-992d-4cc74f3f8e8e",
         "title": "Quantitative Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1782889234,
         "date_posted": 1782889199,
         "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
@@ -260851,7 +260499,7 @@
         "company_name": "Citadel",
         "id": "410b28b6-b357-4b72-9480-bad83701b4cb",
         "title": "Software Engineer \u2013 University Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1783318143,
         "date_posted": 1783318138,
         "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/",
@@ -270994,7 +270642,7 @@
         "company_name": "Johnson Controls",
         "id": "a9e9b275-e88f-4785-9b59-9f67f0e70d01",
         "title": "Embedded Software Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1783722948,
         "date_posted": 1783641600,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Westford-Massachusetts-United-States-of-America/Embedded-Software-Engineer-II_WD30273363-1",
@@ -273948,7 +273596,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "84a39b8e-8d89-4f91-ab45-1d53e8d86776",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784011681,
         "date_posted": 1784009157,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-ENGINEER-1-Virg/1408046100/?ats=successfactors",
@@ -283699,7 +283347,7 @@
         "company_name": "Crowdstrike",
         "id": "1d6aeade-7d1a-42c1-8b3f-318a03ac0fa2",
         "title": "Engineer 1 New Grad - Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1784587403,
         "date_posted": 1784505600,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1",
@@ -343489,7 +343137,7 @@
         "company_name": "Autodesk",
         "id": "d4ae6451-b1b2-4a63-8dc6-e456e9f5bf19",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786661281,
         "date_posted": 1786579200,
         "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
@@ -345267,7 +344915,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a9b0880e-9c11-4194-8868-5df112df0da6",
         "title": "Artificial Intelligence Research Scientist - Artificial Intelligence and Machine Learning",
-        "active": true,
+        "active": false,
         "date_updated": 1786680264,
         "date_posted": 1786679977,
         "url": "https://careers.jhuapl.edu/jobs/57812?icims=1",
@@ -345507,7 +345155,7 @@
         "company_name": "DecisionPoint Corporation",
         "id": "0e6c1db8-ce0d-4d6e-8962-3757c2b0a9e8",
         "title": "Entry-level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786680215,
         "date_posted": 1786679946,
         "url": "https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false",
@@ -353676,7 +353324,7 @@
         "company_name": "Urban Science",
         "id": "3dbcee54-b89f-4ded-a74d-6acab2f32410",
         "title": "Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787091303,
         "date_posted": 1787091133,
         "url": "https://careers-urbanscience.icims.com/jobs/5220/job?mobile=true&needsRedirect=false",
@@ -358752,7 +358400,7 @@
         "company_name": "Zoox",
         "id": "01e84074-5874-4e15-ab81-c3ef832f1fb8",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787264456,
         "date_posted": 1787263771,
         "url": "https://jobs.lever.co/zoox/11d7b37e-4420-4619-a465-d387ffc6ee16/apply",
@@ -364031,7 +363679,7 @@
         "company_name": "Yelp",
         "id": "b4fbf723-b634-4b03-a717-5a7477ac972b",
         "title": "Data Backend Engineer - Trust & Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1787616865,
         "date_posted": 1787616480,
         "url": "https://www.yelp.careers/us/en/job/14018",
@@ -385972,7 +385620,7 @@
         "company_name": "L3Harris Technologies",
         "id": "c773be37-faea-4885-a719-d836e851333b",
         "title": "Electrical Engineer - FOS",
-        "active": true,
+        "active": false,
         "date_updated": 1788207651,
         "date_posted": 1786399813,
         "url": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Electrical-Engineering-(FOS)-OH-45245/1417967600/?ats=successfactors",
@@ -390453,7 +390101,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
         "title": "Python Developer Predoctoral Appointee - Vehicle and Mobility Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1788449954,
         "date_posted": 1786924800,
         "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee---Python-Developer_423278",
@@ -393255,7 +392903,7 @@
         "company_name": "NXP Semiconductors",
         "id": "c682a2d9-a140-4b5a-a543-aa0c5b3f1e01",
         "title": "Entry Level Product/Test Engineer - Product/Test",
-        "active": true,
+        "active": false,
         "date_updated": 1788463466,
         "date_posted": 1783548738,
         "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Austin-Oakhill-Office/Product-Test-Engineer--Entry-Level_R-10063911-1",
@@ -394245,7 +393893,7 @@
         "company_name": "Hearst",
         "id": "55234801-d556-462f-be52-b2878199c203",
         "title": "Analyst \u2013 Pricing & Yield",
-        "active": true,
+        "active": false,
         "date_updated": 1788465446,
         "date_posted": 1784757966,
         "url": "https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027086",
@@ -398438,7 +398086,7 @@
         "company_name": "West Bend Insurance",
         "id": "efd41d1c-1686-4f0b-9fed-8c342653f9d8",
         "title": "Assistant Data Solutions Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788525901,
         "date_posted": 1787603336,
         "url": "https://careers-thesilverlining.icims.com/jobs/3722/job?mobile=true&needsRedirect=false",
