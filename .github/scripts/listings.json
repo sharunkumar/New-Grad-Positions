@@ -1,82 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "c6fc8321-0f25-4ba0-88e7-90e02f38b336",
-        "title": "2026 Technology Graduate Analyst - London",
-        "active": false,
-        "date_updated": 1768306688,
-        "date_posted": 1768306688,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/London-United-Kingdom/XMLNAME-2026-Technology-Graduate-Analyst---London_R_1466394",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Las Vegas Valley Water District",
-        "id": "d1dbcc64-2105-40a5-bd3c-ff60201e7b67",
-        "title": "Hydrologist 1",
-        "active": false,
-        "date_updated": 1768305782,
-        "date_posted": 1768305782,
-        "url": "https://lvvwd.wd1.myworkdayjobs.com/lvvwdwaterjobs/job/Molasky-Corporate-Center/Hydrologist-I_R0003445",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Las-Vegas-Valley-Water-District",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "date_updated": 1771250796,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25539&siteid=5313&jobId=5208753",
-        "company_name": "General Atomics",
-        "title": "Associate Software Developer",
-        "locations": [
-            "Poway, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Devonav",
-        "id": "db9a694d-33b1-4f99-a7c9-3a15d72610b3",
-        "date_posted": 1768311526,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1772694433,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/cribl/jobs/5739562004",
-        "company_name": "Cribl",
-        "title": "Data Engineer",
-        "locations": [
-            "Remote in USA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Devonav",
-        "id": "0d00a058-3a05-48b8-9d80-b13249bf23ff",
-        "date_posted": 1768311596,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Visa",
         "id": "269ef28a-ef62-4536-b465-4108393d7ce0",
@@ -227417,7 +227341,7 @@
         "company_name": "Goldman Sachs",
         "id": "de896427-2d73-4fa8-b8b8-65efaf044cfd",
         "title": "Software Engineer - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1781169481,
         "date_posted": 1781168814,
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/169292",
@@ -254259,7 +254183,7 @@
         "company_name": "AT&T",
         "id": "dbe103b1-b383-4e45-858a-901fe2d3c566",
         "title": "Senior Specialist Member of Technical Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1782961691,
         "date_posted": 1782956324,
         "url": "https://att.wd1.myworkdayjobs.com/ATTGeneral/job/USACASan-Ramon--5005-Executive-Pkwy---Adm-north-Wing5005-Executive-Pkwy/Sr-Specialist-Member-of-Technical-Staff_R-113509",
@@ -260256,7 +260180,7 @@
         "company_name": "dunnhumby",
         "id": "c27c66d5-9509-490d-968c-e3ce9a235a04",
         "title": "Category & Store Solutions Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783378159,
         "date_posted": 1783377422,
         "url": "https://job-boards.greenhouse.io/dunnhumby/jobs/7787366003",
@@ -267569,7 +267493,7 @@
         "company_name": "Garner Health",
         "id": "6179b0ff-cbcf-4f7c-89fe-69676d906dd0",
         "title": "Feed Integrations Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1783636741,
         "date_posted": 1783636255,
         "url": "https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004",
@@ -312291,7 +312215,7 @@
         "company_name": "CMC Markets",
         "id": "0b696bca-e863-4471-a8e9-55eaf3576843",
         "title": "Quantitative Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1785576421,
         "date_posted": 1781344448,
         "url": "https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC5360",
@@ -318309,7 +318233,7 @@
         "company_name": "WonderBotz",
         "id": "c7fb8916-9630-411f-b870-1670488e15f4",
         "title": "Junior Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785740221,
         "date_posted": 1785738047,
         "url": "https://wonderbotz.applytojob.com/apply/RrI9QanYDY/Junior-Software-Engineer",
@@ -326790,7 +326714,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -334281,7 +334205,7 @@
         "company_name": "The Anywhere",
         "id": "60d005ff-fe23-4fdd-9573-6188bca2a95f",
         "title": "Full Stack Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786411981,
         "date_posted": 1786411964,
         "url": "https://apply.workable.com/the-anywhere-company/j/523D858ED1/apply",
@@ -342526,7 +342450,7 @@
         "company_name": "Dexcom",
         "id": "a9facee3-51ba-46e7-8ce7-3f9b3d0c85d6",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786660201,
         "date_posted": 1786579200,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540",
@@ -345946,7 +345870,7 @@
         "company_name": "State Farm",
         "id": "36765a45-f997-47bc-a1a9-88ed5650308a",
         "title": "Software Engineer - iOS",
-        "active": false,
+        "active": true,
         "date_updated": 1786745705,
         "date_posted": 1786745621,
         "url": "https://jobs.statefarm.com/jobs/44950?icims=1",
@@ -347280,7 +347204,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -354526,7 +354450,7 @@
         "company_name": "RTX",
         "id": "d274a4f7-9df9-45bf-b9c2-6b25e26d166d",
         "title": "Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787172179,
         "date_posted": 1787097600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I---Onsite-_01868027",
@@ -355067,7 +354991,7 @@
         "company_name": "CACI",
         "id": "72985476-1779-4c98-b2ad-be7924937896",
         "title": "Cyber Software Engineer - Cyber Science & Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1787177882,
         "date_posted": 1787097600,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Cyber-Software-Engineer_330859",
@@ -396820,7 +396744,7 @@
         "company_name": "Entarian",
         "id": "4a6b6b96-dbdd-4dbb-8a0b-6ef03b00cfbe",
         "title": "GIS Technician / Office Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788524462,
         "date_posted": 1787039537,
         "url": "https://careers-entarian.icims.com/jobs/9707/job?mobile=true&needsRedirect=false",
@@ -396840,7 +396764,7 @@
         "company_name": "Entarian",
         "id": "485ffc82-c75c-4265-9e3a-40303fe373fc",
         "title": "GIS Technician / Office Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1788523741,
         "date_posted": 1787039537,
         "url": "https://careers-entarian.icims.com/jobs/9708/job?mobile=true&needsRedirect=false",
@@ -398460,7 +398384,7 @@
         "company_name": "First National Bank",
         "id": "43ec7563-df6b-4983-813f-8dbcc53b1b14",
         "title": "AI & Digital Development Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788561026,
         "date_posted": 1788480000,
         "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/AI---Digital-Development-Program---Pittsburgh--PA_2026-02191",
@@ -403391,6 +403315,317 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Stryker",
+        "id": "d4423af2-8d19-4617-b72f-304bdf2c0d71",
+        "title": "Quality Engineer - Master Data",
+        "active": true,
+        "date_updated": 1789047181,
+        "date_posted": 1788998400,
+        "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fremont-California/Quality-Engineer--Master-Data--Hybrid-_R572285",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Stryker",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Norton Rose Fulbright",
+        "id": "85892b81-432b-4e81-b38d-fe5610cd4494",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1789050445,
+        "date_posted": 1788998400,
+        "url": "https://nrf.wd3.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Data-Analyst_R-4351",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Norton-Rose-Fulbright",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Xcel Energy",
+        "id": "ecef4f4f-e9ad-46ae-9273-209c20beb7e5",
+        "title": "Geospatial Data Technician 1",
+        "active": true,
+        "date_updated": 1789049922,
+        "date_posted": 1788998400,
+        "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55418/Geospatial-Data-Technician-I_JR116123",
+        "locations": [
+            "Minneapolis, MN",
+            "Denver, CO",
+            "Amarillo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Xcel-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "afa1841f-ec75-4154-bdbb-fcdf1a49189e",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1789049706,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "962f1bfd-70ba-4217-a32b-3e4ff0200101",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1789049341,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/AI-Engineer_R5051916-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "17ee9cb8-31a6-4c61-9fb6-eeeb34a917d4",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1789049341,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/AI-Engineer_R5051916-1",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "37150388-9148-4979-81ef-04f7f4f2d18b",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1789049341,
+        "date_posted": 1788998400,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Data-Scientist_R5051914-2",
+        "locations": [
+            "Greenville, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard",
+        "id": "e9554a20-5672-4854-890d-18285048340e",
+        "title": "Graduate Software Developer - HP Wolf Security",
+        "active": true,
+        "date_updated": 1789049546,
+        "date_posted": 1788998400,
+        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard",
+        "id": "2b9817d0-6f0e-47d5-a557-9594cca9ea27",
+        "title": "Graduate Software Developer - HP Wolf Security",
+        "active": true,
+        "date_updated": 1789049542,
+        "date_posted": 1788998400,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-C--Software-Developer--2-year-placement_3165415-2",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veterans United",
+        "id": "c2d4f366-1b51-43e0-a206-2d0815656d4e",
+        "title": "Data Coordinator",
+        "active": true,
+        "date_updated": 1789051861,
+        "date_posted": 1788998400,
+        "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Columbia-MO/Data-Coordinator_R6225",
+        "locations": [
+            "Columbia, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Veterans-United",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Noblis",
+        "id": "f8b85cfe-7220-4177-a4a4-cd59e00ecd8b",
+        "title": "Artificial Intelligence Engineer",
+        "active": true,
+        "date_updated": 1789051501,
+        "date_posted": 1789051442,
+        "url": "https://careers.noblis.org/jobs/27812?icims=1",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Noblis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hastings Direct",
+        "id": "1dda1979-d969-4d70-993f-2a200bbe3d19",
+        "title": "Pricing Automation Engineer",
+        "active": true,
+        "date_updated": 1789051501,
+        "date_posted": 1788998400,
+        "url": "https://hastingsdirect.wd3.myworkdayjobs.com/external_careers/job/London/Pricing-Automation-Engineer_60014016-1",
+        "locations": [
+            "London, UK",
+            "Cardiff, UK",
+            "Leicester, UK",
+            "Belfast, UK",
+            "Bexhill, Bexhill-on-Sea, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hastings-Direct",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "face0c83-397d-4322-8e32-868a23dca209",
+        "title": "Applied AI Engineer - Radiology AI Lab",
+        "active": true,
+        "date_updated": 1789050800,
+        "date_posted": 1789050728,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/College-of-Medicine/Applied-AI-Engineer---Radiology-AI-Lab_REQ_0000073876-2",
+        "locations": [
+            "Hershey, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "4115edde-4ae5-4920-b782-86b84818fcc2",
+        "title": "Software Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1789050816,
+        "date_posted": 1788998400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Reston-VA/R-D-Engineer--Software-Engineer_REQ_0000081569-2",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Pennsylvania State University",
+        "id": "2dcb71be-979e-47c0-b8a8-0f9a1e116f46",
+        "title": "Software Engineer - Strategic Systems Operation Division",
+        "active": true,
+        "date_updated": 1789050817,
+        "date_posted": 1788998400,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/R-D-Engineer--Software-Engineer_REQ_0000081602-2",
+        "locations": [
+            "State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
