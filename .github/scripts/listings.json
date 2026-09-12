@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d9057aac-dadf-42e1-9d74-300fd8ebbb9e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768461132,
-        "date_posted": 1768461132,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400045557",
-        "locations": [
-            "Letchworth Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Johnson & Johnson",
         "id": "792fa1b4-a570-49ed-9e6a-36007b97f5fc",
@@ -240210,7 +240192,7 @@
         "company_name": "Abound",
         "id": "cf8ea2c6-a348-46f3-ba15-de86844650e5",
         "title": "Graduate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782483121,
         "date_posted": 1782482870,
         "url": "https://jobs.ashbyhq.com/Abound/7ae69c2b-1dae-40c6-a5b2-8f5b42157263/application",
@@ -272648,7 +272630,7 @@
         "company_name": "TD Bank",
         "id": "725a5070-88c9-4a51-890e-f7e39332751c",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784155406,
         "date_posted": 1784073600,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Associate-Software-Engineer_R_1496579",
@@ -279182,7 +279164,7 @@
         "company_name": "Cintas",
         "id": "5b27c114-b61c-4d3f-a04a-8dbdce54bae4",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784587157,
         "date_posted": 1784585491,
         "url": "https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1410667700/?ats=successfactors",
@@ -343997,7 +343979,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -364160,7 +364142,7 @@
         "company_name": "Retell AI",
         "id": "d44c4b34-245b-4951-b4ec-573f93fbe2ac",
         "title": "Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787815081,
         "date_posted": 1787815052,
         "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9/application?embed=true",
@@ -364810,7 +364792,7 @@
         "company_name": "University of Maryland - College Park",
         "id": "f1fe163d-fded-4c86-97cf-746b87948551",
         "title": "Graduate Assistant - Research Development",
-        "active": true,
+        "active": false,
         "date_updated": 1787840791,
         "date_posted": 1787788800,
         "url": "https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Graduate-Assistant_JR104806-1",
@@ -386021,7 +386003,7 @@
         "company_name": "National Research Group",
         "id": "6b2b7f9d-ddb1-4941-beae-08c1dfc04296",
         "title": "Market Research Analyst - Entertainment, Gaming, Sports & Tech",
-        "active": true,
+        "active": false,
         "date_updated": 1788451574,
         "date_posted": 1786686246,
         "url": "https://careers-nrgmr.icims.com/jobs/7944/job?mobile=true&needsRedirect=false",
@@ -396682,7 +396664,7 @@
         "company_name": "Texas Instruments",
         "id": "0fe08920-f59e-48bd-b71b-38a95386da0b",
         "title": "Digital Experience Data Analyst - Web Marketing Program",
-        "active": true,
+        "active": false,
         "date_updated": 1788884361,
         "date_posted": 1788884187,
         "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25017806",
@@ -401419,7 +401401,7 @@
         "company_name": "Daimler Truck",
         "id": "c010600b-5c7e-4cc2-a27e-72fd2b3c75b8",
         "title": "Integration and Coordination Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789089770,
         "date_posted": 1788998400,
         "url": "https://dtna.wd5.myworkdayjobs.com/dtna_affiliate/job/Portland-OR-US/Integration-and-Coordination-Engineer-I_DT-19590-2",
@@ -403018,5 +403000,83 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "c980e3e0-5eb6-443f-bc62-cd9de0ab4ae2",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193439,
+        "date_posted": 1789193299,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429302100/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "7ea8b761-f25f-4575-b1b1-f152ec0772f5",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193440,
+        "date_posted": 1789193299,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301800/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity",
+        "id": "5c792b7d-16ed-4b9e-a8c7-e14569e5b1a4",
+        "title": "Software Engineering Specialist - BUILD Leadership Program",
+        "active": true,
+        "date_updated": 1789193437,
+        "date_posted": 1789193298,
+        "url": "https://careers.acuityinc.com/job/Conyers-Specialist-Software-Engineering-BUILD-Leadership-Program-GA-30012/1429301900/?ats=successfactors",
+        "locations": [
+            "Conyers, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Retell AI",
+        "id": "c922e8d4-2a85-4851-868c-771e8523bb0e",
+        "title": "Forward Deployed Engineer New Grad",
+        "active": true,
+        "date_updated": 1789195521,
+        "date_posted": 1789195437,
+        "url": "https://jobs.ashbyhq.com/retell-ai/161bcfc9-56dd-4d0c-869d-e5de1431a940/application?embed=true",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Retell-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
