@@ -1,145 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "9afb2286-3901-4d54-859a-1f2f4fbb6547",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1768547236,
-        "date_posted": 1768547236,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEERING-TECHNICIAN-1-Virg/1356738500/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "UiPath",
-        "id": "4bf3df1c-6b21-444c-bf2a-5247a13a2570",
-        "title": "Software Engineer 1 - Backend",
-        "active": false,
-        "date_updated": 1768547278,
-        "date_posted": 1768547278,
-        "url": "https://jobs.ashbyhq.com/uipath/32206bf8-e395-4ba9-bf2f-6bfc32272697/application",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/UiPath",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a04f5498-e126-4131-91a1-85eaefd017cb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768547488,
-        "date_posted": 1768547488,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046084",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "a9e42a52-9e3d-4b00-8335-88f39c181075",
-        "title": "Wireless and Connectivity Integration Engineer",
-        "active": false,
-        "date_updated": 1768548441,
-        "date_posted": 1768548441,
-        "url": "https://careers.rivian.com/jobs/27901?lang=en-us&icims=1",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Capital One",
-        "id": "1b66c3de-2719-487e-a98d-a26210ec884c",
-        "title": "Applied Researcher 1 - AI Foundations",
-        "active": false,
-        "date_updated": 1768548774,
-        "date_posted": 1768548774,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Applied-Researcher-I--AI-Foundations-_R229418-1",
-        "locations": [
-            "NYC",
-            "San Jose, CA",
-            "Cambridge, MA",
-            "SF",
-            "McLean, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "062496e5-eb9a-48e8-8a0c-38390f83464a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1768547479,
-        "date_posted": 1768547479,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046086",
-        "locations": [
-            "Bracknell, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cardinal Health",
-        "id": "9064538a-5c98-46f9-b8f9-5939947b6175",
-        "title": "Product Engineer",
-        "active": false,
-        "date_updated": 1768548952,
-        "date_posted": 1768548952,
-        "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/TX-El-Paso-Butterfield/Product-Engineer_20173691-1",
-        "locations": [
-            "El Paso, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Cardinal-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Alcon",
         "id": "fd16f2a1-9103-47b8-a5f2-ed5f7287ce2f",
@@ -1499,25 +1360,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robinhood",
-        "id": "390664ef-dce6-4b0a-b659-7c3110952111",
-        "title": "Software Engineer - Backend",
-        "active": false,
-        "date_updated": 1768606105,
-        "date_posted": 1768548555,
-        "url": "https://boards.greenhouse.io/robinhood/jobs/7263578",
-        "locations": [
-            "Menlo Park, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Robinhood",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -375897,7 +375739,7 @@
         "company_name": "Aramark",
         "id": "aaa3bc85-9d65-4c72-a3c0-656079d3aa4a",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788420997,
         "date_posted": 1788403235,
         "url": "https://aramarkcareers.com/UnitedStates/job/Rockville-Jr_-Data-Engineer-MD-20850/1426145000/?ats=successfactors",
@@ -384445,7 +384287,7 @@
         "company_name": "Bank of Montreal",
         "id": "1b24996d-5216-4340-b3e9-09cd19a5b0f0",
         "title": "Machine Learning Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788453164,
         "date_posted": 1788393600,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265",
@@ -384486,7 +384328,7 @@
         "company_name": "Bank of Montreal",
         "id": "cb336983-b9eb-4b85-910e-e4acdfdd61c4",
         "title": "Machine Learning Developer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788453139,
         "date_posted": 1788393600,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/Machine-Learning-Developer--New-or-Recent-Graduate-_R260024265-1",
@@ -397969,7 +397811,7 @@
         "company_name": "Northrop Grumman",
         "id": "55c70966-a122-4223-a320-a83dfc649ef3",
         "title": "Software Development Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789004028,
         "date_posted": 1788912000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Associate-Software-Dev-Analyst---Software-Dev-Analyst---Remote_R10250232",
@@ -398747,7 +398589,7 @@
         "company_name": "FormFactor",
         "id": "f417e520-6747-4e26-bd0c-7f7b3ad60b5f",
         "title": "Metrology Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789078141,
         "date_posted": 1788998400,
         "url": "https://formfactor.wd1.myworkdayjobs.com/FFI-Careers/job/Livermore-CA/Metrology-Development-Engineer_JR101071-1",
@@ -400186,7 +400028,7 @@
         "company_name": "RTX",
         "id": "023889a8-3249-4ef2-85f5-964e6a9ccb91",
         "title": "Software Engineer 1 - Gen4 Tactical Airborne Radar",
-        "active": true,
+        "active": false,
         "date_updated": 1789165722,
         "date_posted": 1789084800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Software-Engineer-I---Gen4-Tactical-Airborne-Radar_01874418",
@@ -401365,6 +401207,26 @@
             "Clifton Park, NY"
         ],
         "company_url": "https://simplify.jobs/c/Kitware",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Quantinuum",
+        "id": "aeb2d0c2-2d89-43bd-b0a9-28f9116d050f",
+        "title": "Optics Engineer 1",
+        "active": true,
+        "date_updated": 1789165764,
+        "date_posted": 1789164972,
+        "url": "https://jobs.eu.lever.co/quantinuum/ebb030b7-6bc2-4807-81da-3afc252d900f/apply",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Quantinuum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
