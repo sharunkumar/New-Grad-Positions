@@ -1,157 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Intuit",
-        "id": "c2d47493-1b6e-4d7f-acad-e64645a96152",
-        "title": "Software Engineer 1 - Data Engineering",
-        "active": false,
-        "date_updated": 1769239005,
-        "date_posted": 1769239005,
-        "url": "https://jobs.intuit.com/job/san-diego/software-engineer-i-data-engineering/27595/90969775248",
-        "locations": [
-            "Mountain View, CA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intuit",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sony Interactive Entertainment",
-        "id": "76add72c-1c79-461d-9f06-2e436b9db1fc",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769251864,
-        "date_posted": 1769251864,
-        "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5727775004",
-        "locations": [
-            "San Mateo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sony-Interactive-Entertainment",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fcb2b743-8b32-4143-b706-03b9897fd8db",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250326,
-        "date_posted": 1769250326,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046833",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d89465bc-8148-40ca-a334-b1877b410e88",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769250330,
-        "date_posted": 1769250330,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046898",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b3829324-2c51-4c61-8dc9-68399e5cd3a0",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250327,
-        "date_posted": 1769250327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046834",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "16298ccb-6193-484e-a34a-b708f8ab40b8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250327,
-        "date_posted": 1769250327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046830",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0920a60f-064b-4dc0-ade4-ad422ab9d271",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769250326,
-        "date_posted": 1769250326,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046902",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "80858869-149d-4085-b9d4-e11c9fc6ffe4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1769250327,
-        "date_posted": 1769250327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400046832",
-        "locations": [
-            "Portadown, Craigavon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Manulife Financial",
         "id": "540c6620-e52e-437e-a7bc-7f1ce1ed2770",
@@ -2747,26 +2596,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "LSEG",
-        "id": "31d5ea1a-4566-4b39-a713-70644221b794",
-        "title": "Quantitative Product Manager",
-        "active": false,
-        "date_updated": 1769517901,
-        "date_posted": 1769256737,
-        "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Quantitative-Product-Manager_R0106942-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -259677,7 +259506,7 @@
         "company_name": "Cisco",
         "id": "7a41b37b-bd8a-4927-901d-15da9744cdcf",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784154435,
         "date_posted": 1784153503,
         "url": "https://careers.cisco.com/global/en/job/2018947",
@@ -266781,7 +266610,7 @@
         "company_name": "Cisco",
         "id": "12dd10fa-f03d-4a52-a087-77079f0680c4",
         "title": "Failure Analysis Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784586424,
         "date_posted": 1784073600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
@@ -289154,7 +288983,7 @@
         "company_name": "JP Morgan Chase",
         "id": "97344c37-7a6a-4252-b0e7-522f9b541585",
         "title": "Applied AI ML Associate - Agentic AI and Python",
-        "active": false,
+        "active": true,
         "date_updated": 1785277081,
         "date_posted": 1785276603,
         "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210773873",
@@ -291533,7 +291362,7 @@
         "company_name": "The Boeing Company",
         "id": "bd7f525a-663f-495e-b1ab-c7120399fe97",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215-1",
@@ -291574,7 +291403,7 @@
         "company_name": "The Boeing Company",
         "id": "ed847441-9d11-4dc7-aa8a-8a2e49fdbc90",
         "title": "Software Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785364561,
         "date_posted": 1785283200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Colorado-Springs-CO/Software-Systems-Engineer--Associate-or-Experienced-_JR2026520215",
@@ -325309,7 +325138,7 @@
         "company_name": "Wells Fargo",
         "id": "8a6343a9-f416-4241-9451-0fabca5ffd7d",
         "title": "Quantitative Analytics Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786602636,
         "date_posted": 1786579200,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program-Capital-Markets--Masters----Early-Careers_R-568263",
@@ -325329,7 +325158,7 @@
         "company_name": "Wells Fargo",
         "id": "2e43afe6-aa19-4f66-a85e-dfdfbe4c1b7a",
         "title": "Quantitative Analytics Program - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786602642,
         "date_posted": 1786579200,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program-Capital-Markets--PhD----Early-Careers_R-568266",
@@ -327850,7 +327679,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "d82fea85-cee3-45bf-b464-5034a6e4b576",
         "title": "Artificial Intelligence Engineer - Intelligent Autonomous Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1786680269,
         "date_posted": 1786679974,
         "url": "https://careers.jhuapl.edu/jobs/57438?icims=1",
@@ -335031,7 +334860,7 @@
         "company_name": "Wells Fargo",
         "id": "73bfc23b-8afe-45f5-b99a-d19d9447b8e0",
         "title": "Quantitative Analytics Program - Risk Analytics and Decision Science - RADS Masters",
-        "active": true,
+        "active": false,
         "date_updated": 1787035055,
         "date_posted": 1787011200,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-Masters----Early-Careers_R-569399",
@@ -335051,7 +334880,7 @@
         "company_name": "Wells Fargo",
         "id": "66f38b7a-a135-4df7-9bc4-78bafe354d5c",
         "title": "Quantitative Analytics Program - Risk Analytics and Decision Science",
-        "active": true,
+        "active": false,
         "date_updated": 1787035051,
         "date_posted": 1787011200,
         "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Program---Risk-Analytics-and-Decision-Science--RADS-PhD----Early-Careers_R-569401-1",
@@ -344737,7 +344566,7 @@
         "company_name": "Mastercard",
         "id": "b948ef8c-99af-4850-940a-ca3b8506efb3",
         "title": "Software Engineer - Launch Program",
-        "active": false,
+        "active": true,
         "date_updated": 1787580931,
         "date_posted": 1787529600,
         "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Software-Engineer--Launch-Program-2027---United-States_R-288578-1",
@@ -344843,7 +344672,7 @@
         "company_name": "Tucson Talent",
         "id": "7d234714-1eac-4ca3-9451-1c4bc797be4e",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787582466,
         "date_posted": 1787529600,
         "url": "https://tucsonaz.wd1.myworkdayjobs.com/en-US/Tucson_Talent/job/Tucson-Police-Department-Headquarters/Data-Analyst-I_JR-1003361",
@@ -365792,7 +365621,7 @@
         "company_name": "Cisco",
         "id": "6fc52e99-15ec-474d-badb-f26015b0d0bb",
         "title": "Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788207672,
         "date_posted": 1786492800,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Electrical-Engineer_2020283",
@@ -371905,7 +371734,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -373835,7 +373664,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "076c001c-ee0d-4860-be0f-ebef83c4d55e",
         "title": "System Modeling, Evaluation, and Planning New Grad - System Modeling, Evaluation, and Planning",
-        "active": true,
+        "active": false,
         "date_updated": 1788453554,
         "date_posted": 1786679914,
         "url": "https://careers.jhuapl.edu/jobs/57615?icims=1",
@@ -387892,7 +387721,7 @@
         "company_name": "Intel",
         "id": "1f28f575-6e2b-4367-85a1-26670bbb8e75",
         "title": "Junior CPU Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789079076,
         "date_posted": 1788998400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Texas-Austin/Junior-CPU-Verification-Engineer_JR0286910",
@@ -388660,7 +388489,7 @@
         "company_name": "Sun Life",
         "id": "6271b947-e438-4311-adba-fb409a4bae89",
         "title": "Junior Security Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789079610,
         "date_posted": 1788998400,
         "url": "https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983",
@@ -388947,7 +388776,7 @@
         "company_name": "Microsoft",
         "id": "a9b5356a-b658-407e-858e-29e74df5f581",
         "title": "Software Engineer - CoreAI",
-        "active": true,
+        "active": false,
         "date_updated": 1789109909,
         "date_posted": 1789109816,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556989020",
@@ -393221,7 +393050,7 @@
         "company_name": "NJ Department of Environmental Protection",
         "id": "f4b94f36-054f-43a1-a7a3-eff6104aabc7",
         "title": "Analyst Trainee",
-        "active": false,
+        "active": true,
         "date_updated": 1789469174,
         "date_posted": 1789425168,
         "url": "https://njdepartmentofenvironmentalprotection.applytojob.com/apply/QWkLHLMMB3/WRM202624-Analyst-Trainee",
@@ -394319,7 +394148,7 @@
         "company_name": "T-Mobile",
         "id": "d3b9d664-582b-4b4c-a7bb-70489dda21e2",
         "title": "Associate Engineer - Agentic AI",
-        "active": true,
+        "active": false,
         "date_updated": 1789511761,
         "date_posted": 1789430400,
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Associate-Engineer--Agentic-AI_REQ368440",
@@ -395822,7 +395651,7 @@
         "company_name": "Northrop Grumman",
         "id": "c2097997-f8c0-4a1e-8b4f-e30214ed788d",
         "title": "Associate Electronics Engineer - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1789599197,
         "date_posted": 1789516800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Electronics-Engineer---Pathways-Program---Linthicum-MD_R10251108",
@@ -396694,7 +396523,7 @@
         "company_name": "Quantum",
         "id": "8f661c59-262d-4efa-a0f0-fa1477eeb966",
         "title": "Graduate Business Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789637583,
         "date_posted": 1789637428,
         "url": "https://jobs.ashbyhq.com/quantum/75dae293-00ca-4cb4-a546-680d78d3b022/application?embed=true",
@@ -399445,6 +399274,165 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "841914e1-0eb1-451e-8424-c2888a47e394",
+        "title": "Associate Digital Engineer",
+        "active": true,
+        "date_updated": 1789971427,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Digital-Engineer---Pathways-Program---Baltimore-MD_R10251163",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "6bad7a33-03b2-46a4-8d91-2b7216de6106",
+        "title": "Associate Embedded Software Engineer - Pathways Program",
+        "active": true,
+        "date_updated": 1789971432,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Associate-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10250982",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "62488509-61f9-4160-9c2b-468e506a6040",
+        "title": "Digital Engineer",
+        "active": true,
+        "date_updated": 1789971444,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027--Digital-Engineer---Pathways-Program---Baltimore-MD_R10251171",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "419fe521-70c4-4588-beb7-9730a865f951",
+        "title": "Embedded Software Engineer - Pathways Program",
+        "active": true,
+        "date_updated": 1789971411,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer---Pathways-Program---Baltimore-MD_R10251459",
+        "locations": [
+            "Baltimore, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sirona Medical",
+        "id": "373a9878-b32b-4c85-8ce6-20b6df03c8b3",
+        "title": "Go-To-Market Engineer",
+        "active": true,
+        "date_updated": 1789972777,
+        "date_posted": 1789972580,
+        "url": "https://job-boards.greenhouse.io/sironamedical/jobs/4736127005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sirona-Medical",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hard Rock Digital",
+        "id": "8116df87-b03e-4936-a2bd-5e3550fb1cb7",
+        "title": "Associate Product Manager / Associate Game Producer - Casino Games",
+        "active": true,
+        "date_updated": 1789983001,
+        "date_posted": 1789982948,
+        "url": "https://hardrockdigital.recruitee.com/o/associate-product-manager-associate-game-producer-casino-games",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Hollywood, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Hard-Rock-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Flow Traders",
+        "id": "e602abf1-f6bc-480f-b490-b0246e7b426d",
+        "title": "Quantitative Researcher",
+        "active": true,
+        "date_updated": 1789982231,
+        "date_posted": 1787752873,
+        "url": "https://job-boards.greenhouse.io/flowtraders/jobs/8156203",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Flow-Traders",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "afb82944-38ae-4d1b-b546-109f688848c8",
+        "title": "Electrical Engineer 1",
+        "active": true,
+        "date_updated": 1789992105,
+        "date_posted": 1789603200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME--Skillbridge----Electrical-Engineer-1_R10251603",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
