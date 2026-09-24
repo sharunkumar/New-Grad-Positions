@@ -2,231 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Ameriprise Financial",
-        "id": "5527d87f-3f81-4fb2-a122-f8db337b5cec",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1769497600,
-        "date_posted": 1769497600,
-        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Minneapolis-Minnesota/Associate-Data-Scientist_R26_0282-1",
-        "locations": [
-            "Minneapolis, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "f9121e60-94b1-4ec1-9eee-eeedf0529d3f",
-        "title": "2026 New Grad Rotational Program - Data Science Associate",
-        "active": false,
-        "date_updated": 1769499599,
-        "date_posted": 1769499599,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Calgary-AB/XMLNAME-2026-New-Grad-Rotational-Program---Data-Science-Associate_JR155314",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Canadian Tire",
-        "id": "32a4d54e-3bd1-4970-8915-cb71017a4a90",
-        "title": "New Graduate Rotational Program - Data Science Associate",
-        "active": false,
-        "date_updated": 1769499603,
-        "date_posted": 1769499603,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/XMLNAME-2026-New-Grad-Rotational-Program---Data-Science-Associate_JR155445",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "6a9d48f3-98c2-48af-9136-83c1391bf5f7",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1769499048,
-        "date_posted": 1769499048,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Morrisville-NC-USA/Software-Engineer-I_10141027",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cd76c8f5-8974-4739-8292-6ea4cbb34bbc",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1769509665,
-        "date_posted": 1769509665,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047203",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Aramark",
-        "id": "89d6a37e-3665-4526-af7e-33129d287ef0",
-        "title": "Barista",
-        "active": false,
-        "date_updated": 1769509615,
-        "date_posted": 1769509615,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Barista-Shamrock-Trading-Corporation-KS-66212/1359057200/?ats=successfactors",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Aramark",
-        "id": "8050a9a1-2c2e-46d5-a175-40a8b09c3b7b",
-        "title": "Cook",
-        "active": false,
-        "date_updated": 1769509643,
-        "date_posted": 1769509643,
-        "url": "https://aramarkcareers.com/UnitedStates/job/Overland-Park-Cook-Shamrock-Trading-Corporation-KS-66212/1356610700/?ats=successfactors",
-        "locations": [
-            "Overland Park, KS"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramark",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ServiceNow",
-        "id": "8b36c5cd-89df-466a-b1a7-61ac88a47543",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1769508281,
-        "date_posted": 1769508281,
-        "url": "https://jobs.smartrecruiters.com/ServiceNow/744000105800866",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ServiceNow",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "e38f7164-328c-48d4-af23-a936a3ddd5f7",
-        "title": "AI Data Specialist - Kansas - US",
-        "active": false,
-        "date_updated": 1769509738,
-        "date_posted": 1769509738,
-        "url": "https://jobs.lever.co/rws/8156d182-8db3-461d-8469-cc09beee6eb5/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "5120f22c-4bca-424c-893a-d0828a8b9833",
-        "title": "AI Data Specialist - Iowa - US",
-        "active": false,
-        "date_updated": 1769509733,
-        "date_posted": 1769509733,
-        "url": "https://jobs.lever.co/rws/60cd073a-5a37-4c1f-a72d-285f156a510e/apply",
-        "locations": [
-            "Des Moines, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "47eeecb0-7dc8-48f9-a8c6-622e4a0e0e02",
-        "title": "AI Data Specialist - Kentucky - US",
-        "active": false,
-        "date_updated": 1769509734,
-        "date_posted": 1769509734,
-        "url": "https://jobs.lever.co/rws/0220192f-30e4-45af-84d3-2aa82ca6f833/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "3dbcadb0-27b5-4998-bca6-1733b3a17fba",
-        "title": "AI Data Specialist-Oklahoma - US",
-        "active": false,
-        "date_updated": 1769509737,
-        "date_posted": 1769509737,
-        "url": "https://jobs.lever.co/rws/69ed1782-bbe5-4f7a-8a8c-b26e0ae89d78/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Lloyds Bank",
         "id": "42a6c4fb-43c2-4f93-a50d-8c855ad408b4",
         "title": "Data Engineer",
@@ -4089,24 +3864,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RWS",
-        "id": "7d740565-1780-4d06-b412-b56727a8fb19",
-        "title": "AI Data Specialist - Louisana - US",
-        "active": false,
-        "date_updated": 1769680987,
-        "date_posted": 1769509735,
-        "url": "https://jobs.lever.co/rws/581ffd9f-1006-48c6-9c8e-085fce2aab62/apply",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/RWS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -11876,24 +11633,6 @@
             "Sheffield, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Oracle",
-        "id": "59f8ced1-42ea-484b-a996-4ef6556d003f",
-        "title": "Research Scientist",
-        "active": false,
-        "date_updated": 1770114125,
-        "date_posted": 1769498838,
-        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/324368",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Oracle",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -271724,7 +271463,7 @@
         "company_name": "Deloitte",
         "id": "e2d5e6c7-81fd-47e1-9fbb-e3e3a0cb9c27",
         "title": "Consultative Offerings - Government & Public Services - AI & Data Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1784682559,
         "date_posted": 1784672056,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering/350596",
@@ -271827,7 +271566,7 @@
         "company_name": "Deloitte",
         "id": "8aa24bd6-8bc7-4e6c-a4aa-06fbaea2d494",
         "title": "Data Management Solutions Analyst - Government & Public Services - Data Management Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1784682816,
         "date_posted": 1784672078,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Data-Management-Solutions/350301",
@@ -279799,7 +279538,7 @@
         "company_name": "Odyssey",
         "id": "ee90ddfd-4df3-43fb-a192-330a49accc6c",
         "title": "AI Resident",
-        "active": false,
+        "active": true,
         "date_updated": 1784889721,
         "date_posted": 1784326326,
         "url": "https://jobs.ashbyhq.com/odysseyml/1af903b4-3cab-4d3b-8d8b-ce918fdf6a3d/application?embed=true",
@@ -292784,7 +292523,7 @@
         "company_name": "State Street",
         "id": "a1b78398-f928-4540-906d-107312019bc7",
         "title": "Junior SIEM Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785540241,
         "date_posted": 1785456000,
         "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Junior-SIEM-Data-Engineer_R-794329",
@@ -306771,7 +306510,7 @@
         "company_name": "Treeswift",
         "id": "b3541444-6a47-4fee-a24f-875dc0687657",
         "title": "Data Annotation Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1785968824,
         "date_posted": 1785968473,
         "url": "https://jobs.ashbyhq.com/treeswift/b1252d78-3e55-4d4c-a23e-a9dacaf0d050/application?embed=true",
@@ -314989,7 +314728,7 @@
         "company_name": "Deloitte",
         "id": "db040850-9b1f-4c19-93d8-de0c16003f79",
         "title": "Delivery Analyst - Government & Public Services - AI & Data Engineering Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1786401575,
         "date_posted": 1786401422,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-AI-Data-Engineering-Solutions/357022",
@@ -315483,7 +315222,7 @@
         "company_name": "Deloitte",
         "id": "071ed622-765f-4844-a5d5-2482916aec1e",
         "title": "Cyber Software Engineering Analyst - Government & Public Services - Cyber Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786412257,
         "date_posted": 1786412033,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-Cyber-Software-Engineering/362393",
@@ -318037,7 +317776,7 @@
         "company_name": "Deloitte",
         "id": "a9a2e369-3bce-45ed-ac8b-e9ea8ed3da85",
         "title": "Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487524,
         "date_posted": 1786487064,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Software-Engineering-Solutions/362516",
@@ -318118,7 +317857,7 @@
         "company_name": "Deloitte",
         "id": "8ce351e6-944c-4e61-8422-e151a5a7baf2",
         "title": "Delivery Analyst - Government & Public Services - Cyber Software Engineering Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1786487517,
         "date_posted": 1786487046,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Software-Engineering-Solutions/362503",
@@ -318138,7 +317877,7 @@
         "company_name": "Deloitte",
         "id": "8cac9d6d-19e9-4c38-90cc-0b440a2424e9",
         "title": "Cyber Analytics Solutions Delivery Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1786487509,
         "date_posted": 1786487041,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Cyber-Analytics-Solutions/362502",
@@ -319049,7 +318788,7 @@
         "company_name": "ByteDance",
         "id": "dba5405f-12de-4a7e-a7b7-323dd31fc670",
         "title": "Research Engineer Graduate - Seed Infra - PhD",
-        "active": false,
+        "active": true,
         "date_updated": 1786505581,
         "date_posted": 1786505447,
         "url": "https://jobs.bytedance.com/en/position/7671034858089040181/detail",
@@ -322690,7 +322429,7 @@
         "company_name": "Deloitte",
         "id": "9f472a68-b131-41db-abf0-48a1bbdcff63",
         "title": "Delivery Analyst - Discovery Solutions - Government & Public Services",
-        "active": true,
+        "active": false,
         "date_updated": 1786623344,
         "date_posted": 1786487058,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Discovery-Solutions/362504",
@@ -328583,7 +328322,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -335425,7 +335164,7 @@
         "company_name": "Duetto Research",
         "id": "818c0cd0-d0e6-4a8b-ad0d-80cf17c1f4ad",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1787146561,
         "date_posted": 1787146399,
         "url": "https://job-boards.greenhouse.io/duettoresearch/jobs/8138628",
@@ -350289,7 +350028,7 @@
         "company_name": "RTX",
         "id": "aa978fcf-172b-4c86-9b7b-31d9a39a6d8a",
         "title": "Embedded Software Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1787869451,
         "date_posted": 1787788800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Embedded-Software-Engineer-I--Onsite-_01870328",
@@ -352902,7 +352641,7 @@
         "company_name": "Altice USA",
         "id": "ed1c1803-cea0-4778-8d48-8ba69bc0716a",
         "title": "Software Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1787963968,
         "date_posted": 1787304182,
         "url": "https://www.optimumcareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1420351500/?ats=successfactors",
@@ -359284,7 +359023,7 @@
         "company_name": "Deloitte",
         "id": "17f07991-3767-45b5-b4c0-6b1d4822464a",
         "title": "AI and Data Engineering Analyst - Government & Public Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788314986,
         "date_posted": 1788314794,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Analyst-AI-Data-Engineering-Winter-2027/365230",
@@ -374983,7 +374722,7 @@
         "company_name": "Deloitte",
         "id": "d314e733-083a-4e1a-84c6-ca380eafd2f8",
         "title": "Delivery Analyst - Government & Public Services - Business Analytics Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1788485961,
         "date_posted": 1786401418,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-US-Delivery-Center-Government-Public-Services-Delivery-Analyst-Business-Analytics-Solutions/362389",
@@ -376030,7 +375769,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "c1446912-2074-4a9b-a131-41d8d9c232cb",
         "title": "Systems Engineer - Muos",
-        "active": true,
+        "active": false,
         "date_updated": 1788491087,
         "date_posted": 1788474214,
         "url": "https://careers-gdms.icims.com/jobs/74778/job?mobile=true&needsRedirect=false",
@@ -381247,7 +380986,7 @@
         "company_name": "Deloitte",
         "id": "694ca9d6-abb6-4b8a-8fbb-743c035e90dd",
         "title": "Audit & Assurance - Assistant - Data & Analytics - Summer 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1788884101,
         "date_posted": 1788884027,
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Assistant-Data-Analytics-Summer-2027/359262",
@@ -382034,7 +381773,7 @@
         "company_name": "RTX",
         "id": "60bf5735-7aca-4f7f-a89d-fec901bb12bf",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788907577,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I--Onsite-_01866752",
@@ -396404,7 +396143,7 @@
         "company_name": "Harris Computer",
         "id": "5bc6041b-141f-4df8-ba11-388fc1eae726",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1789598161,
         "date_posted": 1789516800,
         "url": "https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Texas/Software-Developer_R0046516-4",
@@ -399429,7 +399168,7 @@
         "company_name": "Grayce",
         "id": "d1d59849-acaf-4fac-8763-72a6042a75f8",
         "title": "Graduate Software Engineer - Bridgend",
-        "active": true,
+        "active": false,
         "date_updated": 1790156162,
         "date_posted": 1790155943,
         "url": "https://apply.workable.com/grayce/j/1789116104/apply",
@@ -400143,7 +399882,7 @@
         "company_name": "Iron Mountain",
         "id": "e1551d1c-8e91-44ec-b00f-6264e1d6653c",
         "title": "Machine Learning Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1790202962,
         "date_posted": 1790121600,
         "url": "https://ironmountain.wd5.myworkdayjobs.com/iron-mountain-jobs/job/US--FL--Remote/Machine-Learning-Associate_J0107736",
@@ -400480,6 +400219,180 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Collaborative Robotics",
+        "id": "1ca8ecda-da5a-4d6f-a950-95dd0295a5a7",
+        "title": "Robotics Data Collection Operator Shift Lead - Seattle",
+        "active": true,
+        "date_updated": 1790231051,
+        "date_posted": 1790230661,
+        "url": "https://jobs.ashbyhq.com/cobot/6c6995ec-6a29-46e9-b7c4-e02bc44c1950/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Collaborative-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Xero",
+        "id": "9860b985-32f5-4061-92b6-53b33bacbe0c",
+        "title": "Associate Engineer - Back End",
+        "active": true,
+        "date_updated": 1790230681,
+        "date_posted": 1790230516,
+        "url": "https://jobs.ashbyhq.com/xero/8f7f41b3-85db-4029-ab1a-70c88c5dc987/application?embed=true",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Xero",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Catch22",
+        "id": "5f5ba969-11f5-4f22-afec-0bcaa6f651af",
+        "title": "Administrator and Data Analyst",
+        "active": true,
+        "date_updated": 1790241122,
+        "date_posted": 1790240699,
+        "url": "https://jobs.smartrecruiters.com/Catch22/744000151555600",
+        "locations": [
+            "Oxford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Catch22",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "d1de5351-a1c6-4497-bcfd-241a21eab0c3",
+        "title": "Student Researcher",
+        "active": true,
+        "date_updated": 1790245801,
+        "date_posted": 1780610904,
+        "url": "https://jobs.bytedance.com/en/position/7623544831999346997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Thomson Reuters",
+        "id": "932c8282-94e7-4738-b5a0-8a89018ff99c",
+        "title": "Conference Producer Graduate",
+        "active": true,
+        "date_updated": 1790247361,
+        "date_posted": 1788393600,
+        "url": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom-London/Conference-Producer_JREQ203200",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thomson-Reuters",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "L3Harris Technologies",
+        "id": "d6145bb9-e227-4e58-93d0-88787216d111",
+        "title": "Associate Technical Training - Tactical Communications Multimedia Training",
+        "active": true,
+        "date_updated": 1790245966,
+        "date_posted": 1788289303,
+        "url": "https://jobs.l3harris.com/job/Rochester-Associate,-Technical-Training-NY-14609/1425480300/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "7402d967-f0d4-417e-8818-d1342baa43dd",
+        "title": "Electrical Design Engineer New Grad - Design Method",
+        "active": true,
+        "date_updated": 1790247019,
+        "date_posted": 1784505600,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Sr-Design-Engineer--DEG-Design-Method_JR104060",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SDSU Research Foundation",
+        "id": "eeb53961-7042-4fec-9272-ed291c610f32",
+        "title": "Undergraduate Student 3 - Communications Division Engineering Support",
+        "active": true,
+        "date_updated": 1790246931,
+        "date_posted": 1782165771,
+        "url": "https://careers-sdsurf.icims.com/jobs/20550/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SDSU-Research-Foundation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "f5e5e7e7-1d95-4907-8ad0-5a40a783a6ba",
+        "title": "Research Scientist - Seed Model - Vision",
+        "active": true,
+        "date_updated": 1790246161,
+        "date_posted": 1773392929,
+        "url": "https://jobs.bytedance.com/en/position/7362026100950321459/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
