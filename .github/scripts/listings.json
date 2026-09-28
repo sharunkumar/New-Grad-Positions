@@ -1,85 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dominion Energy",
-        "id": "a52b5192-a42f-4cd0-8bf3-d735cb44cba0",
-        "title": "Energy Supply GMS Analyst \u2013 Or Senior - Associate - Intermediate",
-        "active": false,
-        "date_updated": 1769858044,
-        "date_posted": 1769858044,
-        "url": "https://careers.dominionenergy.com/job/RICHMOND-Energy-Supply-GMS-Analyst-(Associate,-Intermediate,-or-Senior)-VA-23219/1360811700/?ats=successfactors",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dominion Energy",
-        "id": "de0957ad-91c2-4c61-80d0-801c8e52d428",
-        "title": "Load Forecasting Engineer \u2013 Engineer/Senior/Staff - Engineering Analytics & Modeling",
-        "active": false,
-        "date_updated": 1769858035,
-        "date_posted": 1769858035,
-        "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Load-Forecasting-Engineer-(EngineerSeniorStaff)-Engineering-Analytics-&-Modeling-VA-23060/1360725700/?ats=successfactors",
-        "locations": [
-            "Glen Allen, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "NextEra Energy",
-        "id": "eb4cc09a-4ac0-47ae-9ef8-275dec3d3165",
-        "title": "Associate Data Scientist",
-        "active": false,
-        "date_updated": 1769857824,
-        "date_posted": 1769857824,
-        "url": "https://jobs.nexteraenergy.com/job/Juno-Beach-Associate-Data-Scientist-FL-33408/1360699900/?ats=successfactors",
-        "locations": [
-            "Palm Beach Gardens, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/NextEra-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Magnite",
-        "id": "1ab2c3ce-5b13-4f99-ac1c-d77f6c5bfd38",
-        "title": "Engineer 1 - Applied LLM Team",
-        "active": false,
-        "date_updated": 1769865223,
-        "date_posted": 1769865223,
-        "url": "https://osv-rubicon.wd5.myworkdayjobs.com/en-US/MagniteCareers/job/New-York---New-York/Engineer-I--Applied-LLM-Team_R-01194",
-        "locations": [
-            "LA",
-            "NYC",
-            "Broomfield, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/ee8236a0-5b6a-4389-a774-e10fe29442a2",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "f68d668a-af59-473a-b108-9866750805f6",
@@ -51234,27 +51155,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Royal Caribbean Group",
-        "id": "ca8f948f-abeb-463e-bc57-6f8023948013",
-        "title": "Senior Analyst - Discovery & Innovations - Product Development",
-        "active": false,
-        "date_updated": 1769857868,
-        "date_posted": 1769857868,
-        "url": "https://jobs.royalcaribbeangroup.com/job/Miami-Senior-Analyst,-Discovery-&-Innovations,-Product-Development-FL-33132/1360721100/?ats=successfactors",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Caribbean-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "MBA"
         ]
     },
     {
@@ -285138,7 +285038,7 @@
         "company_name": "Intel",
         "id": "e20aacdb-9613-4b2d-b0b5-dbfcb38aca81",
         "title": "CAD/EDA Tools Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785596055,
         "date_posted": 1783161292,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Automation-Engineer_JR0284432-1",
@@ -298120,7 +298020,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5c1fef0-1b4d-45d7-aebe-2baa0c94063b",
         "title": "Associate Software Engineer / Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1785979254,
         "date_posted": 1785888000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561",
@@ -298904,7 +298804,7 @@
         "company_name": "Accenture",
         "id": "61b9c823-c168-4748-9d94-8ae5a407a3da",
         "title": "AI Native Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786010822,
         "date_posted": 1784160000,
         "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/London/AI-Native-Software-Engineering_R00343768-1",
@@ -319394,7 +319294,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -364106,7 +364006,7 @@
         "company_name": "M3USA",
         "id": "3963f892-9c32-40cb-b7a9-773c51c2a664",
         "title": "Market Research Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788462022,
         "date_posted": 1782309815,
         "url": "https://jobs.smartrecruiters.com/M3USA/744000143122703",
@@ -374573,7 +374473,7 @@
         "company_name": "Boeing",
         "id": "96ce500e-5e6d-4796-8787-89a69ab30d04",
         "title": "Software Engineer - Associate - Bixby",
-        "active": true,
+        "active": false,
         "date_updated": 1788994167,
         "date_posted": 1788912000,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Seal-Beach-CA/Software-Engineer--Associate--Experienced-or-Senior----Bixby_JR2026524250",
@@ -387260,7 +387160,7 @@
         "company_name": "Anglian Water",
         "id": "92e9de56-6381-4b20-90ea-41ec1103cf1d",
         "title": "Digital Data and Technology Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1789415461,
         "date_posted": 1789344000,
         "url": "https://awg.wd3.myworkdayjobs.com/broadbean_external/job/Huntingdon/Digital-Data-and-Technology-Graduate_R39598",
@@ -387600,7 +387500,7 @@
         "company_name": "Avis Budget Group",
         "id": "3e65a8e9-cfc2-4798-af5d-70e43087cbf2",
         "title": "Data Analyst - Commercial",
-        "active": true,
+        "active": false,
         "date_updated": 1790000461,
         "date_posted": 1789948800,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Analyst_R0190645",
@@ -388706,7 +388606,7 @@
         "company_name": "Rockwell Automation",
         "id": "71b68af2-1552-4b4c-82c3-a2d1bfee150d",
         "title": "Leadership Development Program - Product Engineering & Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888-1",
@@ -388726,7 +388626,7 @@
         "company_name": "Apple",
         "id": "5b6d1005-f538-4163-bdf8-2fc73e2db74e",
         "title": "Firmware Engineer - HID Bluetooth",
-        "active": true,
+        "active": false,
         "date_updated": 1790039341,
         "date_posted": 1790039268,
         "url": "https://jobs.apple.com/en-us/details/200684986",
@@ -391800,7 +391700,7 @@
         "company_name": "Renesas Electronics",
         "id": "97c69bfd-6ab9-43e5-b0ab-19b254c22d0b",
         "title": "Validation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790287741,
         "date_posted": 1790287700,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000151689350",
@@ -392953,7 +392853,7 @@
         "company_name": "Charles Schwab",
         "id": "40bf0d3e-456c-4a73-a81b-3767a13f72ea",
         "title": "Associate Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790375033,
         "date_posted": 1790374138,
         "url": "https://career-schwab.icims.com/jobs/126526/job?mobile=true&needsRedirect=false",
@@ -393745,7 +393645,7 @@
         "company_name": "Rockwell Automation",
         "id": "8b43283a-d9a8-4051-ba77-0ead77dca4c2",
         "title": "Leadership Development Program - Product Engineering & Development",
-        "active": true,
+        "active": false,
         "date_updated": 1790039701,
         "date_posted": 1789948800,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Leadership-Development-Program--Product-Engineering---Development_R26-6888",
