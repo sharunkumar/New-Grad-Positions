@@ -1,366 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NCR Voyix",
-        "id": "b6693a55-3d12-43bc-b716-9f62849b8a21",
-        "title": "Customer Engineer 1-Leominster - MA",
-        "active": false,
-        "date_updated": 1770294579,
-        "date_posted": 1770294579,
-        "url": "https://ncr.wd1.myworkdayjobs.com/ext_us/job/MASSACHUSETTS-VIRTUAL-USA/Customer-Engineer-I--Leominster--MA_R0156213",
-        "locations": [
-            "Leominster, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/NCR-Voyix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Stanley Black & Decker",
-        "id": "2794d444-a451-471d-92d4-4e9ec3c41ad4",
-        "title": "Associate Product Manager - Craftsman",
-        "active": false,
-        "date_updated": 1770305131,
-        "date_posted": 1770305131,
-        "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Associate-Product-Manager--CRAFTSMAN-_REQ-1000045166",
-        "locations": [
-            "Towson, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Stanley-Black-Decker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sonar",
-        "id": "447c5220-3c1d-42aa-acc9-f48fdcb49f11",
-        "title": "Graduate Software Engineer - Java - Remediation Agent",
-        "active": false,
-        "date_updated": 1770304807,
-        "date_posted": 1770304807,
-        "url": "https://jobs.lever.co/sonarsource/4db2309e-86f2-46a0-b59d-59daac472a74/apply",
-        "locations": [
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Sonar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Close",
-        "id": "8108763f-a11c-41ab-b39b-dcb796a6d941",
-        "title": "Support Engineer",
-        "active": false,
-        "date_updated": 1770304713,
-        "date_posted": 1770304713,
-        "url": "https://jobs.ashbyhq.com/Close/70a235e8-230f-492c-bb34-5559fe648298/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Close",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "onsemi",
-        "id": "f52fcb06-3887-4051-adad-300144171b01",
-        "title": "Transformation Program Associate - Corporate Transformation Team",
-        "active": false,
-        "date_updated": 1770304213,
-        "date_posted": 1770304213,
-        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2504408",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Onsemi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f252d477-6358-4cce-8463-d01a3d40f566",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304267,
-        "date_posted": 1770304267,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048348",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e0dccfdc-4f26-4d6c-8a22-23ffc1c24e41",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1770304249,
-        "date_posted": 1770304249,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400047299",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b7313196-d5b8-4a75-8997-eec0328f3b58",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304277,
-        "date_posted": 1770304277,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048342",
-        "locations": [
-            "Edinburgh, UK",
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a5877220-3b5f-4b30-9a98-eefab39b55cd",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304263,
-        "date_posted": 1770304263,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400044885",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9d92a528-49fb-434b-9a0b-199120d6f527",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304274,
-        "date_posted": 1770304274,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048333",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "863d1b66-b0ce-4a6c-80ad-9b6b88b4a616",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304261,
-        "date_posted": 1770304261,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048373",
-        "locations": [
-            "Canterbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7bfcadbc-7e51-4540-875b-4bfcfdcf5c40",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304287,
-        "date_posted": 1770304287,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048367",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "411e123a-ffa8-4329-b6a7-47ea8aec254c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304297,
-        "date_posted": 1770304297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048347",
-        "locations": [
-            "Durham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "381cdb86-8fc0-446b-8240-f25032a47b66",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1770304259,
-        "date_posted": 1770304259,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400048335",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "82a60c2e-2712-480c-9e6d-b02fae42d6e8",
-        "title": "Product Manager 1 - Youtube XR - Gaming Discovery",
-        "active": false,
-        "date_updated": 1770304023,
-        "date_posted": 1770304023,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/98332241645445830",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Brink",
-        "id": "46cda402-c195-41cb-9cfa-0966199389db",
-        "title": "Repair Depot Technician",
-        "active": false,
-        "date_updated": 1770303971,
-        "date_posted": 1770303971,
-        "url": "https://brinks.wd5.myworkdayjobs.com/brinkscareersus/job/Cincinnati-OHTL140/Repair-Depot-Technician_R69624",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Brink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "RELX",
-        "id": "538a46b4-b549-44c0-91ad-712d7959eb69",
-        "title": "Senior Associate Product Manager",
-        "active": false,
-        "date_updated": 1770306003,
-        "date_posted": 1770306003,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Senior-Associate-Product-Mgr--Hybrid-Alpharetta-_R105211-1",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wells Fargo",
-        "id": "07988ed2-6d81-4e5d-adc1-49543d9fcb4b",
-        "title": "Quantitative Analytics Specialist",
-        "active": false,
-        "date_updated": 1770306120,
-        "date_posted": 1770306120,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-FRANCISCO-CA/Quantitative-Analytics-Specialist--Ref-000846-_R-520189-1",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cerebras",
-        "id": "4d3b2ac3-67c4-4d64-bb32-02b701098e58",
-        "title": "Inference Frontend",
-        "active": false,
-        "date_updated": 1770305950,
-        "date_posted": 1770305950,
-        "url": "https://boards.greenhouse.io/embed/job_app?token=7619102003",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cerebras-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Cloudera",
         "id": "b9164a4f-3c74-45fc-af33-adc313e3505e",
@@ -1807,26 +1447,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "3ca0649c-047b-4070-ae70-61ab26b32828",
-        "title": "Senior Associate - Software Engineer",
-        "active": false,
-        "date_updated": 1770304631,
-        "date_posted": 1770304631,
-        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Sr-Associate,-Software-Engineer-(Salt-Lake-City,-UT)-UT-84116/1316696500/?ats=successfactors",
-        "locations": [
-            "Salt Lake City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "69212627-308a-4df4-99c3-9691eabd60ce",
@@ -1857,24 +1477,6 @@
             "Oxford, UK"
         ],
         "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Morgan Stanley",
-        "id": "d39bb0ea-d7dc-4e21-9fd3-19af7cd82fe2",
-        "title": "Consultant - Associate - Tech Program Mgmt III",
-        "active": false,
-        "date_updated": 1770304820,
-        "date_posted": 1770304820,
-        "url": "https://ms.wd5.myworkdayjobs.com/private/job/Montreal-Canada/Consultant-conversion---Associate--Tech-Program-Mgmt-III_PT-JR029155",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Morgan-Stanley",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -29832,27 +29434,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "50f0dc5e-2485-4d89-8279-8b8a6eb4f746",
-        "title": "Field Engineer - Imaging",
-        "active": false,
-        "date_updated": 1771939641,
-        "date_posted": 1770305885,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Associate-Field-Engineer-1--Denver--CO-_R4035664-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -273047,7 +272628,7 @@
         "company_name": "Fifth Third Bank",
         "id": "ef55f078-97dd-4d24-b83e-fe4a5d11a422",
         "title": "IT Leadership Program - 2027",
-        "active": true,
+        "active": false,
         "date_updated": 1785449882,
         "date_posted": 1785449831,
         "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/IT-Leadership-Program---2027_R67329",
@@ -311258,7 +310839,7 @@
         "company_name": "Goldman Sachs",
         "id": "a84b5ca0-5e89-4893-97cb-4be5aead281c",
         "title": "Engineering New Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1786768199,
         "date_posted": 1786767953,
         "url": "https://higher.gs.com/roles/171568?type=students",
@@ -324057,7 +323638,7 @@
         "company_name": "Northrop Grumman",
         "id": "f6b37c2b-7ce8-46be-9bd2-52ee453ee815",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787388047,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Resource-Control-Team-Software-Engineer--Level-1-or-2----AHT_R10247178",
@@ -383797,7 +383378,7 @@
         "company_name": "Kyndryl",
         "id": "da3ba969-e181-470f-b17c-7b26176f07be",
         "title": "Associate Creative Technologist",
-        "active": true,
+        "active": false,
         "date_updated": 1790288713,
         "date_posted": 1786579200,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Early-Career-Consult-Program---Associate-Creative-Technologist_R-66763",
@@ -387455,7 +387036,7 @@
         "company_name": "Nutanix",
         "id": "eff98609-6d2a-4e7a-8b80-9c0f39ea9e99",
         "title": "Member of Technical Staff 4 - Datahub",
-        "active": false,
+        "active": true,
         "date_updated": 1790720825,
         "date_posted": 1790115639,
         "url": "https://jobs.jobvite.com/nutanix/job/odPOAfwa?nl=1&nl=1&fr=false",
@@ -387533,7 +387114,7 @@
         "company_name": "RTX",
         "id": "97d3e16d-4c5c-4908-8dc2-3d180fcd42ac",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790730995,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineer-I--Onsite-_01878730",
@@ -391551,6 +391132,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intact",
+        "id": "2701a7fb-2fe3-45b1-b197-f7f80f435f82",
+        "title": "Tech Development Program New Grad - Software Development & Cloud Stream",
+        "active": true,
+        "date_updated": 1791028117,
+        "date_posted": 1790553600,
+        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/New-Grad-Tech-Development-Program---Software-Development---Cloud-Stream_R155934",
+        "locations": [
+            "Montreal, QC, Canada",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
