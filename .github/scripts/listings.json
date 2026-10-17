@@ -1,430 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "8c724b23-b84c-4c2a-899a-7d67be816fb9",
-        "title": "SharePoint Administrator/Developer",
-        "active": false,
-        "date_updated": 1771485226,
-        "date_posted": 1771485226,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83605355",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atria Group",
-        "id": "84a4532b-6ed6-4737-984f-6b611a764056",
-        "title": "Core Java Developer",
-        "active": false,
-        "date_updated": 1771485228,
-        "date_posted": 1771485228,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/81188078",
-        "locations": [
-            "Cupertino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASSYSTEM",
-        "id": "7b951641-67ec-4a4c-8658-d507f3cafbe7",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1771485186,
-        "date_posted": 1771485186,
-        "url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000090789591",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSYSTEM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "73c9e1f1-c9ef-4e84-84a1-ae482c996cb1",
-        "title": "BI Data Analyst",
-        "active": false,
-        "date_updated": 1771485210,
-        "date_posted": 1771485210,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83925014",
-        "locations": [
-            "Addison, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atria Group",
-        "id": "454b7531-1c3f-4d4c-a1c8-7fdefccc4258",
-        "title": "Entry Level ASP.NET programmer",
-        "active": false,
-        "date_updated": 1771485250,
-        "date_posted": 1771485250,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/72190211",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fa33a8fb-cb54-45e3-b56d-914b9a50ce3f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1771484942,
-        "date_posted": 1771484942,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050130",
-        "locations": [
-            "Northwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Clearer.io",
-        "id": "c3855fad-4a08-4830-934a-13bcb746bf82",
-        "title": "Associate Software Engineer 1",
-        "active": false,
-        "date_updated": 1771485101,
-        "date_posted": 1771485101,
-        "url": "https://jobs.lever.co/Clearer/530ccee8-a05b-4511-9b0f-4296a8a489ef/apply",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Clearer-Io",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "61ef29ef-a9e3-4dbe-9c79-7fba40998fab",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1771485045,
-        "date_posted": 1771485045,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26001733",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ask IT Consulting",
-        "id": "5e788858-b3db-4305-88ee-d91e583a9d7a",
-        "title": "Software Design Engineer",
-        "active": false,
-        "date_updated": 1771485153,
-        "date_posted": 1771485153,
-        "url": "https://jobs.smartrecruiters.com/AskITConsulting/103476528",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ASSYSTEM",
-        "id": "57e04409-fc03-4d83-8a96-352f25125716",
-        "title": "Graduate Digital Engineering & Integration Engineer",
-        "active": false,
-        "date_updated": 1771485092,
-        "date_posted": 1771485092,
-        "url": "https://jobs.smartrecruiters.com/ASSYSTEM/744000107736138",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSYSTEM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ask IT Consulting",
-        "id": "1795cf4e-c11d-445a-b456-46e78f4e1bb6",
-        "title": "Software Design Engineer",
-        "active": false,
-        "date_updated": 1771485152,
-        "date_posted": 1771485152,
-        "url": "https://jobs.smartrecruiters.com/AskITConsulting/103462571",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arka Infotech",
-        "id": "c07df5ff-9c4a-4139-b95a-cd6534c007c0",
-        "title": "Hybris Developer",
-        "active": false,
-        "date_updated": 1771484841,
-        "date_posted": 1771484841,
-        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/83437039",
-        "locations": [
-            "Cheektowaga, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Arka-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Arka Infotech",
-        "id": "8882eb24-cbbb-4369-992b-684cb6b5fb12",
-        "title": "SQL Server Architect",
-        "active": false,
-        "date_updated": 1771484837,
-        "date_posted": 1771484837,
-        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/85225089",
-        "locations": [
-            "Baltimore, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Arka-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BCforward",
-        "id": "7be86b0e-5b51-46fd-9eac-67bf83afe6af",
-        "title": "Net Developer",
-        "active": false,
-        "date_updated": 1771484699,
-        "date_posted": 1771484699,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/93142765",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BCforward",
-        "id": "5f49434d-9995-49df-89f7-3b03f29ef00c",
-        "title": "DataStage Administrator",
-        "active": false,
-        "date_updated": 1771484673,
-        "date_posted": 1771484673,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/91801731",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arka Infotech",
-        "id": "4dd42a3c-3fcd-491f-b922-16e435212142",
-        "title": "Angularjs Developer",
-        "active": false,
-        "date_updated": 1771484843,
-        "date_posted": 1771484843,
-        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/85677157",
-        "locations": [
-            "Parowan, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/Arka-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BCforward",
-        "id": "432431b2-2756-4e92-a866-d8bcaf710a6b",
-        "title": "SAP MDG Consultant",
-        "active": false,
-        "date_updated": 1771484670,
-        "date_posted": 1771484670,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/96417803",
-        "locations": [
-            "Bellevue, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Beta Soft Systems",
-        "id": "325b5cec-2d43-402d-9e7e-c4772a5e57cc",
-        "title": "Quality Assurance Engineer - Quality Assurance - Software",
-        "active": false,
-        "date_updated": 1771484831,
-        "date_posted": 1771484831,
-        "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85575889",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Arka Infotech",
-        "id": "323f0d24-cbde-4bca-a596-412f91d84399",
-        "title": "Senior .NET Developer",
-        "active": false,
-        "date_updated": 1771484839,
-        "date_posted": 1771484839,
-        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/83641651",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arka-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson & Johnson",
-        "id": "785d6ff9-e61f-4b55-a6ce-b94fcdf17c3b",
-        "title": "Senior Robotic Software Engineer",
-        "active": false,
-        "date_updated": 1771486709,
-        "date_posted": 1771486709,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Senior-Robotic-Software-Engineer_R-055925",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Asurion",
-        "id": "6edcff48-2039-492f-9338-43e8f72d37fd",
-        "title": "Cell Phone Repair Technician-Partnership Store - Google",
-        "active": false,
-        "date_updated": 1771486508,
-        "date_posted": 1771486508,
-        "url": "https://asurion.wd5.myworkdayjobs.com/asurioncareers_us/job/UBIF-DC---Washington---3235-M-St-NW/Cell-Phone-Repair-Technician--Partnership-Store--Google-_ASU0018854-1",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/Asurion",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "5d2b8c04-74eb-4c9c-845d-81f14ac7d574",
-        "title": "2026 Full-time - Software Engineer I",
-        "active": false,
-        "date_updated": 1771486032,
-        "date_posted": 1771486032,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01824796",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Amentum",
         "id": "d55d6241-35aa-4a28-982a-ac3a6e48fa27",
@@ -3199,26 +2775,6 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Aptiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fora",
-        "id": "6aa1d6a7-e8f7-498a-b465-07ae95d5d0fa",
-        "title": "The Wolf Graduate Program",
-        "active": false,
-        "date_updated": 1771486683,
-        "date_posted": 1771486683,
-        "url": "https://www.foratravel.com/careers/jobs?gh_jid=4249787008",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Fora",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -24507,26 +24063,6 @@
             "Philadelphia, PA"
         ],
         "company_url": "https://simplify.jobs/c/Mastery-Charter-Schools",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Beta Soft Systems",
-        "id": "964678a1-b65c-49cc-b211-7b1113c3d406",
-        "title": "iOS Developer",
-        "active": false,
-        "date_updated": 1771484821,
-        "date_posted": 1771484821,
-        "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/85390019",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -65971,24 +65507,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Atria Group",
-        "id": "24c6a8ee-dffa-4ef6-b866-bbdf5be3cd1f",
-        "title": "Drupal Developer",
-        "active": false,
-        "date_updated": 1774946341,
-        "date_posted": 1771485174,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84938942",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jobsbridge",
         "id": "757ce436-c079-46f1-abe2-6fc73ff48bab",
         "title": "Java Engineer",
@@ -66104,26 +65622,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "BCforward",
-        "id": "46a77194-f12c-4547-8132-1cdef59fbcb7",
-        "title": "VNF Systems Engineer",
-        "active": false,
-        "date_updated": 1774949401,
-        "date_posted": 1771484660,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/94082803",
-        "locations": [
-            "SF",
-            "Jackson Township, NJ",
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Career Guidant",
         "id": "d2f2d820-b9ed-43d7-81be-81b881a00689",
         "title": "Kofax Developer",
@@ -66139,26 +65637,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "BCforward",
-        "id": "1fcdfa06-edd1-4eac-80b6-66d6edfed3f1",
-        "title": "Designer/Drafter",
-        "active": false,
-        "date_updated": 1774951276,
-        "date_posted": 1771484668,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/99893919",
-        "locations": [
-            "Roanoke, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -66311,44 +65789,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "4e70088d-93fa-4f90-9fb4-0a77fa7d17d4",
-        "title": "EDI Analyst",
-        "active": false,
-        "date_updated": 1774960561,
-        "date_posted": 1771485234,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/77086890",
-        "locations": [
-            "Jacksonville, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BCforward",
-        "id": "44e2b0ff-b063-42f2-903b-c4fb0664b09f",
-        "title": "Transaction Processing Associate",
-        "active": false,
-        "date_updated": 1774959121,
-        "date_posted": 1771484646,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/102287763",
-        "locations": [
-            "San Antonio, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Integrated Resources",
         "id": "a8d05e18-f7fd-4930-9cae-3350e97c2031",
@@ -66428,24 +65868,6 @@
             "Bachelor's",
             "MBA"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Beta Soft Systems",
-        "id": "e18e2316-abd1-4e09-b344-0954d086b293",
-        "title": "Urgent Opening Hiring Entry Level - Multiple Teams",
-        "active": false,
-        "date_updated": 1774960005,
-        "date_posted": 1771484842,
-        "url": "https://jobs.smartrecruiters.com/BetaSoftSystems3/112324552",
-        "locations": [
-            "Fremont, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Beta-Soft-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -66775,27 +66197,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Arka Infotech",
-        "id": "1050fbd0-f778-45ce-9d69-342e4f6cd60d",
-        "title": "Cloud Development Engineer",
-        "active": false,
-        "date_updated": 1774960020,
-        "date_posted": 1771484876,
-        "url": "https://jobs.smartrecruiters.com/ArkaInfotechInc/89864812",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Arka-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "USM Business Systems",
         "id": "e3113b3d-cffc-4c01-b668-b23654392f50",
@@ -66926,78 +66327,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atria Group",
-        "id": "7a5fac0f-e672-40c7-943a-87bbd1449a89",
-        "title": "Java Developer - Multiple Teams",
-        "active": false,
-        "date_updated": 1774960561,
-        "date_posted": 1771485193,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84244233",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "ae8f2d15-f85c-46a9-aa5c-b8e411e7d840",
-        "title": "Unix Developer",
-        "active": false,
-        "date_updated": 1774960561,
-        "date_posted": 1771485170,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/84920753",
-        "locations": [
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ask IT Consulting",
-        "id": "a8ad3e04-98f4-41c1-949d-f0ff017efa48",
-        "title": "GIS Technician",
-        "active": false,
-        "date_updated": 1774949401,
-        "date_posted": 1771485054,
-        "url": "https://jobs.smartrecruiters.com/AskITConsulting/743999655190825",
-        "locations": [
-            "Richmond, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "64d81724-5464-40f1-84c5-fedb6db9dad1",
-        "title": "Infosphere Developer with Informatica",
-        "active": false,
-        "date_updated": 1774959121,
-        "date_posted": 1771485134,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87606007",
-        "locations": [
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -67660,24 +66989,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atria Group",
-        "id": "af6db19c-35b0-4bb8-aa1a-8078ce865d94",
-        "title": ".NET Developer",
-        "active": false,
-        "date_updated": 1775001390,
-        "date_posted": 1771485262,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/83569006",
-        "locations": [
-            "Novato, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cintas",
         "id": "1920c33f-707a-490b-967e-33d6f9dca58e",
@@ -68003,26 +67314,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ask IT Consulting",
-        "id": "2abc2e7c-91f5-4271-9bfe-458a57111eba",
-        "title": "Kentico Developer",
-        "active": false,
-        "date_updated": 1774981081,
-        "date_posted": 1771485136,
-        "url": "https://jobs.smartrecruiters.com/AskITConsulting/108939474",
-        "locations": [
-            "Waukesha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -211859,7 +211150,7 @@
         "company_name": "The Allen Institute for AI",
         "id": "0a82dc54-725b-4222-9f22-2a0b904f79f8",
         "title": "Predoctoral Young Investigator - Open Ecosystem",
-        "active": false,
+        "active": true,
         "date_updated": 1783722242,
         "date_posted": 1783721535,
         "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8054878",
@@ -234272,26 +233563,6 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/BlackEdge-Capital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ask IT Consulting",
-        "id": "313831ca-ffcc-4bd3-a849-b96c643c8df9",
-        "title": ".NET Developer",
-        "active": false,
-        "date_updated": 1784685774,
-        "date_posted": 1771485127,
-        "url": "https://jobs.smartrecruiters.com/AskITConsulting/112581670",
-        "locations": [
-            "Greenville, SC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ask-IT-Consulting",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -269518,7 +268789,7 @@
         "company_name": "Tesla",
         "id": "a449ff56-af7b-46d9-9c1b-73ccb36515e8",
         "title": "Data Collection Operator - Optimus",
-        "active": true,
+        "active": false,
         "date_updated": 1785997154,
         "date_posted": 1785996964,
         "url": "https://www.tesla.com/careers/search/job/279362",
@@ -271639,7 +270910,7 @@
         "company_name": "Avalore",
         "id": "d70d2957-012d-4805-b794-0d5527276f27",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786083841,
         "date_posted": 1786083522,
         "url": "https://apply.workable.com/avalore/j/F157AC3B65/apply",
@@ -271816,7 +271087,7 @@
         "company_name": "InterImage",
         "id": "0483a44f-f140-427e-a301-9d87c2344515",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786083481,
         "date_posted": 1786083399,
         "url": "https://apply.workable.com/interimage/j/50AEE969C4/apply",
@@ -272015,7 +271286,7 @@
         "company_name": "CloudFactory",
         "id": "3b770c4c-dd8c-43b4-9025-9b6df53c193c",
         "title": "Data Capture Technician - Construction",
-        "active": true,
+        "active": false,
         "date_updated": 1786084314,
         "date_posted": 1786083746,
         "url": "https://apply.workable.com/cloudfactory/j/25D2609FDB/apply",
@@ -273855,7 +273126,7 @@
         "company_name": "Montreal Institute for Learning Algorithms",
         "id": "3306d8fb-6c29-4d88-94cb-972dc1945579",
         "title": "AI Applications Developer Junior - AI Applications Development",
-        "active": true,
+        "active": false,
         "date_updated": 1786152533,
         "date_posted": 1786151995,
         "url": "https://apply.workable.com/mila-2/j/F73F31C5FD/apply",
@@ -273973,7 +273244,7 @@
         "company_name": "Capula",
         "id": "d6debf76-4ef7-44a8-9332-487d370d73c9",
         "title": "Quantitative Strategist",
-        "active": true,
+        "active": false,
         "date_updated": 1786152061,
         "date_posted": 1786151944,
         "url": "https://apply.workable.com/capula-investment-management-ltd/j/9582487D5F/apply",
@@ -274183,7 +273454,7 @@
         "company_name": "Flexcompute",
         "id": "78eb2dca-9b33-4b7e-a27e-6ac21fe1b6ff",
         "title": "Software Engineer - Infrastructure",
-        "active": false,
+        "active": true,
         "date_updated": 1786151881,
         "date_posted": 1786151872,
         "url": "https://apply.workable.com/flexcompute/j/143ECD1848/apply",
@@ -274337,7 +273608,7 @@
         "company_name": "AMAX",
         "id": "aec682d0-cef7-4fab-b024-14111b89bd50",
         "title": "Junior Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1786151994,
         "date_posted": 1786151811,
         "url": "https://apply.workable.com/amax-1/j/FE4BA3799A/apply",
@@ -277324,7 +276595,7 @@
         "company_name": "Eagle Seven",
         "id": "33a16e34-5d7a-424b-92c0-004469c7970a",
         "title": "Junior Trader",
-        "active": true,
+        "active": false,
         "date_updated": 1786411981,
         "date_posted": 1786411959,
         "url": "https://apply.workable.com/eagle-seven/j/787BE44E7A/apply",
@@ -277511,7 +276782,7 @@
         "company_name": "Lovingly",
         "id": "9214f3c7-4f3c-4ef4-928e-dc33ef5431a3",
         "title": "AI-First Multipotentialite",
-        "active": true,
+        "active": false,
         "date_updated": 1786412095,
         "date_posted": 1786411910,
         "url": "https://apply.workable.com/lovingly/j/075ADF9303/apply",
@@ -333076,24 +332347,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "BCforward",
-        "id": "32c3f20e-aed6-4933-811e-8e48b6cef89d",
-        "title": "Quality Assurance Analyst Japanese",
-        "active": false,
-        "date_updated": 1788457523,
-        "date_posted": 1771484676,
-        "url": "https://jobs.smartrecruiters.com/BCforward3/101589991",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/BCforward",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hewlett Packard",
         "id": "4adda786-ba0c-4479-9bfd-b9799f03d6ff",
@@ -333350,60 +332603,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Atria Group",
-        "id": "fd9ff0ca-e3ee-47bf-82df-14b05f61f61c",
-        "title": "Web/UI Developer - Replacement Position",
-        "active": false,
-        "date_updated": 1788457523,
-        "date_posted": 1771485232,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/77136535",
-        "locations": [
-            "Farmington Hills, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Atria Group",
-        "id": "6780c9f1-005f-48a6-9fcd-0c5758b8465d",
-        "title": "Cognos Developer",
-        "active": false,
-        "date_updated": 1788457798,
-        "date_posted": 1771485128,
-        "url": "https://jobs.smartrecruiters.com/AtriaGroupLLC/87671152",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Atria-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ample Insight",
-        "id": "ffb56402-7fe4-431b-92b9-1df914f66737",
-        "title": "Data Administrator",
-        "active": true,
-        "date_updated": 1788457523,
-        "date_posted": 1771484826,
-        "url": "https://jobs.smartrecruiters.com/AmpleInsightInc/744000005554055",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ample-Insight",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -336243,7 +335442,7 @@
         "company_name": "Systems Planning and Analysis",
         "id": "c9e8fbe2-493b-49f9-86ad-7fcf74ee4a85",
         "title": "Associate Systems Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1788473545,
         "date_posted": 1785881398,
         "url": "https://spa.jibeapply.com/jobs/23161?icims=1",
@@ -336550,7 +335749,7 @@
         "company_name": "CloudFactory",
         "id": "25a32dd8-22bd-4f7d-be0d-b34c848ce2d1",
         "title": "Video Data Capture Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788483081,
         "date_posted": 1786083746,
         "url": "https://apply.workable.com/cloudfactory/j/B252F1932E/apply",
@@ -350740,7 +349939,7 @@
         "company_name": "Arena Investors I Quaestor Advisors",
         "id": "c6d3e0f2-da16-4e23-8f90-55eac356aa0b",
         "title": "Trading Operations Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1789416867,
         "date_posted": 1789416682,
         "url": "https://apply.workable.com/arena-investors-lp/j/AA08A73D44/apply",
@@ -353641,7 +352840,7 @@
         "company_name": "RTX",
         "id": "1b593633-5171-4cb0-b05b-59237123978e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1789539384,
         "date_posted": 1789430400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineer-I--Onsite-_01874924",
@@ -356273,7 +355472,7 @@
         "company_name": "Stafford Gray",
         "id": "3e987eca-2504-4d6a-9d3c-ad762da4a132",
         "title": "Full Stack .NET Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1789684563,
         "date_posted": 1789683591,
         "url": "https://apply.workable.com/staffordgray/j/13A72A78A0/apply",
@@ -361033,7 +360232,7 @@
         "company_name": "Grayce",
         "id": "d1d59849-acaf-4fac-8763-72a6042a75f8",
         "title": "Graduate Software Engineer - Bridgend",
-        "active": false,
+        "active": true,
         "date_updated": 1790156162,
         "date_posted": 1790155943,
         "url": "https://apply.workable.com/grayce/j/1789116104/apply",
@@ -370344,7 +369543,7 @@
         "company_name": "The Shipyard",
         "id": "a1d6bb03-a414-4e24-ac80-2695dec0de90",
         "title": "Digital Strategy Coordinator",
-        "active": true,
+        "active": false,
         "date_updated": 1790980246,
         "date_posted": 1790979563,
         "url": "https://apply.workable.com/theshipyard/j/631FEEBBCC/apply",
@@ -372430,7 +371629,7 @@
         "company_name": "Saalex",
         "id": "9f59c214-a78e-4f90-a7c4-6d48fb988dc4",
         "title": "Computer Systems Analyst 1 - Geospatial - Technical Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791110098,
         "date_posted": 1785979092,
         "url": "https://apply.workable.com/saalex/j/B90591BEE2/apply",
@@ -375034,7 +374233,7 @@
         "company_name": "Intertek",
         "id": "893d4d0b-2e34-4e36-8fbd-1ebc63321252",
         "title": "Medical Safety Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791238861,
         "date_posted": 1791238444,
         "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/15997",
@@ -384908,7 +384107,7 @@
         "company_name": "Manulife Financial",
         "id": "7ba9bcef-d5ba-4840-9510-0b066fb622bb",
         "title": "GRO Program - Data",
-        "active": true,
+        "active": false,
         "date_updated": 1791623881,
         "date_posted": 1791590400,
         "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/GRO-Program---Data_JR26091145-1",
@@ -385384,7 +384583,7 @@
         "company_name": "Cox",
         "id": "695405ef-24d8-4b85-9b40-efba7544ff78",
         "title": "Data Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791843521,
         "date_posted": 1791763200,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Carmel-IN/Data-Engineer-I_R202683561-1",
@@ -386846,7 +386045,7 @@
         "company_name": "Siemens",
         "id": "67257e1c-0c0e-4806-be26-e049ce9d65d1",
         "title": "Digital Degree Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791930169,
         "date_posted": 1791929813,
         "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/518834",
@@ -386884,7 +386083,7 @@
         "company_name": "AVEVA",
         "id": "b5b14ba0-16bc-4654-ab8a-32be13589b2b",
         "title": "Software Developer Graduate - AI Proficient",
-        "active": true,
+        "active": false,
         "date_updated": 1791930169,
         "date_posted": 1791849600,
         "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Lake-Forest-California-United-States-of-America/Software-Developer-Graduate--AI-Proficient--USA_R014947",
@@ -388094,7 +387293,7 @@
         "company_name": "Jabil",
         "id": "18d884be-500d-4ea1-8486-4edd9f37b5b7",
         "title": "AI and Data Solutions Developer - Global Supply Chain",
-        "active": true,
+        "active": false,
         "date_updated": 1791958239,
         "date_posted": 1791936000,
         "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/AI-Solutions-Developer-Global-Supply-Chain_J2467953",
@@ -388175,7 +387374,7 @@
         "company_name": "Northrop Grumman",
         "id": "d0e2d4b8-bf09-4de4-96d5-612454ab9d84",
         "title": "Associate Hardware Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791959633,
         "date_posted": 1791936000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Annapolis-MD_R10254896",
@@ -392453,5 +391652,278 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "G-20 Group",
+        "id": "059d01a4-e62e-4abd-8ea7-e58f0bc27e98",
+        "title": "Low Latency Market Making Engineer",
+        "active": true,
+        "date_updated": 1792224633,
+        "date_posted": 1786686802,
+        "url": "https://apply.workable.com/g-20-advisors-ag/j/0ECB7CAFDA/apply",
+        "locations": [
+            "London, UK",
+            "NYC",
+            "Hong Kong",
+            "Z\u00fcrich, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/G-20-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scientific Systems",
+        "id": "1e71a3ad-b0cf-4e53-a601-f6e1b737e2a6",
+        "title": "Autonomy Software Engineer 1",
+        "active": true,
+        "date_updated": 1792225143,
+        "date_posted": 1789597415,
+        "url": "https://apply.workable.com/ssci/j/B3FED12AAD/apply",
+        "locations": [
+            "Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Scientific-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "1f95d992-0d39-478e-ad42-348e38ab6484",
+        "title": "Video Data Capture for AI in Construction",
+        "active": true,
+        "date_updated": 1792225081,
+        "date_posted": 1786083753,
+        "url": "https://apply.workable.com/cloudfactory/j/29588ED9A0/apply",
+        "locations": [
+            "Hutto, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CloudFactory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keycafe",
+        "id": "475be3c4-1e19-4293-882c-3195a5abb14e",
+        "title": "Hardware Development Associate",
+        "active": true,
+        "date_updated": 1792225981,
+        "date_posted": 1788906910,
+        "url": "https://apply.workable.com/keycafe/j/4708F2848E/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Keycafe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "7ca735aa-9419-4bb3-aee2-59ff92b695e6",
+        "title": "Innovation Engineer",
+        "active": true,
+        "date_updated": 1792227061,
+        "date_posted": 1788218944,
+        "url": "https://apply.workable.com/avalore/j/EF492F2BE9/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CVector",
+        "id": "5e801b15-781c-4f79-8630-11096eed5278",
+        "title": "Full Stack Software Engineer 1 or 2",
+        "active": true,
+        "date_updated": 1792226381,
+        "date_posted": 1786411959,
+        "url": "https://apply.workable.com/cvector/j/0D0DE27033/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/CVector",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DataVisor",
+        "id": "3ff58ee3-57ee-4c32-bd77-33c440963c04",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792225801,
+        "date_posted": 1785277003,
+        "url": "https://apply.workable.com/datavisor-jobs/j/95134ABE3C/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/DataVisor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Galatea Associates",
+        "id": "dc1736a5-1d63-4f9d-b1cb-88598e3fa554",
+        "title": "Entry-Level Financial Software Consultant",
+        "active": true,
+        "date_updated": 1792229222,
+        "date_posted": 1791929737,
+        "url": "https://jobs.lever.co/galatea-associates/d5bceaf1-0137-4cc3-9353-72cc7a4f937b/apply",
+        "locations": [
+            "St. Petersburg, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Galatea-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Fasanara",
+        "id": "9840a2d2-8fcf-4fa0-874f-407b2df36050",
+        "title": "High-Frequency Trading Operations Engineer",
+        "active": true,
+        "date_updated": 1792227601,
+        "date_posted": 1791498548,
+        "url": "https://apply.workable.com/fasanara/j/188FC5244B/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fasanara",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Mustard Systems",
+        "id": "9fd33762-2f2f-4dbc-824b-dac8b43af020",
+        "title": "Cricket Trader",
+        "active": true,
+        "date_updated": 1792227795,
+        "date_posted": 1790345795,
+        "url": "https://apply.workable.com/mustard-systems/j/E5B69CE521/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mustard-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Saalex",
+        "id": "c962eb59-df2d-4d2d-8188-daeb44ec9f83",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1792228930,
+        "date_posted": 1788477132,
+        "url": "https://apply.workable.com/saalex/j/B4101AB996/apply",
+        "locations": [
+            "Ridgecrest, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saalex",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avalore",
+        "id": "9a019136-13e7-4685-8187-00ec9d7fd140",
+        "title": "Systems Engineer",
+        "active": true,
+        "date_updated": 1792227795,
+        "date_posted": 1788218944,
+        "url": "https://apply.workable.com/avalore/j/D96DEC462B/apply",
+        "locations": [
+            "Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avalore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CloudFactory",
+        "id": "949230dd-d208-43ca-89c6-2f0fca003a69",
+        "title": "Construction Reality Capture Technician",
+        "active": true,
+        "date_updated": 1792227601,
+        "date_posted": 1786083745,
+        "url": "https://apply.workable.com/cloudfactory/j/A27D7761F8/apply",
+        "locations": [
+            "Abilene, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CloudFactory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starling Bank",
+        "id": "de77aed1-837d-409a-976d-bc4eabea5bda",
+        "title": "iOS Engineer",
+        "active": true,
+        "date_updated": 1792229415,
+        "date_posted": 1788966444,
+        "url": "https://apply.workable.com/starling-bank/j/0A13F0BEE0/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Starling-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
