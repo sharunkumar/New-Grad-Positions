@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nutanix",
-        "id": "9b26898a-3a68-46ce-96af-b921ceacaabc",
-        "title": "Member of Technical Staff 1 - QA",
-        "active": false,
-        "date_updated": 1772262998,
-        "date_posted": 1772262998,
-        "url": "https://jobs.jobvite.com/nutanix/job/ouyEzfwZ?nl=1&nl=1&fr=false",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nutanix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4bba4287-158c-464e-bb65-81c2b7e6af85",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1772273268,
-        "date_posted": 1772273268,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400051404",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a479e483-2a42-485a-8566-d331ce41ef7f",
@@ -13679,26 +13641,6 @@
             "Franklin, TN"
         ],
         "company_url": "https://simplify.jobs/c/K-Love",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Worldpay",
-        "id": "ec0357bf-c8a7-42a5-92ea-17d7dce8b3fd",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773109749,
-        "date_posted": 1772280555,
-        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Statistician-Data-Analyst-II_JR0608725",
-        "locations": [
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldpay",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -89737,7 +89679,7 @@
         "company_name": "RTX",
         "id": "550c0f8a-8e58-4586-9968-9340d5265955",
         "title": "Software Engineer 1 - Test Solutions",
-        "active": true,
+        "active": false,
         "date_updated": 1777501226,
         "date_posted": 1777500478,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Software-Engineer-I----Test-Solutions---Onsite_01836492-1",
@@ -235011,7 +234953,7 @@
         "company_name": "Simile",
         "id": "3a60192e-943e-4660-ab0f-76da14e6542b",
         "title": "Evaluations - Member of Technical Staff",
-        "active": true,
+        "active": false,
         "date_updated": 1785614952,
         "date_posted": 1784596483,
         "url": "https://jobs.ashbyhq.com/simile/33d75074-c23b-4a1f-bfdb-129bcc5be662/application?embed=true",
@@ -247324,7 +247266,7 @@
         "company_name": "Tesla",
         "id": "a449ff56-af7b-46d9-9c1b-73ccb36515e8",
         "title": "Data Collection Operator - Optimus",
-        "active": false,
+        "active": true,
         "date_updated": 1785997154,
         "date_posted": 1785996964,
         "url": "https://www.tesla.com/careers/search/job/279362",
@@ -268109,7 +268051,7 @@
         "company_name": "Goldman Sachs",
         "id": "43a5374e-0e70-4dc9-82b0-687b54e8c5da",
         "title": "Engineering New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786768201,
         "date_posted": 1786767954,
         "url": "https://higher.gs.com/roles/171570?type=students",
@@ -268490,7 +268432,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -282524,7 +282466,7 @@
         "company_name": "ExxonMobil",
         "id": "9e3744d0-6013-44b6-8207-f13d87b99654",
         "title": "Global Trading Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1787603680,
         "date_posted": 1787602670,
         "url": "https://jobs.exxonmobil.com/job/London-Global-Trading-Commercial-Graduate-London-LND-SE10SU/1422560100/?ats=successfactors",
@@ -296420,7 +296362,7 @@
         "company_name": "Zopa",
         "id": "eede34d8-3520-4881-b2a5-ed052a5b31e5",
         "title": "Graduate Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788278806,
         "date_posted": 1788278712,
         "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f/apply",
@@ -302457,7 +302399,7 @@
         "company_name": "Cisco",
         "id": "6fc52e99-15ec-474d-badb-f26015b0d0bb",
         "title": "Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788207672,
         "date_posted": 1786492800,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Electrical-Engineer_2020283",
@@ -305605,7 +305547,7 @@
         "company_name": "Field AI",
         "id": "bab5e7a0-14de-449f-9a6a-6d5801e38490",
         "title": "Embedded Systems Engineer - Robotics Hardware",
-        "active": true,
+        "active": false,
         "date_updated": 1786099681,
         "date_posted": 1785978195,
         "url": "https://jobs.lever.co/field-ai/7a0d12c7-957b-42f6-a9c9-9605fab6d2a4/apply",
@@ -308455,7 +308397,7 @@
         "company_name": "Cisco",
         "id": "9a88516a-75d8-4bc7-92fe-82826eff3fab",
         "title": "Electrical Engineer 2",
-        "active": true,
+        "active": false,
         "date_updated": 1788436204,
         "date_posted": 1786602573,
         "url": "https://careers.cisco.com/global/en/job/2020283",
@@ -335742,7 +335684,7 @@
         "company_name": "Avis Budget Group",
         "id": "3e65a8e9-cfc2-4798-af5d-70e43087cbf2",
         "title": "Data Analyst - Commercial",
-        "active": true,
+        "active": false,
         "date_updated": 1790000461,
         "date_posted": 1789948800,
         "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/Avis-Budget-House-HQ/Data-Analyst_R0190645",
@@ -347211,7 +347153,7 @@
         "company_name": "NCR Voyix",
         "id": "2fb142a3-94d3-4f29-91b2-d95a17392dfa",
         "title": "Junior DevOps Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790954918,
         "date_posted": 1790899200,
         "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Junior-DevOps-Engineer_R0158519",
@@ -351046,7 +350988,7 @@
         "company_name": "Qualcomm",
         "id": "5aae0b6d-78b1-47c7-8fa5-5b3ec7eae06d",
         "title": "Physical Design Engineer - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791117001,
         "date_posted": 1789327400,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721073497",
@@ -365321,7 +365263,7 @@
         "company_name": "BP",
         "id": "fad2efaf-2726-4528-b3ec-446d3bf13d05",
         "title": "Graduate Subsurface Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1791941476,
         "date_posted": 1791936000,
         "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-Kingdom---Sunbury/Graduate---Subsurface-Technology---Geology_RQ117087",
@@ -369353,7 +369295,7 @@
         "company_name": "Northrop Grumman",
         "id": "b5a395ae-42f1-46ba-a288-7d34298231bc",
         "title": "Associate Software Engineer - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1792190280,
         "date_posted": 1792108800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499",
@@ -373810,7 +373752,7 @@
         "company_name": "Qualcomm",
         "id": "bcfcd071-d9ab-4eb3-90a9-68c0a0bcc4d8",
         "title": "IPS Hardware Support Engineer - Support Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1792621622,
         "date_posted": 1792621576,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721663221",
@@ -374168,7 +374110,7 @@
         "company_name": "RTX",
         "id": "e4aa5ca4-b78b-479f-978b-698199dbf50f",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792622783,
         "date_posted": 1792540800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-FULTON-8170--8170-Maple-Lawn-Blvd--MAPLE-LAWN-Ste-190-200--300/Software-Engineer-I--Onsite-_01883899",
@@ -374597,7 +374539,7 @@
         "company_name": "Northrop Grumman",
         "id": "dee014fe-0e7c-46bd-bc12-4da1d303b633",
         "title": "Associate Electromechanical Engineer / Electromechanical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792621853,
         "date_posted": 1792540800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Associate-Electromechanical-Engineer---Electromechanical-Engineer---Rolling-Meadows-IL_R10257089",
@@ -375340,7 +375282,7 @@
         "company_name": "Northrop Grumman",
         "id": "d8cd700c-b61b-4045-ae4e-bb3f5821e6da",
         "title": "Associate Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792708026,
         "date_posted": 1792627200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/Associate-Electronics-Engineer_R10257437",
@@ -382628,5 +382570,83 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "d6a611ad-6577-4727-bad6-a4aa05ad24ec",
+        "title": "Product Manager New Grad - Platform Trust and Ecosystem",
+        "active": true,
+        "date_updated": 1792995881,
+        "date_posted": 1792995751,
+        "url": "https://lifeattiktok.com/search/7680761598014015797",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Internet Brands",
+        "id": "5c53901d-0c0e-4372-b4d5-891e090adcf1",
+        "title": "Associate AI Research & Operations Analyst",
+        "active": true,
+        "date_updated": 1792995174,
+        "date_posted": 1792994964,
+        "url": "https://jobs.jobvite.com/internetbrands/job/oChZAfwc?nl=1&nl=1&fr=false",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Internet-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Evolent",
+        "id": "7fb4df11-724b-4388-80ba-7b185189f957",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1792994941,
+        "date_posted": 1792972800,
+        "url": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Evolent",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "f8ef2f72-c616-4dfd-8ef1-4e9b547c4e67",
+        "title": "Robotics Engineering Technician - Harnessing & PCB Rework - Optimus",
+        "active": true,
+        "date_updated": 1793007721,
+        "date_posted": 1787952782,
+        "url": "https://www.tesla.com/careers/search/job/281505",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
