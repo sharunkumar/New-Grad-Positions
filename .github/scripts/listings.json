@@ -2,242 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Best Buy",
-        "id": "9c908116-0ca7-44bb-ba4e-eeeeed73121a",
-        "title": "Product Tester AV",
-        "active": false,
-        "date_updated": 1772724208,
-        "date_posted": 1772724208,
-        "url": "https://bestbuycanada.wd3.myworkdayjobs.com/BestBuyCA_Career/job/40002-Brampton-DC-1/Product-Tester-AV_R-49527",
-        "locations": [
-            "Brampton, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Best-Buy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Acuity",
-        "id": "717e0565-6753-4065-b763-f2d0ffb70c72",
-        "title": "Leadership Program - Data Engineering & Artificial Intelligence",
-        "active": false,
-        "date_updated": 1772724210,
-        "date_posted": 1772724210,
-        "url": "https://careers.acuityinc.com/job/Atlanta-Leadership-Program-Data-Engineering-&-Artificial-Intelligence-(Atlanta,-GA)-GA-30309/1370445000/?ats=successfactors",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acuity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huntington Ingalls Industries",
-        "id": "9cfe16e6-1278-4743-9293-159178b6fa1d",
-        "title": "Visual Instruction Developer 1",
-        "active": false,
-        "date_updated": 1772723640,
-        "date_posted": 1772723640,
-        "url": "https://careers.huntingtoningalls.com/job/Newport-News-VISUAL-INSTRUCTION-DEVELOPER-1-Virg/1370456900/?ats=successfactors",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e5a2f9f3-0cc2-4f07-b518-785e7ef4aa47",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772723423,
-        "date_posted": 1772723423,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052112",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8670bd90-e5ae-4950-b0cc-c46c926e64db",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1772723447,
-        "date_posted": 1772723447,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400052108",
-        "locations": [
-            "Harlow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Truist Bank",
-        "id": "414efc62-ad2f-44c4-91ef-8dc630a6966e",
-        "title": "Associate AI Engineer",
-        "active": false,
-        "date_updated": 1772725909,
-        "date_posted": 1772725909,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Charlotte-NC/Associate-AI-Engineer_R0111846",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Capital One",
-        "id": "bd5eed81-29c9-43be-94e7-a7591ed5ef67",
-        "title": "Associate - Software Engineer",
-        "active": false,
-        "date_updated": 1772725744,
-        "date_posted": 1772725744,
-        "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Associate--Software-Engineer--New-Grad_R236921",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Capital-One",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Novanta",
-        "id": "1244a08f-e777-4f26-85b0-ef58f3ea1dda",
-        "title": "Test Technician 1",
-        "active": false,
-        "date_updated": 1772725360,
-        "date_posted": 1772725360,
-        "url": "https://novanta.wd5.myworkdayjobs.com/Novanta-Careers/job/Bedford-MA/Test-Technican-I_R009072",
-        "locations": [
-            "Bedford, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Novanta",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "J.Crew",
-        "id": "8d35d507-922e-4542-ab47-29f4153c5f73",
-        "title": "Ecommerce Assistant",
-        "active": false,
-        "date_updated": 1772724624,
-        "date_posted": 1772724624,
-        "url": "https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Ecommerce-Assistant_123388",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/JCrew",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Cambridge Associates",
-        "id": "71736e75-ff73-4c5b-8c85-4567e81a66f5",
-        "title": "Investment Analyst Program",
-        "active": false,
-        "date_updated": 1772724637,
-        "date_posted": 1772724637,
-        "url": "https://cambridgeassociates.wd5.myworkdayjobs.com/Handshake/job/Boston/Investment-Analyst-Program---Summer-2026-Class_JR0000016",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cambridge-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Genuine Parts Company",
-        "id": "d5030147-e7b4-4597-8517-a2e7f8affe81",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1772726448,
-        "date_posted": 1772726448,
-        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer-I_R26_0000004116",
-        "locations": [
-            "Birmingham, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Huron",
-        "id": "9415cb8b-11e7-4b2f-a706-fee3959e9953",
-        "title": "Data Operations Analyst",
-        "active": false,
-        "date_updated": 1772726352,
-        "date_posted": 1772726352,
-        "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Data-Operations-Analyst_JR-0014281",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Huron",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "dba099e7-c4a9-44be-a9ef-eb4652b3e2f3",
         "title": "Engineering Technician A",
@@ -63087,28 +62851,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "d13824fa-a600-41bb-bfde-87089cad7974",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1776334583,
-        "date_posted": 1772724286,
-        "url": "https://careers.cisco.com/global/en/job/2006629",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -289768,7 +289510,7 @@
         "company_name": "RTX",
         "id": "8aad8b51-42bb-4359-b771-09d8fa3d9060",
         "title": "Digital ASIC/FPGA Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788310048,
         "date_posted": 1788220800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Digital-ASIC-FPGA-Design-Engineer-I--Onsite-_01870687",
@@ -305427,7 +305169,7 @@
         "company_name": "RTX",
         "id": "4dfd9951-225c-4f0f-b849-ffe42c3224c2",
         "title": "Digital Hardware Design Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1788490608,
         "date_posted": 1788393600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WM--2501-W-University-Dr--WING-M-BLDG/Digital-Hardware-Design-Electrical-Engineer-I--Onsite-_01872576",
@@ -312057,7 +311799,7 @@
         "company_name": "RTX",
         "id": "fb6ff7fb-84f6-4a8d-9f91-27a711110f10",
         "title": "FPGA Electrical Design Engineer 1 - Effector Digital Products Department",
-        "active": true,
+        "active": false,
         "date_updated": 1788907588,
         "date_posted": 1788825600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/FPGA-Electrical-Design-Engineer-I--Onsite-_01872978",
@@ -370431,7 +370173,7 @@
         "company_name": "Boeing",
         "id": "840f362d-e7a1-4739-9961-fc1eeddaf55b",
         "title": "ASIC/FPGA Verification Engineer \u2013 Or Lead - Associate - Experienced",
-        "active": true,
+        "active": false,
         "date_updated": 1792760944,
         "date_posted": 1791853841,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/ASIC-FPGA-Verification-Engineer----Associate--Experienced--or-Lead----SoCal_JR2025480380-1",
@@ -378415,7 +378157,7 @@
         "company_name": "Cisco",
         "id": "47045f8c-0272-44ed-a512-99cd081fe928",
         "title": "Data Science Analyst 1 - United States GSC/SCT ETR",
-        "active": true,
+        "active": false,
         "date_updated": 1793197309,
         "date_posted": 1793145600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Data-Science-Analyst-I--Full-Time----United-States-GSC-SCT-ETR_2028889-1",
@@ -385504,6 +385246,70 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "dc6e6af1-c573-4952-aef5-9791f94fcd44",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1793452511,
+        "date_posted": 1793404800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
+        "locations": [
+            "Hollywood, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bristol Myers Squibb",
+        "id": "0e9101fd-5e85-4911-b076-604e6c2fc6ef",
+        "title": "Associate Engineer - Analytical AI Engineering",
+        "active": true,
+        "date_updated": 1793452330,
+        "date_posted": 1793404800,
+        "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Associate-Engineer--Analytical-AI-Engineering_R1608005",
+        "locations": [
+            "Princeton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Bristol-Myers-Squibb",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Verisk",
+        "id": "f8132bd9-b6f0-40a3-8199-b5d339caac61",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1793456112,
+        "date_posted": 1793455981,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5093",
+        "locations": [
+            "London, UK",
+            "Norwich, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
