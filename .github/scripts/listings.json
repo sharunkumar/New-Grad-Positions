@@ -233278,7 +233278,7 @@
         "company_name": "Samsara",
         "id": "acf63671-cd3d-494b-bf84-c31eb6ae78e5",
         "title": "Software Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1785970154,
         "date_posted": 1785969248,
         "url": "https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345",
@@ -239187,7 +239187,7 @@
         "company_name": "Flexcompute",
         "id": "75af4966-3c71-447e-9622-da5d0c139e79",
         "title": "CFD Solver Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786151881,
         "date_posted": 1786151872,
         "url": "https://apply.workable.com/flexcompute/j/EF3D90A736/apply",
@@ -255649,7 +255649,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -278874,7 +278874,7 @@
         "company_name": "Broadcom",
         "id": "1ede9089-dee4-4fd0-9c72-50b3825fe866",
         "title": "ASIC Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787950999,
         "date_posted": 1787950968,
         "url": "https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-CA-Irvine-Alton-Parkway-Bldg-2/R-D-IC-Design-Engineer_R024631",
@@ -314112,7 +314112,7 @@
         "company_name": "American Express",
         "id": "0a86151e-ccc1-45a9-a266-21e0e321de55",
         "title": "Product Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1789395215,
         "date_posted": 1789394954,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013780",
@@ -333506,7 +333506,7 @@
         "company_name": "M&T Bank",
         "id": "23452dfd-f110-4218-bbe2-fa3fd2227fc5",
         "title": "Technology Development Program - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1790892828,
         "date_posted": 1790812800,
         "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering_R90039",
@@ -334235,7 +334235,7 @@
         "company_name": "The Focusrite Group",
         "id": "4aa4ef77-f438-4487-80c5-dc276a222c41",
         "title": "Electronics and Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790950861,
         "date_posted": 1790950829,
         "url": "https://apply.workable.com/focusrite/j/ABAEFDB6E0/apply",
@@ -336407,7 +336407,7 @@
         "company_name": "X Development",
         "id": "67cfb0ab-a7df-425a-8454-9559f47591ea",
         "title": "Senior Software Engineering - Machine Learning Infrastructure",
-        "active": true,
+        "active": false,
         "date_updated": 1791112501,
         "date_posted": 1787004835,
         "url": "https://x.company/careers/8709949002?gh_jid=8709949002",
@@ -343667,7 +343667,7 @@
         "company_name": "True Anomaly",
         "id": "e3c0cc9c-ac7f-4225-a8aa-0ee526a4c063",
         "title": "Software Engineer 1 to 3 - Digital Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791327766,
         "date_posted": 1791327285,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007",
@@ -349818,7 +349818,7 @@
         "company_name": "Accenture",
         "id": "c8d29e73-aa91-42fb-92af-482d6cdb70d4",
         "title": "System Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1791842948,
         "date_posted": 1791842918,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4721109006",
@@ -362533,7 +362533,7 @@
         "company_name": "Aon",
         "id": "54175813-8547-4790-9369-daafa3e3b4ad",
         "title": "Client Consulting New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792707912,
         "date_posted": 1792707829,
         "url": "https://jobs.aon.com/jobs/106872?icims=1",
@@ -363782,7 +363782,7 @@
         "company_name": "Nutanix",
         "id": "15e66070-2fc0-44df-a26c-aa4c4303217d",
         "title": "Member of Technical Staff 2",
-        "active": true,
+        "active": false,
         "date_updated": 1792719729,
         "date_posted": 1790374523,
         "url": "https://jobs.jobvite.com/nutanix/job/o4POAfw1?nl=1&nl=1&fr=false",
@@ -367742,7 +367742,7 @@
         "company_name": "Capgemini",
         "id": "6ad571cf-4f40-450e-a33b-7c70cf9100df",
         "title": "Java Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792771105,
         "date_posted": 1791941117,
         "url": "https://careers.capgemini.com/job/Telford-Relaunch-Java-Engineer/1446799533/?ats=successfactors",
@@ -374624,7 +374624,7 @@
         "company_name": "Intetics",
         "id": "38a71f1f-19a2-4839-9092-609c2f710dcc",
         "title": "City Explorer",
-        "active": true,
+        "active": false,
         "date_updated": 1793197854,
         "date_posted": 1793197692,
         "url": "https://apply.workable.com/intetics-2/j/FCE7AD54C4/apply",
@@ -374741,7 +374741,7 @@
         "company_name": "Northrop Grumman",
         "id": "d57ce697-9274-4176-85eb-5f6098fd3fc7",
         "title": "Associate Software Engineer - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1793226241,
         "date_posted": 1793145600,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160",
@@ -375562,7 +375562,7 @@
         "company_name": "University Corporation for Atmospheric Research",
         "id": "1f9e540a-3a0e-499f-b89a-4d9b45b9f7f8",
         "title": "Data Science Student Assistant 3",
-        "active": true,
+        "active": false,
         "date_updated": 1793226814,
         "date_posted": 1793145600,
         "url": "https://ucar.wd5.myworkdayjobs.com/UCAR_Careers/job/Boulder-CO/Data-Science-Student-Assistant-III_REQ-2026-202-1",
@@ -376103,7 +376103,7 @@
         "company_name": "Graphcore",
         "id": "33cbbd8e-6de2-476a-ae13-397930a6f399",
         "title": "Graduate Manufacturing Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1793236165,
         "date_posted": 1792491677,
         "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902064002",
@@ -376785,7 +376785,7 @@
         "company_name": "Beauhurst",
         "id": "ce7870f3-9963-4b74-8606-25e5eefe83b5",
         "title": "Junior Web Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793283484,
         "date_posted": 1792771581,
         "url": "https://job-boards.greenhouse.io/beauhurst/jobs/8375802002",
@@ -377904,7 +377904,7 @@
         "company_name": "RTX",
         "id": "5ac0dd10-7d7f-429a-bca4-9c7e2de2999b",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793312327,
         "date_posted": 1793232000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Electrical-Engineer-I_01884551",
@@ -378521,7 +378521,7 @@
         "company_name": "Northrop Grumman",
         "id": "2cfb374c-f2cc-4038-a831-a9a8c67eb5fe",
         "title": "Associate Cyber Software Engineer - Pathways Program",
-        "active": true,
+        "active": false,
         "date_updated": 1793313582,
         "date_posted": 1793232000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Associate-Cyber-Software-Engineer---Pathways-Program---Aurora-CO_R10258279",
@@ -378563,7 +378563,7 @@
         "company_name": "Northrop Grumman",
         "id": "8a45df0f-a34d-4f7f-8489-65afb38cd04e",
         "title": "Associate Data Scientist - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1793313541,
         "date_posted": 1793232000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Data-Scientist---Pathways---Aurora-CO_R10258253-1",
@@ -381511,7 +381511,7 @@
         "company_name": "Northrop Grumman",
         "id": "dc6e6af1-c573-4952-aef5-9791f94fcd44",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793452511,
         "date_posted": 1793404800,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
@@ -381633,7 +381633,7 @@
         "company_name": "Northrop Grumman",
         "id": "61e56b29-9b9f-481a-926e-c653983f3ff8",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793515903,
         "date_posted": 1793491200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Bellevue--NE-_R10258366",
@@ -383323,7 +383323,7 @@
         "company_name": "RTX",
         "id": "fb29fcfc-780f-4938-b6c8-9d73ba45b207",
         "title": "Leadership Development Program - Engineering - Software Discipline",
-        "active": true,
+        "active": false,
         "date_updated": 1793720888,
         "date_posted": 1793664000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-VA-ARLINGTON-108--1100-Wilson-Blvd--ROSSLYN-HQ/Leadership-Development-Program---Engineering--Software-Discipline--Starts-June-2027-_01873618-1",
@@ -384374,5 +384374,231 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nooks",
+        "id": "2188ec4a-987f-4736-b3c9-2173a826ad74",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793776862,
+        "date_posted": 1793750400,
+        "url": "https://jobs.ashbyhq.com/nooks/6cdc7c9c-d782-415c-91c5-12bdcc31a7b0/application?embed=true",
+        "locations": [
+            "Seattle, WA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nooks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "1d8fbf01-0456-4272-b247-aac7169c05de",
+        "title": "Associate Software Embedded Engineer",
+        "active": true,
+        "date_updated": 1793778347,
+        "date_posted": 1793750400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-S-W-Embedded-Engineer---Sykesville-MD_R10258626",
+        "locations": [
+            "Sykesville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "127a5559-bb27-46e6-b6a9-0c528db45dc5",
+        "title": "Associate Hardware Electronics Engineer",
+        "active": true,
+        "date_updated": 1793778348,
+        "date_posted": 1793750400,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-Associate-H-W-Electronics-Engineer---Sykesville-MD_R10258576",
+        "locations": [
+            "Sykesville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "7bfa72c6-191c-4ccd-88d7-5f5a57718580",
+        "title": "Physical Design Clocking Engineer",
+        "active": true,
+        "date_updated": 1793777984,
+        "date_posted": 1793664000,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Physical-Design-Clocking-Engineer_JR0288398",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "23f1c2c3-62c7-4b59-ad95-85d0505c58dc",
+        "title": "Software Engineer 1 New Grad - Software - Factory Team",
+        "active": true,
+        "date_updated": 1793784109,
+        "date_posted": 1791763200,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/6b5da15b-b34e-4771-bc6c-a05892ae87e9/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nooks",
+        "id": "27eff2d2-a7ab-477e-b561-728947abe09b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1793784244,
+        "date_posted": 1778882920,
+        "url": "https://jobs.ashbyhq.com/nooks/a46fd3d9-400c-4f99-bb83-2042a4e12ab3/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Nooks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Indie",
+        "id": "53082b7a-964e-496d-abf7-317d349f6a78",
+        "title": "Functional Safety Engineer-Hardware",
+        "active": true,
+        "date_updated": 1793785157,
+        "date_posted": 1783059790,
+        "url": "https://www.indie.inc/careers/job-opportunities/?gh_jid=5033396007",
+        "locations": [
+            "Aliso Viejo, CA",
+            "Toronto, ON, Canada",
+            "C\u00f3rdoba, C\u00f3rdoba Province, Argentina",
+            "Michigan"
+        ],
+        "company_url": "https://simplify.jobs/c/Indie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ShadowDragon",
+        "id": "7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
+        "title": "Junior AI/Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1793787170,
+        "date_posted": 1793787093,
+        "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
+        "locations": [
+            "Remote in USA",
+            "Hoover, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/ShadowDragon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MSA Safety",
+        "id": "9e33637f-f543-4b41-abf9-d8f6c4c8ffea",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1793786761,
+        "date_posted": 1786680161,
+        "url": "https://careers.msasafety.com/jobs/10038?icims=1",
+        "locations": [
+            "Cranberry Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/MSA-Safety",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Publicis Groupe",
+        "id": "54a19931-6ab5-4ebc-ae93-304287f66c89",
+        "title": "Junior Data Analyst - Social Data & Automation",
+        "active": true,
+        "date_updated": 1793788747,
+        "date_posted": 1793784900,
+        "url": "https://publicisgroupe.jibeapply.com/jobs/179413?icims=1",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Publicis-Groupe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Medtronic",
+        "id": "ca10972b-e18a-4d63-9fdc-cd16d4d75015",
+        "title": "Reliability Engineer 1 - Hardware / Electrical",
+        "active": true,
+        "date_updated": 1793794162,
+        "date_posted": 1793664000,
+        "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Reliability-Engineer-I---Hardware---Electrical_R68475-1",
+        "locations": [
+            "Mounds View, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Medtronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
