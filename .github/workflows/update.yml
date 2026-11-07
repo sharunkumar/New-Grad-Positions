@@ -17,6 +17,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         fetch-depth: 0
+        filter: blob:none
 
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -31,7 +32,7 @@ jobs:
     - name: Upstream Setup & Merge
       run: |
         git remote add upstream https://github.com/SimplifyJobs/New-Grad-Positions.git
-        git fetch upstream
+        git fetch --filter=blob:none --no-tags upstream dev
         git merge --log upstream/dev --strategy=recursive --strategy-option=ours
 
     # This has to be done first due to permissions reasons
