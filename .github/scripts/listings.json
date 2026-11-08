@@ -1,461 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Analog Devices",
-        "id": "4e3d822b-3407-4d92-be03-3d1b812cb4da",
-        "title": "Semi Packaging Engineer",
-        "active": false,
-        "date_updated": 1773384266,
-        "date_posted": 1773384266,
-        "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Semi-Packaging-Engineer_R255209",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analog-Devices",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "University of Texas - Austin",
-        "id": "8dc4d9c8-10d0-4e3a-b029-e9811246f6b6",
-        "title": "Bioengineering Analyst 1",
-        "active": false,
-        "date_updated": 1773381768,
-        "date_posted": 1773381768,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Bioengineering-Analyst_R_00044288",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Amazon",
-        "id": "f9d9b4d6-0a79-435b-9c82-65027dc745d0",
-        "title": "Software Development Engineer - IAM Control Plane Team",
-        "active": false,
-        "date_updated": 1773382231,
-        "date_posted": 1773382231,
-        "url": "https://amazon.jobs/en/jobs/3202559/software-development-engineer-iam-control-plane-team",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amazon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Southwest Airlines",
-        "id": "21d2525d-2871-4a2d-ad5c-c4250a3a12ab",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1773382083,
-        "date_posted": 1773382083,
-        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Software-Engineer---Warrior-Hire_R-2026-66100",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Samsung",
-        "id": "072d4506-5871-490d-998e-e73997ace558",
-        "title": "Engineer 1 - Multiple Openings",
-        "active": false,
-        "date_updated": 1773382243,
-        "date_posted": 1773382243,
-        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/12100-Samsung-Blvd-Austin-TX-USA/Engineer-I--Multiple-Openings-_R114847-1",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pima County",
-        "id": "b2e736fc-f68f-4a7a-875c-b823f873fe90",
-        "title": "Business Intelligence Analyst 1 - Public Health Data Manager",
-        "active": false,
-        "date_updated": 1773382972,
-        "date_posted": 1773382972,
-        "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Business-Intelligence-Analyst-I---Public-Health-Data-Manager_JR102794",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Pima-County",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Public Partnerships (PPL)",
-        "id": "a1f7e7e3-7b2c-4d7f-a46b-3d29dbcaca18",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773382513,
-        "date_posted": 1773382513,
-        "url": "https://publicpartnerships.wd1.myworkdayjobs.com/ppl/job/New-York/Data-Analyst_JR26-0746",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Public-Partnerships",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SentiLink",
-        "id": "63fc30c3-4d13-40bc-8488-b39b2dc59b9e",
-        "title": "Applied ML Scientist",
-        "active": false,
-        "date_updated": 1773382522,
-        "date_posted": 1773382522,
-        "url": "https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SentiLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SentiLink",
-        "id": "5486f8fc-e958-437b-934e-ad3295e9a178",
-        "title": "Data Scientist \u2013 New Grad",
-        "active": false,
-        "date_updated": 1773382532,
-        "date_posted": 1773382532,
-        "url": "https://jobs.ashbyhq.com/sentilink/3cb2885e-7a58-4a14-94d5-b7b851053408/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SentiLink",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard Enterprise",
-        "id": "eefe3311-8bd8-4483-b98e-9232d2c6263d",
-        "title": "Systems/Software Engineer 1",
-        "active": false,
-        "date_updated": 1773384488,
-        "date_posted": 1773384488,
-        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1200502",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "e5bebdaf-a2d4-493e-a5a5-eef7abf4c350",
-        "title": "Entry-Level Software Engineer - Test & Verification - Test & Verification",
-        "active": false,
-        "date_updated": 1773384150,
-        "date_posted": 1773384150,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Oklahoma-City-OK/Entry-Level-Software-Engineer-Test---Verification--Test---Verification-_JR2026500640-2",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "8bbf9ca3-1c08-4a6e-ad31-bfc5d8b97a43",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1773384213,
-        "date_posted": 1773384213,
-        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Associate-Software-Developer_R-0000161781",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "698d0742-0957-46e8-a77a-555ea5c4e3e7",
-        "title": "RBC Capital Markets QTS New Grad Rotational Program",
-        "active": false,
-        "date_updated": 1773384259,
-        "date_posted": 1773384259,
-        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/QTS-New-Graduate-Rotational-Program--2026--Toronto-_R-0000161803-2",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "4cf7260c-4251-4688-a9b7-a4bd673a33a8",
-        "title": "New Grad Rotational Program",
-        "active": false,
-        "date_updated": 1773384258,
-        "date_posted": 1773384258,
-        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/90-WESTERN-PKYBEDFORD/QTS-New-Graduate-Rotational-Program--2026--Halifax-_R-0000161808-1",
-        "locations": [
-            "Nova Scotia, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "49648ff9-a82b-47d2-b425-00b8b993708e",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1773384214,
-        "date_posted": 1773384214,
-        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Associate-Software-Developer_R-0000161784",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Royal Bank of Canada",
-        "id": "24b83f3d-ad4b-478a-bdfb-64536679a6e1",
-        "title": "Associate Software Developer",
-        "active": false,
-        "date_updated": 1773384216,
-        "date_posted": 1773384216,
-        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/MISSISSAUGA-Ontario-Canada/Associate-Software-Developer_R-0000161783",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Southwest Airlines",
-        "id": "3f499548-03d5-4404-8e4b-0a13f94cdabc",
-        "title": "Associate System Engineer",
-        "active": false,
-        "date_updated": 1773383984,
-        "date_posted": 1773383984,
-        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-System-Engineer---Warrior-Hire_R-2026-66101",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Southwest Airlines",
-        "id": "3937a782-30ee-455a-9f26-63b4e3d1c37e",
-        "title": "Associate Data Engineer",
-        "active": false,
-        "date_updated": 1773383992,
-        "date_posted": 1773383992,
-        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Associate-Data-Engineer---Warrior-Hire_R-2026-66099",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pima County",
-        "id": "a254df12-4f97-40fb-8f6e-97d88e1f1a4e",
-        "title": "Data Analyst 1 - Justice Services",
-        "active": false,
-        "date_updated": 1773385457,
-        "date_posted": 1773385457,
-        "url": "https://pimacounty.wd5.myworkdayjobs.com/pimacareers/job/Tucson-AZ/Data-Analyst-I---Justice-Services_JR103037",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/Pima-County",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "American University",
-        "id": "8cc1f1f3-e8c6-4750-b448-2e17f5b5af4b",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1773385373,
-        "date_posted": 1773385373,
-        "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Data-Analyst--IRW_R4028",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/American-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "e920c61c-4e36-466e-91fb-f7e56b5192c2",
-        "title": "Graduate Research Scientist",
-        "active": false,
-        "date_updated": 1773392941,
-        "date_posted": 1773392941,
-        "url": "https://jobs.bytedance.com/en/position/7397590567570426162/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "d2a2aeb8-a2a5-4724-b646-5235d1a62e33",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773392825,
-        "date_posted": 1773392825,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053287",
-        "locations": [
-            "Northern Ireland, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Trading212",
-        "id": "2fcb4d3e-597c-4d80-8343-9b9ec840ec02",
-        "title": "Graduate Trading Operations Analyst",
-        "active": false,
-        "date_updated": 1773392849,
-        "date_posted": 1773392849,
-        "url": "https://jobs.ashbyhq.com/trading212/3869cbd3-5700-4a3f-b32c-ac386518ee9a/application",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Trading212",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "GE Vernova",
         "id": "864b1c6f-7b8f-4d7b-9233-04c32b767c63",
@@ -300574,7 +300119,7 @@
         "company_name": "John Deere",
         "id": "6a641512-5879-4685-ba23-79f817c714aa",
         "title": "Data & Analytics Development Program 1 - Data and Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1788994653,
         "date_posted": 1788993325,
         "url": "https://johndeere.eightfold.ai/careers/job/137482523381",
@@ -317871,27 +317416,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "f5e5e7e7-1d95-4907-8ad0-5a40a783a6ba",
-        "title": "Research Scientist - Seed Model - Vision",
-        "active": true,
-        "date_updated": 1790246161,
-        "date_posted": 1773392929,
-        "url": "https://jobs.bytedance.com/en/position/7362026100950321459/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Kitware",
         "id": "11592e4e-a518-4c9e-9f89-8c2340373f6b",
         "title": "Annotation Specialist - Computer Vision",
@@ -328823,7 +328347,7 @@
         "company_name": "Momentum Engineering",
         "id": "76ec5a6b-b0ae-401e-a2f9-f36a0dfa7151",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791122242,
         "date_posted": 1790749067,
         "url": "https://ats.rippling.com/momentumcareers/jobs/dd4281b8-fa2a-4833-8370-b1859933b612",
@@ -335318,7 +334842,7 @@
         "company_name": "AMD",
         "id": "20c5756e-32c3-4959-976f-f219f348efb2",
         "title": "Electronics Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1791364322,
         "date_posted": 1788021789,
         "url": "https://careers.amd.com/jobs/91410?icims=1",
@@ -337332,7 +336856,7 @@
         "company_name": "American University",
         "id": "47b95dc3-a50e-4956-855b-b8163f839175",
         "title": "Geospatial Research Lab Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1791470237,
         "date_posted": 1791417600,
         "url": "https://american.wd1.myworkdayjobs.com/au/job/Main-Campus-Washington-DC/Geospatial-Research-Lab-Assistant--Student-_R5073",
@@ -338970,7 +338494,7 @@
         "company_name": "Goldman Sachs",
         "id": "efd12c2b-ee8c-4336-b12d-d2cfad76be41",
         "title": "Quantitative Strategist - Investment Strategy Group - SQAA Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1791556201,
         "date_posted": 1791555824,
         "url": "https://higher.gs.com/roles/185943",
@@ -362934,7 +362458,7 @@
         "company_name": "Northrop Grumman",
         "id": "5cb614bd-a490-404d-9f15-01f7d1583f71",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793140054,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
@@ -372850,7 +372374,7 @@
         "company_name": "SAIC",
         "id": "8b78e2f8-35f6-4abc-bada-954fe7cc7779",
         "title": "Geographic Information Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793546295,
         "date_posted": 1793546186,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618675",
@@ -376922,7 +376446,7 @@
         "company_name": "Northrop Grumman",
         "id": "c7693c27-b654-4f6b-a1aa-7437f09193c5",
         "title": "Associate Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793845866,
         "date_posted": 1793750400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300",
@@ -380118,7 +379642,7 @@
         "company_name": "Charles Schwab",
         "id": "206ba36a-050c-448b-b880-2b4c5ab214d4",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794006363,
         "date_posted": 1793923200,
         "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
