@@ -20,6 +20,20 @@
 </thead>
 <tbody>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Shield-AI?utm_source=GHList&utm_medium=company">Shield AI</a></strong></td>
+<td>Software Engineer 1 New Grad</td>
+<td>Washington, DC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dcad63ca-676a-4159-a102-8c42f2d872c5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer 1 New Grad</td>
+<td>Washington, DC</td>
+<td><div align="center"><a href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8b086459-985c-4225-b509-facb2dce5e94?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>0d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Affirm?utm_source=GHList&utm_medium=company">Affirm</a></strong></td>
 <td>Software Engineer 1 - Backend - Continuous Delivery</td>
 <td>Remote in USA</td>
@@ -31,14 +45,14 @@
 <td>Mission Modeling, Simulation & Software Engineer New Grad</td>
 <td>Laurel, MD</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/60029?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d0ffdbce-6964-4f14-9040-25a5e9369505?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Bask-Health?utm_source=GHList&utm_medium=company">Bask Health</a></strong></td>
 <td>Frontend Engineer New Grad</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://apply.workable.com/bask-health-1/j/95FB1074E4/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ca8d4e99-7c1a-43f6-9730-cb0083351686?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra-Space?utm_source=GHList&utm_medium=company">Sierra Space</a></strong></td>
@@ -52,6 +66,13 @@
 <td>Software Engineer 1</td>
 <td>Lone Tree, CO</td>
 <td><div align="center"><a href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/17249684-d715-4da1-a2a9-2634530b3889?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineer 1</td>
+<td>Marlborough, MA</td>
+<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3405de3a-e8dd-40b3-b91f-52185d82ebe8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1d</td>
 </tr>
 <tr>
@@ -153,13 +174,6 @@
 <td>3d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Richardson, TX</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/75ad26cf-c6b7-4225-8b8b-c4c2f0a34e40?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Fidelity-National-Information-Services?utm_source=GHList&utm_medium=company">Fidelity National Information Services</a></strong></td>
 <td>Mainframe Software Engineer 1</td>
 <td>Columbus, GA</td>
@@ -192,27 +206,20 @@
 <td>Software Engineer 1</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://careers.planview.com/jobs/5149?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4db68403-cd75-4370-8b2b-304162a154ba?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wolverine-Trading?utm_source=GHList&utm_medium=company">Wolverine Trading</a></strong></td>
 <td>C++ Software Engineer New Grad</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://wolve.pinpointhq.com/en/postings/33228344-bcc7-4bcd-b3cb-22b60aaee82c?ats=pinpointhq&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/3dbb6972-d6ac-421f-a585-0e73f702f92a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3d</td>
+<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Whoop?utm_source=GHList&utm_medium=company">Whoop</a></strong></td>
 <td>Software Engineer 1 - Backend - Growth</td>
 <td>Boston, MA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8311a236-895c-4bee-b40e-ed11cf6127e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Mercury-Insurance?utm_source=GHList&utm_medium=company">Mercury Insurance</a></strong></td>
-<td>Software Engineer 1</td>
-<td>Remote in USA</td>
-<td><div align="center"><a href="https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8fdeb561-a8db-4d1a-a92f-1065c24f4d9d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>4d</td>
 </tr>
 <tr>
@@ -283,21 +290,21 @@
 <td>Software Engineer New Grad - Consumer Experience</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b6f8c62c-4d2c-44f5-8147-cca845fe05d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
 <td>Cloud Software Engineer 1</td>
 <td>Fort Meade, MD</td>
 <td><div align="center"><a href="https://careers-peraton.icims.com/jobs/164003/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b4c2db2d-3859-453b-823e-8dc517020ce3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Everwatch?utm_source=GHList&utm_medium=company">Everwatch</a></strong></td>
 <td>Junior Software Engineer</td>
 <td>Annapolis Junction, MD</td>
 <td><div align="center"><a href="https://everwatch-everwatchsolutions.icims.com/jobs/3573/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/47b0bb99-c1c9-4aef-bd88-5e20f1582549?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Choice-Hotels?utm_source=GHList&utm_medium=company">Choice Hotels</a></strong></td>
@@ -346,7 +353,7 @@
 <td>Junior AI/Machine Learning Engineer</td>
 <td>Remote in USA</br>Hoover, AL</td>
 <td><div align="center"><a href="https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7c16f1bd-bd39-4a42-a12c-2e49647c85cd?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RELX?utm_source=GHList&utm_medium=company">RELX</a></strong></td>
@@ -367,21 +374,21 @@
 <td>Software Engineer New Grad</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=8847747002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9910f1e1-3019-4617-bdba-6c5ee8d8396a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Ocado-Group?utm_source=GHList&utm_medium=company">Ocado Group</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>Hatfield, UK</td>
 <td><div align="center"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5018802101&gh_jid=5018802101&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5a361146-c417-435f-aa29-21e4fca3ba06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Google?utm_source=GHList&utm_medium=company">🔥 Google</a></strong></td>
 <td>Software Engineer 2 – Early Career</td>
 <td>Palo Alto, CA</br>Madison, WI</br>Seattle, WA</br>LA</br>Raleigh, NC</br>San Bruno, CA</br>Durham, NC</br>Pittsburgh, PA</br>Kirkland, WA</br>NYC</br>Sunnyvale, CA</br>Mountain View, CA</td>
 <td><div align="center"><a href="https://www.google.com/about/careers/applications/jobs/results/109116638069957318?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/da1ac264-d20e-4ad8-b630-709c0ae8cd5e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Built-Technologies?utm_source=GHList&utm_medium=company">Built Technologies</a></strong></td>
@@ -395,7 +402,7 @@
 <td>Junior Software Engineer</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://bodyspec.applytojob.com/apply/YsrsS9yEg7/Junior-Developer?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/f7888bad-462c-451b-a9e7-6c7506eea223?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>13d</td>
+<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TSC?utm_source=GHList&utm_medium=company">TSC</a></strong></td>
@@ -461,6 +468,13 @@
 <td>14d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Thoughtworks?utm_source=GHList&utm_medium=company">Thoughtworks</a></strong></td>
+<td>Software Developer New Grad</td>
+<td>Chicago, IL</td>
+<td><div align="center"><a href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7cf02321-1109-4b76-b4f0-46ea301199c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>15d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Databricks?utm_source=GHList&utm_medium=company">🔥 Databricks</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>Mountain View, CA</td>
@@ -486,14 +500,14 @@
 <td>ML Infrastructure Engineer New Grad</td>
 <td>Austin, TX</br>San Jose, CA</td>
 <td><div align="center"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/2ca476b1-e283-4e45-8f5d-12dcfa6b20e8?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Compiler Engineer New Grad</td>
 <td>Austin, TX</br>San Jose, CA</td>
 <td><div align="center"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6224835004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/74737e11-7997-42ce-8911-1628466217e5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Sierra?utm_source=GHList&utm_medium=company">Sierra</a></strong></td>
@@ -556,7 +570,7 @@
 <td>Software Engineer 1 New Grad</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b29c852f-50f9-42bc-a4b6-65ef06b990be?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
@@ -570,13 +584,6 @@
 <td>Software Engineer New Grad</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/74eb4b4b-ac29-4bdc-90f3-f70b743e4c06?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Meijer?utm_source=GHList&utm_medium=company">Meijer</a></strong></td>
-<td>Software Engineer 1, AI</td>
-<td>Grand Rapids, MI</td>
-<td><div align="center"><a href="https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Software-Engineer_R000692154?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ec3e9690-f766-4512-af30-a7ff06ba310d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>21d</td>
 </tr>
 <tr>
@@ -668,14 +675,14 @@
 <td>Graduate Software Engineer New Grad - AI Compute Libraries & Performance</td>
 <td>Bristol, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/graphcore/jobs/8894177002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d9e469da-03cc-4e75-b815-d57e9036c392?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Software Engineer New Grad - AI Compute Libraries & Performance</td>
 <td>Bristol, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902321002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/4082fdde-4f01-4939-b1c5-a0a7233d41ce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>23d</td>
+<td>24d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">🔥 Palantir</a></strong></td>
@@ -759,7 +766,7 @@
 <td>Software Engineer New Grad</td>
 <td>Telford, UK</br>Hove, Brighton and Hove, UK</td>
 <td><div align="center"><a href="https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d99c1e84-901c-49a8-9b2b-7bf6f62850a1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>28d</td>
+<td>29d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/SirenOpt?utm_source=GHList&utm_medium=company">SirenOpt</a></strong></td>
@@ -1221,14 +1228,14 @@
 <td>Platform Full-Stack Engineer New Grad</td>
 <td>Redwood City, CA</td>
 <td><div align="center"><a href="https://c3.ai/job-description/8801434002?gh_jid=8801434002&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/5b834e2d-a5a1-4d8f-8ee7-140bf5cb14c1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Scale-AI?utm_source=GHList&utm_medium=company">Scale AI</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>London, UK</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/scaleai/jobs/4730862005?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d6439164-b97e-4623-bbba-3d9ff79f8665?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Imbue?utm_source=GHList&utm_medium=company">Imbue</a></strong></td>
@@ -1998,10 +2005,10 @@
 <td>Software Engineer New Grad - Agent Platform</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a4f1f1ef-5c02-4610-b206-1791f99b714e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>3mo</td>
+<td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Cybernetic-Labs?utm_source=GHList&utm_medium=company">Cybernetic Labs</a></strong></td>
+<td>↳</td>
 <td>Full-Stack Software Engineer New Grad - Product</td>
 <td>SF</td>
 <td><div align="center"><a href="https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d24846e3-7ab0-4dc5-8419-0d070719ad82?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2106,7 +2113,7 @@
 <td>4mo</td>
 </tr>
 <tr>
-<td>↳</td>
+<td><strong><a href="https://simplify.jobs/c/Palantir?utm_source=GHList&utm_medium=company">🔥 Palantir</a></strong></td>
 <td>Software Engineer New Grad</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://jobs.lever.co/palantir/94984771-0704-446c-88c6-91ce748f6d92/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/0a14e404-4828-4af4-bb63-2fb23a5a061f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -2287,13 +2294,6 @@
 <td><div align="center"><a href="https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/566e37cf-7620-4e64-90ea-d25a99bb5f19?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>7mo</td>
 </tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Konrad-Group?utm_source=GHList&utm_medium=company">Konrad Group</a></strong></td>
-<td>Software Developer - Entry Level</td>
-<td>London, UK</td>
-<td><div align="center"><a href="https://boards.greenhouse.io/embed/job_app?token=7669159003&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7553023b-466e-4a6c-a382-0087b6fe7877?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7mo</td>
-</tr>
 </tbody>
 </table>
 
@@ -2384,7 +2384,7 @@
 <td>Junior Product Owner</td>
 <td>Glasgow, UK</td>
 <td><div align="center"><a href="https://phlo.careers.hibob.com/jobs/0ac8f855-d719-4d6e-a74c-8a100d7e0cb3?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/ee9c6075-0a08-4dbf-83ca-218f932bd79e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">🔥 TikTok</a></strong></td>
@@ -2405,14 +2405,14 @@
 <td>Product Manager New Grad - Platform Trust and Ecosystem</td>
 <td>San Jose, CA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7680761598014015797?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d6a611ad-6577-4727-bad6-a4aa05ad24ec?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>17d</td>
+<td>18d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Addepar?utm_source=GHList&utm_medium=company">Addepar</a></strong></td>
 <td>Product Manager – Early Career - AI Platform</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/addepar1/jobs/8910404002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1aca142d-fcc8-4cfe-b6c6-d06c5b55c36f?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Applied-Materials?utm_source=GHList&utm_medium=company">Applied Materials</a></strong></td>
@@ -2563,7 +2563,7 @@
 <td>Engineer/Analyst New Grad - ISRT and BMC2 Applications 🎓</td>
 <td>Laurel, MD</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/59851?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/a51fd528-2971-4d22-9b34-736913586603?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Tidal-Wave-Auto-Spa?utm_source=GHList&utm_medium=company">Tidal Wave Auto Spa</a></strong></td>
@@ -2605,14 +2605,14 @@
 <td>Machine Learning Engineer New Grad</td>
 <td>Austin, TX</br>San Jose, CA</td>
 <td><div align="center"><a href="https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/20eef2b5-2b76-436c-be94-9a14b28c9a90?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>9d</td>
+<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/I3?utm_source=GHList&utm_medium=company">Integration Innovation (i3)</a></strong></td>
 <td>Junior Machine Learning Engineer</td>
 <td>Arlington County, Arlington, VA</td>
 <td><div align="center"><a href="https://i3-corps.jibeapply.com/jobs/5417?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dede37bf-07c6-40e1-9c50-541b1cb5d7d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -2916,7 +2916,7 @@
 <td>2mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
+<td>↳</td>
 <td>Sensor Systems/Data Analytics New Grad</td>
 <td>Laurel, MD</td>
 <td><div align="center"><a href="https://careers.jhuapl.edu/jobs/59770?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/07ed29b5-1f97-4d0e-9dc0-c511ddcb781b?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -3479,7 +3479,7 @@
 <td>Aerospace Software Engineer New Grad - Aerospace Software</td>
 <td>Hawthorne, CA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8939697002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d195e49a-0c54-46a9-aba8-414e38f7ec6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
@@ -3518,13 +3518,6 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Embedded Software Engineer 1</td>
-<td>Goleta, CA</td>
-<td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/05b64352-4d78-4281-abc9-f86108d8b054?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>4d</td>
-</tr>
-<tr>
-<td>↳</td>
 <td>Embedded Security Software Engineer 1</td>
 <td>Goleta, CA</td>
 <td><div align="center"><a href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Security-Software-Engineer-I--Onsite-_01888154?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8c775649-5086-4095-a132-2de1ad48030e?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -3535,7 +3528,7 @@
 <td>FPGA Verification Engineer – Entry Level</td>
 <td>East Hartford, CT</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/SopraSteria1/744000160220699?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fc7dea4f-3945-4de4-a630-62d74a3935a3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Amazon?utm_source=GHList&utm_medium=company">🔥 Amazon</a></strong></td>
@@ -3577,7 +3570,7 @@
 <td>Hardware Engineer 1</td>
 <td>Harvard, MA</td>
 <td><div align="center"><a href="https://careers.gov2x.com/jobs/63915?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/e31996b1-f6fb-41bc-9c1e-bf4de88e9229?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>8d</td>
+<td>9d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Draper?utm_source=GHList&utm_medium=company">Draper</a></strong></td>
@@ -3605,7 +3598,7 @@
 <td>Software Engineer New Grad</td>
 <td>Nuneaton, UK</td>
 <td><div align="center"><a href="https://jobs.smartrecruiters.com/BoschGroup/744000159194500?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/7e7a3806-1273-43ba-ad1a-b71843329a80?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>10d</td>
+<td>11d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TSC?utm_source=GHList&utm_medium=company">TSC</a></strong></td>
@@ -3703,7 +3696,7 @@
 <td>Flight Software Engineer – Early Career</td>
 <td>Golden, CO</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/635c59aa-ba50-475e-b715-7d39871ef598?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>21d</td>
+<td>22d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -3997,13 +3990,6 @@
 <td>Software Engineer 1 - RAIL team 🎓</td>
 <td>Austin, TX</td>
 <td><div align="center"><a href="https://silabs.wd1.myworkdayjobs.com/SiliconlabsCareers/job/Austin/Software-Engineer-I_21011-1?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d9ae95b6-7b9b-4dfd-831a-347445ee21e5?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>2mo</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/SRI-International?utm_source=GHList&utm_medium=company">SRI International</a></strong></td>
-<td>Research Engineer 1 / 2 - Embedded Development Engineer</td>
-<td>Boulder, CO</td>
-<td><div align="center"><a href="https://careers-sri.icims.com/jobs/6505/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/9020818e-97b7-4347-bc4d-e56ea5a3aa92?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>2mo</td>
 </tr>
 <tr>
