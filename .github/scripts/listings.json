@@ -3,452 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "b68f2bb3-1e3e-4b5f-8735-a798a784dd6b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773900910,
-        "date_posted": 1773900910,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053927",
-        "locations": [
-            "Maidstone, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northrop Grumman",
-        "id": "b08805f6-197e-4f72-8e87-0d64fc9d054c",
-        "title": "Systems Engineer",
-        "active": false,
-        "date_updated": 1773902877,
-        "date_posted": 1773902877,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Systems-Engineer_R10226323",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "6256c28e-e7a4-48ec-a176-451983be78a3",
-        "title": "GPU Software Development Engineer",
-        "active": false,
-        "date_updated": 1773902750,
-        "date_posted": 1773902750,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282186",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "a8040ee1-f2f3-49f4-aeca-1c51f512414e",
-        "title": "GPU Software Development Engineer",
-        "active": false,
-        "date_updated": 1773902751,
-        "date_posted": 1773902751,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282189",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "934e27c1-a965-4299-a6f7-01e568c70037",
-        "title": "GPU Software Development Engineer",
-        "active": false,
-        "date_updated": 1773902751,
-        "date_posted": 1773902751,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282184",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "31662e79-d4d8-4242-9da1-903e923f919f",
-        "title": "GPU Software Development Engineer",
-        "active": false,
-        "date_updated": 1773902753,
-        "date_posted": 1773902753,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/GPU-Software-Development-Engineer_JR0282183",
-        "locations": [
-            "Hillsboro, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "ef027074-8f4c-4d32-a976-4ec43c0d7a26",
-        "title": "Entry-Level Missions Systems Software Engineers - Embedded",
-        "active": false,
-        "date_updated": 1773902227,
-        "date_posted": 1773902227,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineers---Embedded_JR2026501664-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "2aa3faff-6c8f-43ab-bcda-2bd24e25964b",
-        "title": "F-15 Mission Systems Entry Level Software Engineer",
-        "active": false,
-        "date_updated": 1773902228,
-        "date_posted": 1773902228,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/F-15-Mission-Systems-Entry-Level-Software-Engineer_JR2026501343-1",
-        "locations": [
-            "Hazelwood, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Littelfuse",
-        "id": "527541d3-9291-4145-877c-650775e07dd1",
-        "title": "Line Technician",
-        "active": false,
-        "date_updated": 1773901944,
-        "date_posted": 1773901944,
-        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Lipa-EBU/Line-Technician_JR-111266",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Littelfuse",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "date_updated": 1774872476,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/Work-At-Home-Illinois/Associate-Software-Development-Engineer--Enterprise-Applications-_R0856858",
-        "company_name": "CVS Health",
-        "title": "Associate Software Development Engineer (Enterprise Applications)",
-        "locations": [
-            "Remote in US"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "c189c34f-7bff-421f-ba82-6c90554b2289",
-        "date_posted": 1773909733,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776158504,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://firstadvantage.applytojob.com/apply/fiN17xh6U2/Associate-Software-Engineer-US-Remote",
-        "company_name": "First Advantage",
-        "title": "Associate Software Engineer",
-        "locations": [
-            "Remote in US"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "5e062e30-2097-4a0a-b4f2-04d055c187ee",
-        "date_posted": 1773909913,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774960188,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/71509/junior-embedded-software-engineer-%28cleared%29/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Junior Embedded Software Engineer (cleared)",
-        "locations": [
-            "Dedham, MA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "6c924177-e0eb-493c-bfc1-720c239922aa",
-        "date_posted": 1773909984,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774531713,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Austin-Texas-United-States-of-America/Simulation-Software-Engineer---Early-Career_JR-202605912",
-        "company_name": "General Motors",
-        "title": "Simulation Software Engineer - Early Career",
-        "locations": [
-            "Austin, TX",
-            "Mountain View, CA",
-            "Warren, MI"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "843b947f-ac34-46ef-ba37-4ee3f5888791",
-        "date_posted": 1773910108,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775836066,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://giftogram.applytojob.com/apply/SXSlsMILTL/Junior-Full-Stack-Developer-On-Site-NJ",
-        "company_name": "Giftogram",
-        "title": "Junior Full Stack Developer",
-        "locations": [
-            "Whippany, NJ"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "24747dd6-4ac1-418f-a302-24a993d37452",
-        "date_posted": 1773910181,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774018721,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [
-            "Master's"
-        ],
-        "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/XMLNAME-2026-Raytheon-Full-Time---Algorithm-Systems-Engineer-II---Plano--TX--Onsite-_01831054",
-        "company_name": "RTX",
-        "title": "Algorithm Systems Engineer II",
-        "locations": [
-            "Plano, TX"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "46dcc12b-ed84-4ac6-b072-debd93830a74",
-        "date_posted": 1773910563,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773910868,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/ivo/3ce9dc16-90fd-4b99-b4b9-dfd48ec1a50d",
-        "company_name": "Ivo",
-        "title": "Software Engineer, Backend",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "23a17097-6dbf-4279-9567-c537ff173380",
-        "date_posted": 1773910868,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1773911116,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
-        "company_name": "Ivo",
-        "title": "Software Engineer, Frontend",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1ca94190-fd1a-4531-953f-194660778ad9",
-        "date_posted": 1773911116,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "a215fd25-7d7f-4cd8-98c5-5fa711e25234",
-        "title": "Associate Fleet Technician",
-        "active": false,
-        "date_updated": 1773912241,
-        "date_posted": 1773912241,
-        "url": "https://nuro.ai/careersitem?gh_jid=7442057",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "53e429b9-145d-494d-ad44-5ed6022ecc66",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773911309,
-        "date_posted": 1773911309,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054132",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "29e68554-97d4-4990-954b-31a116ed56b0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773911303,
-        "date_posted": 1773911303,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053151",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "295b6657-e177-4ee7-a54a-948e1688c9a2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773911327,
-        "date_posted": 1773911327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053106",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "5af56699-1cab-419d-b4b4-c6a83aa5f288",
-        "title": "Product Management Analyst",
-        "active": false,
-        "date_updated": 1773913362,
-        "date_posted": 1773913362,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R262337-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a8562f6a-59d2-4cd6-9b13-21867cd75d20",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773911415,
-        "date_posted": 1773911415,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054128",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "76511793-fd2a-4f37-beee-2a0bc65f7e7c",
         "title": "Trading Assistant",
         "active": false,
@@ -18174,25 +17728,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "38ccf520-12c9-4ab8-8add-1532097ac148",
-        "title": "Associate Fleet Technician",
-        "active": false,
-        "date_updated": 1775038321,
-        "date_posted": 1773912231,
-        "url": "https://nuro.ai/careersitem?gh_jid=7442056",
-        "locations": [
-            "San Bruno, CA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -37446,25 +36981,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RevenueCat",
-        "id": "158a3ce4-5e85-4259-93be-875f310be28b",
-        "title": "Developer Support Engineer",
-        "active": false,
-        "date_updated": 1776159698,
-        "date_posted": 1773900586,
-        "url": "https://jobs.ashbyhq.com/revenuecat/b81fe0a9-a48f-417c-badb-c916844bf2f6/application",
-        "locations": [
-            "Remote in USA",
-            "La Ronge, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RevenueCat",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "e31ec248-f0b2-4254-9a42-418a614ad15f",
@@ -41138,26 +40654,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Canonical",
-        "id": "ff09bedd-9b71-44fb-816d-cb2f72dd9231",
-        "title": "Software Engineer \u2013 Graduate Level - Python - Cloud",
-        "active": false,
-        "date_updated": 1773901438,
-        "date_posted": 1773901438,
-        "url": "https://job-boards.greenhouse.io/canonical/jobs/3257589",
-        "locations": [
-            "La Ronge, SK, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -59898,29 +59394,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "N1",
-        "id": "566e37cf-7620-4e64-90ea-d25a99bb5f19",
-        "title": "New Grad Software Engineer - Backend Rust",
-        "active": true,
-        "date_updated": 1773900706,
-        "date_posted": 1773900706,
-        "url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application",
-        "locations": [
-            "SF",
-            "Remote in USA",
-            "Europe",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/N1",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Boeing Company",
         "id": "ccfdf12f-b7a2-49c7-a873-070e101d9f76",
@@ -74908,7 +74381,7 @@
         "company_name": "Duke University",
         "id": "2e4b27aa-8307-4ead-a401-896686a2683f",
         "title": "Research Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1778708466,
         "date_posted": 1778623622,
         "url": "https://careers.duke.edu/job/Durham-Associate-in-Research-NC-27710/1373072400/?ats=successfactors",
@@ -237485,7 +236958,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -281188,7 +280661,7 @@
         "company_name": "DH Pace",
         "id": "a1915ce9-9d29-46eb-8363-6b51324ff7fa",
         "title": "Commercial Entry Door Installer",
-        "active": true,
+        "active": false,
         "date_updated": 1788462022,
         "date_posted": 1782166338,
         "url": "https://job-boards.greenhouse.io/dhpace/jobs/5274945008",
@@ -291154,7 +290627,7 @@
         "company_name": "John Deere",
         "id": "dd5ec129-4b7c-422b-8927-f7c265938023",
         "title": "Data and Analytics Development Program 2 - Data and Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788994647,
         "date_posted": 1788993321,
         "url": "https://johndeere.eightfold.ai/careers/job/137482525937",
@@ -310039,7 +309512,7 @@
         "company_name": "ASSA ABLOY",
         "id": "fd142f32-50e4-4408-92a1-f7ecf19afe7d",
         "title": "AI Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1790374145,
         "date_posted": 1790374003,
         "url": "https://assaabloy.jobs2web.com/job/Austin-AI-Scientist-TX-78753/1441539933/?ats=successfactors",
@@ -314744,7 +314217,7 @@
         "company_name": "Capgemini",
         "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
         "title": "Graduate Software Engineer Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1790846018,
         "date_posted": 1790845822,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
@@ -325304,7 +324777,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1ea2f99c-d735-498b-8521-7ed2e8609313",
         "title": "Senior Associate, Product Management",
-        "active": false,
+        "active": true,
         "date_updated": 1791325952,
         "date_posted": 1791324555,
         "url": "https://jobs.l3harris.com/job/Rochester-Senior-Associate,-Product-Management-NY-14609/1437280600/?ats=successfactors",
@@ -328309,7 +327782,7 @@
         "company_name": "Capgemini",
         "id": "f4875814-a00b-4c22-9d51-aed871743038",
         "title": "Lead Java Full Stack with React",
-        "active": false,
+        "active": true,
         "date_updated": 1791499336,
         "date_posted": 1791498956,
         "url": "https://careers.capgemini.com/job/New-York,-NY-Lead-Java-Full-Stack-with-React-NY-10001/1445764233/?ats=successfactors",
@@ -334423,7 +333896,7 @@
         "company_name": "Capgemini",
         "id": "c67013f3-bb2d-4b62-9127-75264ad45442",
         "title": "Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1791969537,
         "date_posted": 1790029614,
         "url": "https://careers.capgemini.com/job/Bridgewater,-NJ-C&CA-Associate-Application-Consultant-NJ/1439746933/?ats=successfactors",
@@ -336063,7 +335536,7 @@
         "company_name": "Capgemini",
         "id": "d99c1e84-901c-49a8-9b2b-7bf6f62850a1",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1792056502,
         "date_posted": 1792056417,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors",
@@ -345862,155 +345335,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Canonical",
-        "id": "5c30c57b-5d82-4664-968a-b1e007d65353",
-        "title": "Software Engineer - Python - Container Images",
-        "active": true,
-        "date_updated": 1792745647,
-        "date_posted": 1773901446,
-        "url": "https://job-boards.greenhouse.io/canonical/jobs/6222476",
-        "locations": [
-            "Remote in Mali",
-            "Remote in Cyprus",
-            "Remote in Western Sahara",
-            "Remote in Finland",
-            "Remote in Algeria",
-            "Remote in Oman",
-            "Remote in Sierra Leone",
-            "Remote in Iraq",
-            "Remote in Togo",
-            "Remote in Botswana",
-            "Remote in Poland",
-            "Remote in Portugal",
-            "Remote in Tanzania",
-            "Remote in Russia",
-            "Remote in Czechia",
-            "Remote in Nigeria",
-            "Remote in Benin",
-            "Remote in Slovenia",
-            "Remote in Saint Helena, Ascension and Tristan da Cunha",
-            "Remote in Congo, The Democratic Republic of the",
-            "Remote in Lebanon",
-            "Remote in Germany",
-            "Remote in Cameroon",
-            "Remote in Georgia",
-            "Remote in Guinea",
-            "Remote in Belgium",
-            "Remote in North Macedonia",
-            "Remote in Madagascar",
-            "Remote in Burundi",
-            "Remote in Norway",
-            "Remote in Slovakia",
-            "Remote in Belarus",
-            "Remote in Angola",
-            "Remote in Turkey",
-            "Remote in Ghana",
-            "Remote in Iceland",
-            "Remote in R\u00e9union",
-            "Remote in Monaco",
-            "Remote in Kenya",
-            "Remote in Mauritania",
-            "Remote in Guernsey",
-            "Remote in Qatar",
-            "Remote in South Africa",
-            "Remote in Burkina Faso",
-            "Remote in Jersey",
-            "Remote in United Arab Emirates",
-            "Remote in Azerbaijan",
-            "Remote in UK",
-            "Remote in Namibia",
-            "Remote in Tunisia",
-            "Remote in Egypt",
-            "Remote in Somalia",
-            "Remote in Ireland",
-            "Remote in Mozambique",
-            "Remote in Ukraine",
-            "Remote in Greece",
-            "Remote in Faroe Islands",
-            "Remote in Guinea-Bissau",
-            "Remote in South Sudan",
-            "Remote in Palestine, State of",
-            "Remote in Andorra",
-            "Remote in Djibouti",
-            "Remote in Armenia",
-            "Remote in Seychelles",
-            "Remote in Sudan",
-            "Remote in Mayotte",
-            "Remote in Netherlands",
-            "Remote in Eritrea",
-            "Remote in Svalbard and Jan Mayen",
-            "Remote in Liechtenstein",
-            "Remote in Chad",
-            "Remote in French Southern Territories",
-            "Remote in Equatorial Guinea",
-            "Remote in Ethiopia",
-            "Remote in Sao Tome and Principe",
-            "Remote in Hungary",
-            "Remote in San Marino",
-            "Remote in Libya",
-            "Remote in Israel",
-            "Remote in Holy See (Vatican City State)",
-            "Remote in Liberia",
-            "Remote in Bulgaria",
-            "Remote in Jordan",
-            "Remote in Iran",
-            "Remote in Denmark",
-            "Remote in Malta",
-            "Remote in Zambia",
-            "Remote in Albania",
-            "Remote in Yemen",
-            "Remote in Bahrain",
-            "Remote in Senegal",
-            "Remote in Uganda",
-            "Remote in Serbia",
-            "Remote in Comoros",
-            "Remote in Moldova",
-            "Remote in Lesotho",
-            "Remote in Malawi",
-            "Remote in Isle of Man",
-            "Remote in British Indian Ocean Territory",
-            "Remote in Central African Republic",
-            "Remote in Zimbabwe",
-            "Remote in Spain",
-            "Remote in Eswatini",
-            "Remote in Luxembourg",
-            "Remote in C\u00f4te d'Ivoire",
-            "Remote in Cabo Verde",
-            "Remote in Sweden",
-            "Remote in Niger",
-            "Remote in Rwanda",
-            "Remote in Switzerland",
-            "Remote in \u00c5land Islands",
-            "Remote in Gibraltar",
-            "Remote in Croatia",
-            "Remote in Gabon",
-            "Remote in Congo",
-            "Remote in Montenegro",
-            "Remote in Romania",
-            "Remote in Kuwait",
-            "Remote in Mauritius",
-            "Remote in Latvia",
-            "Remote in Bosnia and Herzegovina",
-            "Remote in Saudi Arabia",
-            "Remote in Gambia",
-            "Remote in Austria",
-            "Remote in Morocco",
-            "Remote in Italy",
-            "Remote in Lithuania",
-            "Remote in Estonia",
-            "Remote in France",
-            "Remote in Syria"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "State of North Carolina",
         "id": "421906ce-01b4-4733-9e1b-141189b5a24f",
@@ -349777,7 +349101,7 @@
         "company_name": "Zurich Insurance",
         "id": "9d24638b-f231-499f-8fe9-a3fab5242bd1",
         "title": "Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792774263,
         "date_posted": 1792536005,
         "url": "https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors",
@@ -364978,7 +364302,7 @@
         "company_name": "Capgemini",
         "id": "1fa93b8e-4b8b-44a2-abe2-7e44cf150d8e",
         "title": "Campus 1&D: Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1793719658,
         "date_posted": 1793719577,
         "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
@@ -365572,7 +364896,7 @@
         "company_name": "Mohawk",
         "id": "01c75f2e-2e48-4f0b-89f8-bd52e75180ed",
         "title": "Product Management Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1793747163,
         "date_posted": 1793747097,
         "url": "https://careers.mohawkind.com/mohawk/job/Calhoun-Product-Management-Associate-ASPIRE-LDP-Geor-30701/1447354900/?ats=successfactors",
@@ -369365,7 +368689,7 @@
         "company_name": "Capgemini",
         "id": "9a142315-8459-43ef-a3a5-9025798c7a2d",
         "title": "Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1793920717,
         "date_posted": 1793920527,
         "url": "https://careers.capgemini.com/job/Berwyn,-PA-C&CA-Campus-Associate-Application-Consultant-PA/1454933833/?ats=successfactors",
@@ -371040,7 +370364,7 @@
         "company_name": "Microsoft",
         "id": "5b152919-6dd2-49e1-9338-9bec77d7fdd3",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794008458,
         "date_posted": 1794008282,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
@@ -371061,7 +370385,7 @@
         "company_name": "Capgemini",
         "id": "34dac878-8890-4141-8a51-4f3b76dc7bee",
         "title": "Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1794008463,
         "date_posted": 1794008328,
         "url": "https://careers.capgemini.com/job/Berwyn,-PA-Campus-C&CA-Associate-Application-Consultant-PA/1455309233/?ats=successfactors",
@@ -371340,7 +370664,7 @@
         "company_name": "AbbVie",
         "id": "4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794017367,
         "date_posted": 1794014714,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
@@ -371852,7 +371176,7 @@
         "company_name": "Adidas",
         "id": "51d76cb5-4b77-4d0e-a6cd-60ff7074a388",
         "title": "Business Insights New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794239356,
         "date_posted": 1794239142,
         "url": "https://jobs.adidas-group.com/job/Stockport-BUSINESS-INSIGHTS-GRADUATE-2027-MANCHESTER/1455581533/?ats=successfactors",
@@ -372596,7 +371920,7 @@
         "company_name": "Microsoft",
         "id": "f8dff735-83eb-4c12-bafc-e9568cf30001",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794267618,
         "date_posted": 1794267495,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
@@ -374648,7 +373972,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -378114,7 +377438,7 @@
         "company_name": "ARCXIS",
         "id": "efaec2f3-aac7-4d48-8c20-2fdc525641a7",
         "title": "AI Rapid Prototype Developer Level 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794525134,
         "date_posted": 1794521966,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661286",
@@ -378610,7 +377934,7 @@
         "company_name": "Shield AI",
         "id": "8b086459-985c-4225-b509-facb2dce5e94",
         "title": "Software Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794556503,
         "date_posted": 1794528000,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
@@ -378710,7 +378034,7 @@
         "company_name": "Shield AI",
         "id": "dcad63ca-676a-4159-a102-8c42f2d872c5",
         "title": "Software Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794565125,
         "date_posted": 1794528000,
         "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
@@ -379199,7 +378523,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "11cf81e0-6a40-43ec-b7ed-93f63541c96d",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1794611538,
         "date_posted": 1794611375,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors",
@@ -379841,6 +379165,283 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "McMaster-Carr",
+        "id": "049abd17-7f5b-4e36-9f8b-96b028fa0720",
+        "title": "Technology Developer - Development - Design",
+        "active": true,
+        "date_updated": 1794640363,
+        "date_posted": 1792674033,
+        "url": "https://job-boards.greenhouse.io/mcmaster-carr-systems/jobs/4463263009",
+        "locations": [
+            "Elmhurst, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/McMaster-Carr",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "b4e0bd04-a49e-4fe5-be6c-29ac1d93bff3",
+        "title": "Software Engineering Graduate Program",
+        "active": true,
+        "date_updated": 1794641812,
+        "date_posted": 1790072752,
+        "url": "https://accenture.pinpointhq.com/en/postings/ea5476ed-b07b-4a24-b7c9-541881141de8?ats=pinpointhq",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "4f8b6972-afef-4061-9793-31aa2c86495c",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790078263,
+        "url": "https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "a215785a-a17e-4d39-8508-4062629e0681",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790078373,
+        "url": "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "99faec69-36c3-45b0-b133-b5adf3e845f9",
+        "title": "Software Engineering New Grad - Graduate Programme",
+        "active": true,
+        "date_updated": 1794641814,
+        "date_posted": 1790078519,
+        "url": "https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "257cfc8d-99de-4c4a-96a1-d47f3117b265",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790077985,
+        "url": "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "1c6153b6-21de-4fdf-85d2-b7eab2023840",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641810,
+        "date_posted": 1790080414,
+        "url": "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "c039496a-1e56-45d6-a014-aba00cbbb349",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794641812,
+        "date_posted": 1790078454,
+        "url": "https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "32d8d3c3-ce7a-49d8-bb08-770c770a6297",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1794648424,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0de47efa-a533-4274-81c4-2a570d4489ce",
+        "title": "Electrical Engineer - Hardware Test",
+        "active": true,
+        "date_updated": 1794647533,
+        "date_posted": 1790294400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "edmentum",
+        "id": "788e4fa2-855c-4290-a24e-47ddccdf7692",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794650273,
+        "date_posted": 1794429078,
+        "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Edmentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Super Micro Computer",
+        "id": "93219a1e-b155-44dd-b405-06d535ebab99",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1794653641,
+        "date_posted": 1790039294,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Engineering-Technician-Cali/1432310700/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "c8035f9a-6e11-496d-9a68-71471e6d4515",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1794652561,
+        "date_posted": 1793577600,
+        "url": "https://jobs.ashbyhq.com/shield/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "f6f476c2-5053-433d-91b6-ffe423294891",
+        "title": "Electrical Engineer - Hardware Test",
+        "active": true,
+        "date_updated": 1794654001,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/shield/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
