@@ -1,327 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "PVH",
-        "id": "be25b1a5-0713-45a5-ab73-c43b621a615b",
-        "title": "Assistant Merchandiser",
-        "active": false,
-        "date_updated": 1774047309,
-        "date_posted": 1774047309,
-        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Apparel-Off-Price_R58009-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PVH",
-        "id": "3e5e88ac-a0a1-486a-9a57-cae909b51062",
-        "title": "Assistant Merchandiser - Close to Body Off Price",
-        "active": false,
-        "date_updated": 1774047308,
-        "date_posted": 1774047308,
-        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Close-to-Body-Off-Price_R58010-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Worldpay",
-        "id": "02550120-f814-4920-9adf-ae6bbaae11cf",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774047406,
-        "date_posted": 1774047406,
-        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I_JR0608959",
-        "locations": [
-            "Jacksonville, FL",
-            "Atlanta, GA",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldpay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "a18dc3f2-82fe-4ec8-8a76-a7773eb225e4",
-        "title": "Engineer 1 - Product - Test",
-        "active": false,
-        "date_updated": 1774047185,
-        "date_posted": 1774047185,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Brimbal/Engineer-I---Product--Test-_R1173-26",
-        "locations": [
-            "Peabody, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Baird",
-        "id": "5d7b6012-9659-4506-bb89-fd56e8629feb",
-        "title": "Fixed Income Agency Mortgage-Backed - MBS",
-        "active": false,
-        "date_updated": 1774047240,
-        "date_posted": 1774047240,
-        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CT-Stamford/Fixed-Income-Agency-Mortgage-Backed--MBS--Trading-Assistant_R2026373-2",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Baird",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Kohl's",
-        "id": "cc1b63fd-ee57-46df-bb6c-a1f656362fac",
-        "title": "Assistant Designer",
-        "active": false,
-        "date_updated": 1774045962,
-        "date_posted": 1774045962,
-        "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Assistant-Designer_R469236",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Kohls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Lowe's ",
-        "id": "0f0ab94d-7d30-4073-addb-2ff2f4e87d3f",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1774048465,
-        "date_posted": 1774048465,
-        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Associate-Software-Engineer---Launchpad_JR-02448968",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lowes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Bootcamp",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "First Financial ",
-        "id": "a90b516a-4ed0-48e4-ba14-f92e19919122",
-        "title": "Software Developer 1",
-        "active": false,
-        "date_updated": 1774048263,
-        "date_posted": 1774048263,
-        "url": "https://ffin.wd1.myworkdayjobs.com/First_Financial_Bank/job/Operations-Center/Software-Developer-I_JR102566",
-        "locations": [
-            "Stamford, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/First-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Gensler",
-        "id": "c0fd7b04-db45-4b8c-860a-10c436bc1752",
-        "title": "Design Strategist - Data Analytics + Insights",
-        "active": false,
-        "date_updated": 1774047723,
-        "date_posted": 1774047723,
-        "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Design-Strategist---Data-Analytics---Insights_R-17272",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gensler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robert Half",
-        "id": "b1ba6db6-3e6c-4a3b-9eea-cdf1247a02c6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774047145,
-        "date_posted": 1774047145,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259875",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Robert-Half",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "69cef731-5b2b-4069-b674-196ca8b3b39f",
-        "title": "Vendor Master Data Analyst",
-        "active": false,
-        "date_updated": 1774055965,
-        "date_posted": 1774055965,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012245626",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2aee3072-9d60-46b2-8e0a-9e82147d8286",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774055728,
-        "date_posted": 1774055728,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054436",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ae996f9-8b11-4e98-929c-aa4a47d4c466",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774055606,
-        "date_posted": 1774055606,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054437",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Boeing Company",
-        "id": "025b02c5-cfde-4516-a970-db1a620407a2",
-        "title": "Simulation Software Engineer",
-        "active": false,
-        "date_updated": 1774057286,
-        "date_posted": 1774057286,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Simulation-Software-Engineer--Associate-or-Experienced---Virtual-_JR2026502082-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EPRI",
-        "id": "617e40cf-97fb-41fc-a0a7-e6dbcdac9b2c",
-        "title": "Staff Level 1 - Data Scientist",
-        "active": false,
-        "date_updated": 1774056760,
-        "date_posted": 1774056760,
-        "url": "https://vhr-epri.wd1.myworkdayjobs.com/epricareers/job/Charlotte-NC/Staff---Level-I_REQ-3922",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/EPRI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cadence Design Systems",
-        "id": "3d4e3db3-0bd0-4a67-8ddc-0cfea7aa195d",
-        "title": "AI / Agentic AI / GenAI New College Grad",
-        "active": false,
-        "date_updated": 1774056829,
-        "date_posted": 1774056829,
-        "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/AI---Agentic-AI---GenAI-Temp-Assignment-for-New-College-Grad---IT_R53714-1",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "95b77179-ef26-4b1c-9816-76f59dfd5ced",
@@ -337,28 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Leonardo",
-        "id": "8b9df8ae-7e2b-44ef-b2c8-f9ee6373a4d1",
-        "title": "Graduate Software Engineer",
-        "active": false,
-        "date_updated": 1774048416,
-        "date_posted": 1774048416,
-        "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Southampton/Graduate-Software-Engineer_R0022545-1",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Leonardo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -4772,27 +4429,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seagate Technology ",
-        "id": "caf1fb37-dfb0-4ec9-a61b-e7d8525dc522",
-        "title": "Data Scientist \u2013 GenAI & Autonomous Manufacturing Early Career",
-        "active": false,
-        "date_updated": 1774304208,
-        "date_posted": 1774055496,
-        "url": "https://seagatecareers.com/job/Bloomington-Data-Scientist-GenAI-&-Autonomous-Manufacturing-Early-Career-MN/1375513100/?ats=successfactors",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Philips",
         "id": "87eeda1a-48c8-4d13-96ec-035dde606e8c",
@@ -4850,28 +4486,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Stripe",
-        "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
-        "title": "Product Manager",
-        "active": true,
-        "date_updated": 1774255374,
-        "date_posted": 1774055248,
-        "url": "https://stripe.com/jobs/search?gh_jid=7737124",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -6699,28 +6313,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "0d407e80-c6cf-4d12-8db4-701340f9f7b0",
-        "title": "EHS/Product Safety Engineer",
-        "active": false,
-        "date_updated": 1774047801,
-        "date_posted": 1774047801,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/EHS-Product-Safety-Engineer---New-College-Grad--Bachelors---Multiple-Locations-_R2517821",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Essex County, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -234205,7 +233797,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -262135,7 +261727,7 @@
         "company_name": "Zopa",
         "id": "eede34d8-3520-4881-b2a5-ed052a5b31e5",
         "title": "Graduate Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788278806,
         "date_posted": 1788278712,
         "url": "https://jobs.lever.co/zopa/962f3756-6e45-480f-984c-64e024b57c4f/apply",
@@ -367007,7 +366599,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "d214353d-3393-460d-802e-6966a8fbac28",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006761,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267-1",
@@ -367050,7 +366642,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "e3f2f0aa-f254-467d-a1cb-7b6140686226",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006656,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267",
@@ -372198,7 +371790,7 @@
         "company_name": "RTX",
         "id": "1b56aa53-70ee-4d8a-b139-61c2a1200d58",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794409732,
         "date_posted": 1794355200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineer-I--CMA-P1-1-_01888038",
@@ -377080,5 +376672,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
+        "title": "Product Manager New Grad",
+        "active": true,
+        "date_updated": 1791885067,
+        "date_posted": 1789522300,
+        "url": "https://stripe.com/jobs/search?gh_jid=7737124",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zuru",
+        "id": "ef061f55-a0b2-4574-aa37-b937ababd312",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1794794942,
+        "date_posted": 1794794780,
+        "url": "https://jobs.ashbyhq.com/zuru/35a4eeb0-bdf4-4e8a-94f3-955e214777e1/application?embed=true",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Zuru",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
